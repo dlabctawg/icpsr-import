@@ -95,7 +95,67 @@ icpsr2bow.f<-function(src.dir,save.dir=src.dir){
 		,descr=rbindlist(descr)
 	)
 }
-icpsr2bow<-icpsr2bow.f(
-	src.dir = '/Volumes/Iomega_HDD 1/Scraped Hearings'
-)
-save(icpsr2bow,file='icpsr2bow.RData')
+
+if(F){
+	icpsr2bow<-icpsr2bow.f(src.dir = '/Volumes/Iomega_HDD 1/Scraped Hearings')
+	save(icpsr2bow,file='icpsr2bow.RData')
+}
+
+txt2pp.f<-function(x){
+	require(tm)
+	require(data.table)
+	x<-data.table(t=x)
+	cat('\nPreprocessing. Changing to lower case.')
+	x[,t:=tolower(t)] # lower case
+	cat(' Replacing non-alphas with space.')
+	x[,t:=gsub('[^a-z ]',' ',t)] # retain only alphas
+	cat(' Splitting on spaces.')
+	x<-data.table(t=x[,unlist(strsplit(t,'\\s+'))]) # split on spaces
+	cat(' Removing english stopwords, single and double letters, and blanks.')
+	setkey(x,t)
+	x<-x[!unique(c('',unlist(strsplit(stopwords('english'),'[^a-z]+')),letters,apply(expand.grid(letters,letters),1,paste,collapse='')))] # fast remove stopwords and single and double letters
+	cat(' Stemming in english.')
+	x[,t:=stemDocument(t)]
+	x$t
+}
+
+if(T){
+	# Scrape a security dictionary
+	# load packages
+	library(RCurl)
+	library(XML)
+
+	# download html
+	dict <- getURL("https://myvocabulary.com//wordlist/alphalary_popup.php?wordlist_id=197", followlocation = TRUE)
+
+	# parse html
+	dict <- htmlParse(dict, asText=TRUE)
+	dict <- xpathSApply(dict, "//span", xmlValue)
+
+	#preprocess
+	dict<-txt2pp.f(dict)
+
+	# load saved 1-gram database
+	load('icpsr1grambow.RData')
+	# code year from speechID
+	icpsr2bow$speech[,y:=factor(substr(speechID,4,7))]
+	setkey(icpsr2bow$speech,t)
+	ts<-merge(icpsr2bow$speech[dict,list(dict=sum(N)),by=y],icpsr2bow$speech[,list(base=sum(N)),by=y],by='y')
+ts[,y:=as.integer(as.character(y))]
+	#plot
+
+png('security104-110.png',h=480,w=640)
+	par(mar = c(3,5,3,5))
+	with(ts, plot(y, dict/base, type="l", col="red3",xlab=NA,ylab='Proportion of All Terms',main='Security Terms in Floor Speeches of 104th-110th U.S. Congresses'))
+	abline(v=2001,col='gray',lwd=3)
+	par(new = T)
+	with(ts, plot(y, dict, type='l',lty=2,col='black', axes=F, xlab=NA, ylab=NA))
+	axis(side = 4)
+	mtext(side = 4, line = 3, 'Count')
+	legend("topleft",
+				 legend=c('Prop.', "Count"),
+				 lty=c(1,2), col=c("red3", "black"))
+	mtext('9/11',at=2001,side=1)
+	dev.off()
+
+}

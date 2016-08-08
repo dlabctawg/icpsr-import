@@ -7,3 +7,7 @@ The `icpsr-import.R` script contains the `icpsr2RData.f` and `icpsr2bow.f` funct
 - format these data as 1-gram tokenizations suitable for bag-of-words text analysis models.
 
 The 1-gram database is approximately 140 MB compressed and nearly 1 GB uncompressed in memory; @berkeley.edu users can download or request access to it [here](https://drive.google.com/a/berkeley.edu/folderview?id=0B6bobRDQR96iVDZ4RkdkWl9sNUU&usp=sharing).
+
+The script also produces a plot of trends in the occurance of "security" related terms.
+
+![security104-110.png](security104-110.png)
