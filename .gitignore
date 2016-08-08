@@ -1,9 +1,12 @@
+*.html
+
 # History files
 .Rhistory
 .Rapp.history
 
 # Session Data files
 .RData
+icpsr1grambow.RData
 
 # Example code in package build process
 *-Ex.R
@@ -16,6 +19,7 @@
 
 # RStudio files
 .Rproj.user/
+*.Rproj
 
 # produced vignettes
 vignettes/*.html
