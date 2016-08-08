@@ -119,7 +119,7 @@ txt2pp.f<-function(x){
 	x$t
 }
 
-if(T){
+if(F){
 	# Scrape a security dictionary
 	# load packages
 	library(RCurl)
@@ -147,7 +147,7 @@ ts[,y:=as.integer(as.character(y))]
 png('security104-110.png',h=480,w=640)
 	par(mar = c(3,5,3,5))
 	with(ts, plot(y, dict/base, type="l", col="red3",xlab=NA,ylab='Proportion of All Terms',main='Security Terms in Floor Speeches of 104th-110th U.S. Congresses'))
-	abline(v=2001,col='gray',lwd=3)
+	abline(v=c(1995,1999,2001),col='gray',lwd=3)
 	par(new = T)
 	with(ts, plot(y, dict, type='l',lty=2,col='black', axes=F, xlab=NA, ylab=NA))
 	axis(side = 4)
@@ -155,7 +155,7 @@ png('security104-110.png',h=480,w=640)
 	legend("topleft",
 				 legend=c('Prop.', "Count"),
 				 lty=c(1,2), col=c("red3", "black"))
-	mtext('9/11',at=2001,side=1)
+	mtext(c('Oklahoma City','Columbine','9/11'),at=c(1995,1999,2001),side=1,cex=.75,col='darkgray')
 	dev.off()
 
 }
