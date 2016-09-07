@@ -139,12 +139,50 @@ if(F){
 	load('icpsr1grambow.RData')
 	# code year from speechID
 	icpsr2bow$speech[,y:=factor(substr(speechID,4,7))]
-	setkey(icpsr2bow$speech,t)
-	ts<-merge(icpsr2bow$speech[dict,list(dict=sum(N)),by=y],icpsr2bow$speech[,list(base=sum(N)),by=y],by='y')
-ts[,y:=as.integer(as.character(y))]
-	#plot
 
-png('security104-110.png',h=480,w=640)
+	#define sample
+
+	# keep terms appearing in more than 100 docs
+	setkey(icpsr2bow$speech,t)
+	v<-icpsr2bow$speech[,.N,by=t]
+	setkey(v,N)
+	docs<-icpsr2bow$speech[list(v[!list(1:100),t])]
+
+	# keep docs longer than 100 words
+	setkey(icpsr2bow$descr,word.count)
+	id<-icpsr2bow$descr[list(1:100),unique(speechID)]
+	setkey(docs,speechID)
+	docs<-docs[!list(as.character(id))]
+
+	# summarize which are in sample
+	docs[,indict:=t%in%dict]
+	sd<-docs[,list(ps=mean(indict)),by=speechID]
+	sd[,samp:=cut(ps,breaks=-1:1,labels=c('0','>0'),include.lowest = T)]
+
+	# keep only in sample
+	setkey(docs,t)
+	id<-docs[list(dict),unique(as.character(speechID))]
+	setkey(docs,speechID)
+	docs<-docs[id]
+
+	# save security sample
+	sdb<-list(sum=sd,dict=dict,docs=docs)
+	save(sdb,file='security-sample.RData')
+	rm(sdb)
+
+	# build time series showing frequency of security docs in unaltered sample
+	ts<-merge(icpsr2bow$speech[dict,list(dict=sum(N)),by=y],icpsr2bow$speech[,list(base=sum(N)),by=y],by='y')
+	ts[,y:=as.integer(as.character(y))]
+
+	cat('Sample is '
+			,round(length(docs[,unique(speechID)])/length(icpsr2bow$speech[,unique(speechID)])*100,2)
+			,'% of original documents and '
+			,round(length(docs[,unique(t)])/length(icpsr2bow$speech[,unique(t)])*100,2)
+			,'% of pre-processed tokens.'
+			,sep='')
+
+	#plot
+	png('security104-110.png',h=480,w=640)
 	par(mar = c(3,5,3,5))
 	with(ts, plot(y, dict/base, type="l", col="red3",xlab=NA,ylab='Proportion of All Terms',main='Security Terms in Floor Speeches of 104th-110th U.S. Congresses'))
 	abline(v=c(1995,1999,2001),col='gray',lwd=3)
