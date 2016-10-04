@@ -1,7 +1,9 @@
+# large data files
 *.zip
 *files*
-*33501*
 *icpsr2bow.RData
+*icpsr1grambow.RData
+2pipe/*.RData
 
 # History files
 .Rhistory
@@ -10,7 +12,6 @@
 # Session Data files
 .RData
 .RDataTmp
-icpsr1grambow.RData
 
 # Example code in package build process
 *-Ex.R
