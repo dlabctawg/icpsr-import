@@ -1,7 +1,4 @@
-*.zip
-*files*
-*33501*
-*icpsr2bow.RData
+*.html
 
 # History files
 .Rhistory
