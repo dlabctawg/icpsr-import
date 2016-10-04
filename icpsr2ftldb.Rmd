@@ -1,0 +1,132 @@
+---
+title: 'icpsr2ftldb: Importing the ICPSR 33501 source into a full text long format
+  database'
+author: "Berkeley D-Lab Computational Text Analysis Working Group"
+output:
+  html_notebook:
+    toc: yes
+  html_document:
+    keep_md: yes
+    toc: yes
+---
+
+```{r init, echo=F, message=FALSE, include=F}
+rm(list=ls())
+cat('\014')
+require(data.table)
+require(bit64)
+require(magrittr)
+knitr::opts_chunk$set(comment=NA)
+c<-0
+```
+
+This notebook teaches you about data importing using the example of the *Congressional Record for 104th-110th Congresses* provided by the [ICPSR 33501][icpsr] repository. The objective is to import data from the original source and convert it into a full text research database that can be easily queried to answer different questions and apply different methods.
+
+"Garbage in garbage out" implies that even very well-behaved sources will likely require plenty of preparation before they can be used for analysis. Building a library of functions helps you keep the "original" data intact in the form that it was downloaded or acquired and lets you reproduce the cleaning process. This is especially important when working with collaborators or when trying to share your work, but even if you are working along it is a good idea to leave a paper trail in the form of a function or set of functions designed to process the original into a useful database.
+
+#GIGO: garbage in gold out
+
+When we say "source" we often mean where our data came from, and whatever the format is you'll likely have to come back to it again and again. Let's call this a datadump, because it's messy and we need to clean it up before we can use it for research.
+
+A software source, similarly, is a place where you keep pieces of code that you use over and over again. If we think of our pipeline or workflow, we can think of the software source as the pipe that we'll use to turn our datadump into a database.
+
+A database, unlike a datadump, is conveniently formatted, structured, and cleaned so that it is a breeze to work with it for research purposes. A database should be easily queriable, letting the researcher pull arbitrary samples for a variety of analytical goals. This is our gold standard and what we're shooting for in this vignette: garbage in, gold out, or *gigo*!
+
+![*Figure `r {c<-c+1;c}`. GIGO!*](documentation/figures/gigo.png)
+
+#Source
+##Datadumps
+
+Datadumps each tend to  have their own quirks, which means that making a project out of the importing step can never really be avoided. It would be nice if text analysis folks adopted one universal standard, but we haven't yet!
+
+Let's navigate to the [ICPSR website][icpsr] we mentioned and aqcuire our datadump. This repository has a lot of different downloads to choose from; we're looking for three things:
+
+1. **DS15**: The full text transcripts of Congressional floor speeches (actually we will see that "speech acts" is a better description).
+3. **DS19**: Metadata about the congresspeople and other speakers giving the speeches.
+2. **DS20**: Metadata about the source of the speeches, a document called the Congressional Record.
+
+If you've cloned this repo, you'll have an empty folder called "datadump". You'll need about 0.5 GB (500 MB) of space for this step. Save the zip archives there, and it won't matter what you call them, though note that they all have the same name so check that you haven't overwritten anything.
+
+The DS15 file is about a decade of speeches and weighs in at about 430 MB compressed, and almost triple that uncompressed. Unfortunately there is no way to get to the subsamples without downloading the whole thing at least once. If you'd like to see the digital original sources, use take a look at any of the "Original" download options containing speeches in xml format.
+
+It might make sense to unzip the archive you downloaded from ICPSR to see what's inside, but from the standpoint of reproducibility, it would be best if could build our function to accept a file path to the original zip archive that we got from the ICPSR website. This will make it simple to start from a fresh download without any intermediate steps.
+
+Speaking of quirky sources, one annoying feature of the ICPSR datadump poses a challenge for writing a reproducible process. The data are zipped, then they are zipped again along with some bibliographic information from ICPSR. To get all the way to the data then we need to duplicate the datadump, twice! We need to triplicate it! This means that to be able to use our data we could use as much as 2.38 GB of drive space just to get to it: 451.8 MB for the original datadump, 451.9 MB for the unzipped bibliographic data plus zipped data file, and finally 1.48 GB for the uncompressed text data.
+
+![*Figure `r {c<-c+1;c}`. Silly Data Hygiene!*](documentation/figures/datadump.png)
+
+We maintain that working with the original data file, no matter how silly it may be, is a quality criterion for reproducible research. We'll see what we can do to try to be computationally efficient despite the double-zip hurdle.
+
+##Importing software
+
+Now that we have our datadump in hand, let's work with some custom software to make it useable. In general think about a software source as a library of functions, like an R package, but one we can write ourselves if we need to. Check [About R Functions](documentation/About-R-Functions.nb.html) for a quick intro to writing your own functions.
+
+We've prepared some functions to import these data, so let's load that "library", which is now just a script file with a bunch of function definitions in it called ``r dir(pattern='src',recursive=T)``. We can load them using the `source()` function.
+
+```{r source}
+source('1source/icpsr-import-src.R')
+lsf.str() # this lists new (not in a library) functions and their arguments
+```
+
+We've coded these functions with "p" for pipeline followed by a number indicating the order of the pipelines through which our data will flow. Functions with a "u" are utilities that we may use for different reasons and at different steps.
+
+
+#Pipe
+##P1: Redumping ICPSR as .RData files
+
+Let's take a look at the first pipeline, the ``r grep('2RD',as.vector(lsf.str()),value=T)`` function. If we just call the object name without parantheses, it will print the function definition as it was read from disk. We won't do that because we completely tortured the code with comments explaining what every line does. Bad style but a good idea for remembering what we did or explaining it to others. It's too much to print here, but take a look at the source file, especially with syntax highlighting, if you want a detailed explanation. Here's a cleaner look using the `head` function.
+
+```{r inspect-icpsr2RData}
+head(p1.icpsr2RData,9) # prints the top lines of the function contents all nice and tidy as R parsed it (rather than how we wrote it)
+tail(p1.icpsr2RData,9) # the bottom lines
+```
+
+`r length(head(p1.icpsr2RData,-1))+1` lines of code isn't huge but it isn't small either. This function is complicated mostly because of the zipping problem. It still makes several duplications of the data so it's not an ideal solution, but it works, and the function can always be modified in the future if we learn a better way.
+
+So let's run it already! Two arguments, `src.dir` and `out.dir`, must be specified and indicate where your datadump is stored and where you want to write the ouptut.
+
+```{r run-icpsr2RData, eval=FALSE, message=FALSE, warning=FALSE, include=FALSE}
+p1.icpsr2RData(src.dir = '1source/datadump',out.dir = '2pipe/database')
+```
+
+
+###Subsampling
+Now that we have an R object it is easier to take subsamples. We still aren't quite at a research-ready database, but if you need to serve something that is basically the same as the source, it is easy to do using the `data.table` package.
+
+```{r load-big}
+load(dir('2pipe',pattern='0015.+RData',full.names = T)) # the dir() function makes it easy to use regular expressions to find the file you're looking for
+tables() # note that our object is called dt for short
+```
+Let's load just the speeches table and then take a random sample of 1,000 floor speeches. We can see that our table is pretty big (`r tables(silent=T)$NROW` rows and `r tables(silent=T)$MB` MB), so serving a smaller sample will be helpful for testing.
+
+When data are this large, some R conventions don't perform well, especially basic indexing and subsetting. That's where `data.table` is a big help. `data.table` basically makes good use of sorting to find things quickly.
+
+```{r subset}
+setkey(dt,speechID) # sort or "key" by speechID. Here the speechIDs are already cronologically coded, so sorting will put them in logical order as well. If your data are in a logical order that will be garbled by sorting, be sure to save the original sort order as a new variable so you can recover it.
+set.seed(12345) # this will give us the same sample every time
+sdt<-dt[sample(dt$speechID,size=1000)] # subset using data.table
+setkey(sdt,speechID) # key again
+tables() # now how big is it?
+rm(dt) # let's free up some memory by deleting the big table
+```
+Great, now our sample is `r tables(silent=T)$NROW[2]` rows and `r tables(silent=T)$MB[2]` MB, which will be a lot easier to work with. Let's save it using the "|" delimiter that the ICPSR source used and the `.txt` extension; there are a lot of commas and quotes in our full text data so a `.csv` could cause problems anyway. Now any workflows based on the original source will also be able to read our subsample.
+
+```{r save-tab-delim}
+write.table(sdt,file = '2pipe/33501-0015-Data-1ksubsamp.txt',quote = F,sep = '|',row.names = F)
+```
+
+Let's test that we can read it in exactly as we wrote it.
+```{r test-save}
+tdt<-fread(input = '2pipe/33501-0015-Data-1ksubsamp.txt',colClasses = c(speechID='character'))
+setkey(tdt,speechID)
+if(identical(sdt,tdt)) "Yay they're the same, we did it!"
+rm(tdt)
+```
+
+
+#Sink
+##Database
+
+
+[icpsr]: http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/33501  "Congressional Record for 104th-110th Congresses"
+
