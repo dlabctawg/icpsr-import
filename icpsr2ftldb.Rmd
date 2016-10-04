@@ -107,22 +107,52 @@ set.seed(12345) # this will give us the same sample every time
 sdt<-dt[sample(dt$speechID,size=1000)] # subset using data.table
 setkey(sdt,speechID) # key again
 tables() # now how big is it?
-rm(dt) # let's free up some memory by deleting the big table
+
 ```
+
 Great, now our sample is `r tables(silent=T)$NROW[2]` rows and `r tables(silent=T)$MB[2]` MB, which will be a lot easier to work with. Let's save it using the "|" delimiter that the ICPSR source used and the `.txt` extension; there are a lot of commas and quotes in our full text data so a `.csv` could cause problems anyway. Now any workflows based on the original source will also be able to read our subsample.
 
 ```{r save-tab-delim}
-write.table(sdt,file = '2pipe/33501-0015-Data-1ksubsamp.txt',quote = F,sep = '|',row.names = F)
-```
-
-Let's test that we can read it in exactly as we wrote it.
-```{r test-save}
-tdt<-fread(input = '2pipe/33501-0015-Data-1ksubsamp.txt',colClasses = c(speechID='character'))
+rm(dt) # let's free up some memory by removing the big table from memory
+write.table(sdt,file = '2pipe/33501-0015-Data-1ksubsamp.txt',quote = F,sep = '|',row.names = F) # saving to "|"" delimited text file
+tdt<-fread(input = '2pipe/33501-0015-Data-1ksubsamp.txt',colClasses = c(speechID='character')) # Let's test that we can read it in exactly as we wrote it.
 setkey(tdt,speechID)
-if(identical(sdt,tdt)) "Yay they're the same, we did it!"
+if(identical(sdt,tdt)) cat("Yay they're the same, we did it!")
 rm(tdt)
 ```
 
+Now let's also subset our two sources for metadata.
+```{r}
+load(dir('2pipe',pattern='20.+RData',full.names = T)) # Search for data set 20 from ICPSR and load it. This is information about the document, including speaker id.
+tables() # as expected it is as long as our speech table, though a lot smaller.
+setkey(dt,speechID)
+smdt<-dt[sdt$speechID]
+tables() #our small meta data table
+load(dir('2pipe',pattern='19.+RData',full.names = T)) # Search for and load data set 19 from ICPSR. This is the much shorter speaker table. Note that each of these objects is called "dt" so they will write over each other. That's what we want since we don't need the long document description file any more.
+tables() # there are 3,819 different speakers listed here
+setkey(dt,id) # why they changed the convention and called it "id" instead of "speakerID" we can only guess.
+ssdt<-dt[unique(smdt$speakerID)] # since speakers may have spoken multiple times, let's search for only unique speaker ids.
+rm(dt)
+tables() # our sample of 1000 speeches represents 592 of the speakers we have information about
+```
+So those are the three different subsets of our data. Storing them separately is the most space efficient way, but not necessarily the most convenient. Let's merge them into one big table by matching the the two diffrent keys, speechID and speakerID.
+
+```{r merge1}
+smsdt<-merge(x=smdt,y=ssdt,by.x='speakerID',by.y='id') # merge by the same key, which is called two different things!
+invisible(smsdt[,id:=NULL]) # delete the redundant key
+tables()
+```
+```{r merge2}
+setkey(smsdt,speechID)
+allsdt<-merge(x=sdt,y=smsdt) # will merge on the mutual key if they have the same name
+setkey(allsdt,speechID)
+tables()
+```
+
+```{r}
+write.table(smsdt,file = '2pipe/33501-0015-Data-1ksubsamp.meta.only.txt',quote = F,sep = '|',row.names = F) # saving to "|"" delimited text file
+write.table(allsdt,file = '2pipe/33501-0015-Data-1ksubsamp.w.meta.txt',quote = F,sep = '|',row.names = F) # saving to "|"" delimited text file
+```
 
 #Sink
 ##Database
