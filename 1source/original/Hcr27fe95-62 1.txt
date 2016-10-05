@@ -1,0 +1,484 @@
+<html>
+<head>
+<title>WAIS Document Retrieval</title>
+</head>
+<body>
+<pre>
+[Congressional Record: February 27, 1995 (<strong>House</strong>)]
+[Page H2260-H2261]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+[DOCID:cr27fe95-62]                         
+
+
+
+
+ VOTE ON <strong>HOUSE</strong> RESOLUTION 96, PROVIDING FOR THE CONSIDERATION OF H.R. 
+           1022, RISK ASSESSMENT AND COST-BENEFIT ACT OF 1995
+  The SPEAKER pro tempore. The pending business is the question de novo 
+of the vote on <strong>House</strong> Resolution 96.
+  The Clerk read the title of the resolution.
+  For text of <strong>House</strong> Resolution 96, see prior pages of the Record of 
+this date.
+  The SPEAKER pro tempore. The question is on the resolution.
+  The question was taken; and the Speaker pro tempore announced that 
+the ayes appeared to have it.
+  Mr. DINGELL. Mr. Speaker, I object to the vote on the ground that a 
+quorum is not present and make the point of order that a quorum is not 
+present.
+  The SPEAKER pro tempore. Evidently a quorum is not present.
+  The Sergeant at Arms will notify absent Members.
+  This will be a 17-minute vote.
+  The vote was taken by electronic device, and there were--yeas 253, 
+nays 165, not voting 16, as follows:
+                             [Roll No. 175]
+                               YEAS--253
+     Allard
+     Archer
+     Armey
+     Bachus
+     Baker (CA)
+     Baker (LA)
+     Ballenger
+     Barcia
+     Barr
+     Barrett (NE)
+     Bartlett
+     Barton
+     Bass
+     Bateman
+     Bereuter
+     Bevill
+     Bilbray
+     Bilirakis
+     Bliley
+     Blute
+     Boehlert
+     Boehner
+     Bonilla
+     Bono
+     Brewster
+     Browder
+     Brownback
+     Bryant (TN)
+     Bunn
+     Bunning
+     Burr
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Canady
+     Castle
+     Chabot
+     Chambliss
+     Chenoweth
+     Christensen
+     Chrysler
+     Clinger
+     Coble
+     Coburn
+     Collins (GA)
+     Combest
+     Condit
+     Cooley
+     Cox
+     Cramer
+     Crane
+     Crapo
+     Cremeans
+     Cubin
+     Cunningham
+     Davis
+     de la Garza
+     Deal
+     DeLay
+     Diaz-Balart
+     Dickey
+     Doolittle
+     Dornan
+     Dreier
+     Duncan
+     Dunn
+     Edwards
+     Ehlers
+     Ehrlich
+     Emerson
+     English
+     Ensign
+     Everett
+     Ewing
+     Fawell
+     Fields (TX)
+     Flanagan
+     Foley
+     Forbes
+     Fowler
+     Fox
+     Franks (CT)
+     Franks (NJ)
+     Frelinghuysen
+     Frisa
+     Funderburk
+     Ganske
+     Gekas
+     Geren
+     Gilchrest
+     Gillmor
+     Gilman
+     Goodlatte
+     Goodling
+     Gordon
+     Goss
+     Graham
+     Greenwood
+     Gunderson
+     Gutknecht
+     Hall (TX)
+     Hancock
+     Hansen
+     Hastert
+     Hastings (WA)
+     Hayworth
+     Hefley
+     Heineman
+     Herger
+     Hilleary
+     Hobson
+     Hoekstra
+     Hoke
+     Horn
+     Hostettler
+     [[Page H2261]] Houghton
+     Hutchinson
+     Hyde
+     Inglis
+     Istook
+     Johnson (CT)
+     Johnson, Sam
+     Jones
+     Kasich
+     Kelly
+     Kim
+     King
+     Kingston
+     Klug
+     Knollenberg
+     Kolbe
+     LaHood
+     Largent
+     Latham
+     LaTourette
+     Laughlin
+     Lazio
+     Leach
+     Lewis (CA)
+     Lewis (KY)
+     Lightfoot
+     Lincoln
+     Linder
+     Livingston
+     LoBiondo
+     Longley
+     Lucas
+     Manzullo
+     Martini
+     McCarthy
+     McCollum
+     McCrery
+     McDade
+     McHugh
+     McInnis
+     McIntosh
+     McKeon
+     Metcalf
+     Meyers
+     Mica
+     Miller (FL)
+     Molinari
+     Montgomery
+     Moorhead
+     Morella
+     Murtha
+     Myers
+     Myrick
+     Nethercutt
+     Neumann
+     Ney
+     Norwood
+     Nussle
+     Oxley
+     Packard
+     Parker
+     Paxon
+     Peterson (MN)
+     Petri
+     Pickett
+     Pombo
+     Porter
+     Portman
+     Pryce
+     Quillen
+     Quinn
+     Radanovich
+     Ramstad
+     Regula
+     Riggs
+     Roberts
+     Rogers
+     Rohrabacher
+     Ros-Lehtinen
+     Roth
+     Royce
+     Salmon
+     Sanford
+     Saxton
+     Scarborough
+     Schaefer
+     Schiff
+     Seastrand
+     Sensenbrenner
+     Shadegg
+     Shaw
+     Shays
+     Shuster
+     Sisisky
+     Skeen
+     Skelton
+     Smith (MI)
+     Smith (NJ)
+     Smith (TX)
+     Smith (WA)
+     Solomon
+     Souder
+     Spence
+     Stearns
+     Stenholm
+     Stockman
+     Stump
+     Talent
+     Tate
+     Tauzin
+     Taylor (MS)
+     Taylor (NC)
+     Thomas
+     Thornberry
+     Tiahrt
+     Torkildsen
+     Torricelli
+     Upton
+     Vucanovich
+     Waldholtz
+     Walker
+     Walsh
+     Wamp
+     Watts (OK)
+     Weldon (FL)
+     Weldon (PA)
+     Weller
+     White
+     Whitfield
+     Wicker
+     Williams
+     Wolf
+     Young (AK)
+     Young (FL)
+     Zeliff
+     Zimmer
+                               NAYS--165
+     Abercrombie
+     Ackerman
+     Baesler
+     Baldacci
+     Barrett (WI)
+     Beilenson
+     Bentsen
+     Berman
+     Bishop
+     Bonior
+     Borski
+     Boucher
+     Brown (CA)
+     Brown (FL)
+     Brown (OH)
+     Bryant (TX)
+     Cardin
+     Clay
+     Clayton
+     Clement
+     Clyburn
+     Coleman
+     Collins (IL)
+     Collins (MI)
+     Conyers
+     Costello
+     Coyne
+     Danner
+     DeFazio
+     DeLauro
+     Dellums
+     Deutsch
+     Dicks
+     Dingell
+     Dixon
+     Doggett
+     Dooley
+     Doyle
+     Durbin
+     Engel
+     Eshoo
+     Evans
+     Farr
+     Fattah
+     Fazio
+     Fields (LA)
+     Filner
+     Foglietta
+     Frank (MA)
+     Frost
+     Furse
+     Gejdenson
+     Gephardt
+     Green
+     Gutierrez
+     Hall (OH)
+     Hamilton
+     Harman
+     Hastings (FL)
+     Hayes
+     Hefner
+     Hilliard
+     Hinchey
+     Holden
+     Hoyer
+     Jackson-Lee
+     Jacobs
+     Jefferson
+     Johnson (SD)
+     Johnson, E. B.
+     Johnston
+     Kanjorski
+     Kaptur
+     Kennedy (MA)
+     Kennedy (RI)
+     Kennelly
+     Kildee
+     Kleczka
+     Klink
+     LaFalce
+     Lantos
+     Levin
+     Lewis (GA)
+     Lofgren
+     Lowey
+     Luther
+     Maloney
+     Manton
+     Markey
+     Martinez
+     Mascara
+     Matsui
+     McDermott
+     McHale
+     McNulty
+     Meehan
+     Meek
+     Menendez
+     Miller (CA)
+     Mineta
+     Minge
+     Mink
+     Moakley
+     Mollohan
+     Moran
+     Nadler
+     Neal
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Orton
+     Owens
+     Pallone
+     Pastor
+     Payne (NJ)
+     Payne (VA)
+     Pelosi
+     Peterson (FL)
+     Pomeroy
+     Poshard
+     Rangel
+     Reed
+     Reynolds
+     Richardson
+     Rivers
+     Roemer
+     Rose
+     Roybal-Allard
+     Sabo
+     Sanders
+     Sawyer
+     Schroeder
+     Schumer
+     Scott
+     Serrano
+     Skaggs
+     Slaughter
+     Spratt
+     Stark
+     Stokes
+     Studds
+     Stupak
+     Tanner
+     Tejeda
+     Thompson
+     Thornton
+     Thurman
+     Torres
+     Towns
+     Traficant
+     Tucker
+     Velazquez
+     Vento
+     Visclosky
+     Volkmer
+     Ward
+     Waters
+     Watt (NC)
+     Waxman
+     Wise
+     Woolsey
+     Wyden
+     Wynn
+     Yates
+                             NOT VOTING--16
+     Andrews
+     Becerra
+     Chapman
+     Flake
+     Ford
+     Gallegly
+     Gibbons
+     Gonzalez
+     Hunter
+     Lipinski
+     McKinney
+     Mfume
+     Rahall
+     Roukema
+     Rush
+     Wilson
+  Messrs. GENE GREEN of Texas, BALDACCI, and MATSUI changed their vote 
+from ``yea'' to ``nay.''
+  Mr. FLANAGAN changed his vote from ``nay'' to ``yea.''
+  So the resolution was agreed to.
+  The result of the vote was announced as above recorded.
+  A motion to reconsider was laid on the table.
+
+
+                          ____________________
+
+
+</pre>
+</body>
+</html>

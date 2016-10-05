@@ -1,0 +1,3881 @@
+<html>
+<head>
+<title>WAIS Document Retrieval</title>
+</head>
+<body>
+<pre>
+[Congressional Record: March 9, 1995 (<strong>House</strong>)]
+[Page H2923-H2940]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+[DOCID:cr09mr95-66]                         
+
+
+                          PERSONAL EXPLANATION
+  Ms. PELOSI. Mr. Chairman, I was unavoidably absent for rollcall No. 
+219, the amendment offered by the gentlewoman from Colorado, Mrs. 
+Schroeder. Had I been present I would have voted ``aye''.
+  I support the Schroeder amendment which would strike from the bill 
+the section which abolishes joint and several liability and would 
+modify the bill's cap on punitive damage.
+  As written, this bill will discriminate against women, children, and 
+the elderly by placing greater value on economic losses over 
+noneconomic losses. Similarly, placing a cap on punitive damages awards 
+also discriminates against these groups.
+  Women, for example, will suffer because noneconomic losses such as 
+reproductive capacity and physical disfigurement are much harder to 
+qualify than annual earning capacity. In addition, women's earning 
+capacity is historically and currently less than men and would be 
+punished by this bill.
+  The Schroeder amendment acknowledges this legal discrimination and 
+deserves our support.
+  The CHAIRMAN. It is now in order to consider amendment No. 3 printed 
+in <strong>House</strong> Report 104-72.
+
+
+                     amendment offered by mr. hyde
+  Mr. HYDE. Mr. Chairman, I offer an amendment.
+  The CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+       Amendment offered by Mr. Hyde: Page 12, strike lines 8 
+     through 11.
+  The CHAIRMAN. Pursuant to the rule, the gentleman from Illinois [Mr. 
+Hyde] will be recognized for 10 minutes, and a Member opposed will be 
+recognized for 10 minutes.
+  The Chair recognizes the gentleman from Illinois [Mr. Hyde].
+  Mr. HYDE. Mr. Chairman, I yield myself such time as I may consume.
+  Mr. Chairman, every State has statutes of limitation that prescribe 
+the period of time within which a law must be brought. Similar but not 
+identical is a statute of repose. Statutes of repose specify the period 
+of time after which a manufacturer may not be sued for an alleged 
+injury caused by its product. Consequently, a statute of limitations 
+specifies when an existing right to bring a suit expires, while 
+statutes of repose specify the period of time after which no right to 
+sue will be recognized at all.
+  Seventeen States have enacted statutes of repose, but they vary in 
+length and in their applicability to various products. A uniform 
+statute of repose is needed in order to provide certainty and finality 
+in commercial transactions. Section 108 of H.R. 956 would establish a 
+15-year Federal statute of repose in product liability cases. Thus, a 
+product liability action against a manufacturer would be barred 15 
+years after the date of first delivery of the product.
+  To be fair to plaintiffs, the provision would not apply in instances 
+involving a latent illness--a physical illness the evidence of which 
+does not ordinarily appear less than 15 years after the first exposure 
+to the product. In addition, the statute of repose does not bar a 
+product liability action against a defendant who made an express 
+warranty in writing as to the safety of the specific product involved 
+where the express warranty given was longer than 15 years.
+  This legislation is similar to legislation that passed the Congress 
+last year known as the General Aviation Revitalization Act of 1994 
+(Public Law 103-298). That Federal statute created an 18-year statute 
+of repose for general aviation aircraft.
+  Section 108 is intended to reflect the view that, after a reasonable 
+length of time, manufacturers should be free from the burden of 
+disruptive litigation and potential liability. It recognizes that 
+difficulty that exists in locating reliable evidence and defending 
+claims many years after a product has been manufactured. It also 
+prevents the unfairness that occurs when manufacturers are held liable 
+for goods that have been beyond their control and subject to misuse or 
+alteration, perhaps for decades. A statute of repose also helps to 
+avoid the possibility of juries unfairly imposing current legal and 
+technological standards on products manufactured many years prior to 
+suit.
+  Even though manufacturers of older products frequently are successful 
+in defense of these lawsuits they nevertheless must invest time and 
+money into legal and transactional costs. These costs are wasted costs 
+that could be better applied to create jobs and assist American 
+companies in competing globally.
+  My amendment is aimed in ensuring that this statute of repose section 
+does what it is intended to do. As part of the effort to combine the 
+Judiciary Committee's legal standards bill with a product liability 
+measure reported by the Commerce Committee, new language was inserted 
+into the statute of repose section. It says ``(T)his subsection shall 
+apply only if the court determines that the claimant has received or 
+would be eligible to receive full compensation from any source for 
+medical losses.'' Though unintended, this new language could 
+effectively render the statute of repose provision useless.
+  My amendment is directed at deleting this one sentence because it 
+would create a giant loophole for trial lawyers and would reverse the 
+work of both committees in seeking a fair and effective statute of 
+repose. Under the language I would strike, all a trial lawyer would 
+have to show--to avoid the statute of repose--is that his client did 
+not receive or was ineligible to receive full compensation for medical 
+expenses. So, if there was any insurance copayment provision, if there 
+was any insurance deductible, if reimbursed medical expenses are 
+limited in any way, such as ordinarily and customary expense 
+limitations--the statute of repose might not apply. Once the statute of 
+repose is successfully evaded, a litigant could then seek additional 
+economic damages, noneconomic damages and punitive damages. This is 
+certainly not the result that the Judiciary Committee intended.
+  Unless this sentence is stricken, it will prompt further lawsuit 
+abuse. Under this exception language, a manufacturer seeking to invoke 
+the statute of repose would first have to litigate the issue of whether 
+or not a claimant has received full compensation from medical losses. 
+That is, has every medical test, prescription, bandage or Band-Aid been 
+fully covered by insurance? This loophole would encourage a plaintiff 
+to continue to claim medical expenses for as long as possible and to 
+the maximum degree possible, so as to prevent full payment from 
+triggering the statute of repose and its protections.
+  It is important to point out that the European Economic Community has 
+a 10-year statute of repose with no such language contained within its 
+provisions. Japan has a 10-year statute of repose with no such 
+language. Again 17 States currently have statutes of repose, none has 
+language like this in it. No such language was contained in the General 
+Aviation Revitalization Act.
+  This language is an unwise, unfair and unworkable addition to an 
+otherwise good strong and effective statute repose section. It must be 
+removed if this <strong>House</strong> is to have the opportunity to vote for a statute 
+of repose that really helps American manufacturers and encourages 
+American productivity.
+  I strongly urge the adoption of my amendment. It will ensure that 
+section 108 will be effective and provide manufacturers with the kind 
+of certainty and finality that they deserve.
+  The CHAIRMAN. Is there a Member in opposition to the amendment?
+  Mr. BERMAN. Mr. Chairman, I rise in opposition to the amendment.
+  The CHAIRMAN. The gentleman from California is recognized for 10 
+minutes.
+  Mr. BERMAN. Mr. Chairman, I yield 1 minute to the gentleman from 
+Virginia [Mr. Scott].
+  Mr. SCOTT. Mr. Chairman, will the chairman of the committee respond 
+to a question? Mr. Chairman, I would ask, the language in the bill is 
+changed in one of the sections. I ask a question during the hearings as 
+to whether or not asbestos cases would be exempted from this bill. In 
+committee I was told that asbestos cases would not be affected by the 
+passage of this bill.
+  With the change and with this amendment, is that still the case?
+  Mr. HYDE. Mr. Chairman, if the gentleman will yield, this amendment 
+does not change that.
+  Mr. SCOTT. So asbestos cases are not changed as a result either of 
+the amendment or the passage of the bill?
+  Mr. HYDE. That is correct.
+  Mr. BERMAN. Mr. Chairman, I yield myself 2 minutes.
+  Mr. Chairman, we are dealing here probably with the only amendment I 
+think on the status of repose. When I saw the language as it came out 
+of the two committees and was reintroduced in this new bill, H.R. 1075, 
+I said, well, this is not a bad effort. We are federalizing the product 
+liability law in this one title. We will not even talk about what we 
+are doing in the rest of the bill. We are providing the manufacturers 
+with a certainty in terms of the amount of years. We are exempting it 
+based on an amendment that the gentleman from Illinois, the chairman, 
+accepted in committee for express warranties. If we could just get the 
+Bryant amendment, to deal with a manufacturer who intentionally 
+conceals problems with his product. We have a provision in the bill 
+that says this subsection shall apply only if the court determines that 
+the claimant has received or would be eligible to receive full 
+compensation from any source for medical expense losses.
+  I thought with the addition of the Bryant amendment, which the 
+Committee on Rules prevented him from offering, you could have a 
+reasonable statute of repose as part of this federalization of the 
+product liabilities scheme.
+  Lo and behold, the Committee on Rules does not grant Mr. Bryant's 
+amendment, but instead grants an amendment that says when the person is 
+injured by the defective product, if it occurs after the period of the 
+statute of repose, even if he has no insurance, no other way of paying 
+any of his medical bills, we are going to put him off on the county, 
+put him into indigency, make him go on the dole in order to pay for the 
+injuries which he suffered, which could be very extensive, because of 
+this amendment.
+  What you looked like you were giving, you now, in substantial part, 
+have taken away with this amendment. I think this is the wrong 
+amendment. I am surprised that gentleman is offering it. It was a 
+balance, it was a nice balance to the proposal. It is being totally 
+thrown out of whack.
+  Mr. HYDE. Mr. Chairman, I yield myself 30 seconds.
+  I am equally surprised that the gentleman is opposing this amendment. 
+The language I seek to strike was not in the bill in our committee. It 
+was put in by the Committee on Commerce, and I think upon mature 
+reflection it undoes the purpose of the statute of repose. It would 
+leave it open-ended, almost impossible to predict or fulfill, and, 
+therefore, if you are for a statute of repose, I should think you would 
+be for having it a definite, time-certain.
+  Mr. BERMAN. Mr. Chairman, I yield myself 30 seconds.
+  Mr. Chairman, it is a balance. We are not talking about punitives. We 
+are not talking about pain and suffering. We are not talking about wage 
+loss. We are talking about the medical bills this injured person has to 
+pay to get treatment. In this small set of cases, which side do we come 
+down on? Do we come down on the manufacturer of the machinery, the 
+product, or do we come down on the side of plaintiff who has no medical 
+insurance, who has no way of paying his medical bills?
+  Mr. Chairman, I yield 3 minutes to the gentleman from Texas [Mr. 
+Bryant].
+  Mr. BRYANT of Texas. Mr. Chairman, a moment ago, the gentleman from 
+Illinois [Mr. Hyde] talked about the European Community statute of 
+repose. As always, the other side likes 
+[[Page H2925]] to quote sources for their purposes but leave out the 
+more relevant facts about the sources that might say something about 
+the other side. The European Community provides cradle to grave medical 
+care for all of its citizens. We do not do that in the United States. 
+So the statute of repose which says that after 15 years you cannot sue 
+somebody for making a defective product has a provision attached to it 
+that says that does not count if the person would be made unable to get 
+their medical care paid for.
+  Only if they have been able to cover their medical care does the 
+manufacturer have a defective product escape liability 15 years after 
+it is manufactured. It is a great irony. The gentleman from California 
+[Mr. Berman] referred to it a moment ago. Of all things, we ask for 
+time to offer amendments to make an extremely unreasonable bill a 
+little more reasonable. They do not grant time on the reasonable 
+amendments. They grant time to the chairman of the committee, who could 
+have written the bill any way he wanted to, to make the bill worse for 
+the average person.
+  A 15-year statute of repose is a new addition to American law. We 
+have one reasonable exception in here. It does not stop a guy that 
+manufactured a bad product that blew up and hurt somebody from being 
+held liable unless the victim gets their medical care taken care of. 
+The gentleman from Illinois [Mr. Hyde] would say, forget the victim. It 
+does not matter whether he gets his medical care taken care of or not. 
+After 15 years even if the product was totally defective, totally 
+responsible for hurting or killing somebody, you are not going to be 
+able to recover anything.
+  I think that is absurd. It is, in my view, completely opposite of 
+what the American people would want us to be doing.
+  I had an amendment which was designed to make this statute of repose 
+a little more workable and a little more reasonable. What it would have 
+said is, OK, we have a 15-year statute of repose. At the end of 15 
+years, you cannot sue somebody even if their product is defective 
+unless that person who made the product knew the product was defective 
+at the time it was made. In that case, they do not get the benefit of 
+the 15-year cutoff. But the Republicans would not let us offer that 
+amendment today. Instead they let the gentleman from Illinois [Mr. 
+Hyde] offer an amendment that says, too bad if you cannot cover you 
+medical care. After 15 years, you are out of luck.
+  Unfortunately, for you so-called conservatives, you phony 
+conservatives on the other side, what that is going to mean most of 
+time is that taxpayers are going to have to pay for that guy's medical 
+care while you let your rich friends off the hook.
+  Mr. HYDE. Mr. Chairman, I yield myself 1 minute. The gentleman 
+objected last night to mentioning the American Trial Lawyers. You 
+thought that was an invidious comparison. I did not yield to the 
+gentleman. I did not yield to you.
+  The gentleman has no problem attacking us and linking us with rich 
+friends and that sort of thing. The gentleman ought to do and practice 
+what he preaches.
+  Mr. Chairman, I yield 2 minutes to the gentleman from California [Mr. 
+Moorhead].
+  Mr. MOORHEAD. Mr. Chairman, I rise in support of the Hyde amendment. 
+The statute of repose currently in H.R. 956 has been threatened by 
+language that has been added to the bill after it left the Committee on 
+the Judiciary that has created a giant loophole in the statute of 
+repose. This one provision in the law says that unless, unless all 
+possible damages or health care is met by the insurance policy or by 
+the health care program, that the statute of repose will not be 
+effective. There are no insurance policies that provide that kind of 
+protection.
+  Certainly the Federal policies that many of us are under do not 
+provide that kind of protection. It gives the trial lawyers a giant 
+loophole that will enable them in almost every instance to open up the 
+issue of whether the statute of repose is to be effective or not.
+  The loophole will prolong litigation because we will first have to 
+try the issue of whether all the possible damages, health care needs 
+have been met before we ever go on to the basic issue that is involved, 
+the language that will destroy one of the major goals of the product 
+liability reform legislation in having finality of an issue 15 years 
+after the product was issued.
+  The Hyde amendment is supported by many national organizations. It is 
+necessary to make this bill effective.
+  Mr. BERMAN. Mr. Chairman, I yield 3 minutes to the gentleman from 
+Texas [Mr. Doggett].
+  Mr. DOGGETT. Mr. Chairman, there is considerable irony in the fact 
+that the distinguished chair of the Committee on the Judiciary should 
+lead off the presentation of this amendment by pointing to the example 
+of what 17 States do with their statutes of repose, because the whole 
+theory of this bill is to junk States' rights.
+  If the people in Illinois in their constitution want a statute of 
+repose with or without this, I say that is fine. If the people in Texas 
+want it, that is fine. It is not our job to come along and junk States' 
+rights and say, you have to do it the way we say do it in Washington. 
+That is what is the theory and the approach of this bill, is not to 
+rely on the States but rather to consider and argue and to contend that 
+we have this terrible patchwork of States' laws that pose a great 
+burden.
+  There was a time in this country, my colleagues, when that terrible 
+patchwork that is criticized here on this floor today was called 
+something a little different. It was called the laboratory of 
+democracy, the fact that each State might look at the laws of its civil 
+justice system and decide what is most appropriate. And it is that 
+laboratory of democracy with reference to our State civil justice 
+system that is being thrown out the window of this capitol building by 
+this piece of legislation.
+  There is a second problem, of course, alluded to by my friend, the 
+gentleman from Texas [Mr. Bryant]. And that is that this amendment 
+takes a blame the victim approach. The problem here with this whole 
+statute of repose is that it allows every manufacturer in America, and 
+that is really all that the section does, to write on its product after 
+15 years, do not look to us, buddy. It says, we will not be responsible 
+no matter how defective our product for anything after 15 years.
+  And that would be fine and proper, except for the fact that they 
+allow the manufacturer to do that in invisible ink. The same 
+manufacturer can advertise on the Home Shopping Network this afternoon 
+that you get a lifetime guarantee with our product. Indeed, you do. It 
+is just that you do not get any right to recover after 15 years. So 
+there is no burden placed on the manufacturer to identify the fact that 
+in invisible ink we have limited the rights of the victim.
+  I say blame the victim because the choice with
+   this specific amendment is between those who put defective products 
+in the stream of commerce throughout this country and those who do not 
+have the insurance even to cover their own medical bills, because that 
+is what this very good language took care of.
+  One of the problems in the consideration of this entire week's 
+legislative work in this Capitol is our failure to listen to the 
+victims, to the people that have lost life and their family, a limb, 
+those people have been excluded in this debate.
+  The CHAIRMAN. The gentleman from California [Mr. Berman] has 30 
+seconds remaining, and the gentleman from Illinois [Mr. Hyde] has the 
+right to close debate.
+  Mr. HYDE. Mr. Chairman, I yield 30 seconds to the gentleman from Ohio 
+[Mr. Oxley].
+  Mr. OXLEY. Let me respond, first of all, there is an expressed 
+warranty provision in that that would cover the situation the gentleman 
+mentioned. Let me say to my colleagues that when working on the statute 
+of repose, we were looking for a particular length of time for the 
+statute of repose. we found, to our amazement, that the longest statute 
+of repose of any State is the State of Texas, the Lone Start State. And 
+basically the statute of repose that is in this statute or in this bill 
+copies almost word for word the Texas statute.
+  Mr. BERMAN. Mr. Chairman, I yield myself the balance of my time.
+  [[Page H2926]] Let the body just remember, the product liability bill 
+that the Committee on Energy and Commerce over several years has been 
+passing and promoting on a bipartisan basis, the one that the gentleman 
+from Ohio [Mr. Oxley] always supported, was a product liability bill 
+limiting the statute of repose to capital goods and providing 25 years. 
+This is any product, any manufactured product, any manufactured product 
+15 years. And now you are taking out the medical benefit.
+  Mr. CHAIRMAN. All time in opposition to the amendment has expired. 
+The Chair recognizes the gentleman from Illinois [Mr. Hyde].
+  Mr. HYDE. Mr. Chairman, I yield such time as me may consume to the 
+gentleman from Wisconsin [Mr. Sensenbrenner], a member of the 
+committee, to close debate.
+  Mr. SENSENBRENNER. Mr. Chairman, I think to close debate it is 
+important for us to focus on what a statute of repose is. A statute of 
+repose is a limit during which period a lawsuit can be filed alleging 
+negligence in the manufacture of that product.
+  The statute of repose here that is proposed is 15 years. That means 
+that the product will have to be on the market and be used for 15 
+years, during which period of time a lawsuit can be filed and the 
+manufacturer exposes himself to liability.
+  Is not 15 years long enough? If the product is defective, should not 
+that defect become apparent within a 15-year period of time? I think 
+the answer to that question is yes.
+  The gentleman from Ohio [Mr. Oxley] has correctly stated that the 15-
+year statute of repose that is proposed in this bill is the longest of 
+the State statutes of repose. So by federalizing this issue, we are in 
+effect extending the time for which lawsuits can be filed in most 
+States.
+  The amendment that the gentleman from Illinois is proposing is one 
+that is very important, and that is taking out this last sentence, 
+which was put in the statute of repose section by mistake, that says 
+that if there is a penny of copayment or a penny of a deductible, then 
+there is no statute of repose whatsoever, no limitation on when the 
+lawsuit can be brought.
+  That will mean much higher product liability insurance premiums that 
+manufacturers will have to pay. Who pays those product liability 
+insurance premiums? We all do, as consumers, because those premiums are 
+a cost of doing business. They are folded into the cost of the product.
+  By passing this amendment and establishing a standard of repose, we 
+can lower those premiums, and thus lower the cost to our constituents. 
+I urge an ``aye'' vote.
+  The CHAIRMAN. All time has expired.
+  The question is on the amendment offered by the gentleman from 
+Illinois [Mr. Hyde].
+  The amendment was agreed to.
+  The CHAIRMAN. It is now in order to consider amendment No. 4 printed 
+in <strong>House</strong> Report 104-72.
+
+
+                    amendment offered by mr. schumer
+  Mr. SCHUMER. Mr. Chairman, I offer an amendment.
+  The Clerk read as follows:
+       Amendment offered by Mr. Schumer: Page 13, redesignate 
+     section 110 as 111 and insert after line 3 the following:
+     SEC. 110. SUNSHINE, ANTI-SECRECY, CONSUMER EMPOWERMENT, AND 
+                   LITIGATION AVOIDANCE.
+       (a) In General.--To empower consumers with the information 
+     to avoid defective products, court records in all product 
+     liability actions are presumed to be open to the general 
+     public. No court order or opinion in the adjudication of a 
+     product liability action may be sealed. No court record, 
+     including records obtained through discovery, whether or not 
+     formally filed with the court, may be sealed, subjected to a 
+     protective order, or otherwise have access restricted except 
+     through a court order based upon particularized findings of 
+     fact that--
+       (1) such order would not restrict the disclosure of 
+     information which is relevant to public health or safety; or
+       (2)(A) the public interest in disclosure of potential 
+     health or safety hazards is clearly outweighed by a specific 
+     and substantial interest in maintaining the confidentiality 
+     of the information or records in question; and
+       (B) the requested order is no broader than necessary to 
+     protect the privacy interest asserted.
+     No such order shall continue in effect after the entry of 
+     final judgment or other final disposition, unless at or after 
+     such entry the court makes a separate particularized finding 
+     of fact that the requirements of paragraph (1) or (2) have 
+     been met.
+       (b) Burden.--The party who is the proponent for the entry 
+     of an order, as provided under subsection (a), shall have the 
+     burden of proof in obtaining such an order.
+       (c) Agreement.--No agreement between or among parties in a 
+     product liability action filed in a State or Federal court 
+     may contain a provision that prohibits or otherwise restricts 
+     a party from disclosing any information relevant to such 
+     product liability action to any Federal or State agency with 
+     authority to enforce laws regulating an activity relating to 
+     such information.
+       (d) Intervention.--Any person may intervene as a matter of 
+     right in a product liability action for the limited purpose 
+     of participating in proceedings considering limitation of 
+     access to records upon payment of the fee required for filing 
+     a plea in intervention.
+
+
+
+  The CHAIRMAN. Pursuant to the rule, the gentleman from New York [Mr. 
+Schumer] and a Member opposed will each be recognized for 10 minutes.
+  The Chair assumes the gentleman from Illinois [Mr. Hyde] will manage 
+the time in opposition to the amendment.
+  The Chair recognizes the gentleman from New York [Mr. Schumer].
+  Mr. SCHUMER. Mr. Chairman, I yield myself 3 minutes and 15 seconds.
+  Mr. Chairman, I have been so used to open rules that I have forgotten 
+how a closed rule functions.
+  Mr. Chairman, if there ever was a commonsense legal reform, this 
+amendment is it. Every year hundreds of manufacturers who know their 
+products are dangerous hide behind court secrecy orders to conceal the 
+truth from the American public.
+  As a result, thousands of innocent, men, women, and children are 
+maimed, poisoned, injured, and even killed simply because they never 
+learn the truth. The truth and their fates are sealed in secret by 
+lawyers behind closed doors. In some cases, secrecy order follows 
+secrecy order, year after year, while the list of mutilated and dead 
+grows longer and longer.
+  Let me just give one case, because this has been so much a battle of 
+the anecdotes, that shocked me. It ought to shock everybody.
+  There is no more innocent activity than little kids going out to 
+play. Yet, for over 13 years, an equipment manufacturer of playground 
+equipment sold a merry-go-round that it knew was causing serious injury 
+to scores of small children, mostly around 5 or 7 years old, children 
+like little Rebecca Walsh, who had two fingers chopped off; like Larry 
+Espinosa and Dale Lukens, whose bones were crushed; other children who 
+had their hands and feet cut off. These kids were hurt and their lives 
+forever twisted.
+  In spite of dozens of lawsuits against the manufacturer, because 
+those lawsuits were settled in secret, the parents of these kids never 
+had a chance to protect their children, and their children never had a 
+chance to grow up whole.
+  The sad truth is that the history of product liability litigation is 
+full of cases like that.
+  Mr. Speaker, I do not know what goes on in the minds of the men and 
+women who sell these products, even after they know they are killing 
+and injuring innocent people, but I do know one way to stop it. That is 
+to open up the courthouse doors and shine the bright light of day on 
+these dangerous products. That is all this amendment does. I hope we 
+could get bipartisan support it. It bars courts from sealing their 
+orders in product liability cases. It prohibits any other record in a 
+product liability case from being restricted, unless, and there is 
+indeed an exception, the court specifically finds that the order will 
+not restrict information relating to public health or safety, or that 
+some specific secrecy interest clearly outweighs the public interest in 
+disclosing public health and safety.
+  In other words, there can be sealed orders, but the burden of proof 
+ought to be the other way. When health and safety are at stake, the 
+burden of proof ought to be that the order be open.
+  Finally, Mr. Chairman, it permits product liability settlement 
+agreements that restrict parties from giving information to regulatory 
+agencies. This is real common sense. I urge my colleagues to vote for 
+this amendment. It is a vote against secrecy, for openness, and for the 
+right of all Americans to know the truth about dangerous products.
+  Mr. HYDE. Mr. Chairman, I yield myself such time as I may consume.
+  Mr. Chairman, I think this is a very dangerous amendment. It is one 
+that should be defeated. It would impair litigants' rights to maintain 
+their privacy, protect valuable property interests, and interfere with 
+settling legal disputes.
+  Massive amounts of private information are produced through the 
+modern discovery process. The amendment requires the court to weigh the 
+value of confidentiality versus the public interest in disclosure. To 
+conduct such a weighing process on every document that is private would 
+indeed weigh the courts down in endless disputes. Disputes over 
+discovery issues would skyrocket, and further clog our courts.
+  The amendment would restrict judicial discretion in protecting 
+confidential information, and would create lawsuit abuse, not eliminate 
+it. The courts would have to conduct extensive and complex factual 
+inquiries, which could include extensive hearings on and in camera 
+review of thousands of documents. Such in camera review could result in 
+an unfair and prejudicial prejudgment of the case.
+  This amendment would make it much more difficult to settle cases. It 
+would prevent the mutual agreement between parties on issues of 
+confidentiality, and would result in more contentious trials, consuming 
+more time and attention than ever before.
+  There is no need for this amendment. The proponents of this amendment 
+may trot out some tragic anecdotes allegedly supporting forced 
+disclosure, but in each case the proponents of this amendment should be 
+asked whether or not such information relating specifically to the 
+alleged defect was not available to the public prior to the protective 
+order, and in many cases, long before the lawsuits were even filed.
+  There is proprietary information, private information, information 
+that does not belong in the public domain, and the judge now has ample 
+authority to rule on whether this information shall be sealed or 
+whether it should be made public. It is something that is best handled 
+by court rules, not legislation.
+  Mr. Chairman, I do not know what else to call this but the Ralph 
+Nader amendment, because it would permit any citizen at any time to 
+intervene to get information that it wants, and that may or may not be 
+helpful, but as a rule of law, it is the sort of thing that would 
+obstruct the settlement of cases. It would make people very reluctant 
+to disclose information on a nonconfidential basis.
+  I would sincerely hope that this gutting amendment would be defeated.
+  Mr. Chairman, this amendment represents a mischievous effort to 
+compromise confidential information with potential adverse consequences 
+for both businesses and injured parties. The amendment raises a new 
+subject we did not consider in the Committee on the Judiciary.
+  The amendment can be interpreted as including a flat prohibition on 
+sealing a court order or opinion in a product liability case. This 
+prohibition--in contrast to the prohibition relating to a court 
+record--apparently admits of no exception and may result in 
+compromising trade secrets of American firms if the court order or 
+opinion refers to such secrets.
+  By providing for public access to material obtained through 
+discovery, we place in the public domain information that may have no 
+relevance to pending litigation. The evidentiary standards for 
+obtaining information through discovery are much broader than those 
+applicable in a trial--a fact that renders inappropriate treating the 
+discovery process like a public proceeding. The need to obtain a court 
+order to restrict public access to records obtained through discovery 
+can be expected to add immeasurably to the transaction costs of 
+litigation--as parties go to court to safeguard the confidentiality of 
+the discovery process. Alternatively, parties to litigation can be 
+expected to resist discovery in order to keep irrelevant material from 
+reaching the public domain. Efforts to avoid discovery or limit its 
+scope may also add greatly to the transaction costs of litigation.
+  Providing that orders protecting confidentiality do not remain in 
+effect after final disposition unless separate particularized findings 
+are made by the court also complicates and prolongs the litigation 
+process. Courts will be bogged down in considering such matters, and 
+attorneys will invest considerable time and effort at additional costs 
+to the litigants. Consumers will end up paying higher prices because of 
+increased legal fees.
+  The amendment also discourages settlements by barring agreements 
+between parties that purport to restrict disclosure of information to 
+Government agencies.
+  Finally, this amendment adds to the costs of litigation--and 
+exacerbates problems of delay--by allowing any person to intervene in a 
+product liability action to participate in proceedings considering 
+limitation of access to records. Although facilitating opportunities 
+for some third parties to intervene in limited circumstances may be 
+justifiable, the unlimited intervention mechanism this amendment 
+establishes needlessly encumbers the litigation process.
+  Although I am committed to facilitating public access to relevant 
+safety-related information, this shotgun approach to a complex subject 
+is not the answer. Issues of confidentiality implicate not only the 
+public's right to know but also the rights of victims to lead private 
+lives and the rights of American corporations to protect proprietary 
+information from foreign competitors; American jobs may depend on it.
+  Next week, the Judicial Conference of the United States will be 
+considering proposed changes in rule 26(c) of the Federal Rules of 
+Civil Procedure relating to protective orders. We should not 
+precipitously preempt that process today.
+  I urge my colleagues to vote against this amendment.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. SCHUMER. Mr. Chairman, I yield 3 minutes to the gentlewoman from 
+Illinois [Mrs. Collins], a coauthor of the amendment and ranking member 
+of the former Committee on Government Operations, which is now the 
+Committee on Government Reform and Oversight.
+  (Mrs. COLLINS of Illinois asked and was given permission to revise 
+and extend her remarks.)
+  Mrs. COLLINS of Illinois. Mr. Chairman, one of the most questionable, 
+if not unethical practices in product liability suits today is the use 
+of court orders to bar public disclosure of manufacturer's information 
+concerning product safety.
+  These orders result where, in a claim involving a defective product, 
+the plaintiff's attorney, for example, needs documents and other 
+evidence to establish a claim. Often, the manufacturer-defendant will 
+seek a court order that requires the plaintiff, at the end of the case, 
+to destroy or return to the manufacturer the evidence, without making 
+it public. Since the plaintiff's attorney has a duty to protect the 
+interests of his or her client--as opposed to those of the public at 
+large--that attorney acquiesces to this request and agrees to seek the 
+court order. The agreements are blessed by the court and then the 
+documents are placed under confidential seal. Thus, access to product 
+information comes at a heavy price.
+  In an interesting book describing litigation of asbestos cases, these 
+bargaining tactics and their consequences that are harmful to the 
+general public were graphically illustrated. After a Federal judge 
+literally locked the lawyers in a room for 16 hours a day, 5 days a 
+week, for 3 weeks, the parties agreed to a financial settlement of 
+certain worker claims. In exchange, the plaintiff's attorneys agreed 
+that whatever evidence they obtained from discovery could not be passed 
+along to subsequent claimants. All papers were then sealed by the 
+court.
+  One of the plaintiff's lawyers, acknowledging he had made a serious 
+mistake in agreeing to the settlement terms, later said of the court's 
+action:
+       As a result, the disposition of Richard Gaze--a company 
+     physician--which provided powerful evidence of what the 
+     Pittsburgh Corning people really knew about asbestos disease, 
+     and when they knew it, remained under wraps for the next 5\1/
+     2\ years.
+  Indeed, during that time period, the company denied to hundreds of 
+claimants that it had any knowledge of this hazard until the mid-
+1960's, a contention that plaintiff's lawyers obviously could not 
+rebut.
+  Unfortunately, this is not an isolated case. A serious design defect 
+in the heating systems of Chevy Corvairs, first discovered in the mid-
+1960's, was not disclosed until 1971 because of a protective order. In 
+another instance, involving the crash of several Pan Am 707's an 
+attorney said that if certain in-<strong>house</strong> and FAA reports had not been 
+sealed, ``no one would have ever gotten on a Pan Am plane again.'' 
+Similar orders were also entered into in Dalkon Shield cases. The list 
+goes on and on.
+  It is time we put a halt to these orders, Mr. Chairman. The Schumer- 
+[[Page H2928]] Doggett-Collins amendment before you would do just that.
+  Our amendment would prevent the sealing of court records in all 
+product liability actions, except under limited circumstances. Such 
+court records could be sealed only through a court order in those 
+instances in which, first, the order would not restrict the disclosure 
+of information which is relevant to public health or safety, or second, 
+the need to maintain confidentiality would substantially outweigh the 
+public interest in disclosing potential health or safety hazards, and 
+the order would be no broader than necessary to protect the privacy 
+interest asserted.
+  The benefits of this amendment are numerous. First, it will promote 
+greater public safety. If repeated litigation demonstrates that a 
+product has a serious design flaw, or contains inadequate warnings, the 
+public will be appraised of this information and can take appropriate 
+action. Similarly, liberal disclosure will put pressure on a 
+manufacturer to correct dangerous aspects of a product which might not 
+be changed if the manufacturer could easily avoid the responsibility 
+for its flaws.
+  The amendment will streamline the litigation process. Parties and 
+courts involved in the trial of subsequent cases over the safety of a 
+product will no longer face timeconsuming and costly discovery 
+procedures. They will not have to re-create the same information or 
+relocate identical documents, starting from scratch. Consequently, 
+attorney's fees will be reduced, and the chose of whether or not to 
+bring a product liability claim to court will not be based on the 
+ability to afford one.
+  The backlog of cases often faced by courts would be reduced and 
+fairer and more consistent verdicts may result since juries would have 
+the same facts before them.
+  Mr. Chairman, this issue's importance is reflected by the American 
+Bar Association's recommendations, stemming back to 1986, that courts 
+allow disclosure of relevant product information. The Schumer-Doggett-
+Collins amendment offers many positive benefits to the public, foremost 
+of which is enhancement of public safety.
+  I urge support for this amendment, Mr. Chairman. It is time we let 
+the sun shine in on corporate secrecy.
+  Mr. HYDE. Mr. Chairman, I am pleased to yield 3 minutes to the 
+gentleman from Wisconsin [Mr. Sensenbrenner], a member of the 
+committee.
+  Mr. SENSENBRENNER. Mr. Chairman, I would like to make two points. 
+First, under the present procedure, whether or not court records are 
+sealed is a matter of judicial discretion. I believe it ought to be 
+kept that way. The judge who presided over the case, and assuming that 
+there is a settlement offer that is coming before the court for 
+approval, makes a determination on whether or not sealing the records 
+is a reasonable request, and I think we ought to, in this instance, 
+trust the judges to represent what is in the public interest.
+  This has to be done on a case-by-case basis. That is not to say that 
+all records should be sealed, but it also is not to say that all 
+records should be open, which is what the gentleman from New York is 
+proposing.
+  The second problem with this amendment is, I think, what the 
+gentleman from New York is trying to do is to do the work for lawyers 
+in subsequent lawsuits on the same issue. Rather than doing their own 
+discovery and findings out their own facts, they can simply go to the 
+courthouse and rummage through the records that are already on file. 
+Consequently, they end up not having to do as much work.
+  Mr. Chairman, we all know that most of these types of cases are taken 
+on a contingency fee basis. By opening up the records and not having 
+the lawyers do the work that they would have to do, they are going to 
+end up spending less time, but their fees are not going to be reduced, 
+because the fees are a certain percentage of the amount that is 
+recovered.
+  For all these reasons, I think this amendment is a bad one, and ought 
+to be defeated.
+  Mr. Chairman, I yield back the balance of my time.
+  The CHAIRMAN. The gentleman yields back 1 minute to the gentleman 
+from Illinois.
+  Mr. SCHUMER. Mr. Chairman, I yield the remainder of my time to the 
+gentleman from Texas [Mr. Doggett], who has been a leader on this 
+issue, and has provided invaluable help and assistance on this 
+amendment.
+  The CHAIRMAN. Based on the 15 seconds consumed by the gentleman from 
+New York [Mr. Schumer], the gentleman from Texas [Mr. Doggett] is 
+recognized for 3\3/4\ minutes.
+  Mr. DOGGETT. Mr. Chairman, the philosophy of this amendment is 
+embodied in the first sentence, which is to empower individual 
+consumers with the information to avoid defective products; court 
+records in all product liability actions are presumed to be open.
+  The thrust of this amendment is that if we empower people to be 
+responsible, to have the information to avoid defective products, they 
+avoid litigation, and trial lawyers and all the problems that the 
+authors of this legislation say their legislation is designed to 
+resolve.
+  It is rather shocking to hear a series of contradictions from those 
+who oppose the amendment. First they tell us that we should trust the 
+judges. Mr. Chairman, if we trusted the judges of the 50 States, we 
+would not be here this afternoon with this piece of legislation in the 
+first place. The whole theory of <strong>House</strong> Resolution 1075 is that this 
+body does not trust the judges of the 50 States, nor the 50 
+legislatures.
+  If we are going to address the problem as they see it, as they see 
+fit to do it, why do we not try to do something constructive? That is 
+what this amendment does. It says secrecy is not in the interests of 
+the American people.
+  In fact, court records across this country, and this is not an 
+anecdote, it is based on fact, court records across this country hide 
+facts that literally kill and maim thousands of people in this country.
+  Two States have done something about it. The State of Florida passed 
+a statute on the subject, and they have done a great deal to focus a 
+little Florida sunshine, which is what we are trying to copy in this 
+piece of legislation, so people are not deceived by facts that are 
+sealed and hidden away in some dusty file drawer from the people that 
+it could protect.
+  The second State is my own State of Texas, where we chose to do it by 
+trusting the judges in a court rule of procedure to deal with this 
+problem.
+  Of course what we do in this amendment does relate to court rules of 
+procedure just as the rest of the bill does in dealing with bifurcation 
+of punitive damages which is a rule of procedure that the majority has 
+not the least bit of concern about interfering with the States on that.
+  The suggestion that this particular amendment would open all records 
+belies the very words of the amendment. It does not do that. There are 
+legitimate privacy interests in every lawsuit. There are legitimate 
+trade secrets. All that we ask is that the better law of the Federal 
+jurisdictions, the law that prevails I think in most Federal courts 
+today, be codified in this statute as we are codifying other law, and 
+require the trial judge to do what only judges can do if they act in 
+their proper role, and, that is, to balance the interest. Is the 
+public's interest in avoiding more deaths and more injuries? Does it 
+outweigh whatever interest is claimed by the manufacturer?
+  Let me give Members some specific examples of where this kind of 
+amendment, if it had been the law of this land, would have made the 
+difference and would have prevented the destruction, interference and 
+harm of thousands of lives.
+  One of these examples is the whole problem with breast implants. In 
+1984, 8 years before the major crisis over breast implants, there was 
+information available concerning the danger of these implants and it 
+was locked up in San Francisco in a vault, sealed in the first places 
+of this litigation. That information could have been there so that 
+those women avoided those breast implants in the first place. Instead, 
+we have the literal and physical scars on many American women that 
+would have never been there had they known the dangers that were locked 
+up in those file drawers.
+  Another good example comes from the State of Florida, where it 
+enacted this statute, where one pharmaceutical manufacturer of an 
+arthritis medication actually convinced a court judge to prohibit any 
+of the documents, not from being shared with Ralph Nader 
+[[Page H2929]] but from being shared with the Federal Food and Drug 
+Administration so that they could do something about
+ it. Indeed, the Food and Drug Administration learned much of the 
+problems with breast implants, not from anything filed there but from 
+what was sealed and secreted away in that vault in San Francisco.
+  That is the kind of thing that is happening in this country ever 
+single day where people come in with one price to settle a lawsuit if 
+the documents are open and one price if they are sealed.
+  Of course the person who is facing large medical bills, a serious 
+threat to their earnings stream, many times is encouraged to take the 
+higher price. But somewhere in all this the public interest gets left 
+out. The role that we could play is by empowering citizens across this 
+country to protect their own interests by knowing of the dangers that 
+they face in the marketplace, making an informed decision, not locking 
+this away but opening it up.
+  I would trust the judge to use this statute as we propose it through 
+this amendment to carefully balance the interest, but to assume and 
+presume that this Government operates best when it operates in the 
+sunshine, when it operates in the open. That is what this amendment is 
+all about, against secrecy, in favor of empowering the people of this 
+country to protect themselves.
+  It is incredible that it would not be accepted because it represents 
+true commonsense legal reform.
+  Mr. HYDE. Mr. Chairman, I yield such time as he may consume to the 
+distinguished gentleman from Ohio [Mr. Oxley], and I ask that the 
+gentleman yield to me briefly.
+  Mr. OXLEY. I yield to the gentleman from Illinois.
+  Mr. HYDE. I thank the gentleman for yielding. I would simply like to 
+state the rule 26(c) of the Federal Rules of Civil Procedure has to do 
+with protective orders and it provides the trial judge with authority 
+in an appropriate case to seal documents or not to seal them. I prefer 
+to leave it to the trial judge who is on the firing line and has the 
+case before him or her and can make these decisions based on the type 
+of case, the type of information, the demands of privacy, the 
+embarrassment, the humiliation, the revelation of proprietary 
+information or not. These are tough decisions, they are difficult 
+decisions, and why should we make it for the judge and require the 
+disclosure of these things?
+  I personally would like to know the formula for making Coca-Cola. I 
+would suggest that has some monetary value. I would suggest the Coca-
+Cola people want to keep it quiet. In a lawsuit, why require its 
+disclosure, if it is not essential to the litigation?
+  I yield to my friend, the gentlewoman from Chicago, IL.
+  Mrs. COLLINS of Illinois. I thank the gentleman for yielding. But, 
+you know, if it were found that there was something in Coca-Cola that 
+was killing folk, I certainly would want everybody to know about that.
+  Mr. HYDE. I certainly would expect our counsel or the plaintiff's 
+counsel to urge the trial judge to disclose that if it was----
+  Mrs. COLLINS of Illinois. And I would urge them not to----
+  The CHAIRMAN. The Chair observes that the gentleman from Ohio [Mr. 
+Oxley] controls the time.
+  Mr. HYDE. The Chair is correct. I certainly should not have yielded, 
+but she looked at me and I could not say no.
+  Mrs. COLLINS of Illinois. I know I have great charm. I thank the 
+gentleman for recognizing it.
+  Mr. HYDE. I thank the gentleman for yielding.
+  Mr. OXLEY. Mr. Chairman, I had a judge tell me one time that a poorly 
+settled lawsuit is much better than a well-tried one. I found in my 
+experience that that was the case.
+  Indeed this provision, if it were to be adopted, the Schumer 
+amendment, would clearly discourage the parties from considering 
+whether that case should be settled. It seems to me that our public 
+policy ought to be encouraging settlements, not discouraging 
+settlements.
+  Judge Higginbotham, from the fifth circuit, testified on the Senate 
+side as the chairman of the Advisory Committee on the Federal Rules of 
+Practice and Procedure. He testified that his advisory committee had 
+studied this particular idea and had found that no change was needed to 
+the basic approach to the issuance and the use of protective orders.
+  In particular he stated that the results of these studies had shown 
+that there was no need for these provisions and that they would create 
+more burdensome and costly discovery as well as greater burdens on the 
+court system.
+  Mr. Chairman, this amendment makes a mockery of our system of justice 
+by allowing third-party special interests unlimited access to private 
+corporate documents.
+  The gentleman previously had stated that one of the States that he 
+pointed out that had changed the rules was Florida. In Florida, a trial 
+lawyer recently testified that it has resulted in negative and 
+confusing experiences that have discouraged out-of-court settlements.
+  I would suggest that the reason why 39 out of 41 State legislatures 
+have rejected the type of change that the gentleman from New York would 
+ask for is precisely because it would discourage the ability of 
+companies and people involved in a lawsuit, to encourage them to come 
+to a conclusion and to settle out of court.
+  I would think the gentleman from New York would want to have these 
+kinds of settlements and not discourage those kind of settlements out 
+of court and having to go to a trial and use up a lot of the resources 
+of the court.
+  Mr. SCHUMER. Mr. Chairman, will the gentleman yield?
+  Mr. OXLEY. I yield to the gentleman from New York.
+  Mr. SCHUMER. I thank the gentleman for his courtesy in yielding.
+  Does the gentleman not think that if these records were opened, 
+particularly in some of the egregious cases, it would actually reduce 
+litigation because you would not have to go through the same discovery 
+and the same process over and over and over again?
+  First it would reduce it in that people would not use the product, 
+but second, once they did, it would greatly shorten whatever kind of 
+trial time we would need. Why go over it 100 times?
+  The only other point I would make to the gentleman is that we are not 
+opening all records. We are just changing the burden of proof when the 
+health and safety, in effect changing the burden of proof when the 
+health or safety of someone is at stake.
+  I await, I am sure, the gentleman's thoughtful and carefully 
+considered answer.
+  Mr. OXLEY. Let me just simply respond by saying that Judge 
+Higginbotham's advisory committee that did a serious study on exactly 
+what the gentleman from New York would try to do came to the very solid 
+conclusion as he testified in the other body that it would have a 
+deleterious effect on the litigation system and it would in fact 
+discourage out-of-court settlements. This is somebody who has studied 
+the issue, who has been a Federal judge, a well-regarded Federal judge, 
+and I think that we ought to take his advice very carefully, as well as 
+the 39 out of the 41 States that have essentially rejected the 
+gentleman from New York's recommendations.
+  The CHAIRMAN. The question is on the amendment offered by the 
+gentleman from New York [Mr. Schumer].
+  The question was taken; and the Chairman announced that the noes 
+appeared to have it.
+
+
+                             recorded vote
+  Mr. SCHUMER. Mr. Chairman, I demand a recorded vote.
+  A recorded vote was ordered.
+  The CHAIRMAN. This will be a 17-minute vote.
+  The vote was taken by electronic device, and there were--ayes 184, 
+noes 243, not voting 7, as follows:
+                             [Roll No. 220]
+                               AYES--184
+     Abercrombie
+     Ackerman
+     Baldacci
+     Barcia
+     Barrett (WI)
+     Becerra
+     Beilenson
+     Bentsen
+     Berman
+     Bevill
+     Bishop
+     Bonior
+     Borski
+     Boucher
+     Brewster
+     Browder
+     Brown (CA)
+     Brown (FL)
+     Brown (OH)
+     Bryant (TX)
+     Bunn
+     Cardin
+     Chapman
+     Clayton
+     Clement
+     Clyburn
+     Coleman
+     Collins (IL)
+     Collins (MI)
+     Conyers
+     Costello
+     Coyne
+     Cramer
+     Danner
+     de la Garza
+     DeFazio
+     DeLauro
+     Dellums
+     Deutsch
+     Dicks
+     Dixon
+     Doggett
+     Dooley
+     Doyle
+     Duncan
+     [[Page H2930]] Durbin
+     Edwards
+     Engel
+     Eshoo
+     Evans
+     Farr
+     Fattah
+     Fazio
+     Fields (LA)
+     Filner
+     Flake
+     Foglietta
+     Ford
+     Fox
+     Frank (MA)
+     Frost
+     Furse
+     Gejdenson
+     Gephardt
+     Gibbons
+     Gonzalez
+     Gordon
+     Graham
+     Green
+     Gutierrez
+     Hall (OH)
+     Hamilton
+     Harman
+     Hastings (FL)
+     Hayes
+     Hefner
+     Hilliard
+     Hinchey
+     Holden
+     Hoyer
+     Jackson-Lee
+     Jacobs
+     Jefferson
+     Johnson (SD)
+     Johnson, E.B.
+     Johnston
+     Kanjorski
+     Kaptur
+     Kennedy (MA)
+     Kennedy (RI)
+     Kennelly
+     Kildee
+     Kleczka
+     Klink
+     Klug
+     LaFalce
+     Lantos
+     Lewis (GA)
+     Lipinski
+     Lofgren
+     Luther
+     Maloney
+     Manton
+     Markey
+     Martinez
+     Mascara
+     Matsui
+     McCarthy
+     McDermott
+     McHale
+     McNulty
+     Meehan
+     Meek
+     Menendez
+     Mfume
+     Miller (CA)
+     Mineta
+     Minge
+     Mink
+     Moakley
+     Moran
+     Murtha
+     Nadler
+     Neal
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Owens
+     Pallone
+     Pastor
+     Payne (NJ)
+     Payne (VA)
+     Pelosi
+     Peterson (FL)
+     Pomeroy
+     Poshard
+     Rahall
+     Reed
+     Reynolds
+     Richardson
+     Rivers
+     Rose
+     Roybal-Allard
+     Rush
+     Sabo
+     Sanders
+     Sawyer
+     Schroeder
+     Schumer
+     Scott
+     Serrano
+     Skaggs
+     Skelton
+     Slaughter
+     Spratt
+     Stark
+     Stokes
+     Studds
+     Stupak
+     Tejeda
+     Thompson
+     Thornton
+     Thurman
+     Torres
+     Torricelli
+     Towns
+     Traficant
+     Tucker
+     Velazquez
+     Vento
+     Visclosky
+     Volkmer
+     Ward
+     Waters
+     Watt (NC)
+     Waxman
+     Williams
+     Wilson
+     Wise
+     Woolsey
+     Wyden
+     Wynn
+     Yates
+                               NOES--243
+     Allard
+     Archer
+     Armey
+     Bachus
+     Baesler
+     Baker (CA)
+     Baker (LA)
+     Ballenger
+     Barr
+     Barrett (NE)
+     Bartlett
+     Barton
+     Bass
+     Bateman
+     Bereuter
+     Bilbray
+     Bilirakis
+     Bliley
+     Blute
+     Boehlert
+     Boehner
+     Bonilla
+     Bono
+     Brownback
+     Bryant (TN)
+     Bunning
+     Burr
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Canady
+     Castle
+     Chabot
+     Chambliss
+     Christensen
+     Chrysler
+     Clinger
+     Coble
+     Coburn
+     Collins (GA)
+     Combest
+     Condit
+     Cooley
+     Cox
+     Crane
+     Crapo
+     Cremeans
+     Cubin
+     Cunningham
+     Davis
+     Deal
+     DeLay
+     Diaz-Balart
+     Dickey
+     Dingell
+     Doolittle
+     Dornan
+     Dreier
+     Dunn
+     Ehlers
+     Ehrlich
+     Emerson
+     English
+     Ensign
+     Everett
+     Ewing
+     Fawell
+     Fields (TX)
+     Flanagan
+     Foley
+     Forbes
+     Fowler
+     Franks (CT)
+     Franks (NJ)
+     Frelinghuysen
+     Frisa
+     Funderburk
+     Gallegly
+     Ganske
+     Gekas
+     Geren
+     Gilchrest
+     Gillmor
+     Gilman
+     Goodlatte
+     Goodling
+     Goss
+     Greenwood
+     Gunderson
+     Gutknecht
+     Hall (TX)
+     Hancock
+     Hansen
+     Hastert
+     Hastings (WA)
+     Hayworth
+     Hefley
+     Heineman
+     Herger
+     Hilleary
+     Hobson
+     Hoekstra
+     Hoke
+     Horn
+     Hostettler
+     Houghton
+     Hunter
+     Hutchinson
+     Hyde
+     Inglis
+     Istook
+     Johnson (CT)
+     Johnson, Sam
+     Jones
+     Kasich
+     Kelly
+     Kim
+     King
+     Kingston
+     Knollenberg
+     Kolbe
+     LaHood
+     Largent
+     Latham
+     LaTourette
+     Laughlin
+     Lazio
+     Leach
+     Levin
+     Lewis (CA)
+     Lewis (KY)
+     Lightfoot
+     Lincoln
+     Linder
+     Livingston
+     Longley
+     Lucas
+     Manzullo
+     Martini
+     McCollum
+     McCrery
+     McDade
+     McHugh
+     McInnis
+     McIntosh
+     McKeon
+     Metcalf
+     Meyers
+     Mica
+     Miller (FL)
+     Molinari
+     Mollohan
+     Montgomery
+     Moorhead
+     Morella
+     Myers
+     Myrick
+     Nethercutt
+     Neumann
+     Ney
+     Norwood
+     Nussle
+     Orton
+     Oxley
+     Packard
+     Parker
+     Paxon
+     Peterson (MN)
+     Petri
+     Pickett
+     Pombo
+     Porter
+     Portman
+     Pryce
+     Quillen
+     Quinn
+     Radanovich
+     Ramstad
+     Regula
+     Riggs
+     Roberts
+     Roemer
+     Rogers
+     Rohrabacher
+     Ros-Lehtinen
+     Roth
+     Roukema
+     Royce
+     Salmon
+     Sanford
+     Saxton
+     Scarborough
+     Schaefer
+     Schiff
+     Seastrand
+     Sensenbrenner
+     Shadegg
+     Shaw
+     Shays
+     Shuster
+     Sisisky
+     Skeen
+     Smith (MI)
+     Smith (NJ)
+     Smith (TX)
+     Smith (WA)
+     Solomon
+     Souder
+     Spence
+     Stearns
+     Stenholm
+     Stockman
+     Stump
+     Talent
+     Tanner
+     Tate
+     Tauzin
+     Taylor (MS)
+     Taylor (NC)
+     Thomas
+     Thornberry
+     Tiahrt
+     Torkildsen
+     Upton
+     Vucanovich
+     Waldholtz
+     Walker
+     Walsh
+     Wamp
+     Watts (OK)
+     Weldon (FL)
+     Weldon (PA)
+     Weller
+     White
+     Whitfield
+     Wicker
+     Wolf
+     Young (AK)
+     Young (FL)
+     Zeliff
+     Zimmer
+                             NOT VOTING--7
+     Andrews
+     Chenoweth
+     Clay
+     LoBiondo
+     Lowey
+     McKinney
+     Rangel
+  Mr. BARTLETT of Maryland changed his vote from ``aye'' to ``no.''
+  So the amendment was rejected.
+  The result of the vote was announced as above recorded.
+                          personal explanation
+  Mrs. LOWEY. Mr. Chairman, I unavoidably missed rollcall vote No. 220. 
+Had I been there, I would have voted ``aye.''
+  The CHAIRMAN. It is now in order to consider amendment No. 5 printed 
+in <strong>House</strong> Report 104-72.
+
+
+                    Amendment Offered by Mr. Conyers
+  Mr. CONYERS. Mr. Chairman, I offer an amendment.
+  The CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+       Amendment offered by Mr. Conyers: Page 13, redesignate 
+     section 110 as section 111, and insert after line 2 the 
+     following:
+     SEC. 110. FOREIGN PRODUCTS.
+       (a) General Rule.--In any product liability action for 
+     injury that was sustained in the United States and that 
+     relates to the purchase or use of a product manufactured 
+     outside the United States by a foreign manufacturer, the 
+     Federal court in which such action is brought shall have 
+     jurisdiction over such manufacturer if the manufacturer knew 
+     or reasonably should have known that the product would be 
+     imported for sale or use in the United States.
+       (b) Admission.--If in any product liability action a 
+     foreign manufacturer of the product involved in such action 
+     fails to furnish any testimony, document, or other thing upon 
+     a duly issued discovery order by the court in such action, 
+     such failure shall be deemed an admission of any fact with 
+     respect to which the discovery order relates.
+       (c) Process.--Process in an action described in subsection 
+     (a) may be served wherever the foreign manufacturer is 
+     located, has an agent, or transacts business.
+  The CHAIRMAN. Pursuant to the rule, the gentleman from Michigan [Mr. 
+Conyers] and a member opposed will each be recognized for 5 minutes.
+  The Chair recognizes the gentleman from Michigan [Mr. Conyers].
+                              {time}  1430
+  Mr. CONYERS. Mr. Chairman, this is a very important amendment. I 
+apologize for having such little time.
+  This amendment makes sure that foreign manufacturers comply with the 
+U.S. Court rules if they choose to have their goods sold in this 
+country, and that includes discovery, which is one of the most 
+important parts of court rules, if there is a lawsuit against a foreign 
+manufacturer.
+  Our hearings revealed that many times our liability laws are of 
+little use against foreign companies because it is so difficult to 
+obtain jurisdiction over them and obtain discovery of the documents 
+necessary to establish legal liability. And that is why within my 5 
+minutes I have asked the former chairman of the Committee on Energy and 
+Commerce, the gentleman from Michigan [Mr. Dingell], and the gentleman 
+from Illinois [Mr. Durbin] to share this time with me.
+  Mr. Chairman, I think my amendment will make sure that foreign firms 
+can be brought to justice in this country just as American companies 
+can be.
+  Mr. Chairman, I yield 2 minutes to the gentleman from Michigan [Mr. 
+Dingell].
+  Mr. DINGELL. I thank the gentleman for yielding this time to me.
+  Mr. Chairman, this is a fair amendment. It treats American 
+corporations and foreign corporations in American courts exactly the 
+same way. If you are interested in fairness, this is an amendment to 
+vote for because it says foreign corporations must make the same 
+disclosures in American courts under discovery process that must be 
+made by American corporations.
+  If you are interested in competitiveness, this is an amendment on 
+which you should vote. The argument for this legislation is that it is 
+going to contribute to competitiveness. Well, if it is going to do so, 
+it should do it fairly and completely. This says that foreigners do not 
+get a greater advantage in dealing with American courts and American 
+litigants than the foreign corporation. It says they have got to make 
+the same discovery. Discovery is absolutely essential to the judicial 
+process. Without fair discovery, there can be no fair judicial process, 
+and without discovery in product liability suits, there can clearly be 
+no discovery.
+  Without this amendment, what the bill will say is American 
+corporations in court on product liability suits involving perhaps the 
+same matter that might be involved with the litigation by a foreign 
+corporation, have to disclose their whole case, but foreign 
+corporations do not.
+  If you want American corporations to be competitive in a market in 
+which foreigners sell better than $500 billion 
+[[Page H2931]] worth of goods, my suggestion is that you should then 
+vote for this amendment. It is fair, it protects American corporations, 
+it contributes to competitiveness, and it is in the interest of the 
+United States.
+  Vote for the Conyers amendment.
+  The CHAIRMAN. The Chair inquires, is there a Member who wishes to 
+manage time in opposition to the amendment?
+  Mr. HYDE. I do, Mr. Chairman.
+  The CHAIRMAN. The distinguished gentleman from Illinois [Mr. Hyde], 
+chairman on the Committee of the Judiciary, is recognized for 5 
+minutes.
+  Mr. HYDE. Mr. Chairman, I yield myself such time as I may consume.
+  Mr. Chairman, I oppose the amendment offered by the gentleman from 
+Michigan because it raises significant constitutional and international 
+law questions, represents a serious potential irritant in our bilateral 
+relations with other countries, and raises the specter of foreign 
+retaliation against American firms. For the United States to take 
+unilateral action that is likely to be perceived as overbearing in 
+character and constituting an affront to other nations is shortsighted 
+and counterproductive.
+  The due process clause of the fifth amendment and principles of 
+international law are implicated when we purport to confer jurisdiction 
+on a U.S. court over a foreign manufacturer based merely on the fact 
+that the manufacturer knew or reasonably should have known that the 
+product would be imported into the United States. The criteria for U.S. 
+jurisdiction in the amendment would even embrace situations where a 
+manufacturer might not want its product imported into this country but 
+knew or reasonably should have known that that eventuality would 
+materialize in spite of its wishes.
+  The extent to which American statutes apply to foreign nationals 
+already is a point of contention in our relations with other countries. 
+Prudence dictates that we proceed cautiously in this arena rather than 
+act precipitously without adequate consideration. Although the author 
+of this amendment offered another amendment in the Committee on the 
+Judiciary markup relating to service of process on a foreign 
+manufacturer, our committee did not have the opportunity to give any 
+consideration to the proposal now presented to this body.
+  There are internationally recognized procedures for Americans, 
+litigating matters in the United States, to obtain relevant information 
+or material from foreign countries. These procedures involve going 
+initially to an American court--with the discovery request eventually 
+being presented to the appropriate foreign court.
+  Many countries react negatively to U.S. discovery procedures--and 
+efforts to give extraterritorial effect to discovery orders of U.S. 
+courts, by deeming failure to comply as an admission, fail to show 
+appropriate deference to the sensibilities and prerogatives of other 
+countries. Our own discovery practices have been subject to severe 
+criticism even within the United States--and efforts to export them in 
+circumvention of the courts of a foreign country are unjustified. The 
+extent to which failure to furnish material is deemed an admission 
+under proposed section 110(b) is overbroad, in any event, because the 
+admission embraces any fact with respect to which the discovery order 
+relates even though the testimony, document, or other thing that is 
+sought may turn out to be irrelevant.
+  The potential for foreign retaliation cannot be overlooked when we 
+contemplate the possibility of foreign countries taking the position 
+that American firms must respond in foreign courts--under foreign law--
+when the particular product is sold or used there.
+  The new proposed section also raises significant interpretive 
+problems when we try to give content to the term ``foreign 
+manufacturer.'' U.S. manufacturers, for example, often have affiliates 
+in other countries that manufacture component parts. The ambiguity of 
+the reference to foreign manufacturer in proposed section 110 
+undoubtedly would precipitate much litigation.
+  It makes much more sense, in my judgment, to place primary emphasis 
+in resolving this type of issue on international conventions and 
+bilateral agreements. This body is not in a position today to 
+contribute in a helpful way to addressing this subject.
+  I urge the defeat of the amendment.
+  Mr. CONYERS. Mr. Chairman, I yield myself 30 seconds.
+  Mr. Chairman, what we just heard explained as the reason for opposing 
+this amendment is absolutely astonishing. We are saying we should not 
+subject a foreign manufacturer to our legal process because of free 
+trade considerations. Now, ladies and gentlemen, if we are prepared to 
+say that they should have a more lenient way in our courts than our own 
+manufacturers, I will be astounded to hear such a statement.
+  Mr. Chairman, I yield the balance of my time to the distinguished 
+gentleman from Illinois [Mr. Durbin].
+  Mr. DURBIN. I thank the gentleman for yielding this time to me.
+  Mr. Chairman, the position taken by the Republicans in opposition to 
+the Conyers amendment is going to give free trade a bad name. If 
+foreign corporations want to sell their products to Americans in 
+America, they should be subject to our laws.
+  Consider this possibility: There is a collision in my hometown of 
+Springfield between a car made in Detroit and one made in Tokyo. People 
+are severely injured. There is a suspicion that one of these cars had 
+some type of defect in its brakes, for example, but we are not sure 
+which one. So the person who is injured goes to court and sues both the 
+American car company and the Japanese car company. Guess what? You can 
+discover all the documents in the world from the American car company 
+to find out whether you have a claim. But as soon as you try to get the 
+Japanese car makers to supply this information, they say, as the 
+gentleman from Illinois [Mr. Hyde] said, ``No, no, no, it is a matter 
+of international treaty. You can't find this out. You have to go to 
+Tokyo.''
+  We bought the car in Springfield, but you have to go to Tokyo for 
+discovery. Let me tell you what we are talking about here is 
+concealment and evasion. If my colleagues want to get up here, wave 
+their American flags, and vote ``Buy American'' day in and day out, for 
+goodness sakes, take a look at what this amendment says. If foreign 
+corporations want to sell products to American consumers, why in the 
+world should they not comply with American law?
+  The CHAIRMAN. In order to close debate, the gentleman from Illinois 
+[Mr. Hyde] is recognized for 1 minute.
+  Mr. HYDE. Mr. Chairman, this amendment is unfair, it violates due 
+process by allowing suits against corporations that ``should have 
+known'' their products would be sold in the United States. It violates 
+the fundamental principles of fairness, and it subjects corporations to 
+suits that might never have intended to do business over here.
+  I know the distinguished gentleman from Illinois [Mr. Durbin] who 
+just spoke is familiar with the Hague Convention on the taking of 
+evidence abroad. He would not intentionally want to violate those rules 
+of discovery of foreign corporations which already exist. The amendment 
+is unnecessary. It casts too large a net. We are subject to 
+retaliation. There is no definition of a foreign manufacturer.
+  There are just so many things wrong with this that I urge a ``no'' 
+vote.
+  The CHAIRMAN. All time has expired on this amendment.
+  The question is on the amendment offered by the gentleman from 
+Michigan [Mr. Conyers].
+  The question was taken; and the Chairman announced that the ayes 
+appeared to have it.
+
+
+                             Recorded Vote
+  Mr. HYDE. Mr. Chairman, I demand a recorded vote.
+  A recorded vote was ordered.
+  The vote was taken by electronic device, and there were--ayes 258, 
+noes 166, not voting 10, as follows:
+                             [Roll No. 221]
+                               AYES--258
+     Abercrombie
+     Ackerman
+     Allard
+     Andrews
+     Bachus
+     Baesler
+     Baldacci
+     Barcia
+     Barrett (WI)
+     Bateman
+     Becerra
+     Beilenson
+     Bentsen
+     Bereuter
+     Berman
+     Bevill
+     Bishop
+     Blute
+     Boehlert
+     Bonior
+     Borski
+     Boucher
+     Brewster
+     Browder
+     Brown (CA)
+     Brown (FL)
+     Brown (OH)
+     Brownback
+     Bryant (TX)
+     Bunn
+     Cardin
+     Chambliss
+     Chapman
+     Chenoweth
+     Clay
+     Clayton
+     Clement
+     Clinger
+     Clyburn
+     [[Page H2932]] Coleman
+     Collins (IL)
+     Collins (MI)
+     Condit
+     Conyers
+     Cooley
+     Costello
+     Coyne
+     Cramer
+     Crapo
+     Danner
+     de la Garza
+     Deal
+     DeFazio
+     Dellums
+     Deutsch
+     Diaz-Balart
+     Dicks
+     Dingell
+     Dixon
+     Doggett
+     Dooley
+     Doolittle
+     Doyle
+     Duncan
+     Durbin
+     Edwards
+     Emerson
+     Engel
+     Ensign
+     Eshoo
+     Evans
+     Farr
+     Fattah
+     Fazio
+     Fields (LA)
+     Filner
+     Foglietta
+     Forbes
+     Ford
+     Fowler
+     Fox
+     Frank (MA)
+     Frost
+     Furse
+     Gallegly
+     Gejdenson
+     Gephardt
+     Geren
+     Gibbons
+     Gillmor
+     Gilman
+     Gonzalez
+     Gordon
+     Graham
+     Green
+     Gunderson
+     Gutierrez
+     Hall (OH)
+     Hamilton
+     Harman
+     Hastings (FL)
+     Hayes
+     Hayworth
+     Hefley
+     Hefner
+     Hinchey
+     Hobson
+     Holden
+     Horn
+     Hostettler
+     Hoyer
+     Hunter
+     Jackson-Lee
+     Jacobs
+     Jefferson
+     Johnson (SD)
+     Johnson, E. B.
+     Johnston
+     Jones
+     Kanjorski
+     Kaptur
+     Kennedy (MA)
+     Kennedy (RI)
+     Kildee
+     Kleczka
+     Klink
+     LaFalce
+     Lantos
+     Laughlin
+     Levin
+     Lewis (GA)
+     Lincoln
+     Lipinski
+     Lofgren
+     Longley
+     Lowey
+     Luther
+     Maloney
+     Manton
+     Markey
+     Martinez
+     Mascara
+     Matsui
+     McCarthy
+     McDade
+     McDermott
+     McHale
+     McInnis
+     McIntosh
+     McKinney
+     McNulty
+     Meehan
+     Meek
+     Menendez
+     Metcalf
+     Meyers
+     Mfume
+     Miller (CA)
+     Mineta
+     Minge
+     Mink
+     Moakley
+     Mollohan
+     Montgomery
+     Murtha
+     Nadler
+     Neal
+     Ney
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Orton
+     Owens
+     Pallone
+     Parker
+     Pastor
+     Payne (NJ)
+     Payne (VA)
+     Pelosi
+     Peterson (FL)
+     Peterson (MN)
+     Petri
+     Pickett
+     Pombo
+     Pomeroy
+     Poshard
+     Pryce
+     Rahall
+     Ramstad
+     Reed
+     Regula
+     Reynolds
+     Richardson
+     Riggs
+     Rivers
+     Roberts
+     Roemer
+     Rohrabacher
+     Rose
+     Roth
+     Roukema
+     Roybal-Allard
+     Royce
+     Rush
+     Sabo
+     Sanders
+     Sawyer
+     Scarborough
+     Schiff
+     Schroeder
+     Schumer
+     Scott
+     Serrano
+     Shuster
+     Sisisky
+     Skaggs
+     Skelton
+     Slaughter
+     Smith (MI)
+     Spratt
+     Stark
+     Stearns
+     Stenholm
+     Stokes
+     Studds
+     Stupak
+     Tanner
+     Tate
+     Tauzin
+     Taylor (MS)
+     Tejeda
+     Thompson
+     Thornton
+     Thurman
+     Torres
+     Torricelli
+     Traficant
+     Tucker
+     Velazquez
+     Vento
+     Visclosky
+     Volkmer
+     Walsh
+     Wamp
+     Ward
+     Waters
+     Watt (NC)
+     Waxman
+     Weldon (PA)
+     Williams
+     Wilson
+     Wise
+     Wolf
+     Woolsey
+     Wyden
+     Wynn
+     Yates
+                               NOES--166
+     Archer
+     Armey
+     Baker (CA)
+     Ballenger
+     Barr
+     Barrett (NE)
+     Bartlett
+     Barton
+     Bass
+     Bilbray
+     Bilirakis
+     Bliley
+     Boehner
+     Bonilla
+     Bono
+     Bryant (TN)
+     Bunning
+     Burr
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Canady
+     Castle
+     Chabot
+     Christensen
+     Chrysler
+     Coble
+     Coburn
+     Collins (GA)
+     Combest
+     Cox
+     Crane
+     Cremeans
+     Cubin
+     Cunningham
+     Davis
+     DeLay
+     Dickey
+     Dornan
+     Dreier
+     Dunn
+     Ehlers
+     Ehrlich
+     English
+     Everett
+     Ewing
+     Fawell
+     Fields (TX)
+     Flanagan
+     Foley
+     Franks (CT)
+     Franks (NJ)
+     Frelinghuysen
+     Frisa
+     Funderburk
+     Ganske
+     Gekas
+     Gilchrest
+     Goodlatte
+     Goodling
+     Goss
+     Greenwood
+     Gutknecht
+     Hall (TX)
+     Hancock
+     Hansen
+     Hastert
+     Hastings (WA)
+     Heineman
+     Herger
+     Hilleary
+     Hoekstra
+     Hoke
+     Hutchinson
+     Hyde
+     Inglis
+     Istook
+     Johnson (CT)
+     Johnson, Sam
+     Kasich
+     Kelly
+     Kim
+     King
+     Kingston
+     Klug
+     Knollenberg
+     Kolbe
+     LaHood
+     Largent
+     Latham
+     LaTourette
+     Lazio
+     Leach
+     Lewis (CA)
+     Lewis (KY)
+     Lightfoot
+     Linder
+     Livingston
+     Lucas
+     Manzullo
+     Martini
+     McCollum
+     McCrery
+     McHugh
+     McKeon
+     Mica
+     Miller (FL)
+     Molinari
+     Moorhead
+     Morella
+     Myers
+     Myrick
+     Nethercutt
+     Neumann
+     Norwood
+     Nussle
+     Oxley
+     Packard
+     Paxon
+     Porter
+     Portman
+     Quillen
+     Quinn
+     Radanovich
+     Rogers
+     Ros-Lehtinen
+     Salmon
+     Sanford
+     Saxton
+     Schaefer
+     Seastrand
+     Sensenbrenner
+     Shadegg
+     Shaw
+     Shays
+     Skeen
+     Smith (NJ)
+     Smith (TX)
+     Smith (WA)
+     Solomon
+     Souder
+     Spence
+     Stockman
+     Stump
+     Talent
+     Taylor (NC)
+     Thomas
+     Thornberry
+     Tiahrt
+     Torkildsen
+     Upton
+     Vucanovich
+     Waldholtz
+     Walker
+     Watts (OK)
+     Weldon (FL)
+     Weller
+     White
+     Whitfield
+     Wicker
+     Young (AK)
+     Young (FL)
+     Zeliff
+     Zimmer
+                             NOT VOTING--10
+     Baker (LA)
+     DeLauro
+     Flake
+     Hilliard
+     Houghton
+     Kennelly
+     LoBiondo
+     Moran
+     Rangel
+     Towns
+  Messrs. PAXON, COBLE, and CHRYSLER changed their vote from ``aye'' to 
+``no.''
+  Messrs. BLUTE, WAMP, JONES of North Carolina, CHAMBLISS, POMBO, 
+GALLEGLY, ROTH, PETRI, HORN, HAYWORTH, RAMSTAD, RIGGS, ROHRABACHER, 
+HOBSON, McINTOSH, ROYCE, BEREUTER, CRAPO, CLINGER, and BACHUS, Ms. 
+PRYCE, Mrs. CHENOWETH, and Mrs. FOWLER changed their vote from ``no'' 
+to ``aye.''
+  So the amendment was agreed to.
+  The result of the vote was announced as above recorded.
+                          personal explanation
+  Mr. MORAN. Mr. Chairman, during rollcall vote No. 221 on H.R. 956 I 
+was unavoidably detained. Had I been present I would have voted 
+``aye.''
+  The CHAIRMAN. It is now in order under the rule to consider amendment 
+No. 6 printed in <strong>House</strong> Report 104-72.
+
+
+            amendment offered by mr. watt of north carolina
+  Mr. WATT of North Carolina. Mr. Chairman, I offer an amendment made 
+in order under the rule.
+  The CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+       Amendment offered by Mr. Watt of North Carolina: Page 17, 
+     lines 16-17, strike ``by clear and convincing evidence''.
+       Page 20, lines 4-11, strike the section in its entirety and 
+     renumber the subsequent sections accordingly.
+  The CHAIRMAN. Pursuant to the rule, the gentleman from North Carolina 
+[Mr. Watt] will be recognized for 10 minutes, and a Member opposed will 
+be recognized for 10 minutes.
+  The Chair recognizes the gentleman from North Carolina [Mr. Watt].
+  Mr. WATT of North Carolina. Mr. Chairman, I yield myself 4 minutes.
+  Mr. Chairman, let me put this in perspective for my colleagues, 
+because this started out to be a part of a three-amendment package. 
+Unfortunately, two of the three amendments the Committee on Rules did 
+not see fit to make in order. So I want to talk a minute about the 
+other two amendments and put this in context.
+  No. 1, this bill clearly preempts State law insofar as substantive 
+law is concerned on products liability and in the area of punitive 
+damages. But the bill actually goes beyond that to preempt State law, 
+procedural law, by not only telling the States what standard of proof 
+will be required, but also what the burden of proof will be in their 
+courts.
+  The bill then, after it has preempted both procedural and substantive 
+State law, says you cannot have access to the Federal courts under any 
+circumstances to do any of this, so in effect it mandates the State 
+courts not only the substance of what they shall apply as law, but the 
+procedure by which they must apply the substantive law.
+  In North Carolina, in punitive damages cases, the burden of proof is 
+beyond a preponderance of the evidence. That is the standard you must 
+meet to win a case in North Carolina and in most State courts. This 
+bill takes the standard and raises it to a standard of clear and 
+convincing evidence, and by doing so not only preempts the substantive 
+law of the State, but also preempts the procedural law of the State.
+  For my colleagues who have any respect for States' rights, it is one 
+thing to say we will tell you what law to apply. It is an entirely 
+different thing to say to the States we will tell you how to apply that 
+law and how much of the evidence will be required to win a case and how 
+you should try the case.
+  My colleagues, what I am trying to do by striking this clear and 
+convincing evidence standard which is in this bill is to protect the 
+integrity of our law in North Carolina insofar as we can do so to make 
+sure that we at least begin to maintain the integrity of our procedural 
+laws in North Carolina, even if my colleagues will not respect the 
+substantive law in North Carolina.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. HYDE. Mr. Chairman, I rise in opposition to the amendment.
+  The CHAIRMAN. The gentleman is recognized for 10 minutes.
+  Mr. HYDE. Mr. Chairman, I thank the chairman for yielding me this 
+time.
+  The amendment offered by the gentleman from North Carolina would 
+strike section 201 of the bill, the clear and convincing evidence 
+standard in punitive damages cases. This is an intermediate burden of 
+proof that is higher than preponderance of the evidence, the general 
+rule in civil cases, and a lower standard than proof beyond 
+[[Page H2933]] a reasonable doubt, which is the burden in criminal 
+cases. Because punitive damages are not designed to compensate injured 
+parties, but rather to punish or to deter egregious conduct, a higher 
+threshold than that required for establishing a right to compensation 
+seems entirely appropriate. It is inconsistent with our concept of 
+fairness to impose punishment in the form of punitive damages merely on 
+the basis of showing a probability, perhaps a 51-percent likelihood.
+  The discussion of this subject in the American Law Institute 
+Reporters' Study on Enterprise Responsibility for Personal Injury in 
+1991 has this to say:
+       In the case of punitive damages, the immediate victim's 
+     interests are not as important as society's need for optimal 
+     care, which includes avoiding overdeterrence and undue risk 
+     aversion by defendants to the detriment of people who need 
+     their goods and services. While the full-blown retributive 
+     rationale for punitive damages might suggest imposition of 
+     the criminal law standard of proof ``beyond a reasonable 
+     doubt,'' what is at issue here is a civil monetary penalty 
+     against an organization, not the criminal condemnation and 
+     deprivation of liberty (or even life) of an individual. 
+     Consequently, we endorse the emerging consensus among legal 
+     scholars, practitioners, and state legislators in favor of an 
+     intermediate ``clear and convincing evidence'' burden of 
+     proof.
+  That is exactly what we have in this bill.
+  The report of the Special Committee on Punitive Damages of the 
+American Bar Association, its section on litigation, reached the same 
+result. What they said in their report:
+       Because one of the purposes of punitive damages is 
+     punishment, the committee feels that it is important that 
+     persons who are not guilty of conduct warranting an award of 
+     punitive damages should not be punished. The value in 
+     ensuring that innocent defendants are not held liable for 
+     punitive damages overrides the effects of a small number of 
+     instances where guilty defendants might not be held liable. 
+     The committee concludes, therefore, that the ``clear and 
+     convincing'' burden of proof is appropriate for an award of 
+     punitive damages.
+
+
+
+  That is what we have in this legislation. If we allow punitive damage 
+awards based on too loose an evidentiary standard, we risk punishing 
+defendants unfairly, and exacerbate pressures to offer settlements in 
+cases of tenuous liability. Consumers of goods and services often end 
+up paying the cost of inappropriate awards of punitive damages. For 
+these reasons, I believe the standard of clear and convincing evidence 
+is fair and reasonable. It is not a mere preponderance; it is not 
+beyond a reasonable doubt; it is right in the middle, clear, and 
+convincing evidence. The American Bar Association, recommends it; the 
+American Law Institute recommends it; and I recommend it.
+  Mr. Chairman, the amendment offered by the gentleman from North 
+Carolina would strike from section 201 of the bill the ``clear and 
+convincing evidence'' standard in punitive damages cases. This is an 
+intermediate burden of proof that is a higher standard than 
+``preponderance of the evidence,'' the general rule in civil cases, and 
+a lower standard than ``proof beyond a reasonable doubt,'' the burden 
+in criminal cases.
+  Because punitive damages are not designed to compensate injured 
+parties but rather punish or deter egregious conduct, a higher 
+threshold than that required for establishing a right to compensation 
+seems entirely appropriate. It is inconsistent with our concept of 
+fairness to impose punishment, in the form punitive damages, merely on 
+the basis of showing a probability--perhaps a 51-percent likelihood.
+  The discussion of this subject in the American Law Institute 
+Reporters' Study on Enterprise Responsibility for Personal Injury 
+[1991] is particularly pertinent:
+       [I]n the case of punitive damages, the immediate victim's 
+     interests are not as important as society's need for optimal 
+     care, which includes avoiding overdeterrence and undue risk 
+     aversion by defendants to the detriment of people who need 
+     their goods and services. While the full-blown retributive 
+     rationale for punitive damages might suggest imposition of 
+     the criminal law standard of proof ``beyond a reasonable 
+     doubt,'' what is at issue here is a civil monetary penalty 
+     against an organization, not the criminal condemnation and 
+     deprivation of liberty (or even life) of an individual. 
+     Consequently, we endorse the emerging consensus among legal 
+     scholars, practitioners, and state legislators in favor of an 
+     intermediate ``clear and convincing evidence'' burden of 
+     proof.
+  The Report of the Special Committee on Punitive Damages of the 
+American Bar Association Section of Litigation [1986] reached the same 
+result. That report concludes:
+       Because one of the purposes of punitive damages in 
+     punishment, the committee feels that it is important that 
+     persons who are not guilty of conduct warranting an award of 
+     punitive damages should not be punished. The value in 
+     insuring that innocent defendants are not held liable for 
+     punitive damages overrides the effects of a small number of 
+     instances where guilty defendants might not be held liable. 
+     The committee concludes, therefore, that the ``clear and 
+     convincing'' burden of proof is appropriate for an award of 
+     punitive damages.
+  If we allow punitive damages awards based on too loose an evidentiary 
+standard, we not only risk punishing defendants unfairly but also 
+exacerbate pressures to offer settlements in cases of tenuous 
+liability. Consumers of goods and services often end up paying the 
+costs of inappropriate awards of punitive damages.
+
+
+  For all these reasons, I believe the standard of ``clear and 
+convincing evidence'' is fair and reasonable. I urge the defeat of the 
+pending amendment.
+                              {time}  1515
+  Mr. BERMAN. Mr. Chairman, will the gentleman yield?
+  Mr. HYDE. I yield to the gentleman from California.
+  Mr. BERMAN. The gentleman makes a very good, well-documented case for 
+the appropriateness of the clear and convincing standard.
+  Mr. HYDE. I thank the gentleman.
+  Mr. BERMAN. But what he has not said one word about is why we should 
+be pushing our judgment onto a State in an area of which there is no 
+Federal interest in deciding whether it wants a higher standard or a 
+lower standard.
+  Mr. HYDE. Reclaiming my time, Mr. Chairman, there is a great interest 
+in standardizing the elements of proof. We are trying to have a 
+products liability and litigation standard that transcends the 50 
+boundaries, so as to not have 50 separate standards. It seems to me, 
+when you get to the subject of punitive damages, which can affect the 
+entire stream of commerce, it is beneficial to have a standard level of 
+proof.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. WATT of North Carolina. Mr. Chairman, I yield 2 minutes to the 
+gentleman from Virginia [Mr. Scott].
+  Mr. SCOTT. Mr. Chairman, I think we need to put this amendment and 
+others into context, because this is not the only bill that we have 
+passed regarding this subject. We have the loser pays bill that is 
+designed to get rid of frivolous lawsuits, but it also has an impact on 
+lawsuits like this.
+  If you had a case, for example, that you could win under the present 
+law and this change comes about, you had a case that was previously a 
+winner, now is a loser on the punitive damages. And if you failed to 
+settle the case for what was offered and because of this higher 
+standard, you come in a little bit under what was offered, you now have 
+a frivolous lawsuit, in which case you have to pay both sides 
+attorney's fees.
+  Mr. Chairman, there is a case in 1984 where a plaintiff presented 
+evidence in a case involving bandages that had been contaminated and 
+they had bought the bandages, the warehouse, they had already been 
+notified about the contamination. The quality control advisor had told 
+them that the bandages were contaminated. And they were used, sold 
+anyway, and a person was injured. Damages totaled, medical damages of 
+only $4,200. But if that case had not been settled, and they received 
+punitive damages under the present law, if this amendment is not 
+adopted and they lost the case because of the higher standard, that 
+would now be a frivolous case and they could be in a situation where 
+they are paying not only their attorney's fees but the other attorney's 
+fees.
+  Mr. Chairman, I would hope that we would leave it up to the States, 
+not change the standard and not turn the clock back on consumer 
+protection, because the fact that these cases can be brought means that 
+other consumers can have bandages that are not contaminated, because 
+the companies have not had to pay the punitive damages.
+  Mr. Chairman, this is a very valuable amendment. I hope we leave it 
+up to the States to decide what the standard ought to be.
+  Mr. HYDE. Mr. Chairman, would the Chair advise how much time I have 
+left?
+  The CHAIRMAN. The gentleman from Illinois [Mr. Hyde] has 5 minutes 
+remaining, and the gentleman from North Carolina [Mr. Watt] has 4 
+minutes remaining.
+  [[Page H2934]] Mr. HYDE. Mr. Chairman, I yield myself 1 minute.
+  I just wish to say, we are talking about punitive damages, which can 
+have a serious impact on the economy, on jobs. They can extend, and do 
+extend, well beyond the borders of a State. The purpose of this 
+legislation is to standardize, as much as possible, in a fair way, the 
+elements of proof that impact on our economy. If we want to have 50 
+patchwork sets of laws to deal with the economy and deal with products 
+liability, why, I suppose we can. But the purpose of this legislation 
+is to assist manufacturers, to give some certitude, some 
+predictability, to do away with lawsuit abuse, forum shopping. 
+Therefore, I must resist the gentleman's amendment.
+  Mr. WATT of North Carolina. Mr. Chairman, I yield 1\1/2\ minutes to 
+the gentlewoman from North Carolina [Mrs. Clayton].
+  Mrs. CLAYTON. Mr. Chairman, I rise in support of the Watt amendment. 
+The bill before us would take certain legal standards in a direction 
+that is inconsistent with our system of justice. First, under the bill, 
+the burden of proof in awarding punitive damages would be imposed by 
+the Federal Government, thereby preempting the States from regulating 
+this area. And, second, the bill imposes an awkward standard of proof 
+in civil litigation that would make it unusually and unfairly difficult 
+for victims to recover.
+  The Watt amendment corrects these imperfections.
+  The bill establishes a standard of ``clear and convincing'' evidence 
+as the burden of proof for the award of punitive damages. A victim 
+would have to show that the defendant, first, specifically intended to 
+cause harm and, second, manifested a conscious, flagrant indifference 
+to the safety of others.
+  These new requirements would totally change the punitive damages 
+burden of proof in each of the 50 States. It has been my understanding, 
+Mr. Chairman, that the majority has been pressing to return power to 
+the States, not to take it away. The bill language takes power from the 
+States and imposes a federally created standard.
+  More importantly, however, the bill creates a new standard in civil 
+litigation. Currently, the standard is ``preponderance of the 
+evidence.'' Apparently, under the bill, the preponderance standard 
+would apply in the case in the main, but the ``clear and convincing'' 
+standard would apply in assessing punitive damages. That is an awkward 
+way to proceed and, in my view an unfair and unequitable way to 
+proceed.
+  If you support the rights of States, and if you support a level 
+playing field among litigants, support the Watt amendment.
+  Mr. HYDE. Mr. Chairman, I yield 2 minutes to the distinguished 
+gentleman from Ohio [Mr. Hoke], a member of the committee.
+  Mr. HOKE. Mr. Chairman, I think we have forgotten again what the 
+basis is of punitive damages. Punitive damages comes from the doctrine 
+of punishment which is really a quasi-criminal remedy. It is not 
+strictly a civil remedy. That is the whole purpose of raising the 
+standard of proof.
+  As we all know, lawyers on this committee know that the standard of 
+proof, when it comes to proving a crime, is one of ``beyond a 
+reasonable doubt.'' And when you are merely proving a civil case, it is 
+the ``preponderance of the evidence.'' Well, ``clear and convincing'' 
+is in between.
+  We are not talking about compensation here. We are talking about 
+punishment. If we are going to go to a standard of proof that is going 
+to mete out punishment, then we should require that that standard of 
+proof be higher than the normal standard of proof that you find in a 
+civil case.
+  While you can talk about States' rights or you can make other 
+arguments until your heart is content, the fact is that what is really 
+going on here is the need to have a standard of proof which meets the 
+remedy. And the remedy is punitive, punishing--punishing the 
+wrongdoer--if we are going to go to that point, after having 
+compensated the victim for either his or her personal injuries or for 
+property damages, to have a higher standard of proof. Otherwise, it is 
+simply not fair and it is a way of using the civil justice system as a 
+substitute for the criminal justice system in a way that is completely 
+unintended, never was intended by our justice system and simply will 
+not work.
+  Finally, it will undermine the confidence of the public in a system 
+when they cannot predict what the outcomes are going to be, when they 
+do not know what is going to happen and when they know that it is 
+easier to get a punitive damage award for punishment at the civil bar 
+than it is to actually convict someone of a crime at the criminal bar.
+  For all those reasons, I very strongly urge that we defeat this 
+amendment.
+  Mr. WATT of North Carolina. Mr. Chairman, I yield 1 minute to the 
+gentleman from California [Mr. Berman].
+  Mr. BERMAN. Mr. Chairman, I listened to the gentleman from Ohio and I 
+finally got it. New Jersey has a law that provides punitive damages 
+uncapped for suits against sexual predators. They have a standard of 
+``preponderance of the evidence.''
+  How can we allow 50 different States to have 50 different standards 
+against sexual predators? Sexual predators should know what the 
+uniform, nationwide, 50-State standard is for punitive damages. This is 
+a punitive kind of a thing. We have to protect these people against 
+actions against them. Stream of commerce? Come on. Give me a break.
+  Mr. WATT of North Carolina. Mr. Chairman, I yield 1 minute to the 
+gentleman from Texas [Mr. Doggett] .
+  Mr. DOGGETT. Mr. Chairman, at the same time last year I sat on the 
+highest State court in the State of Texas, struggling with this very 
+issue. Our court looked at what the standard should be on the question 
+of punitive damages. It looked at ``clear and convincing evidence.'' It 
+looked at burden by ``a preponderance.'' It looked beyond ``a 
+reasonable doubt,'' and it chose not to pursue this standard.
+  Other States have chosen to pursue the ``clear and convincing'' 
+standard. There are some good arguments for it. But the one thing that 
+is clear and very convincing about this debate is that our States are 
+being denied that right and that people that come here praising the 
+10th amendment are shredding it in the course of this debate and are 
+saying that State jurists and legal scholars and State legislators 
+around this country shall not have the right to set the standard that 
+will apply to their citizens.
+  So much of this debate is build on the theory that we not only need 
+trickle-down economics, that what we need is trickle-down government 
+and that it ought to trickle down from Washington instead of gushing up 
+from the people and their State and local leaders.
+  I reject that, as this amendment does.
+  Mr. WATT of North Carolina. Mr. Chairman, I yield myself the balance 
+of my time.
+  The CHAIRMAN. The gentleman from North Carolina [Mr. Watt] is 
+recognized for 1 minute.
+  Mr. WATT of North Carolina. Mr. Chairman, it is clear that this is 
+not about what the appropriate standard should be for burden of proof 
+for punitive damages. The issue is not what that appropriate standard 
+should be. The issue is, who ought to be setting that standard? If 
+Members believe that the States have a place in our federation, which 
+is what I have heard over and over and over again, I submit to my 
+colleagues that the States ought to be determining for themselves what 
+their own burdens of proof are and that we ought not at this level, at 
+the Federal level, to be telling them that.
+  Regardless of whether we think it ought to be one thing or the other, 
+higher or lower, the States have the right to make this decision, not 
+my colleagues here in this body.
+  Mr. HYDE. Mr. Chairman, I yield the balance of my time to the 
+distinguished gentleman from Wisconsin [Mr. Sensenbrenner].
+  The CHAIRMAN. The gentleman from Wisconsin [Mr. Sensenbrenner] is 
+recognized for 2 minutes.
+  Mr. SENSENBRENNER. Mr. Chairman, I am shocked at listening to the 
+argument from the gentleman from North Carolina [Mr. Watt] and the 
+gentleman from Texas [Mr. Doggett]. That was the same argument that was 
+used 30 years ago in this Chamber by those who were opposed to the 
+civil rights legislation that revolutionized our society.
+  [[Page H2935]] This Congress, 30 years ago used the commerce clause 
+for passing the Civil Rights Act of 1964, one which opened up public 
+accommodations, lunch counters, mom and pop cafes, local city buses to 
+people of all races without discrimination. And that is one of the 
+things that this Congress can take pride in doing.
+  What we are proposing to do here is to use the commerce clause for 
+something that is just as much interstate commerce as the civil rights 
+legislation. And that is to try to have a uniform standard throughout 
+the country on punitive damages so that there will not be forum 
+shopping in a State that has a lower standard on what has to be proven 
+in order to get punitive damages.
+  There are a number of States that have adopted the clear and 
+convincing standard, including California, and Colorado has adopted the 
+beyond a reasonable doubt standard for punitive damages.
+  What will happen in the States that have adopted a higher standard 
+than preponderance of the evidence is that those manufacturers will end 
+up paying much higher product liability insurance premiums even though 
+the people in that State will not be able to enjoy what they are paying 
+for.
+  Consequently, you are going to be seeing people in California, which 
+has passed a clear and convincing evidence standard, through their 
+higher consumer prices, benefiting the people in the other States that 
+have not. This issue should be federalized, and the amendment should be 
+defeated.
+  The CHAIRMAN. All time has expired.
+  The question is on the amendment offered by the gentleman from North 
+Carolina [Mr. Watt].
+  The question was taken; and the Chairman announced that the noes 
+appeared to have it.
+
+
+                             recorded vote
+  Mr. WATT of North Carolina. Mr. Chairman, I demand a recorded vote.
+  A recorded vote was ordered.
+  The CHAIRMAN. This is a 17-minute vote.
+  The vote was taken by electronic device, and there were--ayes 150, 
+noes 278, not voting 6, as follows:
+                             [Roll No. 222]
+                               AYES--150
+     Abercrombie
+     Ackerman
+     Andrews
+     Baldacci
+     Becerra
+     Beilenson
+     Bentsen
+     Berman
+     Bevill
+     Bishop
+     Bonior
+     Brown (CA)
+     Brown (FL)
+     Brown (OH)
+     Bryant (TX)
+     Cardin
+     Chapman
+     Clay
+     Clayton
+     Clyburn
+     Coleman
+     Collins (IL)
+     Collins (MI)
+     Conyers
+     Costello
+     Coyne
+     de la Garza
+     Deal
+     DeFazio
+     DeLauro
+     Dellums
+     Deutsch
+     Dicks
+     Dingell
+     Dixon
+     Doggett
+     Doyle
+     Engel
+     Eshoo
+     Evans
+     Farr
+     Fattah
+     Fields (LA)
+     Filner
+     Flake
+     Foglietta
+     Ford
+     Frost
+     Furse
+     Gejdenson
+     Gephardt
+     Gibbons
+     Green
+     Gutierrez
+     Harman
+     Hastings (FL)
+     Hayes
+     Hefner
+     Hilliard
+     Hinchey
+     Holden
+     Hoyer
+     Jackson-Lee
+     Jefferson
+     Johnson (SD)
+     Johnson, E.B.
+     Johnston
+     Kanjorski
+     Kennedy (MA)
+     Kennedy (RI)
+     Kennelly
+     Kildee
+     Kleczka
+     Klink
+     LaFalce
+     Lantos
+     Levin
+     Lewis (GA)
+     Lipinski
+     Lofgren
+     Lowey
+     Maloney
+     Manton
+     Markey
+     Mascara
+     Matsui
+     McCarthy
+     McDermott
+     McKinney
+     Meehan
+     Meek
+     Menendez
+     Mfume
+     Miller (CA)
+     Mineta
+     Minge
+     Mink
+     Moran
+     Nadler
+     Oberstar
+     Olver
+     Ortiz
+     Orton
+     Owens
+     Pallone
+     Pastor
+     Payne (NJ)
+     Payne (VA)
+     Pelosi
+     Reed
+     Reynolds
+     Rivers
+     Rose
+     Roybal-Allard
+     Rush
+     Sabo
+     Sanders
+     Sawyer
+     Schroeder
+     Schumer
+     Scott
+     Serrano
+     Slaughter
+     Spratt
+     Stark
+     Stokes
+     Studds
+     Stupak
+     Tejeda
+     Thompson
+     Thornton
+     Thurman
+     Torres
+     Towns
+     Traficant
+     Tucker
+     Velazquez
+     Vento
+     Visclosky
+     Volkmer
+     Ward
+     Waters
+     Watt (NC)
+     Waxman
+     Williams
+     Wise
+     Woolsey
+     Wyden
+     Wynn
+     Yates
+                               NOES--278
+     Allard
+     Archer
+     Armey
+     Bachus
+     Baesler
+     Baker (CA)
+     Baker (LA)
+     Ballenger
+     Barcia
+     Barr
+     Barrett (NE)
+     Barrett (WI)
+     Bartlett
+     Barton
+     Bass
+     Bateman
+     Bereuter
+     Bilbray
+     Bilirakis
+     Bliley
+     Blute
+     Boehlert
+     Boehner
+     Bonilla
+     Bono
+     Borski
+     Boucher
+     Brewster
+     Browder
+     Brownback
+     Bryant (TN)
+     Bunn
+     Bunning
+     Burr
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Canady
+     Castle
+     Chabot
+     Chambliss
+     Chenoweth
+     Christensen
+     Chrysler
+     Clement
+     Clinger
+     Coble
+     Coburn
+     Collins (GA)
+     Combest
+     Condit
+     Cooley
+     Cox
+     Cramer
+     Crane
+     Crapo
+     Cremeans
+     Cunningham
+     Danner
+     Davis
+     DeLay
+     Diaz-Balart
+     Dickey
+     Dooley
+     Doolittle
+     Dornan
+     Dreier
+     Duncan
+     Dunn
+     Durbin
+     Edwards
+     Ehlers
+     Ehrlich
+     Emerson
+     English
+     Ensign
+     Everett
+     Ewing
+     Fawell
+     Fazio
+     Fields (TX)
+     Flanagan
+     Foley
+     Forbes
+     Fowler
+     Fox
+     Frank (MA)
+     Franks (CT)
+     Franks (NJ)
+     Frelinghuysen
+     Frisa
+     Funderburk
+     Gallegly
+     Ganske
+     Gekas
+     Geren
+     Gilchrest
+     Gillmor
+     Gilman
+     Gonzalez
+     Goodlatte
+     Goodling
+     Gordon
+     Goss
+     Greenwood
+     Gunderson
+     Gutknecht
+     Hall (TX)
+     Hamilton
+     Hancock
+     Hansen
+     Hastert
+     Hastings (WA)
+     Hayworth
+     Hefley
+     Heineman
+     Herger
+     Hilleary
+     Hobson
+     Hoekstra
+     Hoke
+     Horn
+     Hostettler
+     Hunter
+     Hutchinson
+     Hyde
+     Inglis
+     Istook
+     Jacobs
+     Johnson (CT)
+     Johnson, Sam
+     Jones
+     Kaptur
+     Kasich
+     Kelly
+     Kim
+     King
+     Kingston
+     Klug
+     Knollenberg
+     Kolbe
+     LaHood
+     Largent
+     Latham
+     LaTourette
+     Laughlin
+     Lazio
+     Leach
+     Lewis (CA)
+     Lewis (KY)
+     Lightfoot
+     Lincoln
+     Linder
+     Livingston
+     Longley
+     Lucas
+     Luther
+     Manzullo
+     Martinez
+     Martini
+     McCollum
+     McCrery
+     McDade
+     McHale
+     McHugh
+     McInnis
+     McIntosh
+     McKeon
+     McNulty
+     Metcalf
+     Meyers
+     Mica
+     Miller (FL)
+     Moakley
+     Molinari
+     Mollohan
+     Montgomery
+     Moorhead
+     Morella
+     Murtha
+     Myers
+     Myrick
+     Neal
+     Nethercutt
+     Neumann
+     Ney
+     Norwood
+     Nussle
+     Obey
+     Oxley
+     Packard
+     Parker
+     Paxon
+     Peterson (FL)
+     Peterson (MN)
+     Petri
+     Pickett
+     Pombo
+     Pomeroy
+     Porter
+     Portman
+     Poshard
+     Pryce
+     Quillen
+     Quinn
+     Radanovich
+     Rahall
+     Ramstad
+     Regula
+     Richardson
+     Riggs
+     Roberts
+     Roemer
+     Rogers
+     Rohrabacher
+     Ros-Lehtinen
+     Roth
+     Roukema
+     Royce
+     Salmon
+     Sanford
+     Saxton
+     Scarborough
+     Schaefer
+     Schiff
+     Seastrand
+     Sensenbrenner
+     Shadegg
+     Shaw
+     Shays
+     Shuster
+     Sisisky
+     Skaggs
+     Skeen
+     Skelton
+     Smith (MI)
+     Smith (NJ)
+     Smith (TX)
+     Smith (WA)
+     Solomon
+     Souder
+     Spence
+     Stearns
+     Stenholm
+     Stockman
+     Stump
+     Talent
+     Tanner
+     Tate
+     Tauzin
+     Taylor (MS)
+     Taylor (NC)
+     Thomas
+     Thornberry
+     Tiahrt
+     Torkildsen
+     Torricelli
+     Upton
+     Vucanovich
+     Waldholtz
+     Walker
+     Walsh
+     Wamp
+     Watts (OK)
+     Weldon (FL)
+     Weldon (PA)
+     Weller
+     White
+     Whitfield
+     Wicker
+     Wilson
+     Wolf
+     Young (AK)
+     Young (FL)
+     Zeliff
+     Zimmer
+                             NOT VOTING--6
+     Cubin
+     Graham
+     Hall (OH)
+     Houghton
+     LoBiondo
+     Rangel
+  The clerk announced the following pairs:
+  On this vote:
+       Mr. Rangel for, with Mrs. Cubin against.
+  Mr. POMEROY changed his vote from ``aye'' to ``no.''
+  Mr. FOGLIETTA changed his vote from ``no'' to ``aye.''
+  So the amendment was rejected.
+  The result of the vote was announced as above recorded.
+                          personal explanation
+  Mr. LoBIONDO. Mr. Chairman, I was granted a leave of absence through 
+4 o'clock this afternoon. I would like the Record to reflect that had I 
+been present I would have voted ``Yes'' on rollcall No. 217, ``Yes'' on 
+rollcall No. 218, ``No'' on rollcall No. 219, ``No'' on rollcall No. 
+220, ``Yes'' on rollcall No. 221, and ``No'' on rollcall No. 222.
+  The CHAIRMAN. It is now in order under the rule to consider amendment 
+No. 7 printed in <strong>House</strong> Report 104-72.
+
+
+                     amendment offered by ms. furse
+  Ms. FURSE. Mr. Chairman, I offer an amendment.
+  The CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+       Amendment offered by Ms. Furse: Page 17, strike line 22 and 
+     all that follows through line 2 on page 18 and redesigate the 
+     succeeding subsections accordingly.
+  The CHAIRMAN. Pursuant to the rule, the gentlewoman from Oregon [Ms. 
+Furse] and a Member opposed will each be recognized for 15 minutes.
+  The Chair recognizes the gentlewoman from Oregon [Ms. Furse].
+  Ms. FURSE. Mr. Chairman, I yield myself such time as I may consume.
+  Mr. Chairman, my amendment lifts this bill's caps on punitive damages 
+because the cap in this bill discriminates against women, children, 
+retirees, and low-wage workers. My amendment does not change the high 
+standards of proof needed to get punitive damages.
+  [[Page H2936]] What are punitive damages? They are damages the court 
+sets as a punishment for conscious, flagrant indifference to the safety 
+of others. In the few cases where they have been awarded, just 15 
+nationwide in 1994, they have proved to be effective. They have caused 
+important changes in articles that people use or come in contact with, 
+and these changes have saved lives.
+  This Republican bill for the very first time ties punitive damages to 
+economic damages in such a way that it discriminates because it sets 
+these punitive damages in such a way that injuring a rich person is 
+punished more heavily than injuring a poor person. I ask Members, is 
+that fair? Is that the American way of justice?
+  Under the Republican bill, the punishment of a conscious indifference 
+to the safety of a person whose economic damages were $1 million could 
+be capped at $3 million. Yet the punishment for the same conscious, 
+flagrant indifference to the safety of a person whose economic damages 
+were only $10,000 would be capped at $250,000.
+  Why? Why would we do that? I want to remind my colleagues that women, 
+children, retired persons, people who earn less money than others would 
+all have far smaller economic damages than a person who makes a great 
+deal of money, $1 million a year, say.
+  I am in favor of some cap on punitive damages, but not a cap that 
+discriminates against women and children and low-wage workers.
+  My amendment is simply a fair amendment. It believes that when we 
+punish people for their flagrant disregard for the safety of the people 
+who use a product that they will be punished fairly. I ask a ``yes'' 
+vote on the Furse-Mink amendment.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. HYDE. Mr. Chairman, I rise in opposition to the Furse amendment.
+  The CHAIRMAN. The gentleman from Illinois [Mr. Hyde] will be 
+recognized for 15 minutes to manage the opposition to the Furse 
+amendment.
+  (Mr. HYDE asked and was given permission to revise and extend his 
+remarks.)
+  Mr. HYDE. Mr. Chairman, this amendment eliminates one of the most 
+important features of this bill: the cap on punitive damages. Under 
+section 201(b), a punitive damages award cannot exceed three times the 
+award for economic loss, or $250,000, whichever is greater. Without a 
+cap on punitive damages, our ability to compete in international 
+markets is compromised, the settlement value of cases is inflated, 
+consumers pay higher prices, and defendants face risks out of 
+proportion to injuries sustained.
+  U.S. competitiveness is compromised because many countries of the 
+world do not recognize the concept of punitive damages at all. We, in 
+the United States, allow virtually unlimited punitive damages. The 
+settlement value of cases is greatly inflated because defendants feel 
+pressure to settle cases with very tenuous liability rather than face 
+the possibility of high punitive damages awards. American consumers pay 
+higher prices because American businesses, from manufacturers to 
+service providers, factor their punitive damages exposure into their 
+costs.
+  Punitive damages are not designed to compensate for losses. They are 
+designed to punish wrongdoers, not compensate victims. The provisions 
+in H.R. 956 do not affect, in any way, a victim's full recovery of 
+complete economic damages, such as medical costs and lost wages, or 
+noneconomic damages, such as for pain and suffering and emotional 
+distress.
+  Even, would you believe, the Washington Post editorial staff supports 
+punitive damages reform. Just last Wednesday they wrote that punitive 
+damages reform is ``long overdue, guidelines and limits must be set.''
+  Due process must limit States' authority to impose punitive damages. 
+In a recent case, Pacific Mutual Life Insurance versus Haslip, the U.S. 
+Supreme Court held that the due process clause limits the ability of 
+States to impose punitive damages. The Court expressed concern about 
+punitive damages, which have run wild, and made it clear that this was 
+an area calling for reasonable and rational reform.
+  Punitive damages impede quick settlements. Under today's system, 
+punitive damages vary so greatly and are so uncertain they get in the 
+way of quick settlements.
+  These damages are a total wild card in today's lawsuits. Because 
+under the current system, no one has any idea of what a final punitive 
+damage verdict might be, both sides find it difficult to reach the 
+agreement necessary for speedy resolution.
+  I urge a ``no'' vote on the Furse amendment which removes from the 
+bill the reasonable limits on punitive damage awards.
+  Mr. Chairman, I reserve the balance of my time.
+  Ms. FURSE. Mr. Chairman, I yield 5\1/2\ minutes to the gentlewoman 
+from Hawaii [Mrs. Mink].
+  (Mrs. MINK of Hawaii asked and was given permission to revise and 
+extend her remarks.)
+  Mrs. MINK of Hawaii. Mr. Chairman, I thank the gentlewoman for 
+yielding me time.
+  I am very proud to rise in support of the Furst amendment which I 
+also submitted to the Committee on Rules for consideration. Under our 
+system of justice, individuals who are injured have the absolute right 
+to go to court to seek compensation for damages that they have 
+suffered. This is a basic right under our American system of law and it 
+is a right that has to be defended, and that is why the gentlewoman 
+from Oregon [Ms. Furse] and I are here today, defending the basic 
+fundamental right of all Americans to have the same equal provisions of 
+justice applied to all of us irrespective of whether we work or do not 
+work, whether we are men or women, poor or rich, young or old. The 
+system of justice has to be equal. This section that we are seeking to 
+strike from the bill is an absolute discriminatory provision which goes 
+against women who are homemakers or women who are low-wage earners, 
+children, elderly, and the poor in our society.
+  I find it very difficult to understand why this provision was added 
+to the bill except perhaps it helps insurance companies. Because as I 
+understand the majority party and those that I have worked with over 
+the years, they are champions, absolute champions of individual rights. 
+Besides that, they belabor the point that they do not want interference 
+from the Federal Government of the rights and prerogatives of State 
+governments. This is exactly what we are trying to strike out of the 
+bill, an absolute invasion on the prerogatives of the State to decide 
+how they want to apply this concept of punitive damages under State 
+law.
+  I believe that punitive damages are appropriate and that the State 
+statutes ought to govern how they are to be applied. States have 
+enacted them. They have worked under punitive laws setting up standards 
+and whatever. I do not understand where the justification is for now 
+coming in and overturning all of these State statutes. In fact, when 
+you look at the records of the number of punitive awards that have been 
+made in the last 25 years, there have been only 355 such punitive 
+damage awards. Half of them have been either reduced or overturned. So 
+where is this overwhelming necessity to supplant the State laws with 
+now the wisdom of the Congress of the United States? I submit that the 
+case has not been made for such intervention.
+  The courts ought to be allowed to determine whether punitive damages 
+ought to be leveled and what the damages should be dependent on the 
+egregiousness of the injuries sustained by the victims. There should be 
+no limits and if there has to be one, certainly it has to be 
+nondiscriminatory.
+  Limits that are discriminatory should be banned under any concept of 
+equal justice in America. Where people are allowed to receive more 
+damages, punitive damages because of their economic status, because 
+they are a CEO or they are a rich attorney, is simply not fair. The 
+economic standing of the individual who has gone to court and supported 
+the concept of punitive damages and won that concept by the court 
+should not have those damages limited because they are poor, because 
+they do not work, because they are children, because they are women or 
+because they are retired. Unfortunately this bill sets a punitive 
+damage cap which is unfair and only allows the rich to have the kind of 
+award as indicated here in the chart.
+  [[Page H2937]] Mr. DOGGETT. Mr. Chairman, will the gentlewoman yield?
+  Mrs. MINK of Hawaii. I yield to the gentleman from Texas.
+  Mr. DOGGETT. A couple of questions that the gentlewoman's comments 
+have raised. The first one is I believe every Member has received today 
+a package of old fashioned Girl Scout cookies. Does the gentlewoman 
+have any understanding of why these special interests keep hiding 
+behind the skirts of the Little League and outfits like the Girl Scouts 
+instead of fighting their own battles?
+  Mrs. MINK of Hawaii. I think it is basically because they cannot 
+stand up on their two feet and defend what they are doing to the women 
+and children of this country, so they are using mischievous allegations 
+that the Girl Scouts support this.
+  Mr. DOGGETT. Will the gentlewoman yield for another question?
+  Mrs. MINK of Hawaii. Yes, I yield to the gentleman from Texas.
+  Mr. DOGGETT. If the young women who are pictured on this box of Girl 
+Scout cookies, if they get injured and they are scarred or maimed for 
+life, will they get less unless the amendment is adopted than the 
+corporate lobbyists who sent these boxes of cookies to every Member?
+  Mrs. MINK of Hawaii. Unless they can prove economic damages, which 
+children cannot do, they will get nothing, no matter how egregious the 
+injury and suffering of the children, and I urge this amendment be 
+adopted.
+  Mr. HYDE. Mr. Chairman, I am pleased to yield 3 minutes to the 
+distinguished gentleman from Ohio [Mr. Hoke], a member of the 
+committee.
+  Mr. HOKE. Mr. Chairman, we have heard repeatedly over the past 
+several days of debate that there have been only 350 cases in all of 
+American history that have resulted in the assessment of punitive 
+damages and we have just heard that in fact this movement to try to put 
+some sort of cap on punitive damages is being brought by special 
+interests. But what we are not hearing about from the other side is the 
+biggest special interest of all in the U.S. Congress, and that is the 
+special interest of the trial lawyers. Two million dollars was spent by 
+the trial lawyers in the 1993-94 cycle supporting Democratic 
+candidates.
+  Let us look at the truth about this outrageous claim there have only 
+been 350 cases in all of American history resulting in the assessment 
+of punitive damages. That is complete hogwash and they know it is 
+hogwash. They know there is no central list of punitive damages 
+nationwide and they can pay for studies that will say whatever the 
+lawyers want to say.
+  The case the trial lawyers mentioned represents a fraction of the 
+type of cases in which punitive damages have been recovered. In just 
+the last 4 years in the State of California alone there have been 253 
+jury verdicts in punitive damages cases to the tune of $1.6 billion, 
+and in the past 2 years in four other States there have been 158 
+punitive damages alone. That is all punitive damage awards in just five 
+States since 1990.
+  In order to understand the rationale for capping punitive damages we 
+have to first look at the doctrine that underlines punitive damages 
+themselves. Punitive damages are meant to be punishment for wrongdoing, 
+the civil analog to a criminal fine. As we all know they are in 
+addition to compensatory damages, those are the damages that are meant 
+to compensate the victim for personal injury or damage to property. 
+Punitive damages are a civil remedy that in many ways take on the 
+qualities of a criminal remedy, and it is where the civil and the 
+criminal law intersect.
+  This is why there is a fundamental problem with not having some outer 
+limit on what the jury can render as punitive damages.
+  In order for our system of justice to inspire confidence in the 
+public, it has to be meted out in a dispassionate and evenhanded and 
+fairminded way which is consistent with respect to all parties in all 
+situations or at least as consistent as possible. But the development 
+of the doctrine of punitive damages in the past several decades has 
+actually moved us in the opposite direction and it has moved us in the 
+direction of unpredictability, not evenhandedness and is very much 
+subject to passions which can be aroused by vigorous and inflammatory 
+representation and counsel. To ensure public confidence in our justice 
+system justice cannot be subject to capricious and unpredictable 
+results. This is why in criminal cases we have never given juries the 
+unfettered ability to set maximum fines.
+  Ms. FURSE. Mr. Chairman, I yield 1\1/2\ minutes to the distinguished 
+gentleman from Oregon [Mr. DeFazio].
+  Mr. DeFAZIO. Mr. Chairman, in case Members have not been following 
+the debate closely, it has been a great break for Wall Street and the 
+advice of the day is buy insurance company stocks because this 
+legislation is a tremendous gift to the insurance companies. The 
+gentleman who preceded me talked about generous contributions of the 
+Democrats to the trial lawyers and consumers groups but what he forgot 
+was that more than 12 times as much money flowed from insurance 
+companies and other corporations to the Republican Party. And they are 
+getting their payoff here today.
+  We are going to preempt the judgment of every jury in America on this 
+floor today. The judgment of that side of the aisle is better than 
+those 12 or 10 men and women who sit in judgment of their peers. We are 
+throwing equal justice out the window. We are imposing caps, we are 
+imposing discriminatory caps, caps that say, well, if you are a middle-
+income worker or you are a spouse or you are a child or a college 
+student, you are worth a lot less in terms of punitive damages than a 
+corporate executive.
+  That is what this amendment would overturn. Otherwise we will impose 
+that discrimination, we will give that benefit to the better off, 
+enshrine it in Federal law. We always knew the wealthy have done better 
+in court. Now we are going to mandate that the wealthy do better in 
+court.
+  What about the Ford Pinto? There has not been much discussion of that 
+down here today. Do my colleagues not think there is a place for 
+punitive damages when one of the largest corporations in the world 
+willfully, it knows that its product is defective and it will cause 
+death, and it willfully hides that.
+  Mr. HYDE. Mr. Chairman, I am pleased to yield 4 minutes to the 
+gentleman from Virginia [Mr. Goodlatte], and I would hope the gentleman 
+could tell us some insurance companies that cover punitive damages. My 
+understanding is they will cover negligence, but they do not cover 
+punitive. But apparently they do; the gentleman from Oregon said so.
+  Mr. GOODLATTE. I thank the chairman for yielding me this time and I 
+think he makes an excellent point.
+  This is a very important amendment to defeat, and the reason it is is 
+that it is going to effectively limit our ability as a country to have 
+a due process, a due course for setting public policy in this country. 
+The problem we have is that only in recent decades has it become 
+popular to offer up through juries multimillion dollar punitive damage 
+awards that have the effect of going well beyond what juries were 
+selected to do. And the jury system in this country is an excellent 
+one. It works very well when it is working to resolve disputes between 
+two or more people in court.
+  But when you arbitrarily have a system in this country where a jury 
+in one community in the country can impose a multimillion dollar 
+punitive damage award and have the effect of changing public policy in 
+this country, sometimes good, sometimes not so good, as in the case of 
+a Mercedes Benz scratch on a vehicle where a multimillion-dollar award 
+is made.
+  And how about this case that Justice Lewis Powell wrote about 
+involving an insurance company that appealed a jury's punitive damage 
+award of $3.5
+ million on its alleged bad faith failure to pay $1,650.22 on a $3,000 
+insurance claim. Now where is the predictability and fairness of this 
+to anybody doing business in this country, large business or small, to 
+say that when you have a $3,000 insurance policy, and one of your many 
+thousands of employees screws up and does not pay $1,650, that somebody 
+should be liable for $3.5 million? What kind of windfall is that to the 
+plaintiff in that case? It is absolutely inappropriate and it should 
+not be allowed. That is why these caps are important.
+  The gentlewoman makes a point that there is discrimination in the way 
+this 
+[[Page H2938]] is imposed, because somebody who has larger economic 
+damages will receive more than somebody who has smaller economic 
+damages.
+  In point of fact it could be the reverse, though, because an 
+executive could have very small economic damages and a janitor could 
+have very high medical bills and lost income and so on if it goes for 
+many years.
+  But notwithstanding that point, let me point out this: We can cure 
+this problem by adopting the amendment that is coming up shortly. Why 
+should the plaintiff receive punitive damages in the first place? The 
+plaintiff is rewarded for economic damages. That is the lost income 
+they have. That is the lost future income they have. That is the 
+medical bills they have and other out-of-pocket expenses. In addition, 
+though, they are entitled to noneconomic damages for pain and 
+suffering.
+  This is something that is beyond what the plaintiff has lost, both in 
+terms of their pain and in terms of their actual loss, and it ought to 
+be going to a public good, if it is indeed intended to punish somebody.
+  We can solve this by adopting the Hoke amendment which gives the 
+preponderance of punitive damage awards to the State, to the State 
+Treasury for the general public good. That is what should be done with 
+the punitive damage awards we allow underneath the caps and that will 
+solve the problem of discrimination, because plaintiffs are given 
+compensation based on economic damages and noneconomic damages and not 
+based upon punitive damage awards.
+  That is what Justice Powell pointed out when he wrote that 
+``Alabama's system,'' that is where that award was made, ``like that 
+employed by other States that permit punitive damages, invites 
+punishment so arbitrary as to be virtually random: In each case, the 
+amount of punitive damages is fixed independently, without reference to 
+any statutory limit or the punishment applied in any other case.'' 
+Jurors award punitive damages cases, they determine the dollar amount 
+between zero and infinity. ``This grant of standardless discretion to 
+punish has no parallel in our system of justice. In the Federal system 
+and in most States criminal fines are imposed by judges,'' and I oppose 
+the amendment.
+  Ms. FURSE. Mr. Chairman, I yield 1\1/2\ minutes to the gentleman from 
+New York [Mr. Hinchey].
+  Mr. HINCHEY. Mr. Chairman, there is no doubt that our legal system 
+can and should be improved. But this measure like so much of the 
+Contract With America, goes too far. It is extreme, it is radical and 
+it is unfair. It would deny people their opportunity to go to court to 
+get justice.
+  Let me tell you a story of a person who lives near my district. Alice 
+Hayes, 57 years old, worked on an assembly line all her life, went to 
+work one day in the plastics molding factory, stuck her hands in the 
+machine to remove the plastic mold, and the machine came down on those 
+hands and severed them and her forearms as well. Alice Hayes no longer 
+has her hands and no longer has her forearms; she will never get those 
+hands back. But under the present law in New York, she at least has the 
+opportunity to get justice. Under this bill she will lose both, her 
+hands and the opportunity for justice.
+  This amendment at least provides some opportunity for punitive 
+damages, so that she could be somewhat compensated for the loss that 
+she has sustained. This bill will deny that opportunity.
+  This amendment should be passed.
+  Furthermore, this bill ought to be defeated.
+  There was another instance, an elementary school in Coldenham in 
+which one day the cafeteria wall collapsed and the roof came crashing 
+down on the children in that school. A number of them lost their lives, 
+others were injured.
+  This bill will prevent them from getting the opportunity for justice.
+  The amendment should be passed.
+  The bill should be defeated.
+  Ms. FURSE. Mr. Chairman, I yield 1 minute to the gentlewoman from New 
+York [Ms. Velazquez].
+  Ms. VELAZQUEZ. Mr. Chairman, I thank the gentlewoman for yielding 
+time to me.
+  Mr. Chairman, I rise in strong support of the amendment. The cap on 
+punitive damages is one of the most antiwomen extreme Republican 
+measures introduced this year. It must be removed.
+  Contraceptives, breast implants, and other pharmaceutical products 
+have been put on the market, and later found to cause very serious 
+injury to millions of women. Punitive damages are often the only thing 
+that saves millions of others.
+  A. H. Robbins implanted over 2 million women with Dalkon Shields--
+even though the company knew that they could develop a life-threatening 
+uterine infection. After large punitive damage awards, they quickly 
+pulled the IUD from the market.
+  Juries award punitive damages when manufacturers act with extreme 
+recklessness, or conscious disregard of harm. Large awards encourage 
+companies to quickly pull dangerous products from the shelves. They 
+deter others from selling harmful devices.
+  Punitive damages save lives--often women's lives. I urge my 
+colleagues to vote for this amendment, and remove one of the worst 
+antiwomen measures considered by this Congress.
+  Ms. FURSE. Mr. Chairman, I yield 1 minute to the gentlewoman from 
+Texas [Ms. Jackson-Lee].
+  Ms. JACKSON-LEE. I thank the gentlewoman for yielding this time to 
+me.
+  Mr. Chairman, I rise to ask the real question as to what we are doing 
+here today. First of all, because I think that we are misleading the 
+American people by saying that by this amendment we are removing the 
+element of protection under punitive damages. The States are already 
+handling this.
+  What this amendment does is it recognizes needs of women and 
+children, and it particularly helps me to address the questions of 
+Marilyn, a loving grandmother in my district in my hometown of Houston, 
+TX, whose faulty silicon breast implants have caused her total 
+disability and agony.
+  Marilyn's daughter, Theresa, also suffers from severe neurological 
+disorders that have been passed on to her by her mother. And as Theresa 
+breast-fed her three children, Marilyn's 5-year-old granddaughter now 
+shows symptoms of silicon poisoning.
+  Do we not realize that since 1965 to 1990 there have only been 
+approximately 358 punitive damages cases, and most of them have been 
+overturned? The real question is that we must look at whom we are 
+trying to address, business to business? We are willing to do tort 
+reform and help them, but we are also going to abuse our women and 
+children in the process.
+  Ms. FURSE. Mr. Chairman, I yield such time as he may consume to the 
+distinguished gentleman from Michigan [Mr. Conyers].
+  (Mr. CONYERS asked and was given permission to revise and extend his 
+remarks.)
+  Mr. CONYERS. Mr. Chairman, I rise in strong support of this important 
+Furse amendment.
+  Mr. Chairman, one of the most revealing features in the Republican 
+Contract With America is the limit on punitive damages. Because this 
+limit will take away one of the most effective means of protecting 
+Americans from the products that will kill, maim, induce sterility, or 
+otherwise injure.
+  Of course, the most profound lie being told about punitive damages is 
+that they are awarded too often. The truth is that punitive damages are 
+awarded only in rare cases. Between the years 1965 and 1990, there were 
+just 355 punitive damage awards in product liability cases. Excluding 
+asbestos cases, there were an average of only 11 such awards each year, 
+many of which were reduced on appeal.
+  In exchange for the rare egregious cases that punitive damages are 
+assessed, there are immeasurable gains in public safety. That's right, 
+this limit on punitive damages to three times economic loss or $250,000 
+is a massive assault on public safety. I ask you to listen closely and 
+I will tell you why.
+  Parents of America listen to this. In 1980 a darling 4-year-old girl 
+was permanently maimed with second and third degree burns when her 
+highly flammable pajamas caught fire. She merely reached across the 
+kitchen stove to turn off a timer. Company officials were quoted as 
+saying they new the pajamas were unreasonably flammable, and that 
+making them flame retardant was economically feasible. But they failed 
+to take the steps needed to protect the little girl. It took the 
+[[Page H2939]] sanction of punitive damages to get the company to act 
+responsibly and make children's pajamas safe.
+  Women of America remember the crime of super-absorbent tampons and 
+toxic shock. The manufacturers of Playtex's super-absorbent tampons 
+knew, according to the 10th Circuit Court's findings, that their 
+product could increase the risk of toxic shock but, according to the 
+10th Circuit Court, ``deliberately disregarded studies and medical 
+reports linking high absorbance tampons fibers with increased risk of 
+toxic shock.'' Countless of innocent women suffered. It took $10 
+million in punitive damages to force Playtex to take the deadly product 
+off the market. This is the type of crime the Republican contract would 
+allow to go unchecked.
+  Women of America will also remember breast implants that 
+manufacturers knew were not safe. Women were left in wheelchairs, weak, 
+ill, and disabled for life. Punitive damages got these off the market.
+  And for anyone who likes the outdoors, listen to this. Had this bill 
+been law during the Exxon Valdez, the punitive damage limit would have 
+shielded Exxon's liability to just $860 million, the equivalent of 4 
+minutes of Exxon's annual revenues.
+  And even worse, the punitive damages limit preempts all State 
+punitive damages laws. This bill will limit punitive damages in State 
+actions for sexual abuse of children [New Jersey Stat. Ann Sec. 26:5C-
+14], Drunk Driving [Minnesota], for the selling of drugs on minors 
+[Illinois], and for much else at the State level.
+  This bill's obnoxiousness does not end there. It is patently 
+discriminatory against women as well as middle and low wage earners. 
+That's because punitive damages are calculated by economic damages 
+alone, with noneconomic damages like the loss of reproductive ability 
+being totally discounted. If an insurance executive making $1 million 
+and a middle-class housewife who stays at home taking care of her 
+family are both injured by the same product, the insurance executive 
+would be eligible for $3 million in punitive damages, whereas the 
+housewife eligible for only $250,000, less than 10 percent. This would 
+be so even if the injury resulted in the woman's sterility.
+  Where is this new majority's commitment to fighting these types of 
+crime. Why such the rhetoric when it comes to stopping crime that 
+occurs in the streets, but not crimes that occur in our commercial 
+relations.
+  Without this amendment, this bill will severely limit the rights of 
+States trying to stop child sexual abuse, of women whose reproductive 
+organs will be vastly undervalued, of average working Americans who 
+depend on our laws to deter the biggest corporations from injuring us 
+with defective products. I urge support of the amendment.
+  Ms. FURSE. Mr. Chairman, I yield 1 minute to the gentleman from 
+Massachusetts [Mr. Markey].
+  Mr. MARKEY. I thank the gentlewoman for yielding this time to me.
+  Mr. Chairman, if we take the case which is before us and we change it 
+just slightly, the business executive who was mowing the lawn and his 
+15-year-old son or daughter was mowing the lawn and the engine of the 
+lawnmower exploded, blinding the executive, blinding the daughter, the 
+measure of damages now would be, under this punitive new standard, that 
+the executive could collect his $3 million as a punitive damage. The 
+girl, the daughter, could only collect whatever the jury might think 
+she might be entitled to, but capped at her economic worth, which is $5 
+an hour, which is what her mother or father was paying her to mow the 
+lawn.
+  The point of a punitive suit being to send a signal to the entire 
+lawnmower industry to fix this engine. Now, who should collect? It 
+should be that little girl, not some socialistic scheme that gives the 
+money back to the States. It should be to that girl who had the courage 
+to bring the case.
+  Mr. HYDE. Mr. Chairman, I yield 3 minutes to the gentleman from Iowa 
+[Mr. Ganske].
+  While Mr. Ganske is approaching the well, I might add that the case 
+that the gentleman from Massachusetts [Mr. Markey] mentioned, the 
+lifetime diminution of earnings for the young girl, would amount to a 
+lot more than what the gentleman has on the chart.
+  Mr. GANSKE. I thank the Chairman for yielding this time to me.
+  Mr. Chairman, I rise to speak against the amendment and in support of 
+the bill.
+  For 2 days now, the opponents of this bill have brought up the issue 
+of breast implants.
+  Now, although I disagree with their interpretation of the facts, I 
+think the issue of silicon silastic is a good example of why we need a 
+product liability bill.
+  There has been a tremendous amount of disinformation on this issue. I 
+can speak from personal experience. My mother had breast cancer when 
+she was 23 years old. She had a breast reconstruction about 8 years 
+ago.
+  I have personally reconstructed over 200 women who have had 
+mastectomies for cancer.
+  The science shows a couple of things: First, there is no correlation 
+between silicon implants and cancer. There is no correlation between 
+silicon implants and autoimmune diseases, as attested to by the recent 
+statement by the American College of Rheumatology.
+  But I think a bigger issue--and we can disagree with these things--
+but the bigger issue is this: If you get into a situation where a jury 
+is making this kind of decision as to whether a whole class of products 
+will be available or not, then that jury is legislating. And what we 
+have is a situation then where, if we lose, a type of class of medical 
+products, silicon silastic, for example, is the basic material for such 
+things as in-dwelling catheters for cancer patients. It covers cardiac 
+pacemaker batteries, for example. It is a material that makes cerebral 
+spinal fluid shunts for babies who have hydroencephalitis.
+  The point is that if you have a disagreement on a material, the 
+proper procedure would be for this to go through a regulatory agency 
+process, have a cost-benefit scientific analysis, and if there is a 
+disagreement, then you bring that on to the floor of the legislature to 
+be debated.
+  I think the issue is really this: that when we get involved with some 
+of the scientific issues, let us go through a regulatory process, 
+debate it on the floor of Congress. But the situation with the punitive 
+damages is that one jury out of 100 will make such a huge award that 
+their action, then, is making a determination for the whole rest of the 
+country in terms of a whole class of products.
+  That is why I would urge my colleagues to reject this amendment and 
+to vote for the bill.
+  Ms. FURSE. Mr. Chairman, I would like to close by saying that this is 
+such a simple amendment. In this amendment we are not talking about 
+whether there should be punitive damages. The Speaker who came before 
+me I do not think realizes that for punitive damages you have to prove 
+conscious, flagrant indifference to the safety of others.
+  What my amendment says is, if you have two cases, two cases with the 
+same injury, the same guilt, you should have the same punishment.
+  But under H.R. 956, the Republican bill, if you have two cases with 
+the same injury, the same guilt, you get different punishments. Why is 
+that? That is not justice as we know it in America.
+  I ask people to vote for my amendment. What my amendment says is that 
+every person injured has the right to the same treatment under the law.
+  I thank the gentleman and yield back.
+  Mr. HYDE. Mr. Chairman, I yield the remainder of the time to the 
+distinguished gentleman from Wisconsin [Mr. Sensenbrenner].
+  Mr. SENSENBRENNER. Mr. Chairman, the people who support this 
+amendment would have everyone believe that unless the amendment is 
+adopted, we are taking away peoples' rights to sue. That is not the 
+case. There is a constitutional right to sue, and even if we wanted to 
+take that away, which we do not, that could not be taken away under the 
+Constitution.
+  Second, those who support the amendment would have everyone believe 
+that there is a different standard of justice that is applied. That is 
+not true either. The jury makes the determination of economic damages 
+based upon the evidence that is placed before it. That jury cannot 
+discriminate based upon race, based upon age, or based upon gender. It 
+is based upon the evidence that is introduced in that trial and 
+admitted into evidence. And they make the determination on what the 
+economic damages are, and they issue a verdict that will make a 
+plaintiff who has been a victim of the negligence of another, whole.
+  What we are talking about here is punitive damages which are over and 
+above making the injured party whole, 
+[[Page H2940]] in placing a cap on those punitive damages. Punitive 
+damages are not intended as compensation, they are intended to be 
+punishment. In the case of Browning Ferris Industries versus Kelso, 
+1989, all nine members of the Supreme Court of the United States 
+expressed concern regarding punitive damages. Those justices are not 
+extremists, those justices are not Republicans, those justices look at 
+the law in the cases that come before them.
+  Justice Brennan, who is hardly a rightwing extremist, and countless 
+other members of the Court have stated time and time again that 
+punitive damages are for punishment of aggravated conduct and are a 
+windfall to the plaintiffs.
+  The impact of such a windfall recovery is both unpredictable and at 
+times substantial, said the court in Newport versus Fall Concerts, 
+1981. ``Juries assess punitive damages in wholly unpredictable amounts 
+bearing no necessary relation to the actual harm caused,'' said the 
+Supreme Court in Gertz versus Robert Welsh, Inc., 1974.
+  Let us put some sense in this area. Let us reject the Furse 
+amendment.
+  The CHAIRMAN. All time has expired.
+  The question is on the amendment offered by the gentlewoman from 
+Oregon [Ms. Furse].
+  The question was taken; and the Chairman announced that the ayes 
+appeared to have it.
+
+
+                             recorded vote
+  Ms. FURSE. Mr. Chairman, I demand a recorded voter.
+  A recorded vote was ordered.
+  The vote was taken by electronic device, and there were--ayes 155, 
+noes 272, not voting 7, as follows:
+                             [Roll No. 223]
+                               AYES--155
+     Abercrombie
+     Ackerman
+     Andrews
+     Baldacci
+     Barcia
+     Becerra
+     Beilenson
+     Bentsen
+     Berman
+     Bishop
+     Bonior
+     Borski
+     Brown (CA)
+     Brown (FL)
+     Brown (OH)
+     Bryant (TX)
+     Clay
+     Clayton
+     Clyburn
+     Coble
+     Coleman
+     Collins (IL)
+     Collins (MI)
+     Conyers
+     Costello
+     Coyne
+     de la Garza
+     DeFazio
+     DeLauro
+     Dellums
+     Deutsch
+     Dicks
+     Dingell
+     Dixon
+     Doggett
+     Doyle
+     Durbin
+     Engel
+     English
+     Eshoo
+     Evans
+     Farr
+     Fattah
+     Fields (LA)
+     Filner
+     Flake
+     Foglietta
+     Ford
+     Fox
+     Frost
+     Furse
+     Gejdenson
+     Gephardt
+     Gibbons
+     Gonzalez
+     Green
+     Gutierrez
+     Hall (OH)
+     Hastings (FL)
+     Hefner
+     Hilliard
+     Hinchey
+     Holden
+     Hoyer
+     Istook
+     Jackson-Lee
+     Jefferson
+     Johnson (SD)
+     Johnson, E. B.
+     Johnston
+     Kanjorski
+     Kennedy (MA)
+     Kennedy (RI)
+     Kennelly
+     Kildee
+     Klink
+     LaFalce
+     Lantos
+     Laughlin
+     Levin
+     Lewis (GA)
+     Lipinski
+     Lofgren
+     Lowey
+     Luther
+     Maloney
+     Manton
+     Markey
+     Mascara
+     Matsui
+     McDade
+     McDermott
+     McHale
+     McKinney
+     Meehan
+     Meek
+     Mfume
+     Miller (CA)
+     Mineta
+     Minge
+     Mink
+     Moakley
+     Murtha
+     Nadler
+     Neal
+     Oberstar
+     Olver
+     Ortiz
+     Owens
+     Pallone
+     Pastor
+     Payne (NJ)
+     Pelosi
+     Pomeroy
+     Poshard
+     Rahall
+     Reynolds
+     Richardson
+     Rivers
+     Rose
+     Roybal-Allard
+     Rush
+     Sabo
+     Sanders
+     Sawyer
+     Schroeder
+     Schumer
+     Scott
+     Serrano
+     Skaggs
+     Skelton
+     Slaughter
+     Stark
+     Stokes
+     Studds
+     Stupak
+     Tejeda
+     Thompson
+     Thurman
+     Torres
+     Traficant
+     Tucker
+     Velazquez
+     Vento
+     Visclosky
+     Ward
+     Waters
+     Watt (NC)
+     Waxman
+     Williams
+     Wilson
+     Wise
+     Woolsey
+     Wyden
+     Yates
+                               NOES--272
+     Allard
+     Archer
+     Armey
+     Bachus
+     Baesler
+     Baker (CA)
+     Baker (LA)
+     Ballenger
+     Barr
+     Barrett (NE)
+     Barrett (WI)
+     Bartlett
+     Barton
+     Bass
+     Bateman
+     Bereuter
+     Bevill
+     Bilbray
+     Bilirakis
+     Bliley
+     Blute
+     Boehlert
+     Boehner
+     Bonilla
+     Bono
+     Boucher
+     Brewster
+     Browder
+     Brownback
+     Bryant (TN)
+     Bunn
+     Bunning
+     Burr
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Canady
+     Cardin
+     Castle
+     Chabot
+     Chambliss
+     Chapman
+     Chenoweth
+     Christensen
+     Chrysler
+     Clement
+     Clinger
+     Coburn
+     Collins (GA)
+     Combest
+     Condit
+     Cooley
+     Cox
+     Cramer
+     Crane
+     Crapo
+     Cremeans
+     Cunningham
+     Danner
+     Davis
+     Deal
+     DeLay
+     Diaz-Balart
+     Dickey
+     Dooley
+     Doolittle
+     Dornan
+     Dreier
+     Duncan
+     Dunn
+     Edwards
+     Ehlers
+     Ehrlich
+     Emerson
+     Ensign
+     Everett
+     Ewing
+     Fawell
+     Fazio
+     Fields (TX)
+     Flanagan
+     Foley
+     Fowler
+     Frank (MA)
+     Franks (CT)
+     Franks (NJ)
+     Frelinghuysen
+     Frisa
+     Funderburk
+     Gallegly
+     Ganske
+     Gekas
+     Geren
+     Gilchrest
+     Gillmor
+     Gilman
+     Goodlatte
+     Goodling
+     Gordon
+     Goss
+     Graham
+     Greenwood
+     Gunderson
+     Gutknecht
+     Hall (TX)
+     Hamilton
+     Hancock
+     Hansen
+     Harman
+     Hastert
+     Hastings (WA)
+     Hayes
+     Hayworth
+     Hefley
+     Heineman
+     Herger
+     Hilleary
+     Hobson
+     Hoekstra
+     Hoke
+     Horn
+     Hostettler
+     Houghton
+     Hunter
+     Hutchinson
+     Hyde
+     Inglis
+     Jacobs
+     Johnson (CT)
+     Johnson, Sam
+     Jones
+     Kaptur
+     Kasich
+     Kim
+     King
+     Kingston
+     Kleczka
+     Klug
+     Knollenberg
+     Kolbe
+     LaHood
+     Largent
+     Latham
+     LaTourette
+     Lazio
+     Leach
+     Lewis (CA)
+     Lewis (KY)
+     Lightfoot
+     Lincoln
+     Linder
+     LoBiondo
+     Longley
+     Lucas
+     Manzullo
+     Martinez
+     Martini
+     McCarthy
+     McCollum
+     McCrery
+     McHugh
+     McIntosh
+     McKeon
+     McNulty
+     Menendez
+     Metcalf
+     Meyers
+     Mica
+     Miller (FL)
+     Molinari
+     Mollohan
+     Montgomery
+     Moorhead
+     Moran
+     Myers
+     Myrick
+     Nethercutt
+     Neumann
+     Ney
+     Norwood
+     Nussle
+     Obey
+     Orton
+     Oxley
+     Packard
+     Parker
+     Paxon
+     Payne (VA)
+     Peterson (FL)
+     Peterson (MN)
+     Petri
+     Pickett
+     Pombo
+     Porter
+     Portman
+     Pryce
+     Quillen
+     Quinn
+     Radanovich
+     Ramstad
+     Reed
+     Regula
+     Riggs
+     Roberts
+     Roemer
+     Rogers
+     Rohrabacher
+     Ros-Lehtinen
+     Roth
+     Roukema
+     Royce
+     Salmon
+     Sanford
+     Saxton
+     Scarborough
+     Schaefer
+     Schiff
+     Seastrand
+     Sensenbrenner
+     Shadegg
+     Shaw
+     Shays
+     Shuster
+     Sisisky
+     Skeen
+     Smith (MI)
+     Smith (NJ)
+     Smith (TX)
+     Smith (WA)
+     Solomon
+     Souder
+     Spence
+     Spratt
+     Stearns
+     Stenholm
+     Stockman
+     Stump
+     Talent
+     Tanner
+     Tate
+     Tauzin
+     Taylor (MS)
+     Taylor (NC)
+     Thomas
+     Thornberry
+     Thornton
+     Tiahrt
+     Torkildsen
+     Torricelli
+     Towns
+     Upton
+     Volkmer
+     Vucanovich
+     Waldholtz
+     Walker
+     Walsh
+     Wamp
+     Watts (OK)
+     Weldon (FL)
+     Weldon (PA)
+     Weller
+     White
+     Whitfield
+     Wicker
+     Wolf
+     Wynn
+     Young (AK)
+     Young (FL)
+     Zeliff
+     Zimmer
+                             NOT VOTING--7
+     Cubin
+     Forbes
+     Kelly
+     Livingston
+     McInnis
+     Morella
+     Rangel
+  The Clerk announced the following pairs: On this vote:
+       Mr. Rangel for, with Mr. Forbes against.
+  Mr. CHAPMAN and Mr. TORRICELLI changed their vote from ``aye'' to 
+``no.''
+  So the amendment was rejected.
+  The result of the vote was announced as above recorded.
+
+
+                          ____________________
+
+
+</pre>
+</body>
+</html>

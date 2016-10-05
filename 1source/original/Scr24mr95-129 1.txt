@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>WAIS Document Retrieval</title>
+</head>
+<body>
+<pre>
+[Congressional Record: March 24, 1995 (<strong>Senate</strong>)]
+[Page S4527]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+[DOCID:cr24mr95-129]                         
+
+
+               RECOGNITION OF THE ACTING MAJORITY LEADER
+  The PRESIDENT pro tempore. The acting majority leader is recognized.
+
+
+                                SCHEDULE
+  Mr. COATS. Mr. President, this morning, leader time has been 
+reserved, and there will be a period for morning business until the 
+hour of 10 a.m. At the hour of 10 a.m., the <strong>Senate</strong> will begin 
+consideration of H.R. 831, the self-employed health insurance deduction 
+bill. That bill will be considered under a 5-hour time limitation which 
+was agreed upon last evening.
+  The majority leader has announced that there will be no rollcall 
+votes during today's session of the <strong>Senate</strong>. Senator Dole has also 
+indicated that it will be his intention to proceed to the regulation 
+moratorium bill on Monday.
+  Mr. President, I yield the floor.
+  The PRESIDING OFFICER (Mr. Inhofe). Under the previous order, the 
+Senator from Arizona [Mr. McCain] is recognized to speak for up to 15 
+minutes.
+  The distinguished Senator from Arizona.
+  Mr. McCAIN. Mr. President, I expect to be joined in a few minutes by 
+my friend and colleague from the other side of the aisle, Senator 
+Kerrey of Nebraska. We may engage in a brief colloquy after our 
+remarks. But I will begin with my remarks.
+
+
+                          ____________________
+
+
+</pre>
+</body>
+</html>

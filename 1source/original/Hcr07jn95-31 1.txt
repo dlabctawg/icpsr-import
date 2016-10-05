@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>WAIS Document Retrieval</title>
+</head>
+<body>
+<pre>
+[Congressional Record: June 7, 1995 (<strong>House</strong>)]
+[Page H5625]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+[DOCID:cr07jn95-31]                         
+
+
+
+
+                ANNOUNCEMENT BY THE SPEAKER PRO TEMPORE
+  The SPEAKER pro tempore. The Chair will recognize 20 Members on each 
+side for the purposes of making a 1-minute address to the <strong>House</strong>.
+
+
+                          ____________________
+
+
+</pre>
+</body>
+</html>

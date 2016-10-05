@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>WAIS Document Retrieval</title>
+</head>
+<body>
+<pre>
+[Congressional Record: February 13, 1995 (<strong>Senate</strong>)]
+[Page S2580]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+[DOCID:cr13fe95-133]                         
+
+
+                   APPOINTMENT BY THE VICE PRESIDENT
+  The PRESIDING OFFICER. The Chair, on behalf of the Vice President, 
+pursuant to Public Law 86-380, appoints the Senator from Idaho [Mr. 
+Kempthorne] to the Advisory Commission on Intergovernmental Relations, 
+vice Senator Durenberger.
+                          ____________________
+
+
+</pre>
+</body>
+</html>

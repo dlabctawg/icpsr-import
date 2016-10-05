@@ -1,0 +1,4136 @@
+<html>
+<head>
+<title>WAIS Document Retrieval</title>
+</head>
+<body>
+<pre>
+[Congressional Record: February 22, 1995 (<strong>House</strong>)]
+[Page H2010-H2029]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+[DOCID:cr22fe95-85]                         
+                    PAPERWORK REDUCTION ACT OF 1995
+  Mr. LINDER. Mr. Speaker, by direction of the Committee on Rules, I 
+call 
+[[Page H2011]] up <strong>House</strong> Resolution 91 and ask for its immediate 
+consideration.
+  The Clerk read the resolution, as follows:
+                               H. Res. 91
+       Resolved, That at any time after the adoption of this 
+     resolution the Speaker may, pursuant to clause 1(b) of rule 
+     XXIII, declare the <strong>House</strong> resolved into the Committee of the 
+     Whole <strong>House</strong> on the state of the Union for consideration of 
+     the bill (H.R. 830) to amend chapter 35 of title 44, United 
+     States Code, to further the goals of the Paperwork Reduction 
+     Act to have Federal agencies become more responsible and 
+     publicly accountable for reducing the burden of Federal 
+     paperwork on the public, and for other purposes. The first 
+     reading of the bill shall be dispensed with. General debate 
+     shall be confined to the bill and shall not exceed one hour 
+     equally divided and controlled by the chairman and ranking 
+     minority member of the Committee on Government Reform and 
+     Oversight. After general debate the bill shall be considered 
+     for amendment under the five-minute rule. The bill and the 
+     amendments recommended by the Committee on Government Reform 
+     and Oversight now printed in the bill shall be considered as 
+     read. At the conclusion of consideration of the bill for 
+     amendment the Committee shall rise and report the bill to the 
+     <strong>House</strong> with such amendments as may have been adopted. The 
+     previous question shall be considered as ordered on the bill 
+     and amendments thereto to final passage without intervening 
+     motion except one motion to recommit.
+  The SPEAKER pro tempore (Mr. Lazio). The gentleman from Georgia [Mr. 
+Linder] is recognized for 1 hour.
+  Mr. LINDER. Mr. Speaker, for purposes of debate only, I yield the 
+customary 30 minutes to the gentleman from California [Mr. Beilenson], 
+pending which I yield myself such time as I may consume. During 
+consideration of this resolution, all time yielded is for the purpose 
+of debate only.
+  Mr. Speaker, <strong>House</strong> Resolution 91 is a completely open rule providing 
+for the consideration of H.R. 830, legislation that is designed to 
+reduce the information collection burdens on the public, maximize the 
+utility of Government information, and assure a more efficient and 
+productive administration of information resources. In short, this 
+legislation reasserts and enhances the commitment of Congress to uphold 
+the principles of the Paperwork Reduction Act of 1980.
+  This rule provides for 1 hour of general debate divided equally 
+between the chairman and ranking minority member of the Committee on 
+Government Reform and Oversight, after which time any member will have 
+the opportunity to offer an amendment to the bill under the 5-minute 
+rule. Finally, the rule provides for one motion to recommit. Under this 
+rule, members may offer amendments to H.R. 830 at any time, regardless 
+of whether they have been preprinted in the Record.
+  Mr. Speaker, today, we mark the 50th day of the 104th Congress. By 
+all accounts, this Congress has allowed more votes, more hours of 
+debate, and more bipartisanship in this Chamber than we have seen in 
+decades. I must say that the Rules Committee has worked well together 
+to provide Members on both sides of the aisle with every opportunity to 
+engage in extensive debate and offer significant amendments on every 
+piece of legislation considered this year.
+  It has been a busy 50 days with more to come, and I believe that the 
+efforts by every member of the Rules Committee to open the process have 
+empowered us all to work in bipartisan fashion.
+  I am pleased this bill will be considered under an open rule, which 
+was unanimously approved by the Rules Committee yesterday. While the 
+chairman and the ranking minority member of the Government Reform and 
+Oversight Committee testified to the Rules Committee that they do not 
+expect many amendments, there were a number of amendments that were 
+either withdrawn or not approved during committee consideration of H.R. 
+830. Hopefully, this rule will provide these Members and the entire 
+<strong>House</strong> with sufficient time to review these amendments and express any 
+persisting apprehension about the bill.
+  I strongly support the goals and purpose of the 1980 Paperwork 
+Reduction Act. However, it is clear the bill was not entirely effective 
+in reducing the paperwork burden, as the total pages of rules printed 
+in the Federal Register increased from an average of 50,618 during 
+President Reagan's terms, to an average of 53,596 during President 
+Bush's term, to an average of 61,000 pages during President Clinton's 
+term.
+  The 1995 Paperwork Reduction Act is designed to reduce these 
+paperwork burdens, and H.R. 830 has received considerable support. I 
+believe that the Government Reform and Oversight Committee has crafted 
+a good piece of legislation, and the members of the Rules Committee 
+simply want to enable any member to offer perfecting amendments to the 
+whole <strong>House</strong> that may enhance the benefits of legislation to the 
+American people.
+  Mr. Speaker, H.R. 830 was favorably reported out of the Committee on 
+Government Reform and Oversight by a vote of 40 to 4, and this rule 
+received unified support from the Rules Committee. I urge my colleagues 
+to support this rule, and I look forward to a thoughtful and 
+deliberative debate on H.R. 830.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. BEILENSON. Mr. Speaker, I yield myself such time as I may 
+consume.
+  (Mr. BEILENSON asked and was given permission to revise and extend 
+his remarks and include extraneous material.)
+  Mr. BEILENSON. Mr. Speaker, I shall be brief because, as the 
+gentleman said, this is an open rule. In fact, it is exactly the kind 
+of rule that we all think of when we hear the term open rule: There is 
+no limit on the time for considering amendments; there are no waivers 
+of rules; there are no preprinting provisions; there are no conditions 
+or requirements of any kind.
+  This is a completely unrestricted open rule, and it has our full 
+support.
+  Furthermore, the bill which this rule makes in order, the Paperwork 
+Reduction Act of 1995 is, itself, relatively noncontroversial and has 
+substantial support on both sides of the aisle. The one provision in 
+the bill that is a major point of contention for Members on our side 
+will be debated when the gentlewoman from Illinois, the ranking 
+minority member of the Committee on Government Reform and Oversight, 
+Mrs. Collins, offers her amendment.
+  The Collins amendment would strike the provisions of H.R. 830 that 
+allow the Office of Management and Budget to review and reject Federal 
+regulations that require businesses to disclose information to third 
+parties, including their employees and the public.
+  This amendment would preserve the 1990 Supreme Court decision in the 
+case of Dole versus the United Steelworkers of America, which held that 
+OMB did not have the authority to review OSHA requirements that 
+companies post safety notices in the workplace. In other words, the 
+amendment would prevent the Paperwork Reduction Act from being used as 
+a mechanism to deny workers the right to know about hazards they face 
+in the workplace.
+  Other amendments we are anticipating include: one to be offered by 
+the gentleman from Vermont [Mr. Sanders] which would place a priority 
+on reducing paperwork for very small businesses; one to be offered by 
+the gentleman from Idaho [Mr. Crapo] addressing the right of private 
+citizens to seek court actions challenging Federal agency information 
+collection activities that have not been cleared by OMB; and one to be 
+offered by the gentlewoman from New York [Mrs. Maloney] which would 
+sunset this bill after 5 years.
+  Mr. Speaker, again, the rule before us is a completely unrestricted 
+open rule, and I urge its adoption.
+  Mr. Speaker, I include the following material for the Record:
+                                      FLOOR PROCEDURE IN THE 104TH CONGRESS                                     
+                                                            Resolution      Process used for floor    Amendments
+          Bill No.                       Title                  No.             consideration          in order 
+H.R. 1......................  Compliance.................  H. Res. 6     Closed.....................  None      
+H. Res. 6...................  Opening Day Rules Package..  H. Res. 5     Closed; contained a closed   None5,i1,s
+                                                                          rule on H.R. 1 within the    50,r50,xl
+                                                                          closed rule.                 s37,r50,x
+                                                                                                       ls27     
+[[Page H2012]]
+H.R. 5......................  Unfunded Mandates..........  H. Res. 38    Restrictive; Motion adopted  N/A       
+                                                                          over Democratic objection             
+                                                                          in the Committee of the               
+                                                                          Whole to limit debate on              
+                                                                          section 4; Pre-printing               
+                                                                          get preference.                       
+H.J. Res. 2.................  Balanced Budget............  H. Res. 44    Restrictive; only certain    2R; 4D    
+                                                                          substitutes.                          
+H. Res. 43..................  Committee Hearings           H. Res. 43    Restrictive; considered in   N/A       
+                               Scheduling.                  (OJ)          <strong>House</strong> no amendments.                  
+H.R. 2......................  Line Item Veto.............  H. Res. 55    Open; Pre-printing gets      N/A       
+                                                                          preference.                           
+H.R. 665....................  Victim Restitution Act of    H. Res. 61    Open; Pre-printing gets      N/A       
+                               1995.                                      preference.                           
+H.R. 666....................  Exclusionary Rule Reform     H. Res. 60    Open; Pre-printing gets      N/A       
+                               Act of 1995.                               preference.                           
+H.R. 667....................  Violent Criminal             H. Res. 63    Restrictive; 10hr. Time Cap  N/A       
+                               Incarceration Act of 1995.                 on amendments.                        
+H.R. 668....................  The Criminal Alien           H. Res. 69    Open; Pre-printing gets      N/A       
+                               Deportation Improvement                    preference; Contains self-            
+                               Act.                                       executing provision.                  
+H.R. 728....................  Local Government Law         H. Res. 79    Restrictive; 10 hr. Time     N/A       
+                               Enforcement Block Grants.                  Cap on amendments; Pre-               
+                                                                          printing gets preference.             
+H.R. 7......................  National Security            H. Res. 83    Restrictive; 10 hr. Time     N/A       
+                               Revitalization Act.                        Cap on amendments; Pre-               
+                                                                          printing gets preference.             
+H.R. 729....................  Death Penalty/Habeas.......  N/A           Restrictive; brought up      N/A       
+                                                                          under UC with a 6 hr. time            
+                                                                          cap on amendments.                    
+S. 2........................  Senate Compliance..........  N/A           Closed; Put on suspension    None      
+                                                                          calendar over Democratic              
+                                                                          objection.                            
+H.R. 831....................  To Permanently Extend the    H. Res. 88    Restrictive; makes in order  1D        
+                               Health Insurance Deduction                 only the Gibbons                      
+                               for the Self-Employed.                     amendment; waives all                 
+                                                                          points of order; contains             
+                                                                          self-executing provision.             
+H.R. 830....................  The Paperwork Reduction Act  H. Res. 91    Open.......................  N/A       
+H.R. 889....................  Emergency Supplemental/      H. Res. 92    Restrictive; makes in order  1D        
+                               Rescinding Certain Budget                  only the Obey Substitute.             
+                               Authority.                                                                       
+71 percent restrictive; 29 percent open. These figures use Republican scoring methods from the 103d Congress.   
+  Not included in this chart are three bills which should have been placed on the Suspension Calendar. H.R. 101,
+  H.R. 400, and H.R. 440.                                                                                       
+Mr. BEILENSON. Mr. Speaker, I have no further requests for time, and 
+I yield back the balance of my time.
+  Mr. LINDER. Mr. Speaker, I thank the gentleman from New York [Mr. 
+Solomon], the chairman, for reporting this unrestricted rule to the 
+<strong>House</strong> floor and I want to acknowledge the gentleman from California 
+[Mr. Beilenson] for his support of the rule.
+  Mr. Speaker, I yield back the balance of my time, and I move the 
+previous question on the resolution.
+  The previous question was ordered.
+  The resolution was agreed to.
+  A motion to reconsider was laid on the table.
+  The SPEAKER pro tempore. Pursuant to <strong>House</strong> Resolution 91 and rule 
+XXIII, the Chair declares the <strong>House</strong> in the Committee of the Whole <strong>House</strong> 
+on the State of the Union for the consideration of the bill, H.R. 830.
+                     in the committee of the whole
+  Accordingly, the <strong>House</strong> resolved itself into the Committee of the 
+Whole <strong>House</strong> on the State of the Union for the consideration of the bill 
+(H.R. 830) to amend chapter 35 of title 44, United States Code, to 
+further the goals of the Paperwork Reduction Act to have Federal 
+agencies become more responsible and publicly accountable for reducing 
+the burden of Federal paperwork on the public, and for other purposes, 
+with Mr. Combest in the chair.
+  The Clerk read the title of the bill.
+  The CHAIRMAN. Pursuant to the rule, the bill is considered as having 
+been read the first time.
+  Under the rule, the gentleman from Pennsylvania [Mr. Clinger] will be 
+recognized for 30 minutes, and the gentlewoman from Illinois [Mrs. 
+Collins] will be recognized for 30 minutes.
+  The Chair recognizes the gentleman from Pennsylvania [Mr. Clinger].
+  Mr. CLINGER. Mr. Chairman, I yield myself such time as I may consume.
+  Mr. Chairman, I am pleased to bring to the floor today the first 
+reauthorization of the Paperwork Reduction Act since it expired in 
+1989. This bill continues the very long tradition of seeking to reduce 
+the burdens of Federal regulations on individuals and businesses which 
+first began with the Commission on Federal Paperwork in 1977. The 
+report of that Commission, chaired by our former good friend and 
+colleague, Frank Horton, led to the establishment of the Office of 
+Information and Regulatory Affairs at OMB, or IRA, and the passage of 
+the Paperwork Reduction Act of 1980.
+  The Paperwork Reduction Act of 1995 was reported out of the Committee 
+on Government Reform and Oversight on February 10 of this year with an 
+overwhelming 40-to-4 vote, obviously a very broad bipartisan vote. I am 
+here today to encourage all of my colleagues to support the passage of 
+this important measure today.
+  As I say, the legislation is premised on the continuing belief in the 
+principles and requirements of the Paperwork Reduction Act of 1980. All 
+of the legislation's amendments to the 1980 act, as amended in 1986, 
+are intended to further its original purposes, to strengthen OMB and 
+agency paperwork reduction efforts, to improve OMB and agency 
+information resources management, including in specific functional 
+areas such as information dissemination, and to encourage and provide 
+for more meaningful public participation in paperwork reduction and 
+broader information resources management decisions.
+  With the regard to the reduction of information collection burdens, 
+the legislation increases the act's 1986 goal of an annual 5 percent 
+reduction in public paperwork burdens to a full 10 percent. OMB is 
+required to include in its annual report to Congress, recommendations 
+to revise statutory paperwork burdens. The legislation includes third-
+party disclosure requirements in the definition of collection of 
+information to overturn the Supreme Court's decision, Dole versus 
+United Steelworkers of America. This will ensure that collection and 
+disclosure requirements are covered by the OMB paperwork clearance 
+process, and this will be the subject of an amendment later in this 
+debate. The Act is also amended to require each agency to develop 
+paperwork clearance process to review and solicit public comment on 
+proposed information collections before submitting them to OMB for 
+review. Public accountability is also strengthened through requirements 
+for public disclosure of communications with OMB regarding information 
+collections--with protections for whistleblowers complaining of 
+unauthorized collections--and for OMB to review the status of any 
+collection upon public request. In combination with more general 
+requirements, such as encouraging data sharing between the Federal 
+Government and State, local, and tribal governments, the legislation 
+strives to further the act's goals of minimizing government information 
+collection burdens, while maximizing the utility of government 
+information.
+  The legislation also adds further detail to strengthen other 
+functional areas, such as statistical policy and information 
+dissemination. The dissemination provisions, for example, delineate 
+clear policies that were not articulated in the act's previous 
+references to dissemination. These provisions require OMB to develop 
+governmentwide policies and guidelines for information dissemination 
+and to promote public access to information maintained by Federal 
+agencies. In turn, the agencies are to: First, ensure that the public 
+has timely and equitable access to public information; second, solicit 
+public input on their information dissemination activities; and third, 
+not establish restrictions on dissemination or redissemination of 
+government information. Emphasis is placed on efficient and effective 
+use of new technology and a reliance on a diversity of public and 
+private sources of information to promote dissemination of government 
+information, particularly in electronic formats.
+  With regard to over-arching information resources management [IRM] 
+policies, the legislation charges agency heads with the responsibility 
+to carry out agency IRM activities to improve 
+[[Page H2013]]  agency productivity, efficiency, and effectiveness. It 
+makes program officials responsible and accountable for those 
+information resources supporting their programs. The IRM mandate is 
+strengthened by focusing on managing information resources in order to 
+improve program performance, including the delivery of services to the 
+public and the reduction of information collection burdens on the 
+public.
+  To improve accountability for agency IRM responsibilities, as well as 
+responsibilities for paperwork reduction, the agency responsibilities 
+provided in the act are amended to complement and more directly 
+parallel OMB's functional responsibilities.
+  Finally, Mr. Chairman, I want to comment on a very minor section of 
+the bill that was later removed during the committee's consideration 
+which would have codified OMB circular A-130, a long-standing executive 
+branch policy which states that the government should not compete with 
+the private sector in using public information.
+  Single issue interest groups have distorted, I think, and 
+misrepresented this provision to suggest that it was included in this 
+bill solely to benefit one specific company. And I agreed to remove 
+this provision from the bill, and it is not in the bill, and would 
+consider it at another time, but I do want to state for the Record that 
+as a matter of policy Congress should not condone the Government 
+competing against the private sector, which was the concern raised in 
+this amendment. But because it became extraordinarily controversial and 
+because it was presented and seen as benefiting one company, although 
+that was not the purpose, it has been deleted from this measure.
+  I am aware that a number of amendments will be offered to this bill. 
+While many of these amendments were offered and defeated in the 
+committee, I appreciate all of the constructive efforts that have been 
+made by Members on both sides to improve this bill.
+  Let me say, Mr. Chairman, that I have given what is contained in the 
+bill, but the bottom line is when you forget all about the 
+technicalities of the bill, the effort here is to reduce the paperwork 
+burden which has proliferated over the years the incredible mountain of 
+information that the government demands be collected and reported and 
+recorded. Very, very, many of these requirements are necessary, many of 
+them are clearly not. And the bottom line is we are attempting to bring 
+some sort of reasonable restraints on the ability and the power of the 
+Federal Government to impose these burdens on the private sector and on 
+local and State governments.
+  So at the end of the amendment process, which we will hopefully begin 
+soon, I hope all Members will join what has really been a very long and 
+bipartisan effort to minimize Federal paperwork requirements imposed on 
+American citizens and taxpayers. This bill, I might say, Mr. Chairman, 
+has been endorsed by former OMB Directors from both political parties, 
+and various versions of this bill have been cosponsored by an equal 
+number of Republicans and Democrats. And this specific bill has been 
+enthusiastically endorsed by President Clinton's administration. And I 
+have been advised that it will be a key vote for the National 
+Federation of Independent Business for the 104th Congress.
+  So we have an opportunity to do something here this afternoon and 
+evening on a very bipartisan basis, which is good government, not very 
+exciting, not very sexy issue, but it is one that I think is 
+extraordinarily important for every small and large business, every 
+household, every municipality in this country, and that is to reduce 
+the crushing burden of paperwork requirements the Federal Government 
+imposes.
+  Mr. Chairman, I reserve the balance of my time.
+  Mrs. COLLINS of Illinois. Mr. Chairman, I yield myself such time as I 
+may consume.
+  (Mrs. COLLINS of Illinois asked and was given permission to revise 
+and extend her remarks.)
+  Mrs. COLLINS of Illinois. Mr. Chairman, today we are considering the 
+reauthorization of the Paperwork Reduction Act. For many years, this 
+act, and its subsequent reauthorizations, have been bipartisan.
+  Similarly, this bill contains many provisions of bipartisan 
+agreement. However, a problem continues with this act, becuase it 
+expands the authority of OMB to interfere with agency decisions for 
+reasons other than paperwork reduction.
+  Over the years of Republican administrations, OMB became a haven for 
+special interests to quietly plead for lesser regulations than those 
+imposed by the Federal agencies. This back-door special interest access 
+came after these business lobbyists failed to get their way at the 
+agencies.
+  No records were kept of these meetings. No one knew what went on 
+behind those closed doors. However, we did witness the OMB cancellation 
+of regulation after regulation. We also saw White <strong>House</strong> officials 
+stonewall all questions about who came to the Office of Management and 
+Budget, and what was said.
+  Let me give you an example of OMB's interference with agency 
+regulations. In one case, it blocked regulations that required 
+companies to post a notice to their workers of any toxic chemicals used 
+at the work site, after companies complained about the posting 
+requirements, even though OMB did not have the authority to do so.
+  Mr. Chairman, I reserve the balance of my time.
+  When the case reached the Supreme Court, it ruled that OMB did not 
+have the authority to act. This bill would overturn that Supreme Court 
+decision known as Dole versus Steelworkers of America, and give the 
+Office of Management and Budget that authority.
+  I will offer an amendment to strike this offensive provision. 
+Watching a bill to reduce paperwork be turned into a bill to keep 
+workers in the dark about worksite dangers is truly shameful.
+  This bill gives permanent authorization to OMB's Office of 
+Information and Regulatory Affairs. That is also a mistake. Without the 
+threat of reauthorization, agencies grow complacent. Without the need 
+for reauthorization, it is too easy for agencies to ignore 
+congressional oversight. Congresswoman Maloney will offer an amendment 
+to sunset this bill after 5 years, and I support her amendment.
+  Mr. Chairman, there are some good provisions in H.R. 830, but I urge 
+my colleagues to consider our amendments carefully, and give them your 
+support.
+  Mr. CLINGER. Mr. Chairman, I yield such time as he may consume to the 
+gentleman from Indiana [Mr. McIntosh].
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. McINTOSH. Mr. Chairman, I wanted to rise today in support of this 
+legislation.
+  Let me explain that it was my experience working with Vice President 
+Quayle at the Competitiveness Council that this paperwork act is 
+vitally important in reducing the amount of paperwork burden that the 
+Federal Government puts on private employers and ultimately, therefore, 
+consumers and workers.
+  The legislation that we have before us today does several very 
+important things. Chief among them is the permanent reauthorization of 
+that act so that we will be assured that all Government paperwork is 
+reviewed by OMB in a central reviewing process to make sure we do not 
+place unnecessary burdens, that we do not have forms that are 
+duplicative, that we do not ask people to fill out forms for no good 
+reason, if the Federal Government is involved.
+  The second very important provision in this bill is to close one of 
+the loopholes created by a Supreme Court case called the Steelworkers' 
+case which said that if the Government required people to fill out a 
+form or disclose a particular form to another party but not send that 
+form back to Washington, then it would be exempt from this review 
+process. The problem with that particular loophole is that we have seen 
+a mushrooming of paperwork that fits that description.
+  In our subcommittee we held hearings on this bill. One of my 
+constituents who is from Shelbyville, IN, a gentleman named Bob 
+Stolmeier, came and talked about the duplicative paperwork he has to 
+fill out in his small business.
+  In particular he talked about the hazard notification forms that he 
+has 
+[[Page H2014]]  to have available for his products and that he has to 
+ship with his products to the customer. His product is to make plastic 
+bags that have been approved by the Food and Drug Administration as 
+being safe to come in contact with food that would be consumed by a 
+human being. Therefore, it is a very safe product, but he nonetheless 
+needs to have a five-page form talking about the potential hazards 
+related to these plastic bags. It is something he says nobody has ever 
+asked him to take a look at. It is not a hazardous material the way we 
+think of a chemical or nuclear materials that could be threatening to 
+health and safety, but the Government regulations require him to go 
+through that each time he sets up business and every time he ships his 
+product. It is an enormous cost. It is a self-imposed cost that affects 
+our competitiveness. He is in direct competition with manufacturers of 
+the same product overseas and says they do not have to supply that same 
+paperwork.
+  Those are some of the things that this bill would accomplish for men 
+and women around the country. Let me say in general that if you stop 
+and take a look at the magnitude of the problem, the Federal Government 
+requires so much paperwork to be filled out that it would take over a 
+million people working full time at entire year to fill out all of the 
+forms that are required by the Federal Government. That is a million 
+people doing nothing more than filling out forms and sending them in to 
+Washington or having them there in their worksite.
+  We need to cut back on this unnecessary paperwork, free up our 
+workers, free up our farmers, reduce prices for the consumers, and help 
+to eliminate unnecessary paperwork and redtape.
+  Mr. Chairman, I rise in support of this bill. I am glad to see that 
+it has broad bipartisan support and is not a huge controversial 
+measure. The American people can rest assured that this change will do 
+us a lot of good.
+  Mrs. COLLINS of Illinois. Mr. Chairman, I have no further requests 
+for time, and I yield back the balance of my time.
+  Mr. CLINGER. Mr. Chairman, we had a couple of other requests, but I 
+do not see them on the floor. I think this is evidence of what a 
+bipartisan bill this is and how Members are convinced that we have a 
+good piece of legislation here.
+  Mr. LaTOURETTE. Mr. Chairman, 50 days ago I was a county prosecutor 
+in Lake County, OH, so I'm somewhat new at this job. I am not new, 
+however, at hearing people gripe about the Federal Government, 
+Washington, DC., and the Congress.
+  It has been my experience that when folks are not chastising us for 
+being a group of self-serving politicians, they are blasting us for 
+being a part of the place that reeks of inefficiency and waste. 
+Washington could literally bury itself under the mountain of paperwork 
+it insists others complete. And do not for a moment think that thought 
+has not crossed the minds of many a business owner.
+  A constituent of mine, William Koeblitz of Gates Mills, OH, recently 
+testified before the Small Business Committee, which shares a 
+jurisdictional interest with the <strong>House</strong> Committee on Government Reform 
+and Oversight, of which I am a member. Mr. Koeblitz's testimony was on 
+behalf of 215,000 businesses of the U.S. Chamber of Commerce 
+Federation. Mr. Koeblitz is a member of Chamber's Board of Directors 
+and also serves as chairman of its Regulatory Affairs Committee.
+  Mr. Koeblitz, the CEO of a Cleveland-area company, explained how 
+during each Congressional cycle the Chamber surveys its Members and 
+asks them to rank issues of importance to them. Of the 64 issues 
+identified for this Congress, paperwork reduction was No. 3, ranking 
+behind only unfunded mandates and welfare reform.
+  Mr. Koeblitz and Chamber officials were kind enough to provide my 
+office with the following examples of paperwork nightmares, all from 
+the same Pennsylvania independent laboratory--a company with just 10 
+full-time employees. If these examples do not convey the message that 
+paperwork reduction is necessary, nothing will.
+  The company had to establish an entirely new and separate bookkeeping 
+system just to keep up with the paperwork required by the Family and 
+Medical Leave Act.
+  To comply with a routine Affirmative Action Audit in 1988, the 
+company had to expend approximately 600 hours of staff time to prepare 
+and facilitate the process. And when we say ``mountain of paperwork'' 
+it is no exaggeration. The completed paperwork package to comply with 
+this, again--routine audit, weighed 13 pounds.
+  I ask you, how much does the paperwork from an audit weigh when it is 
+not routine? Thirty-seven pounds? One hundred and fourteen pounds? It 
+is one thing to comply with regulations, but quite another to bury 
+companies under excessive and needlessly complex documentation.
+  I applaud Mr. Koeblitz for bringing this problem to the attention of 
+the Congress and concur with the message he gave to the committee:
+       We should let the American business community get back to 
+     the business of running their companies rather than spending 
+     ridiculous amounts of time complying with federal government 
+     edicts.
+  I urge my colleagues to support H.R. 830.
+  Mrs. MEYERS of Kansas. Mr. Chairman, I rise in strong support of H.R. 
+830, the Paperwork Reduction Act of 1995.
+  I am pleased to be a cosponsor of this legislation. Much work has 
+gone into this legislation during the past two Congresses by the Small 
+Business Committee and the Committee on Government Reform. This bill 
+has been developed on a bipartisan basis and has received considerable 
+bipartisan support. I want to particularly acknowledge the work of the 
+gentleman from Pennsylvania [Mr. Clinger] and of the gentleman from 
+Virginia [Mr. Sisisky] who as a member of my Small Business Committee, 
+has been most persistent on this legislation.
+  Both gentlemen sponsored similar legislation last Congress, H.R. 
+2995, which had over 100 cosponsors, evenly split between Republicans 
+and Democrats. I also want to acknowledge the support of the gentleman 
+from New York [Mr. LaFalce] who as the ranking member of the Small 
+Business Committee, has worked in support of this legislation.
+  Mr. Speaker, the provisions of last Congress' H.R. 2995 are found in 
+Title V of H.R. 9, the Job Creation and Wage Enhancement Act of 1995. 
+H.R. 830 is a refinement of those provisions and is totally responsive 
+to this vital piece of the Republican contract. I strongly believe this 
+legislation which amends the 1980 Paperwork Reduction Act, and the 
+strengthening amendments to the Regulatory Flexibility Act we will be 
+considering next week, are precisely the kind of commonsense regulatory 
+reforms that this Congress can enact for the benefit of small 
+businesses and all the American people.
+  On January 27, the Small Business Committee held a hearing on 
+legislative proposals for paperwork reduction. The Administrator of the 
+White <strong>House</strong> Office of Information and Regulatory Affairs [OIRA], Mrs. 
+Sally Katzen, indicated the administration fully supported the bill we 
+have before us today. After describing problems this administration has 
+in implementing the Act as a result of the 1990 Supreme Court decision 
+in Dole versus Steelworkers of America, she specifically stated the 
+Clinton administration supports overturning that decision. She further 
+echoed the testimony of our small business witnesses that strengthening 
+amendments to the Paperwork Reduction Act are needed.
+  Authorization for appropriations to OIRA expired in 1989. The Supreme 
+Court decision followed in 1990. Our small business witnesses noted 
+that the Act's promise to protect them from bureaucratic excesses and 
+unnecessary regulations has significantly eroded during the past 5 
+years. They gave three reasons: The Court decision which gave agencies 
+an excuse to avoid the Act's requirements, the growing tendency of 
+agencies to ignore the Act's requirements, and the inability of the 
+Executive branch and the Congress to come to an agreement during the 
+past three Congresses on what amendments are needed to the Act.
+  Put simply, this legislation needs to be enacted to strengthen the 
+tools in the Act that encourage small businesses to participate in 
+reducing the cumulative burdens of regulatory paperwork. The Act needs 
+to be strengthened, corrected, and renewed, not weakened by time and 
+neglect.
+  One of our witnesses estimated that 510 billion dollars worth of time 
+and effort are spent by the American public meeting the Federal 
+Government's information needs. Those are the hidden taxes, the off-
+budget costs of government programs. We need to be sure that we keep 
+these costs to a minimum. The ability of small businesses, for example, 
+to create new jobs and retain existing ones, depends on keeping the 
+costs to a minimum.
+  I believe H.R. 830 will reverse the erosion that has occurred in 
+recent years. It will strengthen the small business community' ability 
+to reduce unnecessary regulations.
+  Let me point to the strong support within the small business 
+community for this legislation. This bill has a broad base of support 
+from a Paperwork Reduction Act Coalition, which includes some 75 trade, 
+professional, and citizen associations. Small business organizations 
+such as National Federation of Independent Businesses, National Small 
+Business 
+[[Page H2015]]  United, the Small Business Legislative Counsel, the 
+U.S. Chamber and the National Association of Manufacturers, who are 
+members of the Coalition, have independently indicated they will 
+highlight a vote for this bill as an important pro-small business vote.
+  I want to again, commend the work of Chairman Clinger on this 
+legislation. I urge my colleagues to vote in support of H.R. 830.
+  Mr. SISISKY. Mr. Chairman, today is a great day for small business. 
+And it is--just as surely--a great day for this <strong>House</strong>.
+  Today we have a chance to really change the way Government does 
+business. Paperwork reduction is not something that only academics and 
+bureaucrats care about. It is a reform that will have a direct impact 
+on millions of people--and especially small businesses--on a day-to-day 
+basis.
+  If we really want to reinvent Government, we must constantly be 
+thinking of ways for Government to perform its necessary functions 
+without imposing a crushing burden on small businesses.
+  This administration has received praise from many quarters for its 
+reinventing Government initiative. I, for one, think this praise is 
+well-deserved. The National Security Committee, on which I serve, 
+worked hand in hand with the administration last year to craft sweeping 
+legislation to reinvent the Government procurement system.
+  However, despite this and other successes, much more remains to be 
+done. If you ask small businesses how they think Government should be 
+reinvented, I think most would say paperwork reduction is a 
+good place to start. As a senior member of the Small Business 
+Committee, I know that small businesses rank paperwork reduction as one 
+of their highest priorities.
+  Small firms are forced to spend billions of dollars each year filling 
+out Government paperwork. We sometimes forget that many small 
+businesses, especially the smallest of the small, have a hard time just 
+keeping their heads above water. Government paperwork is really a 
+hidden tax on small business, and it makes it that much harder for them 
+to survive.
+  Since small businesses are responsible for creating most new jobs in 
+today's economy, it only makes sense to do what we can to eliminate 
+this impediment to small business job creation. Paperwork reduction is 
+a reform that both Democrats and Republicans can enthusiastically 
+support.
+  We can be proud that the original Paperwork Reduction Act, as well as 
+H.R. 830, have been genuinely bipartisan efforts. In the last Congress, 
+Mr. Clinger joined me in introducing a very similar bill, cosponsored 
+by a bipartisan group of 120 Members. In this Congress, I had the 
+pleasure of joining with Mr. Clinger in renewing this effort. Both H.R. 
+830 and its Senate counterpart enjoy the backing of the Clinton 
+administration.
+  I think that this legislation is an encouraging example of how 
+Members of both parties can put aside partisan differences when it 
+comes to small business and job creation, and I hope it can serve as a 
+model for constructive bipartisan cooperation in the future.
+  Mr. Chairman, today we have a chance to help small businesses in 
+America do what they do best--create more jobs. I strongly urge my 
+Democratic and Republican colleagues to give their wholehearted support 
+to H.R. 830.
+  Mr. Chairman, I yield back the balance of my time.
+  The CHAIRMAN. Pursuant to the rule, the bill shall be considered for 
+amendment under the 5-minute rule, and the bill and the amendments 
+printed in the bill are considered as having been read.
+  The text of the bill, H.R. 830, is as follows:
+                                H.R. 830
+       Be it enacted by the Senate and <strong>House</strong> of Representatives of 
+     the United States of America in Congress assembled,
+     SECTION 1. SHORT TITLE.
+       This Act may be cited as the ``Paperwork Reduction Act of 
+     1995''.
+     SEC. 2. COORDINATION OF FEDERAL INFORMATION POLICY.
+       Chapter 35 of title 44, United States Code, is amended to 
+     read as follows:
+        ``CHAPTER 35--COORDINATION OF FEDERAL INFORMATION POLICY
+``Sec.
+``3501. Purposes.
+``3502. Definitions.
+``3503. Office of Information and Regulatory Affairs.
+``3504. Authority and functions of Director.
+``3505. Assignment of tasks and deadlines.
+``3506. Federal agency responsibilities.
+``3507. Public information collection activities; submission to 
+              Director; approval and delegation.
+``3508. Determination of necessity for information; hearing.
+``3509. Designation of central collection agency.
+``3510. Cooperation of agencies in making information available.
+``3511. Establishment and operation of Government Information Locator 
+              Service.
+``3512. Public protection.
+``3513. Director review of agency activities; reporting; agency 
+              response.
+``3514. Responsiveness to Congress.
+``3515. Administrative powers.
+``3516. Rules and regulations.
+``3517. Consultation with other agencies and the public.
+``3518. Effect on existing laws and regulations.
+``3519. Access to information.
+``3520. Authorization of appropriations.
+     ``Sec. 3501. Purposes
+       ``The purposes of this chapter are to--
+       ``(1) minimize the paperwork burden for individuals, small 
+     businesses, educational and nonprofit institutions, Federal 
+     contractors, State, local and tribal governments, and other 
+     persons resulting from the collection of information by or 
+     for the Federal Government;
+       ``(2) ensure the greatest possible public benefit from and 
+     maximize the utility of information created, collected, 
+     maintained, used, shared and disseminated by or for the 
+     Federal Government;
+       ``(3) coordinate, integrate, and to the extent practicable 
+     and appropriate, make uniform Federal information resources 
+     management policies and practices as a means to improve the 
+     productivity, efficiency, and effectiveness of Government 
+     programs, including the reduction of information collection 
+     burdens on the public and the improvement of service delivery 
+     to the public;
+       ``(4) improve the quality and use of Federal information to 
+     strengthen decisionmaking, accountability, and openness in 
+     Government and society;
+       ``(5) minimize the cost to the Federal Government of the 
+     creation, collection, maintenance, use, dissemination, and 
+     disposition of information;
+       ``(6) strengthen the partnership between the Federal 
+     Government and State, local, and tribal governments by 
+     minimizing the burden and maximizing the utility of 
+     information created, collected, maintained, used, 
+     disseminated, and retained by or for the Federal Government;
+       ``(7) provide for the dissemination of public information 
+     on a timely basis, on equitable terms, and in a manner that 
+     promotes the utility of the information to the public and 
+     makes effective use of information technology;
+       ``(8) ensure that the creation, collection, maintenance, 
+     use, dissemination, and disposition of information by or for 
+     the Federal Government is consistent with applicable laws, 
+     including laws relating to--
+       ``(A) privacy and confidentiality, including section 552a 
+     of title 5;
+       ``(B) security of information, including the Computer 
+     Security Act of 1987 (Public Law 100-235); and
+       ``(C) access to information, including section 552 of title 
+     5;
+       ``(9) ensure the integrity, quality, and utility of the 
+     Federal statistical system;
+       ``(10) ensure that information technology is acquired, 
+     used, and managed to improve performance of agency missions, 
+     including the reduction of information collection burdens on 
+     the public; and
+       ``(11) improve the responsibility and accountability of the 
+     Office of Management and Budget and all other Federal 
+     agencies to Congress and to the public for implementing the 
+     information collection review process, information resources 
+     management, and related policies and guidelines established 
+     under this chapter.
+     ``Sec. 3502. Definitions
+       ``As used in this chapter--
+       ``(1) the term `agency' means any executive department, 
+     military department, Government corporation, Government 
+     controlled corporation, or other establishment in the 
+     executive branch of the Government (including the Executive 
+     Office of the President), or any independent regulatory 
+     agency, but does not include--
+       ``(A) the General Accounting Office;
+       ``(B) Federal Election Commission;
+       ``(C) the governments of the District of Columbia and of 
+     the territories and possessions of the United States, and 
+     their various subdivisions; or
+       ``(D) Government-owned contractor-operated facilities, 
+     including laboratories engaged in national defense research 
+     and production activities;
+       ``(2) the term `burden' means time, effort, or financial 
+     resources expended by persons to generate, maintain, or 
+     provide information to or for a Federal agency, including the 
+     resources expended for--
+       ``(A) reviewing instructions;
+       ``(B) acquiring, installing, and utilizing technology and 
+     systems;
+       ``(C) adjusting the existing ways to comply with any 
+     previously applicable instructions and requirements;
+       ``(D) searching data sources;
+       ``(E) completing and reviewing the collection of 
+     information; and
+       ``(F) transmitting, or otherwise disclosing the 
+     information;
+       ``(3) the term `collection of information' means the 
+     obtaining, causing to be obtained, soliciting, or requiring 
+     the disclosure to third parties or the public, of facts or 
+     opinions by or for an agency, regardless of form or format, 
+     calling for either--
+       ``(A) answers to identical questions posed to, or identical 
+     reporting or recordkeeping requirements imposed on, ten or 
+     more persons, other than agencies, instrumentalities, 
+     [[Page H2016]]  or employees of the United States; or
+       ``(B) answers to questions posed to agencies, 
+     instrumentalities, or employees of the United States which 
+     are to be used for general statistical purposes;
+       ``(4) the term `Director' means the Director of the Office 
+     of Management and Budget;
+       ``(5) the term `independent regulatory agency' means the 
+     Board of Governors of the Federal Reserve System, the 
+     Commodity Futures Trading Commission, the Consumer Product 
+     Safety Commission, the Federal Communications Commission, the 
+     Federal Deposit Insurance Corporation, the Federal Energy 
+     Regulatory Commission, the Federal Housing Finance Board, the 
+     Federal Maritime Commission, the Federal Trade Commission, 
+     the Interstate Commerce Commission, the Mine Enforcement 
+     Safety and Health Review Commission, the National Labor 
+     Relations Board, the Nuclear Regulatory Commission, the 
+     Occupational Safety and Health Review Commission, the Postal 
+     Rate Commission, the Securities and Exchange Commission, and 
+     any other similar agency designated by statute as a Federal 
+     independent regulatory agency or commission;
+       ``(6) the term `information resources' means information 
+     and related resources, such as personnel, equipment, funds, 
+     and information technology;
+       ``(7) the term `information resources management' means the 
+     process of managing information resources to accomplish 
+     agency missions and to improve agency performance, including 
+     through the reduction of information collection burdens on 
+     the public;
+       ``(8) the term `information system' means a discrete set of 
+     information resources and processes, automated or manual, 
+     organized for the collection, processing, maintenance, use, 
+     sharing, dissemination, or disposition of information;
+       ``(9) the term `information technology' has the same 
+     meaning as the term `automatic data processing equipment' as 
+     defined by section 111(a)(2) of the Federal Property and 
+     Administrative Services Act of 1949 (40 U.S.C. 759(a)(2));
+       ``(10) the term `person' means an individual, partnership, 
+     association, corporation, business trust, or legal 
+     representative, an organized group of individuals, a State, 
+     territorial, or local government or branch thereof, or a 
+     political subdivision of a State, territory, or local 
+     government or a branch of a political subdivision;
+       ``(11) the term `practical utility' means the ability of an 
+     agency to use information, particularly the capability to 
+     process such information in a timely and useful fashion;
+       ``(12) the term `public information' means any information, 
+     regardless of form or format, that an agency discloses, 
+     disseminates, or makes available to the public; and
+       ``(13) the term `recordkeeping requirement' means a 
+     requirement imposed by or for an agency on persons to 
+     maintain specified records, including a requirement to--
+       ``(A) retain such records;
+       ``(B) notify third parties or the public of the existence 
+     of such records;
+       ``(C) disclose such records to third parties or the public; 
+     or
+       ``(D) report to third parties or the public regarding such 
+     records.
+     ``Sec. 3503. Office of Information and Regulatory Affairs
+       ``(a) There is established in the Office of Management and 
+     Budget an office to be known as the Office of Information and 
+     Regulatory Affairs.
+       ``(b) There shall be at the head of the Office an 
+     Administrator who shall be appointed by the President, by and 
+     with the advice and consent of the Senate. The Director shall 
+     delegate to the Administrator the authority to administer all 
+     functions under this chapter, except that any such delegation 
+     shall not relieve the Director of responsibility for the 
+     administration of such functions. The Administrator shall 
+     serve as principal adviser to the Director on Federal 
+     information resources management policy.
+     ``Sec. 3504. Authority and functions of Director
+       ``(a)(1) The Director shall--
+       ``(A) develop, coordinate and oversee the implementation of 
+     Federal information resources management policies, 
+     principles, standards, and guidelines; and
+       ``(B) provide direction and oversee--
+       ``(i) the review and approval of the collection of 
+     information and the reduction of the information collection 
+     burden;
+       ``(ii) agency dissemination of and public access to 
+     information;
+       ``(iii) statistical activities;
+       ``(iv) records management activities;
+       ``(v) privacy, confidentiality, security, disclosure, and 
+     sharing of information; and
+       ``(vi) the acquisition and use of information technology.
+       ``(2) The authority of the Director under this chapter 
+     shall be exercised consistent with applicable law.
+       ``(b) With respect to general information resources 
+     management policy, the Director shall--
+       ``(1) develop and oversee the implementation of uniform 
+     information resources management policies, principles, 
+     standards, and guidelines;
+       ``(2) foster greater sharing, dissemination, and access to 
+     public information, including through--
+       ``(A) the use of the Government Information Locator 
+     Service; and
+       ``(B) the development and utilization of common standards 
+     for information collection, storage, processing and 
+     communication, including standards for security, 
+     interconnectivity and interoperability;
+       ``(3) initiate and review proposals for changes in 
+     legislation, regulations, and agency procedures to improve 
+     information resources management practices;
+       ``(4) oversee the development and implementation of best 
+     practices in information resources management, including 
+     training; and
+       ``(5) oversee agency integration of program and management 
+     functions with information resources management functions.
+       ``(c) With respect to the collection of information and the 
+     control of paperwork, the Director shall--
+       ``(1) review and approve proposed agency collections of 
+     information;
+       ``(2) coordinate the review of the collection of 
+     information associated with Federal procurement and 
+     acquisition by the Office of Information and Regulatory 
+     Affairs with the Office of Federal Procurement Policy, with 
+     particular emphasis on applying information technology to 
+     improve the efficiency and effectiveness of Federal 
+     procurement and acquisition and to reduce information 
+     collection burdens on the public;
+       ``(3) minimize the Federal information collection burden, 
+     with particular emphasis on those individuals and entities 
+     most adversely affected;
+       ``(4) maximize the practical utility of and public benefit 
+     from information collected by or for the Federal Government; 
+     and
+       ``(5) establish and oversee standards and guidelines by 
+     which agencies are to estimate the burden to comply with a 
+     proposed collection of information.
+       ``(d) With respect to information dissemination, the 
+     Director shall develop and oversee the implementation of 
+     policies, principles, standards, and guidelines to--
+       ``(1) apply to Federal agency dissemination of public 
+     information, regardless of the form or format in which such 
+     information is disseminated; and
+       ``(2) promote public access to public information and 
+     fulfill the purposes of this chapter, including through the 
+     effective use of information technology.
+       ``(e) With respect to statistical policy and coordination, 
+     the Director shall--
+       ``(1) coordinate the activities of the Federal statistical 
+     system to ensure--
+       ``(A) the efficiency and effectiveness of the system; and
+       ``(B) the integrity, objectivity, impartiality, utility, 
+     and confidentiality of information collected for statistical 
+     purposes;
+       ``(2) ensure that budget proposals of agencies are 
+     consistent with system-wide priorities for maintaining and 
+     improving the quality of Federal statistics and prepare an 
+     annual report on statistical program funding;
+       ``(3) develop and oversee the implementation of 
+     Governmentwide policies, principles, standards, and 
+     guidelines concerning--
+       ``(A) statistical collection procedures and methods;
+       ``(B) statistical data classification;
+       ``(C) statistical information presentation and 
+     dissemination;
+       ``(D) timely release of statistical data; and
+       ``(E) such statistical data sources as may be required for 
+     the administration of Federal programs;
+       ``(4) evaluate statistical program performance and agency 
+     compliance with Governmentwide policies, principles, 
+     standards and guidelines;
+       ``(5) promote the sharing of information collected for 
+     statistical purposes consistent with privacy rights and 
+     confidentiality pledges;
+       ``(6) coordinate the participation of the United States in 
+     international statistical activities, including the 
+     development of comparable statistics;
+       ``(7) appoint a chief statistician who is a trained and 
+     experienced professional statistician to carry out the 
+     functions described under this subsection;
+       ``(8) establish an Interagency Council on Statistical 
+     Policy to advise and assist the Director in carrying out the 
+     functions under this subsection that shall--
+       ``(A) be headed by the chief statistician; and
+       ``(B) consist of--
+       ``(i) the heads of the major statistical programs; and
+       ``(ii) representatives of other statistical agencies under 
+     rotating membership; and
+       ``(9) provide opportunities for training in statistical 
+     policy functions to employees of the Federal Government under 
+     which--
+       ``(A) each trainee shall be selected at the discretion of 
+     the Director based on agency requests and shall serve under 
+     the chief statistician for at least 6 months and not more 
+     than 1 year; and
+       ``(B) all costs of the training shall be paid by the agency 
+     requesting training.
+       ``(f) With respect to records management, the Director 
+     shall--
+       ``(1) provide advice and assistance to the Archivist of the 
+     United States and the Administrator of General Services to 
+     promote coordination in the administration of chapters 29, 
+     31, and 33 of this title with the information resources 
+     management policies, principles, standards, and guidelines 
+     established under this chapter;
+       ``(2) review compliance by agencies with--
+       ``(A) the requirements of chapters 29, 31, and 33 of this 
+     title; and
+     [[Page H2017]]   ``(B) regulations promulgated by the 
+     Archivist of the United States and the Administrator of 
+     General Services; and
+       ``(3) oversee the application of records management 
+     policies, principles, standards, and guidelines, including 
+     requirements for archiving information maintained in 
+     electronic format, in the planning and design of information 
+     systems.
+       ``(g) With respect to privacy and security, the Director 
+     shall--
+       ``(1) develop and oversee the implementation of policies, 
+     principles, standards, and guidelines on privacy, 
+     confidentiality, security, disclosure and sharing of 
+     information collected or maintained by or for agencies;
+       ``(2) oversee and coordinate compliance with sections 552 
+     and 552a of title 5, the Computer Security Act of 1987 (40 
+     U.S.C. 759 note), and related information management laws; 
+     and
+       ``(3) require Federal agencies, consistent with the 
+     Computer Security Act of 1987 (40 U.S.C. 759 note), to 
+     identify and afford security protections commensurate with 
+     the risk and magnitude of the harm resulting from the loss, 
+     misuse, or unauthorized access to or modification of 
+     information collected or maintained by or on behalf of an 
+     agency.
+       ``(h) With respect to Federal information technology, the 
+     Director shall--
+       ``(1) in consultation with the Director of the National 
+     Institute of Standards and Technology and the Administrator 
+     of General Services--
+       ``(A) develop and oversee the implementation of policies, 
+     principles, standards, and guidelines for information 
+     technology functions and activities of the Federal 
+     Government, including periodic evaluations of major 
+     information systems; and
+       ``(B) oversee the development and implementation of 
+     standards under section 111(d) of the Federal Property and 
+     Administrative Services Act of 1949 (40 U.S.C. 759(d));
+       ``(2) monitor the effectiveness of, and compliance with, 
+     directives issued under sections 110 and 111 of the Federal 
+     Property and Administrative Services Act of 1949 (40 U.S.C. 
+     757 and 759);
+       ``(3) coordinate the development and review by the Office 
+     of Information and Regulatory Affairs of policy associated 
+     with Federal procurement and acquisition of information 
+     technology with the Office of Federal Procurement Policy;
+       ``(4) ensure, through the review of agency budget 
+     proposals, information resources management plans and other 
+     means--
+       ``(A) agency integration of information resources 
+     management plans, program plans and budgets for acquisition 
+     and use of information technology; and
+       ``(B) the efficiency and effectiveness of inter-agency 
+     information technology initiatives to improve agency 
+     performance and the accomplishment of agency missions; and
+       ``(5) promote the use of information technology by the 
+     Federal Government to improve the productivity, efficiency, 
+     and effectiveness of Federal programs, including through 
+     dissemination of public information and the reduction of 
+     information collection burdens on the public.
+     ``Sec. 3505. Assignment of tasks and deadlines
+       ``(a) In carrying out the functions under this chapter, the 
+     Director shall--
+       ``(1) in consultation with agency heads, set an annual 
+     Governmentwide goal for the reduction of information 
+     collection burdens by at least five percent, and set annual 
+     agency goals to--
+       ``(A) reduce information collection burdens imposed on the 
+     public that--
+       ``(i) represent the maximum practicable opportunity in each 
+     agency; and
+       ``(ii) are consistent with improving agency management of 
+     the process for the review of collections of information 
+     established under section 3506(c); and
+       ``(B) improve information resources management in ways that 
+     increase the productivity, efficiency and effectiveness of 
+     Federal programs, including service delivery to the public;
+       ``(2) with selected agencies and non-Federal entities on a 
+     voluntary basis, initiate and conduct pilot projects to test 
+     alternative policies, practices, regulations, and procedures 
+     to fulfill the purposes of this chapter, particularly with 
+     regard to minimizing the Federal information collection 
+     burden; and
+       ``(3) in consultation with the Administrator of General 
+     Services, the Director of the National Institute of Standards 
+     and Technology, the Archivist of the United States, and the 
+     Director of the Office of Personnel Management, develop and 
+     maintain a Governmentwide strategic plan for information 
+     resources management, that shall include--
+       ``(A) a description of the objectives and the means by 
+     which the Federal Government shall apply information 
+     resources to improve agency and program performance;
+       ``(B) plans for--
+       ``(i) reducing information burdens on the public, including 
+     reducing such burdens through the elimination of duplication 
+     and meeting shared data needs with shared resources;
+       ``(ii) enhancing public access to and dissemination of, 
+     information, using electronic and other formats; and
+       ``(iii) meeting the information technology needs of the 
+     Federal Government in accordance with the purposes of this 
+     chapter; and
+       ``(C) a description of progress in applying information 
+     resources management to improve agency performance and the 
+     accomplishment of missions.
+       ``(b) For purposes of any pilot project conducted under 
+     subsection (a)(2), the Director may waive the application of 
+     any regulation or administrative directive issued by an 
+     agency with which the project is conducted, including any 
+     regulation or directive requiring a collection of 
+     information, after giving timely notice to the public and the 
+     Congress regarding the need for such waiver.
+     ``Sec. 3506. Federal agency responsibilities
+       ``(a)(1) The head of each agency shall be responsible for--
+       ``(A) carrying out the agency's information resources 
+     management activities to improve agency productivity, 
+     efficiency, and effectiveness; and
+       ``(B) complying with the requirements of this chapter and 
+     related policies established by the Director.
+       ``(2)(A) Except as provided under subparagraph (B), the 
+     head of each agency shall designate a senior official who 
+     shall report directly to such agency head to carry out the 
+     responsibilities of the agency under this chapter.
+       ``(B) The Secretary of the Department of Defense and the 
+     Secretary of each military department may each designate a 
+     senior official who shall report directly to such Secretary 
+     to carry out the responsibilities of the department under 
+     this chapter. If more than one official is designated for the 
+     military departments, the respective duties of the officials 
+     shall be clearly delineated.
+       ``(3) The senior official designated under paragraph (2) 
+     shall head an office responsible for ensuring agency 
+     compliance with and prompt, efficient, and effective 
+     implementation of the information policies and information 
+     resources management responsibilities established under this 
+     chapter, including the reduction of information collection 
+     burdens on the public. The senior official and employees of 
+     such office shall be selected with special attention to the 
+     professional qualifications required to administer the 
+     functions described under this chapter.
+       ``(4) Each agency program official shall be responsible and 
+     accountable for information resources assigned to and 
+     supporting the programs under such official. In consultation 
+     with the senior official designated under paragraph (2) and 
+     the agency Chief Financial Officer (or comparable official), 
+     each agency program official shall define program information 
+     needs and develop strategies, systems, and capabilities to 
+     meet those needs.
+       ``(b) With respect to general information resources 
+     management, each agency shall--
+       ``(1) manage information resources to--
+       ``(A) reduce information collection burdens on the public;
+       ``(B) increase program efficiency and effectiveness; and
+       ``(C) improve the integrity, quality, and utility of 
+     information to all users within and outside the agency, 
+     including capabilities for ensuring dissemination of public 
+     information, public access to government information, and 
+     protections for privacy and security;
+       ``(2) in accordance with guidance by the Director, develop 
+     and maintain a strategic information resources management 
+     plan that shall describe how information resources management 
+     activities help accomplish agency missions;
+       ``(3) develop and maintain an ongoing process to--
+       ``(A) ensure that information resources management 
+     operations and decisions are integrated with organizational 
+     planning, budget, financial management, human resources 
+     management, and program decisions;
+       ``(B) in cooperation with the agency Chief Financial 
+     Officer (or comparable official), develop a full and accurate 
+     accounting of information technology expenditures, related 
+     expenses, and results; and
+       ``(C) establish goals for improving information resources 
+     management's contribution to program productivity, 
+     efficiency, and effectiveness, methods for measuring progress 
+     towards those goals, and clear roles and responsibilities for 
+     achieving those goals;
+       ``(4) in consultation with the Director, the Administrator 
+     of General Services, and the Archivist of the United States, 
+     maintain a current and complete inventory of the agency's 
+     information resources, including directories necessary to 
+     fulfill the requirements of section 3511 of this chapter; and
+       ``(5) in consultation with the Director and the Director of 
+     the Office of Personnel Management, conduct formal training 
+     programs to educate agency program and management officials 
+     about information resources management.
+       ``(c) With respect to the collection of information and the 
+     control of paperwork, each agency shall--
+       ``(1) establish a process within the office headed by the 
+     official designated under subsection (a), that is 
+     sufficiently independent of program responsibility to 
+     evaluate fairly whether proposed collections of information 
+     should be approved under this chapter, to--
+       ``(A) review each collection of information before 
+     submission to the Director for review under this chapter, 
+     including--
+       ``(i) an evaluation of the need for the collection of 
+     information;
+       ``(ii) a functional description of the information to be 
+     collected;
+       ``(iii) a plan for the collection of the information;
+       ``(iv) a specific, objectively supported estimate of 
+     burden;
+       ``(v) a test of the collection of information through a 
+     pilot program, if appropriate; and
+     [[Page H2018]]   ``(vi) a plan for the efficient and 
+     effective management and use of the information to be 
+     collected, including necessary resources;
+       ``(B) ensure that each information collection--
+       ``(i) is inventoried, displays a control number and, if 
+     appropriate, an expiration date;
+       ``(ii) indicates the collection is in accordance with the 
+     clearance requirements of section 3507; and
+       ``(iii) contains a statement to inform the person receiving 
+     the collection of information--
+       ``(I) the reasons the information is being collected;
+       ``(II) the way such information is to be used;
+       ``(III) an estimate, to the extent practicable, of the 
+     burden of the collection; and
+       ``(IV) whether responses to the collection of information 
+     are voluntary, required to obtain a benefit, or mandatory; 
+     and
+       ``(C) assess the information collection burden of proposed 
+     legislation affecting the agency;
+       ``(2)(A) except for good cause or as provided under 
+     subparagraph (B), provide 60-day notice in the Federal 
+     Register, and otherwise consult with members of the public 
+     and affected agencies concerning each proposed collection of 
+     information, to solicit comment to--
+       ``(i) evaluate whether the proposed collection of 
+     information is necessary for the proper performance of the 
+     functions of the agency, including whether the information 
+     shall have practical utility;
+       ``(ii) evaluate the accuracy of the agency's estimate of 
+     the burden of the proposed collection of information;
+       ``(iii) enhance the quality, utility, and clarity of the 
+     information to be collected; and
+       ``(iv) minimize the burden of the collection of information 
+     on those who are to respond, including through the use of 
+     automated collection techniques or other forms of information 
+     technology; and
+       ``(B) for any proposed collection of information contained 
+     in a proposed rule (to be reviewed by the Director under 
+     section 3507(d)), provide notice and comment through the 
+     notice of proposed rulemaking for the proposed rule and such 
+     notice shall have the same purposes specified under 
+     subparagraph (A) (i) through (iv); and
+       ``(3) certify (and provide a record supporting such 
+     certification, including public comments received by the 
+     agency) that each collection of information submitted to the 
+     Director for review under section 3507--
+       ``(A) is necessary for the proper performance of the 
+     functions of the agency, including that the information has 
+     practical utility;
+       ``(B) is not unnecessarily duplicative of information 
+     otherwise reasonably accessible to the agency;
+       ``(C) reduces to the extent practicable and appropriate the 
+     burden on persons who shall provide information to or for the 
+     agency, including with respect to small entities, as defined 
+     under section 601(6) of title 5, the use of such techniques 
+     as--
+       ``(i) establishing differing compliance or reporting 
+     requirements or timetables that take into account the 
+     resources available to those who are to respond;
+       ``(ii) the clarification, consolidation, or simplification 
+     of compliance and reporting requirements; or
+       ``(iii) an exemption from coverage of the collection of 
+     information, or any part thereof;
+       ``(D) is written using plain, coherent, and unambiguous 
+     terminology and is understandable to those who are to 
+     respond;
+       ``(E) is to be implemented in ways consistent and 
+     compatible, to the maximum extent practicable, with the 
+     existing reporting and recordkeeping practices of those who 
+     are to respond;
+       ``(F) contains the statement required under paragraph 
+     (1)(B)(iii);
+       ``(G) has been developed by an office that has planned and 
+     allocated resources for the efficient and effective 
+     management and use of the information to be collected, 
+     including the processing of the information in a manner which 
+     shall enhance, where appropriate, the utility of the 
+     information to agencies and the public;
+       ``(H) uses effective and efficient statistical survey 
+     methodology appropriate to the purpose for which the 
+     information is to be collected; and
+       ``(I) to the maximum extent practicable, uses information 
+     technology to reduce burden and improve data quality, agency 
+     efficiency and responsiveness to the public.
+       ``(d) With respect to information dissemination, each 
+     agency shall--
+       ``(1) ensure that the public has timely, equal, and 
+     equitable access to the agency's public information, 
+     including ensuring such access through--
+       ``(A) encouraging a diversity of public and private sources 
+     for information based on government public information,
+       ``(B) in cases in which the agency provides public 
+     information maintained in electronic format, providing 
+     timely, equal, and equitable access to the underlying data 
+     (in whole or in part); and
+       ``(C) agency dissemination of public information in an 
+     efficient, effective, and economical manner;
+       ``(2) regularly solicit and consider public input on the 
+     agency's information dissemination activities;
+       ``(3) provide adequate notice when initiating, 
+     substantially modifying, or terminating significant 
+     information dissemination products; and
+       ``(4) not, except where specifically authorized by 
+     statute--
+       ``(A) establish an exclusive, restricted, or other 
+     distribution arrangement that interferes with timely and 
+     equitable availability of public information to the public;
+       ``(B) restrict or regulate the use, resale, or 
+     redissemination of public information by the public;
+       ``(C) charge fees or royalties for resale or 
+     redissemination of public information; or
+       ``(D) establish user fees for public information that 
+     exceed the cost of dissemination, except that the Director 
+     may waive the application of this subparagraph to an agency, 
+     if--
+       ``(i) the head of the agency submits a written request to 
+     the Director, publishes a notice of the request in the 
+     Federal Register, and provides a copy of the request to the 
+     public upon request;
+       ``(ii) the Director sets forth in writing a statement of 
+     the scope, conditions, and duration of the waiver and the 
+     reasons for granting it, and makes such statement available 
+     to the public upon request; and
+       ``(iii) the granting of the waiver would not materially 
+     impair the timely and equitable availability of public 
+     information to the public.
+       ``(e) With respect to statistical policy and coordination, 
+     each agency shall--
+       ``(1) ensure the relevance, accuracy, timeliness, 
+     integrity, and objectivity of information collected or 
+     created for statistical purposes;
+       ``(2) inform respondents fully and accurately about the 
+     sponsors, purposes, and uses of statistical surveys and 
+     studies;
+       ``(3) protect respondents' privacy and ensure that 
+     disclosure policies fully honor pledges of confidentiality;
+       ``(4) observe Federal standards and practices for data 
+     collection, analysis, documentation, sharing, and 
+     dissemination of information;
+       ``(5) ensure the timely publication of the results of 
+     statistical surveys and studies, including information about 
+     the quality and limitations of the surveys and studies; and
+       ``(6) make data available to statistical agencies and 
+     readily accessible to the public.
+       ``(f) With respect to records management, each agency shall 
+     implement and enforce applicable policies and procedures, 
+     including requirements for archiving information maintained 
+     in electronic format, particularly in the planning, design 
+     and operation of information systems.
+       ``(g) With respect to privacy and security, each agency 
+     shall--
+       ``(1) implement and enforce applicable policies, 
+     procedures, standards, and guidelines on privacy, 
+     confidentiality, security, disclosure and sharing of 
+     information collected or maintained by or for the agency;
+       ``(2) assume responsibility and accountability for 
+     compliance with and coordinated management of sections 552 
+     and 552a of title 5, the Computer Security Act of 1987 (40 
+     U.S.C. 759 note), and related information management laws; 
+     and
+       ``(3) consistent with the Computer Security Act of 1987 (40 
+     U.S.C. 759 note), identify and afford security protections 
+     commensurate with the risk and magnitude of the harm 
+     resulting from the loss, misuse, or unauthorized access to or 
+     modification of information collected or maintained by or on 
+     behalf of an agency.
+       ``(h) With respect to Federal information technology, each 
+     agency shall--
+       ``(1) implement and enforce applicable Governmentwide and 
+     agency information technology management policies, 
+     principles, standards, and guidelines;
+       ``(2) assume responsibility and accountability for 
+     information technology investments;
+       ``(3) promote the use of information technology by the 
+     agency to improve the productivity, efficiency, and 
+     effectiveness of agency programs, including the reduction of 
+     information collection burdens on the public and improved 
+     dissemination of public information;
+       ``(4) propose changes in legislation, regulations, and 
+     agency procedures to improve information technology 
+     practices, including changes that improve the ability of the 
+     agency to use technology to reduce burden; and
+       ``(5) assume responsibility for maximizing the value and 
+     assessing and managing the risks of major information systems 
+     initiatives through a process that is--
+       ``(A) integrated with budget, financial, and program 
+     management decisions; and
+       ``(B) used to select, control, and evaluate the results of 
+     major information systems initiatives.
+     ``Sec. 3507. Public information collection activities; 
+       submission to Director; approval and delegation
+       ``(a) An agency shall not conduct or sponsor the collection 
+     of information unless in advance of the adoption or revision 
+     of the collection of information--
+       ``(1) the agency has--
+       ``(A) conducted the review established under section 
+     3506(c)(1);
+       ``(B) evaluated the public comments received under section 
+     3506(c)(2);
+       ``(C) submitted to the Director the certification required 
+     under section 3506(c)(3), the proposed collection of 
+     information, copies of pertinent statutory authority, 
+     regulations, 
+     [[Page H2019]]  and other related materials as the Director 
+     may specify; and
+       ``(D) published a notice in the Federal Register--
+       ``(i) stating that the agency has made such submission; and
+       ``(ii) setting forth--
+       ``(I) a title for the collection of information;
+       ``(II) a summary of the collection of information;
+       ``(III) a brief description of the need for the information 
+     and the proposed use of the information;
+       ``(IV) a description of the likely respondents and proposed 
+     frequency of response to the collection of information;
+       ``(V) an estimate of the burden that shall result from the 
+     collection of information; and
+       ``(VI) notice that comments may be submitted to the agency 
+     and Director;
+       ``(2) the Director has approved the proposed collection of 
+     information or approval has been inferred, under the 
+     provisions of this section; and
+       ``(3) the agency has obtained from the Director a control 
+     number to be displayed upon the collection of information.
+       ``(b) The Director shall provide at least 30 days for 
+     public comment prior to making a decision under subsection 
+     (c), (d), or (h), except for good cause or as provided under 
+     subsection (j).
+       ``(c)(1) For any proposed collection of information not 
+     contained in a proposed rule, the Director shall notify the 
+     agency involved of the decision to approve or disapprove the 
+     proposed collection of information.
+       ``(2) The Director shall provide the notification under 
+     paragraph (1), within 60 days after receipt or publication of 
+     the notice under subsection (a)(1)(D), whichever is later.
+       ``(3) If the Director does not notify the agency of a 
+     denial or approval within the 60-day period described under 
+     paragraph (2)--
+       ``(A) the approval may be inferred;
+       ``(B) a control number shall be assigned without further 
+     delay; and
+       ``(C) the agency may collect the information for not more 
+     than 1 year.
+       ``(d)(1) For any proposed collection of information 
+     contained in a proposed rule--
+       ``(A) as soon as practicable, but no later than the date of 
+     publication of a notice of proposed rulemaking in the Federal 
+     Register, each agency shall forward to the Director a copy of 
+     any proposed rule which contains a collection of information 
+     and any information requested by the Director necessary to 
+     make the determination required under this subsection; and
+       ``(B) within 60 days after the notice of proposed 
+     rulemaking is published in the Federal Register, the Director 
+     may file public comments pursuant to the standards set forth 
+     in section 3508 on the collection of information contained in 
+     the proposed rule;
+       ``(2) When a final rule is published in the Federal 
+     Register, the agency shall explain--
+       ``(A) how any collection of information contained in the 
+     final rule responds to the comments, if any, filed by the 
+     Director or the public; or
+       ``(B) the reasons such comments were rejected.
+       ``(3) If the Director has received notice and failed to 
+     comment on an agency rule within 60 days after the notice of 
+     proposed rulemaking, the Director may not disapprove any 
+     collection of information specifically contained in an agency 
+     rule.
+       ``(4) No provision in this section shall be construed to 
+     prevent the Director, in the Director's discretion--
+       ``(A) from disapproving any collection of information which 
+     was not specifically required by an agency rule;
+       ``(B) from disapproving any collection of information 
+     contained in an agency rule, if the agency failed to comply 
+     with the requirements of paragraph (1) of this subsection;
+       ``(C) from disapproving any collection of information 
+     contained in a final agency rule, if the Director finds 
+     within 60 days after the publication of the final rule, and 
+     after considering the agency's response to the Director's 
+     comments filed under paragraph (2), that the collection of 
+     information cannot be approved under the standards set forth 
+     in section 3508; or
+       ``(D) from disapproving any collection of information 
+     contained in a final rule, if--
+       ``(i) the Director determines that the agency has 
+     substantially modified in the final rule the collection of 
+     information contained in the proposed rule; and
+       ``(ii) the agency has not given the Director the 
+     information required under paragraph (1) with respect to the 
+     modified collection of information, at least 60 days before 
+     the issuance of the final rule.
+       ``(5) This subsection shall apply only when an agency 
+     publishes a notice of proposed rulemaking and requests public 
+     comments.
+       ``(6) The decision by the Director to approve or not act 
+     upon a collection of information contained in an agency rule 
+     shall not be subject to judicial review.
+       ``(e)(1) Any decision by the Director under subsection (c), 
+     (d), (h), or (j) to disapprove a collection of information, 
+     or to instruct the agency to make substantive or material 
+     change to a collection of information, shall be publicly 
+     available and include an explanation of the reasons for such 
+     decision.
+       ``(2) Any written communication between the Administrator 
+     of the Office of Information and Regulatory Affairs, or any 
+     employee of the Office of Information and Regulatory Affairs, 
+     and an agency or person not employed by the Federal 
+     Government concerning a proposed collection of information 
+     shall be made available to the public.
+       ``(3) This subsection shall not require the disclosure of--
+       ``(A) any information which is protected at all times by 
+     procedures established for information which has been 
+     specifically authorized under criteria established by an 
+     Executive order or an Act of Congress to be kept secret in 
+     the interest of national defense or foreign policy; or
+       ``(B) any communication relating to a collection of 
+     information, the disclosure of which could lead to 
+     retaliation or discrimination against the communicator.
+       ``(f)(1) An independent regulatory agency which is 
+     administered by 2 or more members of a commission, board, or 
+     similar body, may by majority vote void--
+       ``(A) any disapproval by the Director, in whole or in part, 
+     of a proposed collection of information that agency; or
+       ``(B) an exercise of authority under subsection (d) of 
+     section 3507 concerning that agency.
+       ``(2) The agency shall certify each vote to void such 
+     disapproval or exercise to the Director, and explain the 
+     reasons for such vote. The Director shall without further 
+     delay assign a control number to such collection of 
+     information, and such vote to void the disapproval or 
+     exercise shall be valid for a period of 3 years.
+       ``(g) The Director may not approve a collection of 
+     information for a period in excess of 3 years.
+       ``(h)(1) If an agency decides to seek extension of the 
+     Director's approval granted for a currently approved 
+     collection of information, the agency shall--
+       ``(A) conduct the review established under section 3506(c), 
+     including the seeking of comment from the public on the 
+     continued need for, and burden imposed by the collection of 
+     information; and
+       ``(B) after having made a reasonable effort to seek public 
+     comment, but no later than 60 days before the expiration date 
+     of the control number assigned by the Director for the 
+     currently approved collection of information, submit the 
+     collection of information for review and approval under this 
+     section, which shall include an explanation of how the agency 
+     has used the information that it has collected.
+       ``(2) If under the provisions of this section, the Director 
+     disapproves a collection of information contained in an 
+     existing rule, or recommends or instructs the agency to make 
+     a substantive or material change to a collection of 
+     information contained in an existing rule, the Director 
+     shall--
+       ``(A) publish an explanation thereof in the Federal 
+     Register; and
+       ``(B) instruct the agency to undertake a rulemaking within 
+     a reasonable time limited to consideration of changes to the 
+     collection of information contained in the rule and 
+     thereafter to submit the collection of information for 
+     approval or disapproval under this chapter.
+       ``(3) An agency may not make a substantive or material 
+     modification to a collection of information after such 
+     collection has been approved by the Director, unless the 
+     modification has been submitted to the Director for review 
+     and approval under this chapter.
+       ``(i)(1) If the Director finds that a senior official of an 
+     agency designated under section 3506(a) is sufficiently 
+     independent of program responsibility to evaluate fairly 
+     whether proposed collections of information should be 
+     approved and has sufficient resources to carry out this 
+     responsibility effectively, the Director may, by rule in 
+     accordance with the notice and comment provisions of chapter 
+     5 of title 5, United States Code, delegate to such official 
+     the authority to approve proposed collections of information 
+     in specific program areas, for specific purposes, or for all 
+     agency purposes.
+       ``(2) A delegation by the Director under this section shall 
+     not preclude the Director from reviewing individual 
+     collections of information if the Director determines that 
+     circumstances warrant such a review. The Director shall 
+     retain authority to revoke such delegations, both in general 
+     and with regard to any specific matter. In acting for the 
+     Director, any official to whom approval authority has been 
+     delegated under this section shall comply fully with the 
+     rules and regulations promulgated by the Director.
+       ``(j)(1) The agency head may request the Director to 
+     authorize collection of information prior to expiration of 
+     time periods established under this chapter, if an agency 
+     head determines that--
+       ``(A) a collection of information--
+       ``(i) is needed prior to the expiration of such time 
+     periods; and
+       ``(ii) is essential to the mission of the agency; and
+       ``(B) the agency cannot reasonably comply with the 
+     provisions of this chapter within such time periods because--
+       ``(i) public harm is reasonably likely to result if normal 
+     clearance procedures are followed; or
+       ``(ii) an unanticipated event has occurred and the use of 
+     normal clearance procedures is reasonably likely to prevent 
+     or disrupt the collection of information related to the event 
+     or is reasonably likely to cause a statutory or court-ordered 
+     deadline to be missed.
+       ``(2) The Director shall approve or disapprove any such 
+     authorization request 
+     [[Page H2020]]  within the time requested by the agency head 
+     and, if approved, shall assign the collection of information 
+     a control number. Any collection of information conducted 
+     under this subsection may be conducted without compliance 
+     with the provisions of this chapter for a maximum of 90 days 
+     after the date on which the Director received the request to 
+     authorize such collection.
+     ``Sec. 3508. Determination of necessity for information; 
+       hearing
+       ``Before approving a proposed collection of information, 
+     the Director shall determine whether the collection of 
+     information by the agency is necessary for the proper 
+     performance of the functions of the agency, including whether 
+     the information shall have practical utility. Before making a 
+     determination the Director may give the agency and other 
+     interested persons an opportunity to be heard or to submit 
+     statements in writing. To the extent, if any, that the 
+     Director determines that the collection of information by an 
+     agency is unnecessary for any reason, the agency may not 
+     engage in the collection of information.
+     ``Sec. 3509. Designation of central collection agency
+       ``The Director may designate a central collection agency to 
+     obtain information for two or more agencies if the Director 
+     determines that the needs of such agencies for information 
+     will be adequately served by a single collection agency, and 
+     such sharing of data is not inconsistent with applicable law. 
+     In such cases the Director shall prescribe (with reference to 
+     the collection of information) the duties and functions of 
+     the collection agency so designated and of the agencies for 
+     which it is to act as agent (including reimbursement for 
+     costs). While the designation is in effect, an agency covered 
+     by the designation may not obtain for itself information for 
+     the agency which is the duty of the collection agency to 
+     obtain. The Director may modify the designation from time to 
+     time as circumstances require. The authority to designate 
+     under this section is subject to the provisions of section 
+     3507(f) of this chapter.
+     ``Sec. 3510. Cooperation of agencies in making information 
+       available
+       ``(a) The Director may direct an agency to make available 
+     to another agency, or an agency may make available to another 
+     agency, information obtained by a collection of information 
+     if the disclosure is not inconsistent with applicable law.
+       ``(b)(1) If information obtained by an agency is released 
+     by that agency to another agency, all the provisions of law 
+     (including penalties which relate to the unlawful disclosure 
+     of information) apply to the officers and employees of the 
+     agency to which information is released to the same extent 
+     and in the same manner as the provisions apply to the 
+     officers and employees of the agency which originally 
+     obtained the information.
+       ``(2) The officers and employees of the agency to which the 
+     information is released, in addition, shall be subject to the 
+     same provisions of law, including penalties, relating to the 
+     unlawful disclosure of information as if the information had 
+     been collected directly by that agency.
+     ``Sec. 3511. Establishment and operation of Government 
+       Information Locator Service
+       ``In order to assist agencies and the public in locating 
+     information and to promote information sharing and equitable 
+     access by the public, the Director shall--
+       ``(1) cause to be established and maintained a distributed 
+     agency-based electronic Government Information Locator 
+     Service (hereafter in this section referred to as the 
+     `Service'), which shall identify the major information 
+     systems, holdings, and dissemination products of each agency;
+       ``(2) require each agency to establish and maintain an 
+     agency information locator service as a component of, and to 
+     support the establishment and operation of the Service;
+       ``(3) in cooperation with the Archivist of the United 
+     States, the Administrator of General Services, the Public 
+     Printer, and the Librarian of Congress, establish an 
+     interagency committee to advise the Secretary of Commerce on 
+     the development of technical standards for the Service to 
+     ensure compatibility, promote information sharing, and 
+     uniform access by the public;
+       ``(4) consider public access and other user needs in the 
+     establishment and operation of the Service;
+       ``(5) ensure the security and integrity of the Service, 
+     including measures to ensure that only information which is 
+     intended to be disclosed to the public is disclosed through 
+     the Service; and
+       ``(6) periodically review the development and effectiveness 
+     of the Service and make recommendations for improvement, 
+     including other mechanisms for improving public access to 
+     Federal agency public information.
+     ``Sec. 3512. Public protection
+       ``Notwithstanding any other provision of law, no person 
+     shall be subject to any penalty for failing to maintain, 
+     provide, or disclose information to or for any agency or 
+     person if the applicable collection of information--
+       ``(1) does not display a valid control number assigned by 
+     the Director; and
+       ``(2) fails to state that the person who is to respond to 
+     the collection of information is not required to comply 
+     unless such collection displays a valid control number.
+     ``Sec. 3513. Director review of agency activities; reporting; 
+       agency response
+       ``(a) In consultation with the Administrator of General 
+     Services, the Archivist of the United States, the Director of 
+     the National Institute of Standards and Technology, and the 
+     Director of the Office of Personnel Management, the Director 
+     shall periodically review selected agency information 
+     resources management activities to ascertain the efficiency 
+     and effectiveness of such activities to improve agency 
+     performance and the accomplishment of agency missions.
+       ``(b) Each agency having an activity reviewed under 
+     subsection (a) shall, within 60 days after receipt of a 
+     report on the review, provide a written plan to the Director 
+     describing steps (including milestones) to--
+       ``(1) be taken to address information resources management 
+     problems identified in the report; and
+       ``(2) improve agency performance and the accomplishment of 
+     agency missions.
+     ``Sec. 3514. Responsiveness to Congress
+       ``(a)(1) The Director shall--
+       ``(A) keep the Congress and congressional committees fully 
+     and currently informed of the major activities under this 
+     chapter; and
+       ``(B) submit a report on such activities to the President 
+     of the Senate and the Speaker of the <strong>House</strong> of Representatives 
+     annually and at such other times as the Director determines 
+     necessary.
+       ``(2) The Director shall include in any such report a 
+     description of the extent to which agencies have--
+       ``(A) reduced information collection burdens on the public, 
+     including--
+       ``(i) a summary of accomplishments and planned initiatives 
+     to reduce collection of information burdens;
+       ``(ii) a list of all violations of this chapter and of any 
+     rules, guidelines, policies, and procedures issued pursuant 
+     to this chapter;
+       ``(iii) a list of any increase in the collection of 
+     information burden, including the authority for each such 
+     collection; and
+       ``(iv) a list of agencies that in the preceding year did 
+     not reduce information collection burdens by at least 5 
+     percent pursuant to section 3505, a list of the programs and 
+     statutory responsibilities of those agencies that precluded 
+     that reduction, and recommendations to assist those agencies 
+     to reduce information collection burdens in accordance with 
+     that section;
+       ``(B) improved the quality and utility of statistical 
+     information;
+       ``(C) improved public access to Government information; and
+       ``(D) improved program performance and the accomplishment 
+     of agency missions through information resources management.
+       ``(b) The preparation of any report required by this 
+     section shall be based on performance results reported by the 
+     agencies and shall not increase the collection of information 
+     burden on persons outside the Federal Government.
+     ``Sec. 3515. Administrative powers
+       ``Upon the request of the Director, each agency (other than 
+     an independent regulatory agency) shall, to the extent 
+     practicable, make its services, personnel, and facilities 
+     available to the Director for the performance of functions 
+     under this chapter.
+     ``Sec. 3516. Rules and regulations
+       ``The Director shall promulgate rules, regulations, or 
+     procedures necessary to exercise the authority provided by 
+     this chapter.
+     ``Sec. 3517. Consultation with other agencies and the public
+       ``(a) In developing information resources management 
+     policies, plans, rules, regulations, procedures, and 
+     guidelines and in reviewing collections of information, the 
+     Director shall provide interested agencies and persons early 
+     and meaningful opportunity to comment.
+       ``(b) Any person may request the Director to review any 
+     collection of information conducted by or for an agency to 
+     determine, if, under this chapter, the person shall maintain, 
+     provide, or disclose the information to or for the agency. 
+     Unless the request is frivolous, the Director shall, in 
+     coordination with the agency responsible for the collection 
+     of information--
+       ``(1) respond to the request within 60 days after receiving 
+     the request, unless such period is extended by the Director 
+     to a specified date and the person making the request is 
+     given notice of such extension; and
+       ``(2) take appropriate remedial action, if necessary.
+     ``Sec. 3518. Effect on existing laws and regulations
+       ``(a) Except as otherwise provided in this chapter, the 
+     authority of an agency under any other law to prescribe 
+     policies, rules, regulations, and procedures for Federal 
+     information resources management activities is subject to the 
+     authority of the Director under this chapter.
+       ``(b) Nothing in this chapter shall be deemed to affect or 
+     reduce the authority of the Secretary of Commerce or the 
+     Director of the Office of Management and Budget pursuant to 
+     Reorganization Plan No. 1 of 1977 (as amended) and Executive 
+     order, relating to telecommunications and information policy, 
+     procurement and management of telecommunications and 
+     information systems, spectrum use, and related matters.
+       ``(c)(1) Except as provided in paragraph (2), this chapter 
+     shall not apply to obtaining, causing to be obtained, 
+     soliciting, or requiring the disclosure to third parties or 
+     the public, of facts or opinions--
+     [[Page H2021]]   ``(A) during the conduct of a Federal 
+     criminal investigation or prosecution, or during the 
+     disposition of a particular criminal matter;
+       ``(B) during the conduct of--
+       ``(i) a civil action to which the United States or any 
+     official or agency thereof is a party; or
+       ``(ii) an administrative action or investigation involving 
+     an agency against specific individuals or entities;
+       ``(C) by compulsory process pursuant to the Antitrust Civil 
+     Process Act and section 13 of the Federal Trade Commission 
+     Improvements Act of 1980; or
+       ``(D) during the conduct of intelligence activities as 
+     defined in section 4-206 of Executive Order No. 12036, issued 
+     January 24, 1978, or successor orders, or during the conduct 
+     of cryptologic activities that are communications security 
+     activities.
+       ``(2) This chapter applies to obtaining, causing to be 
+     obtained, soliciting, or requiring the disclosure to third 
+     parties or the public, of facts or opinions during the 
+     conduct of general investigations (other than information 
+     collected in an antitrust investigation to the extent 
+     provided in subparagraph (C) of paragraph (1)) undertaken 
+     with reference to a category of individuals or entities such 
+     as a class of licensees or an entire industry.
+       ``(d) Nothing in this chapter shall be interpreted as 
+     increasing or decreasing the authority conferred by Public 
+     Law 89-306 on the Administrator of the General Services 
+     Administration, the Secretary of Commerce, or the Director of 
+     the Office of Management and Budget.
+       ``(e) Nothing in this chapter shall be interpreted as 
+     increasing or decreasing the authority of the President, the 
+     Office of Management and Budget or the Director thereof, 
+     under the laws of the United States, with respect to the 
+     substantive policies and programs of departments, agencies 
+     and offices, including the substantive authority of any 
+     Federal agency to enforce the civil rights laws.
+       ``(f) Notwithstanding any other provision of this chapter 
+     or any other law--
+       ``(1) any public information that an agency discloses, 
+     disseminates, or makes available to the public may be used by 
+     any person for profit or nonprofit activities; and
+       ``(2) if any person adds value to the public information, 
+     the Federal Government shall not have any right to obtain, 
+     collect, acquire, disseminate, use, or convert--
+       ``(A) the resulting data, database, or other information 
+     product, or
+       ``(B) any method used by the person to identify such 
+     resulting data, database, or information product,
+     except under terms that are expressly agreed to by such 
+     person.
+     ``Sec. 3519. Access to information
+       ``Under the conditions and procedures prescribed in section 
+     716 of title 31, the Director and personnel in the Office of 
+     Information and Regulatory Affairs shall furnish such 
+     information as the Comptroller General may require for the 
+     discharge of the responsibilities of the Comptroller General. 
+     For the purpose of obtaining such information, the 
+     Comptroller General or representatives thereof shall have 
+     access to all books, documents, papers and records, 
+     regardless of form or format, of the Office.
+     ``Sec. 3520. Authorization of appropriations
+       ``There are authorized to be appropriated to the Office of 
+     Information and Regulatory Affairs to carry out the 
+     provisions of this chapter such sums as may be necessary.''.
+     SEC. 3. EFFECTIVE DATE.
+       The amendments made by this Act shall take effect October 
+     1, 1995.
+                          committee amendments
+  The CHAIRMAN. The Clerk will designate the first committee amendment.
+  The text of the first committee amendment is as follows:
+       On page 12, line 21, strike ``and'' the second place it 
+     appears and insert in lieu thereof ``,''.
+  The CHAIRMAN. The question is on the first committee amendment.
+  The first committee amendment was agreed to.
+  Mr. CLINGER. Mr. Chairman, I ask unanimous consent that the remaining 
+committee amendments be considered en bloc.
+  The CHAIRMAN. Is there objection to the request of the gentleman from 
+Pennsylvania?
+  Mrs. COLLINS of Illinois. Mr. Chairman, reserving the right to 
+object, and I will not object, it is correct that this en bloc 
+amendment is solely in compliance with the amendments adopted in 
+committee?
+  Mr. CLINGER. Mr. Chairman, will the gentlewoman yield?
+  Mrs. COLLINS of Illinois. Further reserving the right to object, I 
+yield to the gentleman from Pennsylvania.
+  Mr. CLINGER. Mr. Chairman, that is correct. This just incorporates 
+those amendments which were adopted in the committee.
+  Mrs. COLLINS of Illinois. Mr. Chairman, I withdraw my reservation of 
+objection.
+  The CHAIRMAN. Is there objection to the request of the gentleman from 
+Pennsylvania?
+  There was no objection.
+  The CHAIRMAN. The Clerk will designate the remaining committee 
+amendments.
+  The text of the remaining committee amendments is as follows:
+       Committee amendments: On page 12, line 22, insert ``, and 
+     payment'' after ``acquisition''.
+       In the proposed section 3505 (page 19, line 18), strike 
+     ``five'' and insert ``10''.
+       In the proposed section 3514 (page 51, line 14), strike 
+     ``5'' and insert ``10''.
+       In the proposed section 3518 strike subsection (f).
+  The CHAIRMAN. The question is on the remaining committee amendments.
+  The remaining committee amendment were agreed to.
+  The CHAIRMAN. Are there further amendments to the bill?
+
+
+             amendment offered by mrs. collins of illinois
+  Mrs. COLLINS of Illinois. Mr. Chairman, I offer an amendment.
+  The Clerk read as follows:
+       Amendment offered by Mrs. Collins of Illinois: Page 6, 
+     beginning at line 23, strike ``soliciting, or requiring the 
+     disclosure to third parties or the public,'' and insert ``or 
+     soliciting,''.
+       Page 9, beginning at line 18, strike ``records,'' and all 
+     that follows through page 10, line 2, and insert 
+     ``records.''.
+       Page 49, beginning at line 12, strike ``maintain, provide, 
+     or disclose information to or for any agency or person'' and 
+     insert ``maintain or provide information to or for any 
+     agency''.
+       Page 54, beginning at line 5, strike ``obtaining,'' and all 
+     that follows through line 7 and insert ``the collection of 
+     information--''.
+       Page 55, beginning at line 3, strike ``obtaining,'' and all 
+     that follows through ``opinions'' on line 5, and insert ``the 
+     collection of information''.
+  Mrs. COLLINS of Illinois (during the reading). Mr. Chairman, I ask 
+unanimous consent that the amendment be considered as read and printed 
+in the Record.
+  The CHAIRMAN. Is there objection to the request of the gentlewoman 
+from Illinois?
+  There was no objection.
+  Mrs. COLLINS of Illinois. Mr. Chairman, my amendment would strike 
+from the bill those provisions giving the Office of Information and 
+Regulatory Affairs authority to block regulations concerning so-called 
+third-party communications. These regulations involve requirements for 
+companies to provide notifications to third parties, for example, their 
+workers, about matters such as safety problems in the workplace.
+  Let me discuss the history of this issue and explain why it is so 
+important. OSHA issued a rule in 1987 to private companies requiring 
+that they post signs in the workplace to notify workers of the chemical 
+hazards that they may face. After some companies complained to OMB, its 
+Office of Information and Regulatory Affairs, using the Paperwork 
+Reduction Act as its authority, overturned the rule. OMB claimed that 
+the signs posted for the workers were covered by the act, and thus were 
+a paperwork burden.
+  Mr. Chairman, we are talking about a small poster telling workers of 
+the hazards in the workplace. Removing these warnings is not paperwork 
+reduction, it is safety reduction. Yet OMB, in the name of paperwork 
+reduction, said that employers do not have to warn workers about the 
+hazards they face at work.
+  The Steelworkers, on the other hand, believe workers have a right to 
+that information, and challenged that authority in court. The Supreme 
+Court in 1990 agreed in a decision known as Dole versus the United 
+Steelworkers of America and found that OMB had no authority over these 
+notifications. Now, this bill overturns that hard fought victory of the 
+workers.
+  Overturning Dole, as this bill does, says to workers that relieving 
+the paperwork burden on business is more important than their health 
+and safety on the job. Overturning Dole opens the door for political 
+influence to prevail over scientific judgment within the corridors of 
+the Office of Management and Budget. Overturning Dole opens the door 
+for political favoritism over common sense.
+  A number of justifications are given for overturning Dole, but each 
+is a smoke screen to hide the fact that the back door has been opened 
+for businesses to plead their case in private after losing before an 
+agency. The issue in this case was not the paperwork, but 
+[[Page H2022]]  the content of the sign. Plain and simple, business did 
+not want to tell their employees about the hazards at the workplace.
+  The content and context of the Dole case make most reasonable people 
+worry about giving more power to OMB. If OMB will cancel requirements 
+to post the presence of hazardous chemicals, what else will they do? 
+Will this authority be used to cancel notification on the safety of 
+children's toys? Will it be used to remove the hazard warnings from 
+packs of cigarettes? If the safety of the work place is not beyond 
+reach, then very little is.
+  Of course, others greet this expanded authority with gusto. They have 
+something to gain. If the government requires something of you, and you 
+have the necessary political clout, you needn't worry. A brief visit to 
+the proper officials by the appropriately connected lobbyists will 
+relieve your burden. There will be no questions about scientific 
+evidence. There will be no public forum in which the ideas must be 
+defended. Instead there will be a quiet meeting in a room off to the 
+side where deals are struck. No records will be kept, and there will be 
+no paper trail. After all, we're reducing paperwork here.
+  The pesticides and herbicides that farmers use are labeled to warn of 
+the hazards of exposure to the skin or by breathing. Are we going to 
+put farmers at risk in the name of paperwork reduction?
+  Day-in and day-out the American worker is exposed to hazards at the 
+work place. And as manufacturing gets more complicated those hazards 
+increase. The process of refining petroleum, making plastic, etching 
+silicon chips for computers each involve potentially toxic chemicals. 
+The workers in these industries have a right to know what risks 
+surround them.
+  Let there be no mistake about it. Overturning the Dole decision 
+creates the opportunity for OMB to keep workers in the dark about those 
+dangers. My amendment merely preserves the current law on this issue. 
+History has taught us that despite the many benefits of the Paperwork 
+Reduction Act, it can be abused. There is no reason to overturn the 
+Supreme Court decision that ensured workers the right to know about 
+hazards at the workplace.
+  Mr. Chairman, I urge support for my amendment.
+                              {time}  1650
+  Mr. CLINGER. Mr. Chairman, I move to strike the last word.
+  Mr. Chairman, regrettably, I must oppose the gentlewoman's amendment.
+  One of the really important accomplishments, I think, of H.R. 830 is 
+that it overturns the Dole decision and includes third-party disclosure 
+requirements within the provisions of the bill.
+  The basic reasons, the fundamental reasons for insuring that third-
+party disclosure requirements are clearly within the scope of the act 
+are really three in nature.
+  First, the whole character of Federal information collection has 
+changed dramatically since 1980. Increasingly, Federal agencies across 
+the board are using third-party disclosure requirements to meet their 
+program needs. Instead of directly collecting, processing, and 
+disseminating the information itself, they have increasingly turned to 
+require third parties to collect that information and transmit it. 
+Third-party disclosure has increased partly because agencies which have 
+had limited resources to collect and analyze information--and I think 
+that capability clearly is going to be even less in the future; they 
+will have even more limited resources to collect and analyze 
+information--these agencies have discovered that their program 
+objectives can be met by requiring private parties to provide 
+information directly to the intended beneficiary or to the enforcer, 
+which, in effect, totally eliminates the Federal middle man in this 
+operation. It becomes a federally directed, unfunded mandate by saying, 
+``We don't have the resources to collect this information and transmit 
+it, so we are going to impose that requirement on you to collect it and 
+transmit it because we don't have to be concerned where you get the 
+resources to do this with.''
+  So in order to decrease the direct cost of government services, 
+agencies may also adopt third-party disclosure in the form of self-
+certification and recordkeeping by private entities to replace 
+extensive information collections.
+  And the third reason, Mr. Chairman, why I think this reversal of the 
+Dole decision is important to be included in this legislation is that 
+the Federal Government has dramatically increased the use of third-
+party disclosure by having private institutions and individuals report 
+to State and local governments, again totally leaving the Federal 
+Government out of the loop.
+  States, for example, are often charged with the responsibility for 
+implementing and enforcing Federal program requirements with extensive 
+information collection. In such situations, the Federal agency may not 
+actually receive the information that is collected, but require the 
+States to retain the reports and the public for possible State or 
+Federal inspection or having States send the Federal agency only a 
+summary of the information reported to them.
+  So, we have really gotten this whole process fairly far distantly 
+removed from the actual Federal involvement, processing, evaluating of 
+the information that is being collected.
+  So, Mr. Chairman, Federal paperwork burdens, as we all agree, are 
+skyrocketing and the language contained in this bill is designed to 
+close a very, very wide loophole, one that, as I say, we have not 
+reauthorized this whole bill since 1989. This is an opportunity to do 
+that.
+  It is also an opportunity to make clear that where third-party 
+reporting is required, paperwork reduction requirements will apply to 
+those as well as paperwork that is collected directly by the Federal 
+Government itself.
+  For those reasons, Mr. Chairman, I must oppose the gentlewoman's 
+amendment and urge a vote against the amendment.
+  Mr. MASCARA. Mr. Chairman, I move to strike the required number of 
+words.
+  Mr. Chairman, I rise in strong support of this important amendment 
+offered by the gentlewoman from Illinois [Mrs. Collins].
+  As I mentioned during committee consideration of this amendment, I 
+know first-hand the importance of enforcing health and safety laws 
+which protect workers from dangers on the job.
+  My father was a steel worker who died as a result of a work-related 
+injury. And I represent thousands of workers who toil daily in the 
+steel industry and mining industries.
+  These are dangerous jobs and these workers face many hazards. They 
+deserve laws that protect, not the provisions contained in H.R. 830 
+which would deny them their right to know and be informed about safety 
+and health hazards in the workplace.
+  The language contained in H.R. 830 would in a few lines overturn an 
+important worker-safety decision handed down by the Supreme Court in 
+1990 in Dole vs. The United Steelworkers of America.
+  After 9 years of struggle, the steelworkers urged and got the top 
+Court in this land to agree that companies had to provide so-called 
+third party notices to their workers to make them aware of potential 
+exposure to chemical and safety hazards in the workplace.
+  I find it amazing that in an effort to ensure that every last 
+collection and disclosure requirement is covered by the Office of 
+Management and Budget, the committee's bill so blatantly throws out 
+this important protection for workers.
+  Most of the notifications involved here, Mr. Chairman, are simple 
+notices posted on worker bulletin boards. We are not talking about any 
+great or burdensome requirements. We are simply telling workers 
+``beware.''
+  In his opinion on Dole, Justice Brennan wrote, ``Disclosure rules 
+protect by providing access to information about what dangers exist and 
+how they can be avoided.''
+  Let us not take this important protection away from workers. I urge 
+those who say they care about working men and women to support the 
+Collins amendment.
+  Mr. McINTOSH. Mr. Chairman, I move to strike the requisite number of 
+words, and I rise in opposition to this amendment.
+  [[Page H2023]] I think it is very important that the bill go forward 
+as it was originally passed from committee and that we retain in there 
+the language that would reverse that Supreme Court case.
+  Let me make it very clear that these type disclosures could indeed go 
+forward. All that our legislation would now require is that they be 
+reviewed by OMB to make sure that we do not have unnecessary and 
+burdensome disclosures to third parties.
+  I received a letter from the National Federation of Independent 
+Businesses, who have indicated that they strongly oppose this 
+amendment. They believe that the requirements for unchecked disclosure 
+and paperwork fall disproportionately upon small businesses in this 
+country and that on behalf of their 600 members they are urging Members 
+of Congress to vote against this amendment and have indeed indicated 
+that they would have it as a key vote in their ratings of how Congress 
+Members vote in support of small businesses.
+  Mr. Chairman, I urge us to vote against this amendment and retain the 
+bill in its full form.
+  Mr. DOYLE. Mr. Chairman, I move to strike the requisite number of 
+words.
+  Mr. Chairman, I rise in support of the amendment offered by the 
+gentlelady from Illinois. This amendment will remove from the bill the 
+provision which would overturn the 1990 Supreme Court decision in the 
+Dole versus United Steelworkers case.
+  The Paperwork Reduction Act can be an appropriate response to the 
+problem of excess government forms, surveys, and paperwork collected by 
+government for its own use. I support the ability of OMB to develop 
+uniform information policies for government agencies in order to 
+reconcile unnecessary and redundant information requests. However, the 
+dissemination of vital information from private entities to the public 
+is a completely different matter.
+  Without this amendment we will be expanding the powers of the federal 
+government, specifically OMB, to regulate non-governmental third 
+parties. Prior to the Dole decision, OMB was able to function as a 
+``super regulator''--utilizing ideologically-driven actions to override 
+the scientific and technical determinations of regulatory agencies. In 
+one case, OMB sought to diminish the worker safety requirements of the 
+Hazard Communications Standard which had been promulgated by OSHA. The 
+Hazard Communications Standard required that companies compile 
+``material safety data sheets'' to disclose what hazardous materials 
+are present in the workplace.
+  It was because of the MSDS requirement that employees of a small 
+metals processor were able to correct a dangerous situation in their 
+workplace. This company used a variety of chemicals, including 
+potassium cyanide, which was stored in close proximity to acidic 
+cleaning solutions. When cyanide is mixed with acid, the result is a 
+release of deadly hydrogen cyanide gas. Using a MSDS, the union was 
+able to work with the company to identify the products with acids and 
+isolate them from cyanide, so that a spill would not lead to a major 
+accident.
+  Overturning Dole will do nothing to make government more responsive 
+or less wasteful. Instead, it would reestablish OMB as a federal 
+``superagency'', able to indiscriminantly use nonscientific political 
+or economic judgments with little or no accountability. I support real 
+regulatory reform, but giving OMB arbitrary power over all regulatory 
+agencies is not my idea of reform.
+                              {time}  1700
+  Mr. GENE GREEN of Texas. Mr. Chairman, I move to strike the requisite 
+number of words.
+  (Mr. GENE GREEN of Texas asked and was given permission to revise and 
+extend his remarks.)
+  Mr. GENE GREEN of Texas. Mr. Chairman, I voted for this bill in 
+committee, and this amendment corrects one of the oversights that I 
+noticed in the bill that we lost on it in committee. I support the 
+amendment offered by my distinguished ranking member, the gentlewoman 
+from Illinois [Mrs. Collins].
+  As currently written, the bill will overturn a 1990 Supreme Court 
+decision that assures workers of their right to know about hazards in 
+the workplace.
+  In the Dole versus U.S. Steelworkers case the Supreme Court said that 
+the OMB had no authority to block another agency's decision that 
+businesses disclose information on health and safety to their employees 
+or the public.
+  The specific matter in the Dole case was an OSHA regulation that 
+required employers to make sure that their employees were told of 
+potential hazards posed by chemicals in the workplace.
+  Justice William Brennan wrote:
+       Because Congress expressed concern only for the burden 
+     imposed by requirements to provide information to a federal 
+     agency, and not for any burden imposed by requirements to 
+     provide information to a third party, OMB review of 
+     disclosure rules would not further this congressional aim.
+  By a 7-2 margin the Court upheld the agency's right of action in this 
+case. Among those supporting the decision were Justices Scalia, 
+O'Connor, and Kennedy.
+  Supporters of this provision will argue that the existence of 
+questionable regulations prove that the right-to-know is an outmoded 
+concept. I do not believe that protecting the safety of workers in the 
+refineries in my district is an outmoded concept.
+  I do not believe that protecting the safety of the workers and the 
+retirees in my district is an outmoded concept. These employees and 
+these workers have a right to know, and I would hope that in--to 
+sacrifice them in this bill in the reduction of paperwork that we could 
+really have both ways. We can protect those workers with the right to 
+know and still have the effect to reduce paperwork.
+  Mr. Chairman, I yield back the balance of my time.
+  The CHAIRMAN. The question is on the amendment offered by the 
+gentlewoman from Illinois [Mrs. Collins].
+  The question was taken; and the Chairman announced that the ayes 
+appeared to have it.
+
+
+                             Recorded Vote
+  Mr. CLINGER. Mr. Chairman, I demand a recorded vote.
+  A recorded vote was ordered.
+  The vote was taken by electronic device, and there were--ayes 170, 
+noes 254, not voting 10, as follows:
+                             [Roll No. 155]
+                               AYES--170
+     Abercrombie
+     Ackerman
+     Baesler
+     Baldacci
+     Barcia
+     Barrett (WI)
+     Becerra
+     Beilenson
+     Bentsen
+     Berman
+     Bevill
+     Bishop
+     Bonior
+     Borski
+     Brown (CA)
+     Brown (FL)
+     Brown (OH)
+     Bryant (TX)
+     Chapman
+     Clay
+     Clayton
+     Clement
+     Clyburn
+     Coleman
+     Collins (IL)
+     Collins (MI)
+     Condit
+     Conyers
+     Costello
+     Coyne
+     de la Garza
+     DeFazio
+     DeLauro
+     Dellums
+     Deutsch
+     Dicks
+     Dingell
+     Dixon
+     Doggett                                                                                                                                                                                                                                                                                                                                                FLOOR PROCEDURE IN THE 104TH CONGRESS--Continued1Bill No.Doylee1Resolution No.1Process used for floor consideration1Amendments in order
+l No.Doylee1Resolution No.1Process used for floor consideration1Amendments in order
+     Durbin
+     Edwards
+     Engel
+     Eshoo
+     Evans
+     Farr
+     Fazio
+     Fields (LA)
+     Filner
+     Flake
+     Foglietta
+     Ford
+     Frank (MA)
+     Frost
+     Furse
+     Gejdenson
+     Gephardt
+     Gibbons
+     Gordon
+     Green
+     Gutierrez
+     Hastings (FL)
+     Hefner
+     Hilliard
+     Hinchey
+     Holden
+     Hoyer
+     Jackson-Lee
+     Jacobs
+     Jefferson
+     Johnson (SD)
+     Johnson, E. B.
+     Johnston
+     Kanjorski
+     Kaptur
+     Kennedy (MA)
+     Kennedy (RI)
+     Kennelly
+     Kildee
+     Kleczka
+     Klink
+     LaFalce
+     Lantos
+     Levin
+     Lewis (GA)
+     Lipinski
+     Lowey
+     Luther
+     Maloney
+     Manton
+     Markey
+     Martinez
+     Mascara
+     Matsui
+     McDermott
+     McHale
+     McKinney
+     Meehan
+     Menendez
+     Mfume
+     Miller (CA)
+     Mineta
+     Minge
+     Mink
+     Moakley
+     Mollohan
+     Moran
+     Murtha
+     Nadler
+     Neal
+     Ney
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Orton
+     Owens
+     Pallone
+     Pastor
+     Payne (NJ)
+     Pelosi
+     Peterson (MN)
+     Pomeroy
+     Poshard
+     Rahall
+     Rangel
+     Reed
+     Reynolds
+     Richardson
+     Rivers
+     Roemer
+     Roybal-Allard
+     Sabo
+     Sanders
+     Sawyer
+     Schroeder
+     Schumer
+     Scott
+     Serrano
+     Skaggs
+     Slaughter
+     Spratt
+     Stark
+     Stokes
+     Studds
+     Stupak
+     Tejeda
+     Thompson
+     Thornton
+     Thurman
+     Torres
+     Torricelli
+     Towns
+     Traficant
+     Tucker
+     Velazquez
+     Vento
+     Visclosky
+     Volkmer
+     Ward
+     Waters
+     Watt (NC)
+     Waxman
+     Williams
+     Wilson
+     Wise
+     Woolsey
+     Wyden
+     Wynn
+     Yates
+                               NOES--254
+     Allard
+     Andrews
+     Archer
+     Armey
+     Bachus
+     Baker (CA)
+     Baker (LA)
+     Ballenger
+     Barr
+     Barrett (NE)
+     Bartlett
+     Barton
+     Bass
+     Bateman
+     Bereuter
+     Bilbray
+     Bilirakis
+     Bliley
+     Blute
+     Boehlert
+     Boehner
+     Bonilla
+     Bono
+     Boucher
+     Brewster
+     Brownback
+     Bryant (TN)
+     Bunn
+     Bunning
+     Burr
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Canady
+     Cardin
+     Castle
+     Chabot
+     [[Page H2024]] Chambliss
+     Chenoweth
+     Christensen
+     Chrysler
+     Clinger
+     Coble
+     Coburn
+     Collins (GA)
+     Combest
+     Cooley
+     Cox
+     Cramer
+     Crane
+     Crapo
+     Cremeans
+     Cubin
+     Cunningham
+     Danner
+     Davis
+     Deal
+     DeLay
+     Diaz-Balart
+     Dooley
+     Doolittle
+     Dornan
+     Dreier
+     Duncan
+     Dunn
+     Ehrlich
+     Emerson
+     English
+     Ensign
+     Everett
+     Ewing
+     Fawell
+     Fields (TX)
+     Flanagan
+     Foley
+     Forbes
+     Fowler
+     Fox
+     Franks (CT)
+     Franks (NJ)
+     Frelinghuysen
+     Frisa
+     Funderburk
+     Gallegly
+     Ganske
+     Gekas
+     Geren
+     Gilchrest
+     Gillmor
+     Gilman
+     Goodlatte
+     Goodling
+     Goss
+     Graham
+     Greenwood
+     Gunderson
+     Gutknecht
+     Hall (TX)
+     Hamilton
+     Hancock
+     Hansen
+     Harman
+     Hastert
+     Hastings (WA)
+     Hayes
+     Hayworth
+     Hefley
+     Heineman
+     Herger
+     Hilleary
+     Hobson
+     Hoekstra
+     Hoke
+     Horn
+     Hostettler
+     Houghton
+     Hunter
+     Hutchinson
+     Hyde
+     Inglis
+     Istook
+     Johnson (CT)
+     Johnson, Sam
+     Jones
+     Kasich
+     Kelly
+     Kim
+     King
+     Kingston
+     Klug
+     Knollenberg
+     Kolbe
+     LaHood
+     Largent
+     Latham
+     LaTourette
+     Laughlin
+     Lazio
+     Leach
+     Lewis (CA)
+     Lewis (KY)
+     Lightfoot
+     Lincoln
+     Linder
+     Livingston
+     LoBiondo
+     Lofgren
+     Longley
+     Lucas
+     Manzullo
+     Martini
+     McCarthy
+     McCollum
+     McCrery
+     McDade
+     McHugh
+     McInnis
+     McIntosh
+     McKeon
+     McNulty
+     Metcalf
+     Meyers
+     Mica
+     Miller (FL)
+     Molinari
+     Montgomery
+     Moorhead
+     Morella
+     Myers
+     Myrick
+     Nethercutt
+     Neumann
+     Norwood
+     Nussle
+     Oxley
+     Packard
+     Parker
+     Paxon
+     Payne (VA)
+     Peterson (FL)
+     Petri
+     Pickett
+     Pombo
+     Porter
+     Portman
+     Pryce
+     Quillen
+     Quinn
+     Ramstad
+     Regula
+     Riggs
+     Roberts
+     Rogers
+     Rohrabacher
+     Ros-Lehtinen
+     Rose
+     Roth
+     Roukema
+     Royce
+     Salmon
+     Sanford
+     Saxton
+     Scarborough
+     Schaefer
+     Schiff
+     Seastrand
+     Sensenbrenner
+     Shadegg
+     Shaw
+     Shays
+     Shuster
+     Sisisky
+     Skeen
+     Skelton
+     Smith (MI)
+     Smith (NJ)
+     Smith (TX)
+     Smith (WA)
+     Solomon
+     Souder
+     Spence
+     Stearns
+     Stenholm
+     Stockman
+     Stump
+     Talent
+     Tanner
+     Tate
+     Tauzin
+     Taylor (MS)
+     Taylor (NC)
+     Thomas
+     Thornberry
+     Tiahrt
+     Torkildsen
+     Upton
+     Vucanovich
+     Waldholtz
+     Walker
+     Walsh
+     Wamp
+     Watts (OK)
+     Weldon (FL)
+     Weldon (PA)
+     Weller
+     White
+     Wicker
+     Wolf
+     Young (AK)
+     Young (FL)
+     Zeliff
+     Zimmer
+                             NOT VOTING--10
+     Browder
+     Dickey
+     Ehlers
+     Fattah
+     Gonzalez
+     Hall (OH)
+     Meek
+     Radanovich
+     Rush
+     Whitfield
+  Mr. WICKER and Ms. DANNER changed their vote from ``aye'' to ``no.''
+  Mr. NEY changed his vote from ``no'' to ``aye.''
+  So the amendment was rejected.
+  The result of the vote was announced as above recorded.
+                      announcement by the chairman
+  The CHAIRMAN. The Chair announces that future votes will be limited 
+to 17 minutes.
+  Are there further amendments to the bill?
+
+
+               amendment offered by Mrs. Meyers of Kansas
+  Mrs. MEYERS of Kansas. Mr. Chairman, I offer an amendment.
+  The Clerk read as follows:
+       Amendment offered by Mrs. Meyers of Kansas: Page 29, after 
+     line 24, insert the following new subparagraph:
+       ``(F) indicates for each recordkeeping requirement the 
+     length of time persons are required to maintain the records 
+     specified;
+       Redesignate the subsequent subparagraphs of the proposed 
+     section 3506(c)(3) accordingly.
+  Mrs. MEYERS of Kansas (during the reading). Mr. Chairman, I ask 
+unanimous consent that the amendment be considered as read and printed 
+in the Record.
+  The CHAIRMAN. Is there objection to the request of the gentlewoman 
+from Kansas?
+  There was no objection.
+  Mrs. MEYERS of Kansas. Mr. Chairman, I would like to speak just very 
+briefly about the importance of this bill to small business.
+  (Mrs. MEYERS of Kansas asked and was given permission to revise and 
+extend her remarks.)
+  Mrs. MEYERS of Kansas. Mr. Chairman, I am very pleased to be a 
+cosponsor of this legislation. Much work has gone into this legislation 
+during the past two Congresses by the Committee on Small Business and 
+the Committee on Government Reform and Oversight. This bill has been 
+developed on a bipartisan basis and has received considerable 
+bipartisan support.
+  I would like to point out particularly the strong support within the 
+small business community for this legislation. We have had several 
+hearings on this legislation, and this bill has a broad base of support 
+from the Paperwork Reduction Act Coalition, which includes some 75 
+trade, professional, and citizen associations.
+  Small business organizations, such as the National Federation of 
+Independent Business, National Small Business United, the Small 
+Business Legislative Council, U.S. Chamber, and the National 
+Association of Manufacturers, all of whom are members of this 
+coalition, have independently indicated they will highlight a vote for 
+this bill as an important pro-business, pro-small business vote.
+  Mr. Chairman, I would like to propose an amendment today that I think 
+will improve this legislation. The amendment that I propose regards 
+recordkeeping requirements. Simply put, my amendment would require all 
+recordkeeping requirements to indicate how long records must be kept. 
+Section 3506(c) of the bill states what agencies must do to check the 
+need and practical utility of a proposed collection of information by a 
+Federal agency before the public is asked to maintain or provide 
+information.
+  What my amendment does is explicitly add the requirement that all 
+recordkeeping requirements, which are elsewhere in the bill defined as 
+a type of collection of information, contain how long the specified 
+records are to be kept.
+  This is a commonsense step. Witnesses before the Committee on Small 
+Business have repeatedly recommended that the Paperwork Reduction Act 
+be explicit on this point.
+  Testimony on behalf of the Association of Record Managers and 
+Administrators, a professional association specializing in the 
+management of records, has suggested that this requirement will save 
+taxpayers billions of dollars in wasted storage and maintenance costs.
+  The failure to make clear how long records must be kept causes 
+everyone to hold on to records way past their usefulness. This is 
+particularly true of small businesses who often do not have the 
+resources to hire accountants and lawyers or professional managers to 
+determine how long their records must be kept and frequently they do 
+not have the space to keep them.
+  This amendment is supported by the Paperwork Reduction Act Coalition, 
+a broad-based coalition of some 75 business, professional, and citizen 
+associations. The coalition includes a number of small business groups, 
+which I have previously named.
+  I believe this amendment is noncontroversial. It will save taxpayers 
+money. I understand the administration has no objection to it, and I 
+urge my colleagues to adopt it.
+  Mr. Chairman, the amendment I propose regards recordkeeping 
+requirements. Simply put, my amendment will require all recordkeeping 
+requirements to indicate how long records must be kept.
+  Section 3506(c) of the bill states what agencies must do to check the 
+need and practical utility of a proposed collection of information by a 
+Federal agency before the public is asked to maintain or provide 
+information. What my amendment does is explicitly add the requirements 
+that all recordkeeping requirements, which are elsewhere in the bill 
+defined as a type of collection of information, contain how long the 
+specified records are to be kept.
+  This is a commonsense step. Witnesses before the Small Business 
+Committee have repeatedly recommended that the Paperwork Reduction Act 
+be explicit on this point. Testimony on behalf of the Association of 
+Records Managers and Administrators, a professional association 
+specializing in the management of records, has suggested that this 
+requirement will save taxpayers billions of dollars in wasted storage 
+and maintenance costs. The failure to make clear how long records must 
+be kept causes everyone to hold on to records way past their 
+usefulness. This is particularly true of small businesses who often do 
+not have the resources to hire accountants, lawyers, or professional 
+managers to determine how long their records must be kept.
+
+
+
+  I believe H.R. 830 will reverse the erosion that has occurred in 
+recent years. It will strengthen the small business community's ability 
+to reduce unnecessary regulations.
+  Let me point to the strong support within the small business 
+community for this legislation. This bill has a broad base of support 
+from a 
+[[Page H2025]]  Paperwork Reduction Act Coalition, which includes some 
+75 trade, professional, and citizen associations. Small business 
+organizations such as National Federation of Independent Businesses, 
+National Small Business United, the Small Business Legislative Counsel, 
+the U.S. Chamber and the National Association of Manufacturers, who are 
+members of the Coalition, have independently indicated they will 
+highlight a vote for this bill as an important pro-small business vote.
+  I want to again commend the work of Chairman Clinger on this 
+legislation. I urge my colleagues to vote in support of H.R. 830.
+  Mr. CLINGER. Mr. Chairman, will the gentlewoman yield?
+  Mrs. MEYERS of Kansas. I yield to the gentleman from Pennsylvania.
+  Mr. CLINGER. Mr. Chairman, I want to commend the gentlewoman for this 
+amendment. We have had a chance to review the amendment. I think it 
+makes a valuable addition to the measure.
+  As the gentlewoman indicated, the administration has no objection and 
+actually would support this. I know that the gentlewoman held hearings 
+and this amendment was fashioned out of the hearings that were held on 
+this matter. So we would be pleased to accept the amendment of the 
+gentlewoman.
+  Mr. PETERSON of Minnesota. Mr. Chairman, will the gentlewoman yield?
+  Mrs. MEYERS of Kansas. I yield to the gentleman from Minnesota.
+  Mr. PETERSON of Minnesota. Mr. Chairman, the minority has reviewed 
+the amendment. We have no objection, and we support the amendment. We 
+think it is a good amendment.
+  The CHAIRMAN. Is there any further debate on the amendment?
+  The question is on the amendment offered by the gentlewoman from 
+Kansas [Mrs. Meyers].
+  The amendment was agreed to.
+
+
+                    amendment offered by mr. sanders
+  Mr. SANDERS. Mr. Chairman, I offer an amendment.
+  The Clerk read as follows:
+       Amendment offered by Mr. Sanders: On page 13, after line 9, 
+     add:
+       (6) Place an emphasis on minimizing the burden on small 
+     businesses with 50 or fewer employees.
+       On page 30, after line 16, add:
+       (4) Place an emphasis on minimizing the burden on small 
+     businesses with 50 or fewer employees.
+  Mr. SANDERS (during the reading). Mr. Chairman, I ask unanimous 
+consent that the amendment be considered as read and printed in the 
+Record.
+  The CHAIRMAN. Is there objection to the request of the gentleman from 
+Vermont?
+  There was no objection.
+  Mr. SANDERS. Mr. Chairman, this amendment was brought up at the 
+committee level. I believe it now has the support of the majority.
+  Mr. Chairman, my amendment is entirely consistent with the overall 
+purpose of updating and revising the Paper Work Reduction Act. It is 
+time for us to revisit and strike a new balance between the collection 
+of vital information and the increased costs of doing business in the 
+global marketplace.
+  At the same time, I think we need to focus the attention and the 
+limited resources of OMB and other Federal agencies on reducing 
+burdensome paperwork on those it is hurting the most--the smallest 
+businesses that can least afford the time, personnel, and additional 
+costs associated with meeting all of the Federal Government's 
+regulatory and reporting requirements.
+  My amendment does just that. It requires the Director of the Office 
+of Information and Regulatory Affairs within OMB to make it a priority 
+to first consider the adverse effects on the smallest of small 
+businesses--those employing 50 or fewer employees--when directing and 
+overseeing efforts to cut Federal paperwork and information reporting. 
+Currently, the Small Business Administration typically defines a small 
+business as one that employs 500 or fewer employees.
+  This amendment also makes helping the smallest of small businesses a 
+priority for voluntary pilot projects when OMB, other Federal agencies 
+and non-Federal entities test alternative policies, practices, 
+regulations, and procedures to reduce the Federal paperwork burden.
+  A few weeks ago I met with small business leaders from all across 
+Vermont where most businesses have 10 or fewer employees. Repeatedly 
+they expressed two overriding concerns: First, SBA and other Federal 
+agencies don't appreciate the different problems and comparative risks 
+confronting different-sized small businesses, and second, Uncle Sam 
+does not pay his bills on time, thus making it very hard for small 
+businesses with limited cashflow to sell goods and services to the 
+Federal Government.
+  With this amendment and other provisions in this bill we can tackle 
+both of these problems.
+  In conclusion, we live in a time when the Federal Government must 
+learn to do more with less. Therefore, in setting out to cut Federal 
+regulatory costs and paperwork for American businesses, we should first 
+strive to help the truly vulnerable small enterprises who operate mush 
+closer to the margin and whose survival is always in greater jeopardy.
+  I urge my colleagues to support this amendment.
+  Mr. CLINGER. Mr. Chairman, will the gentleman yield?
+  Mr. SANDERS. I am happy to yield to the gentleman from Pennsylvania.
+  Mr. CLINGER. Mr. Chairman, indeed, I would confirm what the gentleman 
+from Vermont said. I think it is a good amendment. It did arise during 
+our hearing, during the markup. We have worked with the gentleman on 
+crafting the language, which I think now is a valuable addition. We are 
+pleased to accept the gentleman's amendment.
+  Mr. SANDERS. Mr. Chairman, I thank the chairman of the committee very 
+much, and I thank his staff for their support as well.
+  The CHAIRMAN. The question is on the amendment offered by the 
+gentleman from Vermont [Mr. Sanders].
+  The amendment was agreed to.
+  The CHAIRMAN. Are there further amendments to the bill?
+                   amendment offered by Mrs. maloney
+  Mrs. MALONEY. Mr. Chairman, I offer an amendment.
+  The Clerk read as follows:
+       Amendment offered by Mrs. Maloney: At the end of the bill, 
+     add the following new section:
+     SEC.  . SUNSET.
+       (a) Repeal of Chapter.--Chapter 35 of title 44, United 
+     States Code, is repealed.
+       (b) Conforming Amendment.--The table of chapters at the 
+     beginning of title 44, United States Code, is amended by 
+     striking the item relating to chapter 35.
+       (c) Effective Date.--This section shall take effect 5 years 
+     after the date of the enactment of this Act.
+  Mrs. MALONEY (during the reading). Mr. Chairman, I ask unanimous 
+consent that the amendment be considered as read and printed in the 
+Record.
+  The CHAIRMAN. Is there objection to the request of the gentlewoman 
+from New York?
+  There was no objection.
+  Mrs. MALONEY. Mr. Chairman, the Paperwork Reduction Act provides for 
+permanent authorization for the Office of Information and Regulatory 
+Affairs.
+  My amendment will place a limit on this authorization, by sunsetting 
+the agency after 5 years. This should not be a controversial amendment. 
+Both Democrats and Republicans support the intent of this legislation: 
+to reduce the unnecessary paperwork for businesses, citizens, and 
+government.
+  My amendment would force Congress to re-evaluate the Office of 
+Information and Regulatory Affairs by a date certain. After 5 years, 
+Congress could decide if it, too, is creating unnecessary paperwork. We 
+should force the agency to prove to Congress and the American taxpayer 
+that it is actually meeting its objective, and based on our 
+conclusions, we could reauthorize it, or decide that the agency has 
+completed its mission and is no longer needed.
+  Or decide that it is just another Federal bureaucracy in need of a 
+mercy killing. This body should have the option to make those 
+decisions. But if we give this agency a permanent authorization, we 
+will make it more difficult to make those decisions.
+  And if proponents of term limits have their way, many of us may not 
+be here to participate in those decisions.
+  If some of my colleagues support sunsetting a Member's elected 
+service after 6 years, why wouldn't that person support sunsetting a 
+Federal bureaucracy after 5 years?
+  Mr. Chairman, sunsetting this agency will also allow Congress to take 
+into account new technologies developed over the next 5 years. 
+Information technology is moving very quickly. It's impossible for us 
+to anticipate the new means by which data will be collected and made 
+available to the public.
+  Five years from now, the technology that we use today might be 
+obsolete. It might even make paperwork obsolete. Consider how out-of-
+date technology from 1990 appears today.
+  [[Page H2026]] In 1990, very few people had even heard of something 
+like the Internet or America Online, so we must be flexible.
+  Mr. Chairman, just yesterday the Committee on Government Reform held 
+a hearing on reinventing government--how to make it work better, 
+smarter, and with less resources. We heard how hard it was to replace 
+regulations and bureaucracies that have outlived their usefulness.
+  The administration received bipartisan praise for trying to get rid 
+of the useless redtape. On the <strong>House</strong> floor, my colleagues on the other 
+side of the aisle insist there is too much Government, and too many 
+Government bureaucracies.
+  So I ask my colleagues, why create yet another Federal agency with a 
+permanent authorization?
+  It just does not make sense.
+  I'll give you an example: In the coming weeks and months, my 
+Republican colleagues may promote legislation to abolish enormous 
+Federal agencies, like the Department of Education. They might win. 
+They might lose. But either way, they are going to have a titanic 
+battle on their hands.
+  All my amendment says is let us install a simple mechanism to make 
+eliminating this new Federal agency much easier.
+  If my Republican colleagues truly believe in reducing the Federal 
+bureaucracy, they should welcome this amendment with open arms. I urge 
+my colleagues--on both sides of the aisle--to support it.
+  Mr. CLINGER. Mr. Chairman, I move to strike the last word.
+  Mr. Chairman, I must rise in opposition to the amendment of the 
+gentlewoman from New York. I think as a general proposition, Mr. 
+Chairman, I do support limited authorizations, but I think for every 
+rule there has to be an exception. I would submit that this is one of 
+those times.
+  The Office of Information and Regulatory Affairs, as we are hearing 
+during this debate, performs a very, very vital service. Beyond 
+implementing the Paperwork Reduction Act, which is a primary part of 
+its responsibility, they also are charged with bringing a degree of 
+sanity to the rulemaking process of the Federal Government. Basically, 
+it is the nerve center of the regulatory control process in the Federal 
+Government.
+  Like its counterpart, the Office of Federal Procurement Policy, OIRA 
+needs a permanent authorization, and I would say that when we had a 
+hearing on this matter the director of OIRA testified in support of a 
+permanent authorization for that agency. Those Members who support 
+strong efforts to limit Government regulatory burdens I would suggest 
+should vote no on this amendment.
+  I also oppose the amendment due to the fact that, really, there has 
+been a lack of comity that the <strong>House</strong> has shown in reauthorizing this 
+important agency. Since the authorization expired, and it expired in 
+1989. Until this year, 6 years, not a single hearing has been held on 
+the reauthorization of OIRA.
+  During the last Congress our colleagues in the other body passed a 
+Paperwork Reduction Act very similar to the one that we are dealing 
+with here today, which was supported by each and every Member of the 
+Senate. It was unanimously passed by the other body.
+  An identical bill was introduced in this <strong>House</strong> with over 120 
+bipartisan cosponsors of that measure, and the gentleman from Virginia 
+[Mr. Sisisky] who was a prime cosponsor of that measure, and I tried to 
+move that piece of legislation through the <strong>House</strong>, and not a single 
+hearing was held on the matter.
+  Mr. DOGGETT. Mr. Chairman, will the gentleman yield?
+  Mr. CLINGER. I am happy to yield to the gentleman from Texas.
+  Mr. DOGGETT. Mr. Chairman, if I understand the distinguished 
+gentleman's statement in support of not sunsetting this, it is that the 
+head of the agency involved here does not think the agency should have 
+temporary authorization?
+  Mr. CLINGER. Reclaiming my time, Mr. Chairman, I recognize that the 
+director of an agency would have a special interest, but I think she 
+also does reflect why there is a need for a permanent authorization, 
+because there needs to be some sort of continuity in the regulatory 
+control process.
+  Mr. DOGGETT. Mr. Chairman, if the gentleman will yield further, I was 
+just curious as to whether the gentleman had ever met a head of an 
+agency or Government bureau anywhere that did not think it should be 
+permanent.
+  Mr. CLINGER. Mr. Chairman, I thank the gentleman for his comment, but 
+I would say that the director of the agency also, I think, is entitled 
+to have her opinion considered as to why it is necessary that she have 
+that permanent authorization.
+  Mr. Chairman, if limited authorization means that the <strong>House</strong> can 
+virtually ignore the subject of reauthorization, which I think is what 
+we are dealing with here, then I must support permanent authority for 
+this most important agency, and I would urge my colleagues to oppose 
+this amendment.
+  Mr. DOGGETT. Mr. Chairman, I move to strike the requisite number of 
+words.
+  I yield to the gentleman from Texas [Mr. Coleman].
+  (Mr. COLEMAN asked and was given permission to revise and extend his 
+remarks.)
+  Mr. COLEMAN. Mr. Chairman, I rise in support of the pending 
+amendment.
+  Mr. Chairman, H.R. 830 carries the benign title of the Paperwork 
+Reduction Act. In many respects, the legislation is crafted to achieve 
+the important goal described by that title. It reauthorizes the 
+paperwork review and approval activities of the Office of Information 
+and Regulatory Affairs in the Office of Management and Budget. 
+Furthermore, it amends the 1980 Paperwork Reduction Act in order to 
+reduce further Federal paperwork requirements and enhance Federal 
+information management. These are important goals, and have widespread 
+support on both sides of the aisle. Taken alone, these measures could 
+provide important relief from a frequently burdensome Federal paperwork 
+requirement in both the public and private sector.
+  Unfortunately, these important measures are offered in tandem with 
+provisions that amend the Paperwork Reduction Act's definition of 
+``collection of information'' to include ``disclosure to third parties 
+or the public'' of information. This unreasonably expanded definition 
+would have the practical result of overturning the 1990 Supreme Court 
+Case Dole versus United Steelworkers of America, which prohibits the 
+Office of Information and Regulatory Affairs from reviewing proposed 
+Federal regulations requiring businesses to disclose certain 
+information to parties other than the Government agency collecting the 
+information. Under the definition of ``collection of information'' 
+proposed in H.R. 830, the Office of Information and Regulatory Affairs 
+would be allowed to review, and possibly reject, regulations that 
+require businesses and Government agencies to disclose information to 
+affected parties, including their own employees or the public.
+  This portion of the bill may indeed serve to reduce the amount of 
+paperwork that a business or local government has to do. But it also 
+has the potential to expose workers and the public to untold dangers. 
+Indeed, as the Dole case vividly illustrates, such instances have 
+occurred in the past. H.R. 830 is supposed to be aimed at eliminating 
+unnecessary paperwork. Unfortunately, this provision will result in the 
+elimination of paperwork that is very necessary to the protection of 
+employees and the pubic.
+  Representative Collins has proposed an amendment that would strike 
+provisions of the bill that extends the definition of the phrase 
+``collection of information'' to subsume requirements for third party 
+disclosures. Because the Collins amendment thereby eliminates the 
+unnecessary dangers posed by certain provisions of H.R. 830, it 
+deserves strong bipartisan support. If the bill passes without this 
+amendment, H.R. 830 will jeopardize workers and the American public. 
+Countless individuals will not be informed about dangerous working 
+conditions or the safety threats posed by a product should such 
+warnings be deemed burdensome paperwork requirements by the OIRA. 
+Therefore, I urge support for the Collins amendment. Without that 
+amendment, this bill is no longer a good idea; it is a dangerous one.
+  Mr. DOGGETT. Mr. Chairman, I rise in support of the Paperwork 
+Reduction Act. I think it is a good step forward, but I also rise in 
+support of the gentlewoman's amendment.
+  Mr. Chairman, as I listen to the distinguished chairman argue against 
+the amendment, I heard not one argument that was any different than 
+that that comes from any government bureaucrat in his commitment or her 
+commitment to the permanence of the Government agency.
+  There are some of us who think that just because a government 
+bureaucrat thinks that a bureau should go on forever, that that is not 
+reason enough. 
+[[Page H2027]]  Certainly, the director's opinion should be considered. 
+It ought to be considered when this agency comes up for sunset review 
+to determine whether it should continue.
+  Just the fact that it is sunsetted does not mean that it is 
+automatically abolished if it can make a good case for its 
+continuation. It makes sense that when we have these new Government 
+initiatives, whether they are good initiatives like this one or not so 
+good initiatives, that we set up a process as the gentlewoman would do 
+through her amendment to automatically review every one of these 
+programs.
+  There are unintended consequences of the best-intentioned government 
+program. It is just the nature of life that events change, that 
+consequences that were never anticipated occur, and sunset is a way to 
+ensure that we address these matters.
+  There are a couple of ways that we can handle this. The approach 
+advanced, which is the traditional approach of this Congress against 
+sunset, is that, ``Well, we'll put the burden on the people that are 
+against a new government program to come in and convince us to abolish 
+it.''
+  Under sunset under the approach advocated by the gentlewoman, the 
+approach shifts the burden where it should be. The burden to keep 
+Government going forever ought to be on the people that want the 
+Government, not the people that want less Government.
+  Under the sunset amendment that is advanced here today, we would 
+shift the burden to where it rightfully belongs. Sunset will build into 
+the process a scheduled time at which the Congress will review this 
+program and determine if it sounds as good then after we have seen it 
+in practice as it sounds today.
+  If the Government initiative fails, we will not be stuck with it 
+forever, regardless of whichever bureaucrat is in charge of the agency 
+thinks it is a good idea at that time or not. Sunset will compel this 
+Congress to automatically review this program or it will expire.
+  I find it not a little bit ironic, Mr. Chairman, that the only sunset 
+initiatives that have been advanced in this Congress have been rejected 
+by those who are today celebrating that they have a contract for a less 
+burdensome, less intrusive, and more limited Government. What on this 
+50th day of the Congress could be more consistent with that than the 
+whole approach of sunset, that government bureaus ought not to last 
+forever, that these new initiatives, no matter how well-intentioned, 
+ought not to last forever and that we ought to put a fixed life after 
+which they will be reviewed.
+  We think of Government on this side of the aisle as not being in 
+permanent terms but being limited and that is what the sunset process 
+is all about. That is what this amendment will accomplish.
+  I am all for reducing paperwork. Goodness knows, we have plenty of 
+paperwork around here. The only thing that I know that has exceeded the 
+paperwork has been the hyperbole and the rhetoric about all that was 
+being done to get Government under control. Yet this most effective 
+mechanism, the sunset mechanism, which we can now place on this 
+Paperwork Reduction Act, would be the best way to apply it not only 
+here but to set a precedent today in applying it to this act that every 
+time we have new Government initiatives, every time we have new 
+Government regulations, they will not go on forever, we will review 
+them, we will concentrate on the laws we pass, not just on passing more 
+laws.
+  I urge a vote for the Paperwork Reduction Act but to improve it with 
+the Maloney amendment. I congratulate the gentlewoman on the excellent 
+work that she has done on this amendment.
+  Mr. FOX of Pennsylvania. Mr. Chairman, I move to strike the requisite 
+number of words.
+  Mr. Chairman, the Maloney amendment would place a 5-year 
+authorization on OMB's Office of Information and Regulatory Affairs, or 
+IRA, which is the key agency charged with implementing the regulatory 
+reduction goals of the Contract With America. Not a single hearing has 
+been held on reauthorization of IRA since its current authority expired 
+in 1989. We are making sure it does continue. Even the Clinton 
+administration supports permanent authority for IRA.
+  I appreciate the fine work of the gentlewoman from New York and what 
+she has done in committee. But we need to ensure that the paperwork 
+reduction reforms that we have here in this bill continue unimpeded.
+  The CHAIRMAN. The question is on the amendment offered by the 
+gentlewoman from New York [Mrs. Maloney].
+  The question was taken; and the Chairman announced that the noes 
+appeared to have it.
+
+
+                             recorded vote
+  Mrs. MALONEY. Mr. Chairman, I demand a recorded vote.
+  A recorded vote was ordered.
+  The CHAIRMAN. This will be a 17-minute vote.
+  The vote was taken by electronic device, and there were--ayes 156, 
+noes 265, not voting 13, as follows:
+                             [Roll No. 156]
+                               AYES--156
+     Abercrombie
+     Ackerman
+     Baesler
+     Baldacci
+     Barcia
+     Barrett (WI)
+     Becerra
+     Beilenson
+     Bentsen
+     Berman
+     Bevill
+     Bishop
+     Bonior
+     Borski
+     Boucher
+     Brown (CA)
+     Brown (FL)
+     Brown (OH)
+     Bryant (TX)
+     Clay
+     Clayton
+     Clement
+     Clyburn
+     Coleman
+     Collins (MI)
+     Condit
+     Conyers
+     Costello
+     Coyne
+     Danner
+     de la Garza
+     DeFazio
+     DeLauro
+     Dellums
+     Deutsch
+     Dingell
+     Dixon
+     Doggett
+     Doyle
+     Durbin
+     Engel
+     Eshoo
+     Evans
+     Farr
+     Fazio
+     Fields (LA)
+     Filner
+     Flake
+     Foglietta
+     Ford
+     Frank (MA)
+     Frost
+     Gejdenson
+     Gephardt
+     Gibbons
+     Green
+     Gutierrez
+     Hall (OH)
+     Hastings (FL)
+     Hefner
+     Hilliard
+     Hinchey
+     Holden
+     Hoyer
+     Jackson-Lee
+     Jacobs
+     Jefferson
+     Johnson (SD)
+     Johnson, E. B.
+     Johnston
+     Kanjorski
+     Kaptur
+     Kennedy (MA)
+     Kennedy (RI)
+     Kennelly
+     Kildee
+     Klink
+     LaFalce
+     Lantos
+     Levin
+     Lewis (GA)
+     Lipinski
+     Lofgren
+     Lowey
+     Luther
+     Maloney
+     Manton
+     Markey
+     Martinez
+     Mascara
+     Matsui
+     McDermott
+     McHale
+     McKinney
+     Meehan
+     Menendez
+     Mfume
+     Miller (CA)
+     Mineta
+     Minge
+     Mink
+     Moakley
+     Mollohan
+     Montgomery
+     Moran
+     Murtha
+     Nadler
+     Neal
+     Oberstar
+     Obey
+     Olver
+     Owens
+     Pallone
+     Pastor
+     Payne (NJ)
+     Pelosi
+     Peterson (FL)
+     Peterson (MN)
+     Rangel
+     Reed
+     Reynolds
+     Rivers
+     Rose
+     Roybal-Allard
+     Sabo
+     Sanders
+     Schroeder
+     Schumer
+     Scott
+     Serrano
+     Skaggs
+     Slaughter
+     Spratt
+     Stark
+     Stokes
+     Studds
+     Stupak
+     Thompson
+     Thornton
+     Thurman
+     Torres
+     Torricelli
+     Towns
+     Traficant
+     Tucker
+     Velazquez
+     Vento
+     Volkmer
+     Ward
+     Waters
+     Watt (NC)
+     Williams
+     Wilson
+     Wise
+     Woolsey
+     Yates
+                               NOES--265
+     Allard
+     Andrews
+     Archer
+     Armey
+     Bachus
+     Baker (CA)
+     Baker (LA)
+     Ballenger
+     Barr
+     Barrett (NE)
+     Bartlett
+     Barton
+     Bass
+     Bateman
+     Bereuter
+     Bilbray
+     Bilirakis
+     Bliley
+     Blute
+     Boehlert
+     Boehner
+     Bonilla
+     Bono
+     Brewster
+     Brownback
+     Bryant (TN)
+     Bunn
+     Bunning
+     Burr
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Canady
+     Cardin
+     Castle
+     Chabot
+     Chambliss
+     Chapman
+     Chenoweth
+     Christensen
+     Chrysler
+     Clinger
+     Coble
+     Collins (GA)
+     Combest
+     Cooley
+     Cox
+     Cramer
+     Crane
+     Crapo
+     Cremeans
+     Cubin
+     Cunningham
+     Davis
+     Deal
+     DeLay
+     Diaz-Balart
+     Dickey
+     Dicks
+     Dooley
+     Doolittle
+     Dornan
+     Dreier
+     Duncan
+     Dunn
+     Edwards
+     Ehrlich
+     Emerson
+     English
+     Ensign
+     Everett
+     Ewing
+     Fawell
+     Fields (TX)
+     Flanagan
+     Foley
+     Forbes
+     Fowler
+     Fox
+     Franks (CT)
+     Franks (NJ)
+     Frelinghuysen
+     Frisa
+     Funderburk
+     Furse
+     Gallegly
+     Ganske
+     Gekas
+     Geren
+     Gilchrest
+     Gillmor
+     Gilman
+     Goodlatte
+     Goodling
+     Gordon
+     Goss
+     Graham
+     Greenwood
+     Gunderson
+     Gutknecht
+     Hall (TX)
+     Hamilton
+     Hancock
+     Hansen
+     Harman
+     Hastert
+     Hastings (WA)
+     Hayes
+     Hayworth
+     Hefley
+     Heineman
+     Herger
+     Hilleary
+     Hobson
+     Hoekstra
+     Hoke
+     Horn
+     Hostettler
+     Houghton
+     Hunter
+     Hutchinson
+     Hyde
+     Inglis
+     Istook
+     Johnson (CT)
+     Johnson, Sam
+     Jones
+     Kasich
+     Kelly
+     Kim
+     King
+     Kingston
+     Klug
+     Knollenberg
+     Kolbe
+     LaHood
+     Largent
+     Latham
+     LaTourette
+     Laughlin
+     Lazio
+     Leach
+     Lewis (CA)
+     Lewis (KY)
+     Lightfoot
+     Lincoln
+     Linder
+     Livingston
+     LoBiondo
+     Longley
+     Lucas
+     Manzullo
+     Martini
+     McCarthy
+     McCollum
+     McCrery
+     McDade
+     McHugh
+     McInnis
+     McIntosh
+     McKeon
+     McNulty
+     Metcalf
+     Meyers
+     Mica
+     Miller (FL)
+     Molinari
+     Moorhead
+     Morella
+     Myers
+     Myrick
+     Nethercutt
+     Neumann
+     Ney
+     Norwood
+     Nussle
+     Ortiz
+     Orton
+     Oxley
+     Packard
+     Parker
+     [[Page H2028]] Paxon
+     Petri
+     Pickett
+     Pombo
+     Pomeroy
+     Porter
+     Portman
+     Poshard
+     Pryce
+     Quillen
+     Quinn
+     Rahall
+     Ramstad
+     Regula
+     Richardson
+     Riggs
+     Roberts
+     Roemer
+     Rogers
+     Rohrabacher
+     Ros-Lehtinen
+     Roth
+     Roukema
+     Royce
+     Salmon
+     Sanford
+     Sawyer
+     Saxton
+     Scarborough
+     Schaefer
+     Schiff
+     Seastrand
+     Sensenbrenner
+     Shadegg
+     Shaw
+     Shays
+     Shuster
+     Sisisky
+     Skeen
+     Skelton
+     Smith (MI)
+     Smith (NJ)
+     Smith (TX)
+     Smith (WA)
+     Solomon
+     Souder
+     Spence
+     Stearns
+     Stockman
+     Stump
+     Talent
+     Tanner
+     Tate
+     Tauzin
+     Taylor (MS)
+     Taylor (NC)
+     Tejeda
+     Thomas
+     Thornberry
+     Tiahrt
+     Torkildsen
+     Upton
+     Visclosky
+     Vucanovich
+     Waldholtz
+     Walker
+     Walsh
+     Wamp
+     Watts (OK)
+     Weldon (FL)
+     Weldon (PA)
+     Weller
+     White
+     Whitfield
+     Wicker
+     Wolf
+     Wyden
+     Wynn
+     Young (AK)
+     Young (FL)
+     Zeliff
+     Zimmer
+                             NOT VOTING--13
+     Browder
+     Coburn
+     Collins (IL)
+     Ehlers
+     Fattah
+     Gonzalez
+     Kleczka
+     Meek
+     Payne (VA)
+     Radanovich
+     Rush
+     Stenholm
+     Waxman
+  The Clerk announced the following pair:
+  On this vote:
+       Mrs. Collins of Illinois for, with Mr. Radonovich against.
+  Mr. SHAYS changed his vote from ``aye'' to ``no.''
+  Mr. SCHUMER changed his vote from ``no'' to ``aye.''
+  So the amendment was rejected.
+  The result of the vote was announced as above recorded.
+  Mrs. MORELLA. Mr. Chairman, I move to strike the last word.
+  Mr. Chairman, what I would like to do is engage in a colloquy with 
+the chairman of the committee, the gentleman from Pennsylvania [Mr. 
+Clinger.]
+  Mr. Chairman, I want to commend you for all of your fine work on H.R. 
+830, the Paperwork Reduction Act. Your leadership on this issue is much 
+appreciated especially by those of us on the committee where you have 
+listened to all of the amendments and discussions.
+  Mr. Chairman, again, to the chairman of the committee, we really are 
+grateful for the courtesy extended to all of the members of the 
+committee and the suggestions that he has responded to.
+  I would like to engage in a colloquy about one section of the bill 
+that has been brought to my attention by some of my constituents, 
+section 3506(d)(4). As you know, Mr. Chairman, this section of the bill 
+would permit the Office of Management and Budget to waive the cost of 
+dissemination rule regarding information dissemination to the public. I 
+know that you share my belief that the Federal Government should not be 
+in the business of profiting from its information resources and that 
+the report language in H.R. 830 reflects your convictions in this 
+regard and, further, Mr. Chairman, I know that you are committed to 
+refining the language in this section in the conference committee.
+  The report language states very clearly that the user fee waiver 
+provision exists in the bill only to provide some flexibility in the 
+event of unforeseen rare instances where there is a compelling need for 
+a user fee, a compelling need, and that compelling need, Mr. Chairman, 
+is to be directly related to the information in question rather than to 
+any fiscal motivation on the part of Federal agencies.
+  Is that your understanding of the provision, Mr. Chairman?
+  Mr. CLINGER. Mr. Chairman, will the gentlewoman yield?
+  Mrs. MORELLA. I yield to the gentleman from Pennsylvania.
+  Mr. CLINGER. Mr. Chairman, the gentlewoman is absolutely correct.
+  Mrs. MORELLA. And also, in other words, Mr. Chairman, the committee 
+is in no way authorizing the Office of Management and Budget to 
+routinely permit the levying of broad user fees aimed at earning 
+revenues for the Federal Government and, on the contrary, the committee 
+has specifically stated in its report that the granting of waivers will 
+be rare and that the authorized terms and conditions will narrowly 
+circumscribe any waivers? Is that correct?
+  Mr. CLINGER. If the gentlewoman will yield further, that is 
+absolutely correct. This is not a fundraising device. This is purely a 
+very rare and probably exceptional kind of situation that might arise 
+where an agency would be entitled to retain some of the funds, but it 
+requires a very difficult procedure to get that approval and would be 
+used in only exceptionally rare circumstances.
+  Mrs. MORELLA. I appreciate the gentleman stating this for the record, 
+and I know that you are committed to aggressively pursuing the intent 
+of this bill with regard to this section and that the committee will 
+act swiftly to curb any abuses of the provision.
+  I thank the gentleman very much for this very important 
+clarification.
+  The CHAIRMAN. Are there further amendments to the bill?
+
+
+                     amendment offered by mr. crapo
+  Mr. CRAPO. Mr. Chairman, I offer an amendment.
+  The Clerk read as follows:
+       Amendment offered by Mr. Crapo: Page 48, strike line 24 and 
+     all that follows through line 8 on page 49, and insert the 
+     following:
+       ``(a) Notwithstanding any other provision of law, no person 
+     shall be subject to any penalty for failing to maintain or 
+     provide information to any agency if the collection of 
+     information involved was made after December 31, 1981, and at 
+     the time of the failure did not display a current control 
+     number assigned by the Director, or fails to state that such 
+     request is not subject to this chapter.
+       ``(b) Actions taken by agencies which are not in compliance 
+     with subsection (a) of this section shall give rise to a 
+     complete defense or bar to such action by an agency, which 
+     may be raised at any time during the agency decision making 
+     process or judicial review of the agency decision under any 
+     available process for judicial review.
+  Mr. CRAPO (during the reading). Mr. Chairman, I ask unanimous consent 
+the amendment be considered as read and printed in the Record.
+  The CHAIRMAN. Is there objection to the request of the gentleman from 
+Idaho?
+  There was no objection.
+  Mr. CRAPO. Mr. Chairman and Members of the <strong>House</strong>, we have heard a lot 
+about the important need for the Paperwork Reduction Act in the 
+legislation we are considering today. This amendment will give that 
+legislation and that law some teeth to truly protect the private 
+citizens in the United States.
+  Currently section 3512 of the act requires that before a regulation 
+involving the collection of information can be effective that it must 
+be submitted to the Office of Management and Budget and receive an OMB 
+control number. When Congress enacted this legislation in 1981, it 
+specifically included this public protection provision to prevent the 
+unauthorized regulatory requirements from being imposed on the public. 
+It was bipartisan legislation.
+  I would like to quote to you what its lead sponsors at that time said 
+about it. Senator Danforth said if an information request goes out of 
+Washington without being approved by the paperwork watchdog, the person 
+who gets it does not have to answer it. Senator Chiles said a properly 
+cleared form will have an Office of Management and Budget number in the 
+right corner and if it is not there, it is going to be a bootleg form 
+and everybody should be on notice that they can throw out that form, 
+that they would not have to fill it out.
+  Mr. Chairman, the purpose of this amendment is to clarify that when 
+an agency does not comply with the provisions of this act that its 
+failure to comply is a complete defense to the enforcement of the 
+regulations that violate the act.
+  The National Federation of Independent Businesses has been strongly 
+in support of this approach. We would like to have inserted a private 
+cause of action, but since that was not relevant to the germaneness of 
+this bill, we have created a defense or a bar to action by the agency.
+  Mr. CLINGER. Mr. Chairman, will the gentleman yield?
+  Mr. CRAPO. I yield to the gentleman from Pennsylvania.
+  Mr. CLINGER. Mr. Chairman, I thank the gentleman for yielding, and 
+would commend him on his effort. I think it does represent an 
+improvement to the bill. It strengthens the bill. It recognizes that 
+small business is particularly impacted by this overkill that we have 
+on regulations and gives them some protection against this kind of 
+activity.
+  So we are pleased to accept the amendment on behalf of the majority.
+  [[Page H2029]] Mr. CRAPO. I thank the gentleman.
+  Mr. CRAPO. I thank the gentleman for his comments.
+  Mr. PETERSON of Minnesota. Mr. Chairman, will the gentleman yield?
+  Mr. CRAPO. I yield to the gentleman from Minnesota.
+  Mr. PETERSON of Minnesota. I thank the gentleman for yielding.
+  Mr. Chairman, the minority has reviewed the amendment, and we have no 
+objections.
+  Mr. CRAPO. I thank the gentleman. I appreciate that.
+  Mr. Chairman, if this amendment passes, then it will make it clear to 
+the agencies, the regulators and the courts in this country, that we 
+must start taking this act seriously.
+  The CHAIRMAN. The question is on the amendment offered by the 
+gentleman from Idaho [Mr. Crapo].
+  The amendment was agreed to.
+  The CHAIRMAN. Are there further amendments to the bill? If not, under 
+the rule, the Committee rises.
+  Accordingly, the Committee rose; and the Speaker pro tempore (Mr. 
+Ney) having assumed the chair, Mr. Combest, Chairman of the Committee 
+of the Whole <strong>House</strong> on the State of the Union, reported that that 
+Committee, having had under consideration the bill (H.R. 830) to amend 
+chapter 35 of title 44, United States Code, to further the goals of the 
+Paperwork Reduction Act to have Federal agencies become more 
+responsible and publicly accountable for reducing the burden of Federal 
+paperwork on the public, and for other purposes, pursuant to <strong>House</strong> 
+Resolution 91, he reported the bill back to the <strong>House</strong> with sundry 
+amendments adopted by the Committee of the Whole.
+  The SPEAKER pro tempore. Under the rule, the previous question is 
+ordered.
+  Is a separate vote demanded on any amendment adopted by the Committee 
+of the Whole? If not, the Chair will put them en gros.
+  The amendments were agreed to.
+  The SPEAKER pro tempore. The question is on engrossment and third 
+reading of the bill.
+  The bill was ordered to be engrossed and read a third time, and was 
+read the third time.
+  The SPEAKER pro tempore. The question is on the passage of the bill.
+  The question was taken, and the Speaker pro tempore announced that 
+the ayes appeared to have it.
+
+
+                             recorded vote
+  Mr. CLINGER. Mr. Speaker, on that I demand a recorded vote.
+  A recorded vote was ordered.
+  The vote was taken by electronic device, and there were--ayes 418, 
+noes 0, answered ``present'' 6, not voting 11, as follows:
+                             [Roll No 157]
+                               AYES--418
+     Abercrombie
+     Ackerman
+     Allard
+     Andrews
+     Archer
+     Armey
+     Bachus
+     Baesler
+     Baker (CA)
+     Baker (LA)
+     Baldacci
+     Ballenger
+     Barcia
+     Barr
+     Barrett (NE)
+     Barrett (WI)
+     Bartlett
+     Barton
+     Bass
+     Bateman
+     Beilenson
+     Bentsen
+     Bereuter
+     Berman
+     Bevill
+     Bilbray
+     Bilirakis
+     Bishop
+     Bliley
+     Blute
+     Boehlert
+     Boehner
+     Bonilla
+     Bonior
+     Bono
+     Borski
+     Boucher
+     Brewster
+     Brown (CA)
+     Brown (FL)
+     Brown (OH)
+     Brownback
+     Bryant (TN)
+     Bryant (TX)
+     Bunn
+     Bunning
+     Burr
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Canady
+     Cardin
+     Castle
+     Chabot
+     Chambliss
+     Chapman
+     Chenoweth
+     Christensen
+     Chrysler
+     Clay
+     Clayton
+     Clement
+     Clinger
+     Clyburn
+     Coble
+     Coburn
+     Collins (GA)
+     Collins (MI)
+     Combest
+     Condit
+     Conyers
+     Cooley
+     Costello
+     Cox
+     Coyne
+     Cramer
+     Crane
+     Crapo
+     Cremeans
+     Cubin
+     Cunningham
+     Danner
+     Davis
+     de la Garza
+     Deal
+     DeFazio
+     DeLauro
+     DeLay
+     Dellums
+     Deutsch
+     Diaz-Balart
+     Dickey
+     Dicks
+     Dingell
+     Dixon
+     Doggett
+     Dooley
+     Doolittle
+     Dornan
+     Doyle
+     Dreier
+     Duncan
+     Dunn
+     Durbin
+     Edwards
+     Ehrlich
+     Emerson
+     Engel
+     English
+     Ensign
+     Eshoo
+     Evans
+     Everett
+     Ewing
+     Farr
+     Fawell
+     Fazio
+     Fields (LA)
+     Fields (TX)
+     Filner
+     Flake
+     Flanagan
+     Foglietta
+     Foley
+     Forbes
+     Ford
+     Fowler
+     Fox
+     Frank (MA)
+     Franks (CT)
+     Franks (NJ)
+     Frelinghuysen
+     Frisa
+     Frost
+     Funderburk
+     Furse
+     Gallegly
+     Ganske
+     Gejdenson
+     Gekas
+     Gephardt
+     Geren
+     Gibbons
+     Gilchrest
+     Gillmor
+     Gilman
+     Gingrich
+     Goodlatte
+     Goodling
+     Gordon
+     Goss
+     Graham
+     Green
+     Greenwood
+     Gunderson
+     Gutierrez
+     Gutknecht
+     Hall (OH)
+     Hall (TX)
+     Hamilton
+     Hancock
+     Hansen
+     Harman
+     Hastert
+     Hastings (FL)
+     Hastings (WA)
+     Hayes
+     Hayworth
+     Hefley
+     Hefner
+     Heineman
+     Herger
+     Hilleary
+     Hilliard
+     Hinchey
+     Hobson
+     Hoekstra
+     Hoke
+     Holden
+     Horn
+     Hostettler
+     Houghton
+     Hoyer
+     Hunter
+     Hutchinson
+     Hyde
+     Inglis
+     Istook
+     Jackson-Lee
+     Jacobs
+     Jefferson
+     Johnson (CT)
+     Johnson (SD)
+     Johnson, E. B.
+     Johnson, Sam
+     Johnston
+     Jones
+     Kanjorski
+     Kaptur
+     Kasich
+     Kelly
+     Kennedy (MA)
+     Kennedy (RI)
+     Kennelly
+     Kildee
+     Kim
+     King
+     Kingston
+     Kleczka
+     Klink
+     Klug
+     Knollenberg
+     Kolbe
+     LaFalce
+     LaHood
+     Lantos
+     Largent
+     Latham
+     LaTourette
+     Laughlin
+     Lazio
+     Leach
+     Levin
+     Lewis (CA)
+     Lewis (GA)
+     Lewis (KY)
+     Lightfoot
+     Lincoln
+     Linder
+     Lipinski
+     Livingston
+     LoBiondo
+     Lofgren
+     Longley
+     Lowey
+     Lucas
+     Luther
+     Maloney
+     Manton
+     Manzullo
+     Markey
+     Martinez
+     Martini
+     Mascara
+     Matsui
+     McCarthy
+     McCollum
+     McCrery
+     McDade
+     McDermott
+     McHale
+     McHugh
+     McInnis
+     McIntosh
+     McKeon
+     McKinney
+     McNulty
+     Meehan
+     Menendez
+     Metcalf
+     Meyers
+     Mfume
+     Mica
+     Miller (CA)
+     Miller (FL)
+     Mineta
+     Minge
+     Mink
+     Moakley
+     Molinari
+     Mollohan
+     Montgomery
+     Moorhead
+     Moran
+     Morella
+     Murtha
+     Myers
+     Myrick
+     Nadler
+     Neal
+     Nethercutt
+     Neumann
+     Ney
+     Norwood
+     Nussle
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Orton
+     Oxley
+     Packard
+     Pallone
+     Parker
+     Pastor
+     Paxon
+     Payne (NJ)
+     Payne (VA)
+     Pelosi
+     Peterson (FL)
+     Peterson (MN)
+     Petri
+     Pickett
+     Pombo
+     Pomeroy
+     Porter
+     Portman
+     Poshard
+     Pryce
+     Quillen
+     Quinn
+     Radanovich
+     Rahall
+     Ramstad
+     Rangel
+     Reed
+     Regula
+     Reynolds
+     Richardson
+     Riggs
+     Rivers
+     Roberts
+     Roemer
+     Rogers
+     Rohrabacher
+     Ros-Lehtinen
+     Rose
+     Roth
+     Roukema
+     Royce
+     Sabo
+     Salmon
+     Sanders
+     Sanford
+     Sawyer
+     Saxton
+     Scarborough
+     Schaefer
+     Schiff
+     Schroeder
+     Schumer
+     Scott
+     Seastrand
+     Sensenbrenner
+     Serrano
+     Shadegg
+     Shaw
+     Shays
+     Shuster
+     Sisisky
+     Skaggs
+     Skeen
+     Skelton
+     Slaughter
+     Smith (MI)
+     Smith (NJ)
+     Smith (TX)
+     Smith (WA)
+     Solomon
+     Souder
+     Spence
+     Spratt
+     Stark
+     Stearns
+     Stockman
+     Stokes
+     Studds
+     Stump
+     Stupak
+     Talent
+     Tanner
+     Tate
+     Tauzin
+     Taylor (MS)
+     Taylor (NC)
+     Tejeda
+     Thomas
+     Thompson
+     Thornberry
+     Thornton
+     Thurman
+     Tiahrt
+     Torkildsen
+     Torres
+     Torricelli
+     Towns
+     Traficant
+     Tucker
+     Upton
+     Vento
+     Visclosky
+     Vucanovich
+     Waldholtz
+     Walker
+     Walsh
+     Wamp
+     Ward
+     Waters
+     Weldon (FL)
+     Weldon (PA)
+     Weller
+     White
+     Whitfield
+     Wicker
+     Williams
+     Wilson
+     Wise
+     Wolf
+     Woolsey
+     Wyden
+     Wynn
+     Yates
+     Young (AK)
+     Young (FL)
+     Zeliff
+     Zimmer
+                        ANSWERED ``PRESENT''--6
+     Becerra
+     Coleman
+     Owens
+     Roybal-Allard
+     Velazquez
+     Watt (NC)
+                             NOT VOTING--11
+     Browder
+     Collins (IL)
+     Ehlers
+     Fattah
+     Gonzalez
+     Meek
+     Rush
+     Stenholm
+     Volkmer
+     Watts (OK)
+     Waxman
+  Ms. ROYBAL-ALLARD, Mr. WATT of North Carolina, and Ms. VELAZQUEZ 
+changed their vote from ``aye'' to ``present.''
+  So the bill was passed.
+  The result of the vote was announced as above recorded.
+  A motion to reconsider was laid on the table.
+
+
+                          ____________________
+
+
+</pre>
+</body>
+</html>

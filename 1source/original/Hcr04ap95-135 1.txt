@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>WAIS Document Retrieval</title>
+</head>
+<body>
+<pre>
+[Congressional Record: April 4, 1995 (<strong>House</strong>)]
+[Page H4143]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+[DOCID:cr04ap95-135]                         
+
+
+
+
+   PERMISSION FOR CERTAIN COMMITTEES AND THEIR SUBCOMMITTEES TO SIT 
+        TOMORROW, WEDNESDAY, APRIL 5, 1995, DURING 5-MINUTE RULE
+  Mrs. CHENOWETH. Mr. Speaker, I ask unanimous consent that the 
+following committees and their subcommittees be permitted to sit 
+tomorrow while the <strong>House</strong> is meeting in the Committee of the Whole <strong>House</strong> 
+under the 5-minute rule: the Committee on Banking and Financial 
+Services, the Committee on Commerce, the Committee on Economic and 
+Educational Opportunities, the Committee on Government Reform and 
+Oversight, the Committee on <strong>House</strong> Oversight, the Committee on 
+International Relations, the Committee on the Judiciary, the Committee 
+on Resources, the Committee on Small Business, and the Committee on 
+Transportation and Infrastructure. It is my understanding that the 
+Minority has been consulted and that there is no objection to these 
+requests.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from Idaho?
+  Mr. DOGGETT. Mr. Speaker, reserving the right to object, we have 
+checked with the ranking members of each of those committees and 
+subcommittees, and they have agreed to that.
+  Mr. Speaker, I withdraw my reservation of objection.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentlewoman from Idaho?
+  There was no objection.
+                          ____________________
+
+
+</pre>
+</body>
+</html>

@@ -16,6 +16,7 @@ cat('\014')
 require(data.table)
 require(bit64)
 require(magrittr)
+require(ggplot2)
 knitr::opts_chunk$set(comment=NA)
 c<-0
 ```
@@ -72,7 +73,9 @@ We've coded these functions with "p" for pipeline followed by a number indicatin
 
 
 #Pipe
-##P1: Redumping ICPSR as .RData files
+##P1: Redumping ICPSR
+
+### ...as .RData
 
 Let's take a look at the first pipeline, the ``r grep('2RD',as.vector(lsf.str()),value=T)`` function. If we just call the object name without parantheses, it will print the function definition as it was read from disk. We won't do that because we completely tortured the code with comments explaining what every line does. Bad style but a good idea for remembering what we did or explaining it to others. It's too much to print here, but take a look at the source file, especially with syntax highlighting, if you want a detailed explanation. Here's a cleaner look using the `head` function.
 
@@ -110,6 +113,8 @@ tables() # now how big is it?
 
 ```
 
+### ...as ."C"SV
+
 Great, now our sample is `r tables(silent=T)$NROW[2]` rows and `r tables(silent=T)$MB[2]` MB, which will be a lot easier to work with. Let's save it using the "|" delimiter that the ICPSR source used and the `.txt` extension; there are a lot of commas and quotes in our full text data so a `.csv` could cause problems anyway. Now any workflows based on the original source will also be able to read our subsample.
 
 ```{r save-tab-delim}
@@ -121,7 +126,7 @@ if(identical(sdt,tdt)) cat("Yay they're the same, we did it!")
 rm(tdt)
 ```
 
-Now let's also subset our two sources for metadata.
+Now let's also subset our two sources of metadata.
 ```{r}
 load(dir('2pipe',pattern='20.+RData',full.names = T)) # Search for data set 20 from ICPSR and load it. This is information about the document, including speaker id.
 tables() # as expected it is as long as our speech table, though a lot smaller.
@@ -135,11 +140,10 @@ ssdt<-dt[unique(smdt$speakerID)] # since speakers may have spoken multiple times
 rm(dt)
 tables() # our sample of 1000 speeches represents 592 of the speakers we have information about
 ```
-So those are the three different subsets of our data. Storing them separately is the most space efficient way, but not necessarily the most convenient. Let's merge them into one big table by matching the the two diffrent keys, speechID and speakerID.
+So those are the three different subsets of our data. Storing them separately is the most space efficient way, but not necessarily the most convenient. Let's merge them into one big table by matching on the two diffrent keys, `speechID` and `speakerID`.
 
 ```{r merge1}
-smsdt<-merge(x=smdt,y=ssdt,by.x='speakerID',by.y='id') # merge by the same key, which is called two different things!
-invisible(smsdt[,id:=NULL]) # delete the redundant key
+smsdt<-merge(x=smdt,y=ssdt,by.x='speakerID',by.y='id') # merge by the same key, which to our chagrin was given two different names
 tables()
 ```
 ```{r merge2}
@@ -154,7 +158,68 @@ write.table(smsdt,file = '2pipe/33501-0015-Data-1ksubsamp.meta.only.txt',quote =
 write.table(allsdt,file = '2pipe/33501-0015-Data-1ksubsamp.w.meta.txt',quote = F,sep = '|',row.names = F) # saving to "|"" delimited text file
 ```
 
+###Sanity Check!
+
+Our metadata have two values, `char count` and `word count`. These two values together are almost a finger print for the document. Let's test to see if our full text field adds up the way it is supposed to by adding our own versions of character and word count and a `test` column to our table.
+
+```{r test}
+invisible(allsdt[,`:=`(
+	char_count=nchar(speech) #easy, count the number of characters
+	,word_count=sapply(gregexpr('[^ ]+',gsub('[^0-9A-Za-z ]+','',allsdt$speech)),length) # hacky? count the number of contiguous non-whitespace
+)])
+invisible(allsdt[,`:=`(
+	ctest=`char count`==char_count
+	,wtest=`word count`==word_count
+)])
+ftable(allsdt[,list(ctest,wtest)])
+```
+
+Holy smokes! That isn't good. It looks like nearly half of our database doesn't match up! Let's take a look at three cases for each test category. Here keying the `data.table` by our two test columns will be helpful.
+
+```{r}
+setkey(allsdt,ctest,wtest)
+#Looking good
+gg<-allsdt[list(T,T),list(speechID,`char count`,char_count,`word count`,word_count,speech,file,line_start,line_end)][1:3]
+#Character good word bad
+gb<-allsdt[list(T,F),list(speechID,`char count`,char_count,`word count`,word_count,speech,file,line_start,line_end)][1:3]
+#Character bad word good
+bg<-allsdt[list(F,T),list(speechID,`char count`,char_count,`word count`,word_count,speech,file,line_start,line_end)][1:3]
+#Both bad
+bb<-allsdt[list(F,F),list(speechID,`char count`,char_count,`word count`,word_count,speech,file,line_start,line_end)][1:3]
+#let's look at the very bad category
+bb
+```
+
+Some of these cases seem definitely wrong, and other seem like the variations could be due to different methods of counting. Let's plot the difference between our counts and the original authors and see what clusters.
+
+```{r counts, echo=FALSE, fig.align='center', fig.height=5, fig.width=10}
+invisible(allsdt[,`:=`(
+	cdiff=char_count-`char count` # observed - expected
+	,wdiff=word_count-`word count`
+)])
+invisible(allsdt[,`:=`(
+	kcd=log(abs(cdiff)+1)
+	,kwd=log(abs(wdiff)+1)
+)])
+invisible(allsdt[,`:=`(	clust=factor(kmeans(allsdt[,list(kcd,kwd)],centers = 3)$cluster)
+)])
+
+qplot(x=cdiff,y=wdiff,data=allsdt,size=I(1),alpha=I(.75),color=clust)
+```
+
+Yup it still looks pretty bad! There are a lot of points far away from zero, so clearly something is up with our ability to match metadata. Did we make an error, or was it in the original data? Thankfully the ICPSR database includes the original documents that were parse, and these are what the speech description file refers to. These files are saved in our `1source/original` folder. Let's view the last set of cases above that failed both of our tests.
+
+```{r inspect}
+
+```
+
+
 #Sink
+
+```{r}
+
+```
+
 ##Database
 
 

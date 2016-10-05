@@ -1,0 +1,2765 @@
+<html>
+<head>
+<title>WAIS Document Retrieval</title>
+</head>
+<body>
+<pre>
+[Congressional Record: August 5, 1995 (<strong>Senate</strong>)]
+[Page S11557-S11574]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+[DOCID:cr05au95-130]                         
+
+
+
+
+        NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 1996
+  The <strong>Senate</strong> continued with the consideration of the bill.
+  Mr. FORD addressed the Chair.
+  The PRESIDING OFFICER. The Senator from Kentucky.
+  Mr. FORD. I will be assisting the distinguished chairman of the Armed 
+Services Committee at the request of the ranking member, Senator Nunn. 
+He is in negotiations at the present time. He asked that, until he is 
+available, I assist the distinguished chairman. So I will be 
+scrutinizing the amendments as they are reported. I think most of them 
+are cleared. We will have no problems.
+  Mr. THURMOND addressed the Chair.
+  The PRESIDING OFFICER. The Senator from South Carolina.
+
+
+                           Amendment No. 2252
+    (Purpose: To amend the provision relating to authority to lease 
+             property requiring environmental remediation)
+  Mr. THURMOND. Mr. President, on behalf of Senator Smith, I offer an 
+amendment which perfects section 120(h)(3) by clarifying that section 
+120(h)(3) of the Comprehensive Environmental Response Compensation and 
+Liability Act of 1980 does not apply to long-term leases at military 
+bases undergoing hazardous waste remedial action.
+  Mr. President, I believe this amendment has been cleared by the other 
+side.
+  Mr. FORD. Mr. President, the minority side has no objections to this 
+amendment.
+  The PRESIDING OFFICER. The clerk will report the amendment.
+  The legislative clerk read as follows:
+       The Senator from South Carolina [Mr. Thurmond], for Mr. 
+     Smith, proposes an amendment numbered 2252.
+  Mr. THURMOND. Mr. President, I ask unanimous consent that further 
+reading of the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       On page 468, strike lines 16 through 24 and insert the 
+     following:
+     ``The requirements of subparagraph (B) shall not apply in any 
+     case in which the transfer of the property occurs or has 
+     occurred by means of a lease, without regard to whether the 
+     lessee has agreed to purchase the property or whether the 
+     duration of the lease is longer than 55 years. In the case of 
+     a lease entered into after September 30, 1995, with respect 
+     to real property located at an installation approved for 
+     closure or realignment under a base closure law, the agency 
+     leasing the property, in consultation with the Administrator, 
+     shall determine before leasing the property that the property 
+     is suitable for lease, that the uses contemplated for the 
+     lease are consistent with protection of human health and the 
+     environment, and that there are adequate assurances that the 
+     United States will take all remedial action referred to in 
+     subparagraph (B) that has not been taken on the date of the 
+     lease.''.
+  Mr. SMITH. Mr. President, during the Armed Services Committee 
+consideration of S. 1026, Senator McCain and I introduced language to 
+amend section 120(h)(3) of the Comprehensive Environmental Response 
+Compensation and Liability Act of 1980 [CERCLA], otherwise known as 
+Superfund, to allow for the use of long-term leases at former military 
+bases undergoing hazardous waste remedial action.
+  The need for this language grew out of a lawsuit filed by the 
+Conservation Law Foundation [CLF] and the town of Newington, NH, which 
+charged that the Air Force had violated Superfund section 120(h) by 
+transferring contaminated parcels at Pease Air Force Base via long-term 
+lease without an approved remedial design. In a decision dated August 
+29, 1994, Judge Martin Loughlin of the U.S. District Court for the 
+District of New Hampshire, held that the Air Force's actions to provide 
+long-term leases to the State of New Hampshire were a violation of 
+CERCLA. Not only has this decision placed a cloud over redevelopment 
+efforts at Pease, but more important, it has helped to hinder the 
+expedited redevelopment of facilities across the Nation that are being 
+closed under the Base Closure and Realignment Act.
+  The language that was included in section 2824 of S. 1026 was 
+intended to modify section 120(h)(3) of Superfund to provide that the 
+Department of Defense may enter into long-term or other leases while 
+any phase of the cleanup is ongoing. The amendment that I am offering 
+today clarifies the language included in section 2824 to provide that 
+not only are existing leases appropriate, but future leases may be 
+entered into after consultation between the EPA and DOD. I have worked 
+closely with Senators Chafee, Baucus, and Lautenberg, as well as the 
+Department of Defense and the Department of the Air force, in 
+developing this language, and I believe that it has been cleared by 
+both sides.
+  This amendment will not only eliminate a significant obstacle to the 
+expedited redevelopment of these bases, but it will give the Department 
+of Defense more flexibility and creativity in placing these facilities 
+back into productive use.
+  Again, I thank my colleague for working with me to adopt this 
+important measure.
+  Mr. THURMOND. Mr. President, I urge the <strong>Senate</strong> adopt this amendment.
+  The PRESIDING OFFICER. The question is on agreeing to the amendment.
+  The amendment (No. 2252) was agreed to.
+  Mr. FORD. I move to reconsider the vote.
+  Mr. THURMOND. I move to lay that motion on the table. 
+  The motion to lay on the table was agreed to.
+
+
+                           Amendment No. 2253
+  (Purpose: To require a cost-benefit analysis of various options for 
+  reorganization of the Army ROTC program and to delay reorganization 
+   pending submission of a report on the results of the analysis to 
+                               Congress)
+  Mr. FORD. Mr. President, I send an amendment to the desk and ask for 
+its immediate consideration.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+       The Senator from Kentucky [Mr. Ford] proposes an amendment 
+     numbered 2253.
+  Mr. FORD. Mr. President, I ask unanimous consent that further reading 
+of the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       At the end of subtitle E of title V, add the following:
+     SEC. 560. DELAY IN REORGANIZATION OF ARMY ROTC REGIONAL 
+                   HEADQUARTERS STRUCTURE.
+       (a) Delay.--The Secretary of the Army may not take any 
+     action to reorganize the regional headquarters and basic camp 
+     structure of the Reserve Officers Training Corps program of 
+     the Army until six months after the date on which the report 
+     required by subsection (d) is submitted.
+       (b) Cost-Benefit Analysis.--The Secretary of the Army shall 
+     conduct a comparative cost-benefit analysis of various 
+     options for the reorganization of the regional headquarters 
+     and basic camp structure of the Army ROTC program. As part of 
+     such analysis, the Secretary shall measure each 
+     reorganization option considered against a common set of 
+     criteria.
+       (c) Selection of Reorganization Option for 
+     Implementation.--Based on the findings resulting from the 
+     cost-benefit analysis under subsection (b) and such other 
+     factors as the Secretary consider appropriate, the Secretary 
+     shall select one reorganization option for implementation. 
+     The Secretary may select an option for implementation only if 
+     the Secretary finds that the cost-benefit analysis and other 
+     factors considered clearly demonstrate that such option, 
+     better than any other option considered--
+       (1) provides the structure to meet projected mission 
+     requirements;
+       (2) achieves the most significant personnel and cost 
+     savings;
+       (3) uses existing basic and advanced camp facilities to the 
+     maximum extent possible;
+       (4) minimizes additional military construction costs; and
+       (5) makes maximum use of the reserve components to support 
+     basic and advanced camp operations, thereby minimizing the 
+     effect of those operations on active duty units.
+       (d) Report.--Not later than 60 days after the date of the 
+     enactment of this Act, the Secretary of the Army shall submit 
+     to the Committee on Armed Services of the <strong>Senate</strong> and the 
+     Committee on National Security of the House of 
+     Representatives a report describing the reorganization option 
+     selected under subsection (c). The report shall include the 
+     results of the cost-benefit analysis under subsection (b) and 
+     a detailed rationale for the reorganization option selected.
+  Mr. FORD. This amendment would prohibit the Army from reorganizing 
+regional headquarters of the ROTC Program until 6 months after they 
+submit studies justifying the reorganizational cost-benefit.
+  I urge its acceptance.
+  Mr. THURMOND. Mr. President, it was cleared on this side.
+  The PRESIDING OFFICER. The question is on agreeing to the amendment.
+  The amendment (No. 2253) was agreed to.
+  Mr. FORD. Mr. President, I move to reconsider the vote.
+  Mr. THURMOND. Mr. President, I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+                           Amendment No. 2254
+     (Purpose: To require a report on the effect of the closure of 
+ Fitzsimons Army Medical Center on the capability of the Department of 
+ Defense to provide appropriate health care to veterans of the Persian 
+ Gulf War and their families suffering from illnesses associated with 
+                  their service during that conflict)
+  Mr. THURMOND. Mr. President, on behalf of Senator Campbell, I offer 
+an amendment which will require a report on the effect of the closure 
+of Fitzsimons Army Medical Center on the capability of the Department 
+of Defense to provide appropriate health care to Persian Gulf war 
+veterans suffering from illness associated with that conflict.
+  Mr. President, I believe this amendment has been cleared by the other 
+side.
+  The PRESIDING OFFICER. The clerk will report the amendment.
+  The legislative clerk read as follows:
+       The Senator from South Carolina [Mr. Thurmond], for Mr. 
+     Campbell, proposes an amendment numbered 2254.
+  Mr. THURMOND. Mr. President, I ask unanimous consent that the reading 
+of the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       On page 304, between lines 8 and 9, insert the following:
+     SEC. 744. REPORT ON EFFECT OF CLOSURE OF FITZSIMONS ARMY 
+                   MEDICAL CENTER, COLORADO, ON PROVISION OF CARE 
+                   TO MILITARY PERSONNEL AND DEPENDENTS 
+                   EXPERIENCING HEALTH DIFFICULTIES ASSOCIATED 
+                   WITH PERSIAN GULF SYNDROME
+       Not later than 90 days after the date of the enactment of 
+     this Act, the Secretary of Defense shall submit to Congress a 
+     report that--
+       (1) assesses the effects of the closure of Fitzsimons Army 
+     Medical Center, Colorado, on the capability of the Department 
+     of Defense to provide appropriate and adequate health care to 
+     members and former members of the Armed Forces and their 
+     dependents who suffer from undiagnosed illnesses (or 
+     combination of illnesses) as a result of service in the Armed 
+     Forces in the Southwest Asia theater of operations during the 
+     Persian Gulf War; and
+       (2) describes the plans of the Secretary of Defense and the 
+     Secretary of the Army to ensure that adequate and appropriate 
+     health care is available to such members, former members, and 
+     their dependents for such illnesses.
+  Mr. CAMPBELL. Mr. President, this amendment requires the Secretary of 
+Defense to complete a report on the effect of the closure of Fitzsimons 
+Army Medical Center on gulf war veterans and their families who suffer 
+from health problems associated with Persian Gulf syndrome. That report 
+must also tell Congress how the Defense Department and the Army plan to 
+provide effective testing and treatment of those people.
+  Mr. President, last summer I held a field hearing out in Colorado on 
+the subject of gulf war illnesses. That experience proved to me that 
+the Persian Gulf syndrome is real and serious. Veterans complained of 
+respiratory illnesses, muscle and joint aches, and fatigue, as well as 
+a series of psychological symptoms. One family I know in Colorado 
+watched their son go from a robust, strong, and vigorous young man to a 
+thin, weak, and depressed gulf war vet as a result of unexplained 
+health problems stemming from his Persian Gulf service.
+  Many of these vets, and their families, relied on Fitzsimons for 
+testing and treatment. Fitzsimons is 1 of 15 regional medical centers 
+for conducting evaluations of Persian Gulf war illnesses. Last October, 
+Fitzsimons opened the Persian Gulf War Service Center to diagnose and 
+treat gulf war vets. In addition, Fitzsimons set up a Persian Gulf war 
+hotline to get information and make appointments.
+  It is hard to underestimate the importance of Fitzsimons to the 
+regional effort in support of gulf war vets. Fitzsimons provides 
+initial evaluations for vets in its immediate area, as well as assisted 
+other medical facilities that could not handle the extra workload. 
+Fitzsimons is responsible for all gulf war cases that require more 
+extensive evaluations and treatment. Fitzsimons organizes quarterly 
+regional conferences on Persian Gulf war illness issues. The Fitzsimons 
+hotline continues to generate three or four new referrals every day.
+  We are going to lose all those services when Fitzsimons closes. I say 
+when it closes, because I am sure that Congress will vote to accept the 
+BRAC recommendations, with or without my support. I want to make sure 
+that the Defense Department and the Army do not ignore these gulf war 
+vets, and do not try to sweep their health problems under the rug.
+  Congress needs to know the DOD's plans to care for these people, and 
+that is why I proposed this amendment. I appreciate the help from my 
+colleagues on the Armed Services Committee on both sides of the aisle, 
+and I thank them for agreeing to accept this amendment.
+  Mr. THURMOND. Mr. President, I congratulate Senator Campbell on his 
+amendment to require the Department of Defense to provide a report on 
+the impact the closure of the Fitzsimons Army Medical Center will have 
+on the treatment of Persian Gulf veterans suffering from illness 
+associated with service in that conflict. The amendment will ensure 
+that the Department 
+of Defense makes appropriate arrangements for care for these veterans 
+and their families.
+  I support the amendment and urge its adoption.
+  Mr. THURMOND. Mr. President, I urge that the <strong>Senate</strong> adopt the 
+amendment.
+  Mr. FORD. Mr. President, we have no objection.
+  The PRESIDING OFFICER. Without objection, the amendment is agreed to.
+  So the amendment (No. 2254) was agreed to.
+  Mr. FORD. Mr. President, I move to reconsider the vote by which the 
+amendment was agreed to.
+  Mr. THURMOND. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+
+
+                           Amendment No. 2255
+     (Purpose: To state the sense of the <strong>Senate</strong> on the Director of 
+                    Operational Test and Evaluation)
+  Mr. FORD. Mr. President, I send an amendment to the desk and ask for 
+its immediate consideration.
+  The PRESIDING OFFICER. The clerk will report the amendment.
+  The legislative clerk read as follows:
+       The Senator from Kentucky [Mr. Ford], for Mr. Pryor, 
+     proposes an amendment numbered 2255.
+  Mr. FORD. Mr. President, I ask unanimous consent that the reading of 
+the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       On page 69, between lines 9 and 10, insert the following:
+     SEC. 242. SENSE OF <strong>SENATE</strong> ON THE DIRECTOR OF OPERATIONAL TEST 
+                   AND EVALUATION.
+       (a) Findings.--The <strong>Senate</strong> makes the following findings:
+       (1) The Office of the Director of Operational Test and 
+     Evaluation of the Department of Defense was created by 
+     Congress to provide an independent validation and 
+     verification on the suitability and effectiveness of new 
+     weapons, and to ensure that the United States military 
+     departments acquire weapons that are proven in an operational 
+     environment before they are produced and used in combat.
+       (2) The office is currently making significant 
+     contributions to the process by which the Department of 
+     Defense acquires new weapons by providing vital insights on 
+     operational weapons tests to be used in this acquisition 
+     process.
+       (3) The office provides vital services to Congress in 
+     providing an independent certification on the performance of 
+     new weapons that have been operationally tested.
+       (4) A provision of H.R. 1530, an Act entitled ``An Act to 
+     authorize appropriations for fiscal year 1996 for military 
+     activities of the Department of Defense, for military 
+     construction, and for defense activities of the Department of 
+     Energy, to prescribe personnel strengths for such fiscal year 
+     for the Armed Forces, and for other purposes'', agreed to by 
+     the House of Representatives on June 15, 1995, contains a 
+     provision that could substantially diminish the authority and 
+     responsibilities of the office and perhaps cause the 
+     elimination of the office and its functions.
+       (b) Sense of the <strong>Senate</strong>.--It is the sense of the <strong>Senate</strong> 
+     that--
+       (1) the authority and responsibilities of the Office of the 
+     Director of Operational Test and Evaluation of the Department 
+     of Defense should not be diminished or eliminated; and
+       (2) the conferees on H.R. 1530, an Act entitled ``An Act to 
+     authorize appropriations for fiscal year 1996 for military 
+     activities of the Department of Defense, for military 
+     construction, and for defense activities of the Department of 
+     Energy, to prescribe personnel strengths for such fiscal year 
+     for the Armed Forces, and for other purposes'' should not 
+     propose to Congress a conference report on that Act that 
+     would either diminish or eliminate the Office of the Director 
+     of Operational Test and Evaluation or its functions.
+  Mr. FORD. Mr. President, this is a sense of the <strong>Senate</strong> that the 
+<strong>Senate</strong> should not recede to the House provision that would abolish DOD 
+Director of Operational Test and Evaluations.
+  I believe it has been cleared on the other side.
+&lt;bullet&gt;Mr. PRYOR. Mr. President, I rise today to offer an amendment 
+with my friend the Senator from Delaware, Senator Roth, that would 
+express the sense of the <strong>Senate</strong> regarding the function of operational 
+weapons testing in the U.S. Department of Defense.
+  In 1983, Senator Roth and I passed legislation in Congress creating 
+the Office of the Director, Operational Test and Evaluation in the 
+Pentagon. This office was designed to be an independent and objective 
+voice in the acquisition process, making sure that new weapons were 
+tested in strong, realistic operational conditions before they were 
+built and sent into combat.
+  Before the creation of this office, the tests on new weapons overseen 
+strictly by those who were responsible for the development and 
+production of these systems. Their strong financial and emotional 
+attachment to the weapons being tested often compromised the integrity 
+of the entire military acquisition process, and led to the fielding of 
+weapons that simply did not work.
+  So the independent operational testing office was created to 
+eliminate the practice where ``the students were grading their own 
+exams.'' Since its creation, this office has worked hard to restore 
+integrity and objectivity to DOD procurement. Our operational testers 
+currently provide valuable information on the reliability and 
+effectiveness of new weapons being developed and produced.
+  Mr. President, I was shocked to learn that the House version of the 
+DOD authorization bill for fiscal year 1996 contained a provision to 
+eliminate the Office of the Director of Operational Test and Evaluation 
+and its important testing oversight function. The House legislation is 
+dangerously misguided. In their apparent effort to streamline the 
+Office of the Secretary of Defense, the House National Defense 
+Committee has attempted to eliminate this important office and the 
+responsibility of operationally testing new weapons.
+  I am pleased that the <strong>Senate</strong> Armed Services Committee's bill does not 
+contain a similar provision. However, I am fully aware that this issue 
+must still be resolved in the House/<strong>Senate</strong> conference on this 
+particular legislation. As a result, Senator Roth and I, as co-authors 
+of the legislation creating the testing office, feel strongly that the 
+U.S. <strong>Senate</strong> must respond strongly to the provisions passed by our 
+friends in the House of Representatives.
+  I thank the distinguished chairman of the Armed Services Committee, 
+Senator Thurmond, and the ranking member, Senator Nunn, for accepting 
+this amendment.&lt;bullet&gt;
+  The PRESIDING OFFICER. Without objection, the amendment is agreed to.
+  So the amendment (No. 2255) was agreed to.
+  Mr. FORD. Mr. President, I move to reconsider the vote by which the 
+amendment was agreed to.
+  Mr. THURMOND. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+  Mr. THURMOND. Mr. President, I have to go to the telephone. I am 
+going to ask the able Senator from Idaho to take over in my place.
+  The PRESIDING OFFICER. The Senator from Idaho.
+
+
+                           Amendment No. 2256
+(Purpose: To revise the authority relating to awards for service during 
+       the Vietnam era in order to authorize upgrades of awards)
+  Mr. KEMPTHORNE. Mr. President, on behalf of Senator Lott, I offer an 
+amendment which would allow the Secretary of Defense or service 
+secretary to award appropriate decorations to Vietnam veterans. I 
+believe this amendment has been cleared by the other side.
+  The PRESIDING OFFICER. The clerk will report the amendment.
+  The legislative clerk read as follows:
+       The Senator from Idaho [Mr. Kempthorne], for Mr. Lott, 
+     proposes an amendment numbered 2256.
+       On page 202, line 16, insert ``or upgrade'' after 
+     ``award''.
+  Mr. FORD. Mr. President, this side has no objection.
+  The PRESIDING OFFICER. Without objection, the amendment is agreed to.
+  So the amendment (No. 2256) was agreed to.
+  Mr. KEMPTHORNE. Mr. President, I move to reconsider the vote by which 
+the amendment was agreed to.
+  Mr. FORD. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+
+
+                           Amendment No. 2257
+  Mr. FORD. Mr. President, I send an amendment to the desk and ask for 
+its immediate consideration.
+  The PRESIDING OFFICER. The clerk will report the amendment.
+  The legislative clerk read as follows:
+       The Senator from Kentucky [Mr. Ford], for Mr. Nunn, 
+     proposes an amendment numbered 2257.
+  Mr. FORD. Mr. President, I ask unanimous consent that the reading of 
+the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered. 
+  The amendment is as follows:
+       On page 137, after line 24, insert the following:
+     SEC.  . AUTHORIZING THE AMOUNTS REQUESTED IN THE BUDGET FOR 
+                   JUNIOR ROTC.
+       (a) There is hereby authorized to be appropriated 
+     $12,295,000 to fully fund the budget request for the Junior 
+     Reserve Officer Training Corps programs of the Army, Navy, 
+     Air Force, and Marine Corps. Such amount is in addition to 
+     the amount otherwise available for such programs under 
+     section 301.
+       (b) The amount authorized to be appropriated by section 
+     101(4) is hereby reduced by $12,295,000.
+  Mr. McCAIN. Mr. President, I support the amendment to provide an 
+additional $12.2 million to the Junior ROTC Program. This will provide 
+a level of funding equal to that requested by the administration. While 
+I believe that the JROTC Program is of value to local communities, I 
+continue to be concerned that its growth in funding will displace 
+higher priority military programs during this era of declining defense 
+budgets. I believe that the Department of Defense and Congress need to 
+carefully scrutinize the growth of this program. Although current 
+authority allows the JROTC Program to expand to as many as 3,500 
+schools, I believe that this would place an undue burden on the defense 
+budget and therefore will seek to reduce this level of authority in 
+future years. I urge the Department to exercise restraint when drafting 
+its fiscal year 1997 budget request and not seek a growth in this 
+program.
+  Mr. NUNN. Mr. President, I send to the desk an amendment that would 
+fully fund the Department of Defense budget request for Junior ROTC. 
+The bill as reported, would freeze the program at the fiscal year 1995 
+level of funding, which would have the effect of precluding the 
+Department's planned expansion to an additional 435 schools, covering 
+approximately 30,000 students.
+  Junior ROTC is a nationwide partnership program between the military 
+services and high schools which emphasizes self-discipline, 
+citizenship, personal responsibility, and sound work habits. It 
+features classroom instruction, extracurricular activities, and summer 
+camp. The program has received strong support from high school 
+faculties, community leaders, and parents.
+  Junior ROTC makes an enormous contribution to our nation, both in 
+terms of the impact on military recruiting and the impact on the 
+individuals and communities who benefit from this outstanding program.
+  In the early nineties, the program was substantially expanded as a 
+result of an initiative by Gen. Colin Powell and President Bush to 
+address the issues of citizenship and self-esteem among at-risk teens 
+in the wake of the LA riots.
+  President Bush said that JROTC is ``a great program that boosts high 
+school completion rates, reduces drug use, raises self-esteem, and gets 
+these kids firmly on the right track.''
+  General Powell said:
+       With its emphasis on self-discipline, personal 
+     responsibility, values, citizenship, and saying NO to drugs, 
+     JROTC provides America's youth with positive incentives to 
+     stay in high school and graduate. * * * I believe immediate 
+     expansion of the JROTC program is the best opportunity for 
+     the Department of Defense to make a positive impact on the 
+     Nation's youth.
+  The present members of the Joint Chiefs of Staff strongly support the 
+program, and I ask unanimous request that a letter dated August 3, 
+1995, signed by all of the Chiefs be printed in the Record, and I urge 
+the adoption of the amendment.
+  There being no objection, the letter was ordered to be printed in the 
+Record, as follows:
+                                                     The Chairman,
+
+
+                                        Joint Chiefs of Staff,
+                                   Washington, DC, August 3, 1995.
+     Hon. Strom Thurmond,
+     Chairman, Committee on Armed Services, U.S. <strong>Senate</strong>, 
+         Washington, DC.
+       Dear Mr. Chairman: We are concerned about the recent 
+     Committee markup that would freeze funding for the Junior 
+     Reserve Officers' Training Corps (JROTC) Program at the FY 
+     1995 levels--an action that would deny 435 high schools the 
+     opportunity many have sought for years, the chance to host a 
+     JROTC unit. This program has an 80-year track record of 
+     success and historically has enjoyed strong bipartisan 
+     support by the Congress. We hope that the <strong>Senate</strong> could adopt 
+     appropriate modifications to the Committee's Bill (S. 1026).
+       The current expansion of the program was initiated by then-
+     Chairman Colin Powell, who recognized that JROTC offers young 
+     people an opportunity to improve their sense of 
+     responsibility, self-esteem, and citizenship, while offering 
+     an alternative to drugs and violence. The program also 
+     influences youth to stay in high school and graduate--
+     something we in uniform have long endorsed. Moreover, with a 
+     per-student cost of about $500 annually, JROTC is a modest 
+     investment in today's youth.
+       Recognizing such benefits, President Bush proposed, and the 
+     Congress supported expansion of the program from 1,600 units 
+     to 3,500. Under that authority, the Department currently is 
+     executing the fourth installment of a 5-year expansion that 
+     is slated to add 284 units during the next school year, plus 
+     151 the following year. The Committee's Bill would truncate 
+     that planned growth.
+       Frankly, there would be enormous challenges associated with 
+     changing direction. Contracts for the soon-to-start 284 
+     schools largely have been accomplished, and faculty hiring 
+     substantially is completed. Funding is committed, and JROTC 
+     contracts with school districts generally require a 1-year 
+     notice before a Military Department unilaterally may 
+     terminate a unit. Nearly 70 percent of instructors for the 
+     new units are hired and are in the process of relocating. 
+     Millions of dollars for instructional materials, uniforms, 
+     equipment and supplies are in-place or on-order--the start 
+     date for classes is only a few weeks away! A display of 
+     affected schools, by state, is attached.
+       We remain sensitive to the competing demands and choices 
+     that must be made under tight budgets. Nonetheless, the 
+     Services always have prioritized JROTC into their funding 
+     plans, because we are so frequently reminded of the 
+     contributions JROTC makes to America and to its youth. We 
+     hope that the <strong>Senate</strong> can accord similar priority, and amend 
+     the Committee's Bill to permit currently planned unit 
+     activations to continue.
+           Sincerely,
+         John M. Shalikashvili, Chairman of the Joint Chiefs of 
+           Staff; Dennis J. Reimer, General, U.S. Army Chief of 
+           Staff; C.C. Krulak, General, U.S. Marine Corps 
+           Commandant; W.A. Owens, Vice Chairman of the Joint 
+           Chiefs of Staff; J.M. Boorda, Admiral, U.S. Navy Chief 
+           of Naval Operations; Ronald H. Fogleman, General, U.S. 
+           Air Force Chief of Staff.
+  Mr. FORD. Mr. President, the bill as reported would freeze the 
+program at the fiscal year 1995 level of funding for the Junior ROTC. I 
+believe it has been cleared on the other side.
+  Mr. KEMPTHORNE. We have cleared this amendment.
+  The PRESIDING OFFICER. Without objection, the amendment is agreed to.
+  So the amendment (No. 2257) was agreed to.
+  Mr. FORD. Mr. President, I move to reconsider the vote by which the 
+amendment was agreed to.
+  Mr. KEMPTHORNE. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+
+
+                           Amendment No. 2258
+  Mr. FORD. Mr. President, I send an amendment to the desk on behalf of 
+Senator Nunn and ask for its immediate consideration.
+  The PRESIDING OFFICER. The clerk will report the amendment.
+  The legislative clerk read as follows:
+       The Senator from Kentucky [Mr. Ford], for Mr. Nunn, 
+     proposes an amendment numbered 2258.
+  Mr. FORD. Mr. President, I ask unanimous consent that the reading of 
+the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       On page 109, strike out lines 1 and 2 and insert the 
+     following in lieu thereof: by inserting ``of the reserve 
+     components and of the combat support and combat service 
+     support elements of the regular components'' after 
+     ``resources''.
+       On page 109, strike out line 11 and all that follows 
+     through line 2 on page 110.
+       On page 110, in line 3, redesignate subsection (d) as 
+     subsection (c).
+       On page 403, insert the following between line 16 and line 
+     17:
+     SEC. 1095. EXTENSION OF PILOT OUTREACH PROGRAM.
+       Section 1045(d) of the National Defense Authorization Act 
+     for Fiscal Year 1993 is amended by striking out ``three'' and 
+     inserting ``five'' in lieu thereof.
+  Mr. NUNN. Mr. President, this amendment clarifies the authorities 
+concerning the Civil-Military Cooperative Action Program and that would 
+extend the pilot program for reducing the demand for illegal drugs.
+  On a bipartisan basis, Congress established the Civil-Military 
+Cooperative Action Program (10 U.S.C. 410) in the National Defense 
+Authorization Act for fiscal year 1993. The purpose was to build upon 
+the longstanding tradition of the Armed Forces--acting as good 
+neighbors on a local level--in applying military resources to assist in 
+worthy 
+civic projects when they would not be competing with the private 
+sector.
+  The statute required DOD to develop a coordinated program so that DOD 
+could insure that such programs were consistent with national policy of 
+protecting military readiness and avoiding competition with the private 
+sector; DOD could share information among commands about useful ways to 
+provide such assistance; and DOD could coordinate requests for 
+assistance to avoid duplication among DOD activities and between DOD 
+and other Federal agencies.
+  The statute requires DOD to establish a ``Civil-Military Cooperative 
+Action Program'' to ``use the skills, capabilities, and resources to 
+the Armed Forces to assist civilian efforts to meet the domestic needs 
+of the United States.'' It further requires DOD to establish advisory 
+councils on the regional, State, or local level, as appropriate, 
+comprised of representatives from business, civic, and social service 
+organizations, and Federal, State, and local agencies. The advisory 
+councils provide recommendations on projects and program guidance. In 
+addition, DOD is required to issue regulations governing the types of 
+assistance, and guidance to assure nonduplication of public service and 
+noncompetition with the private sector.
+  The Civil-Military Cooperative Action Program builds upon a 
+longstanding tradition of military commanders serving as good 
+neighbors--coordinating training activities and providing assistance to 
+local communities to help with worthy civic projects. The statutory 
+program is designed to ensure that these efforts are conducted in 
+accordance with national goals--that is, they must be consistent with 
+readiness and there must be no competition with the private sector or 
+other public activities.
+  At a time when we are providing over $250 billion in funding for 
+defense--and when defense is the only segment of the Government 
+receiving a substantial budget increase--it is no
+ time to tell our communities that the military cannot or will not 
+provide assistance consistent with military readiness and training.
+  The civil-military cooperation cannot and should not be a military 
+mission. But there is no reason why the Armed Forces cannot conduct 
+training--particularly in terms of the activities of support troops--in 
+a manner that can have incidental benefits to civilian society.
+  A good example is medical screening. When troops go on cold weather 
+training in Alaska, why shouldn't the medics assist medically 
+underserved communities with screening and basic medical supplies--
+particularly when the shelf-life of those supplies will expire if not 
+used?
+  The bill as reported by the committee makes a number of useful 
+changes in the current statutory authority to emphasize military 
+readiness, but several improvements are needed in the language 
+recommended by the committee.
+  The bill as reported would restrict the program to the reserve 
+components. My amendment would make it clear that the program also 
+applies to the combat support and combat service support elements of 
+active duty regular components.
+  The bill as reported would eliminate Federal agencies labor unions 
+from participation in the advisory councils. The advisory councils were 
+designed to bring together business, civic, and government leaders to 
+ensure that there is no private sector competition and no duplication 
+of services offered by other public agencies. We should not exclude 
+Federal agencies and labor unions from the process since that could 
+lead to unnecessary duplication of Federal and private sector services.
+  My amendment does not affect the provision of the bill providing that 
+the management of the program should not be located under the Assistant 
+Secretary of Defense for Reserve Affairs. Since the program clearly 
+applies to the active and the reserve components, oversight should be 
+provided by the Under Secretary of Defense for Personnel and Readiness. 
+It is my expectation that the expertise and experience of those who 
+have been responsible for the program to date would be relied upon by 
+the Under Secretary in his oversight of this program.
+  My amendment also extends for 2 years the pilot outreach program to 
+reduce demand for illegal drugs, authorized by section 1045 of the 
+National Defense Authorization Act for Fiscal Year 1995. The pilot 
+program has been reviewed by the Rand Corp. and has generally received 
+good reviews. There has been insufficient opportunity at this point, 
+however, to determine the long-term effectiveness of the program, so a 
+2-year extension of the pilot is warranted.
+  Mr. President, I note that the Department of Defense appropriations 
+bill for fiscal year 1995, as reported by the Appropriations Committee, 
+fully funds the administration's request for the Civil-Military 
+Cooperative Action Program and the related Challenge and Starbase 
+Programs. That funding is fully consistent with the continuing 
+authority provided by the Armed Services Committee for these important 
+programs.
+  Mr. McCAIN. Mr. President, I support the amendment to allow the 
+Department of Defense to continue the Pilot Outreach Program another 2 
+years. I further support the perfecting language regarding the Civil 
+Military Cooperation Program. I believe that these programs can be of 
+great value, however, I am concerned when scarce defense dollars are 
+earmarked for these programs that do not significantly enhance national 
+security. I note with approval that this will not be the case in this 
+situation. I urge the Department of Defense to refrain from requesting 
+funds for these programs in the future since there are so many more 
+pressing military requirements that continue to go unfunded. It is my 
+hope that these programs will continue to provide valuable services to 
+local communities using funds that are more appropriate to their 
+mission.
+  Mr. FORD. Mr. President, this clarifies the authority concerning the 
+Civil Military Cooperative Action Program.
+  Mr. KEMPTHORNE. Mr. President, this amendment has been cleared.
+  The PRESIDING OFFICER. Without objection, the amendment is agreed to.
+  So the amendment (No. 2258) was agreed to.
+  Mr. FORD. Mr. President, I move to reconsider the vote by which the 
+amendment was agreed to.
+  Mr. KEMPTHORNE. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+
+
+                           Amendment No. 2259
+  (Purpose: To amend section 381 to make the National Defense Sealift 
+  Fund available for expenses of the entire National Defense Reserve 
+                                 Fleet)
+  Mr. KEMPTHORNE. Mr. President, on behalf of Senator Thurmond, I offer 
+an amendment which would perfect a provision included in the bill that 
+makes certain changes in funding for the Ready Reserve component of the 
+National Defense Reserve Fleet. Based on consultation with the Office 
+of the Secretary of Defense and Navy, this amendment would extend the 
+authority to include the entire National Defense Reserve Fleet.
+  The PRESIDING OFFICER. The clerk will report the amendment.
+  The legislative clerk read as follows:
+       The Senator from Idaho [Mr. Kempthorne], for Mr. Thurmond, 
+     proposes an amendment numbered 2259.
+  Mr. KEMPTHORNE. Mr. President, I ask unanimous consent that the 
+reading of the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       On page 114, beginning on line 9, strike out ``READY 
+     RESERVE COMPONENT OF THE READY RESERVE FLEET.'' and insert in 
+     lieu thereof ``THE NATIONAL DEFENSE RESERVE FLEET.''.
+       On page 114, beginning on line 20, strike out ``of the 
+     Ready Reserve component''
+  Mr. KEMPTHORNE. I believe this amendment has been cleared by the 
+other side.
+  Mr. FORD. Mr. President, we have no objection to this amendment.
+  The PRESIDING OFFICER. Without objection, the amendment is agreed to.
+  So the amendment (No. 2259) was agreed to.
+  Mr. KEMPTHORNE. Mr. President, I move to reconsider the vote by which 
+the amendment was agreed to.
+  Mr. FORD. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+                           Amendment No. 2260
+       (Purpose: To authorize a land conveyance, Radar Bomb 
+     Scoring Site, Forsyth, Montana)
+  Mr. KEMPTHORNE. Mr. President, on behalf of Senators McCain and 
+Glenn, the chairman and ranking member of the Readiness Subcommittee, I 
+offer an amendment which would convey approximately 58 acres comprising 
+radar bomb scoring site, Forsyth, MT, to the city of Forsyth, MT.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+       The Senator from Idaho [Mr. Kempthorne], for Mr. McCain, 
+     for himself and Mr. Glenn, proposes an amendment numbered 
+     2260.
+  Mr. KEMPTHORNE. Mr. President, I ask unanimous consent that the 
+reading of the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       On page 487, below line 24, add the following:
+     SEC. 2838. LAND CONVEYANCE, RADAR BOMB SCORING SITE, FORSYTH, 
+                   MONTANA.
+       (A) Authority To Convey.--The Secretary of the Air Force 
+     may convey, without consideration, to the City of Forsyth, 
+     Montana (in this section referred to as the ``City''), all 
+     right, title, and interest of the United States in and to the 
+     parcel of property (including any improvements, thereon) 
+     consisting of approximately 58 acres located in Forsyth, 
+     Montana, which has served as a support complex and 
+     recreational facilities for the Radar Bomb Scoring Site, 
+     Forsyth, Montana.
+       (b) Condition of Conveyance.--The conveyance under 
+     subsection (a) shall be subject to the condition that the 
+     City--
+       (1) utilize the property and recreational facilities 
+     conveyed under that subsection for housing and recreation 
+     purposes; or
+       (2) enter into an agreement with an appropriate public or 
+     private entity to lease such property and facilities to that 
+     entity for such purposes.
+       (c) Reversion.--If the Secretary determines at any time 
+     that the property conveyed under subsection (a) is not being 
+     utilized in accordance with paragraph (1) or paragraph (2) of 
+     subsection (b), all right, title, and interest in and to the 
+     conveyed property, including any improvements thereon, shall 
+     revert to the United States and the United States shall have 
+     the right of immediate entry onto the property.
+       (d) Description of Property.--The exact acreage and legal 
+     description of the property conveyed under this section shall 
+     be determined by a survey satisfactory to the Secretary. The 
+     cost of such survey shall be borne by the City.
+       (e) Additional Terms and Conditions.--The Secretary may 
+     require such additional terms and conditions in connection 
+     with the conveyance under this section as the Secretary 
+     determines appropriate to protect the interests of the United 
+     States.
+  Mr. McCAIN. Mr. President, I join Senator Glenn, my colleague, the 
+ranking member on the Readiness Subcommittee, in offering an amendment 
+that the subcommittee considered during the markup of the authorization 
+bill.
+  The amendment authorizes the Secretary of the Air Force to convey 58 
+acres of property located at the Radar Bomb Scoring Site, Forsyth, MT, 
+to the city of Forsyth, MT. The Air Force is planning to vacate the 
+property and declare it excess to its needs. By authorizing the 
+conveyance of the property to the city of Forsyth, we will meet a 
+housing need for the elderly and provide a recreation area for the 
+community.
+  Although we considered the amendment during the markup of this bill, 
+the subcommittee had not received the appropriate General Services 
+Administration [GSA] screen certifying that no other Federal agency had 
+a need for the property. The subcommittee therefore agreed to defer 
+action on the conveyance until the GSA cleared the property for 
+disposal. We now have that clearance and are prepared to recommend to 
+the <strong>Senate</strong> to accept the amendment.
+  Mr. President, Senator Glenn and I believe the GSA screen is an 
+essential step toward maximizing the use of our Federal resources. We 
+have already submitted all the land conveyances contained in the House 
+bill to the GSA for review and will apply the same criteria to those 
+conveyances as we have to this amendment.
+  I thank Senator Glenn for his cooperation and urge the adoption of 
+the amendment.
+  Mr. GLENN. Mr. President, the amendment offered by Senator McCain and 
+myself concerns a land issue which the Readiness Subcommittee 
+considered during its markup proceedings.
+  The amendment authorizes the Secretary of the Air Force to convey 58 
+acres of property located at the Radar Bomb Scoring Site, Forsyth, MT, 
+to the city of Forsyth, MT. The Air Force plans to vacate the few 
+housing facilities and to declare the property excess to its needs. In 
+receiving the property, the city of Forsyth must continue to use the 
+facilities for housing purposes. The city of Forsyth has a justified 
+need for these facilities to house the elderly in the community.
+  The subcommittee recognized the local community's needs and the Air 
+Force's desire to vacate and dispose of the property. However, the 
+members of the Readiness Subcommittee chairman agreed to defer action 
+on the proposal until the General Services Administration [GSA] 
+completed an expedited screening of the property to determine if any 
+Federal agencies had an interest in the property.
+  Requiring GSA to screen the property is in keeping with my concern 
+that we should not give away property without protecting the interests 
+of the Federal Government.
+  On July 11, GSA reported back to the subcommittee that no Federal 
+interests in the property were expressed. In addition at Senator 
+McCain's and my request GSA made a preliminary valuation of the 
+property. GSA estimates that the property is worth $700,000.
+  In keeping with the subcommittee's agreement, Senator McCain and I 
+urge the adoption of the amendment.
+  Mr. BURNS. Mr. President, I rise today in support of the amendment to 
+the defense authorization bill which would transfer land at the Air 
+Force Complex at Forsyth, MT, to the community.
+  This amendment makes sense. The Air Force will be releasing this 
+facility in the near future and the community will benefit greatly by 
+acquiring this property. It is a win-win situation for the Air Force 
+and the community.
+  The city of Forsyth has met all necessary requirements and the 
+conveyance is noncontroversial. They will use the property for 
+affordable housing for retirees, assist the hospital and nursing home 
+in their expansion plans, and assure that the facility is cared for and 
+improved rather than allowed to deteriorate.
+  This is clearly a positive solution and provides the highest and best 
+use for the property. The community of Forsyth should be commended for 
+their tireless work on this project.
+  I yield the floor.
+  Mr. KEMPTHORNE. Mr. President, this has been cleared by the other 
+side.
+  Mr. FORD. We have no objection.
+  The PRESIDING OFFICER. Without objection, the amendment is agreed to.
+  So the amendment (No. 2260) was agreed to.
+  Mr. KEMPTHORNE. Mr. President, I move to reconsider the vote by which 
+the amendment was agreed to.
+  Mr. FORD. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+
+
+                           Amendment No. 2261
+  (Purpose: To authorize a land conveyance, Radar Bomb Scoring Site, 
+                            Powell, Wyoming)
+  Mr. KEMPTHORNE. Mr. President, on behalf of Senators McCain and 
+Glenn, the chairman and ranking members of the Readiness Subcommittee, 
+I offer an amendment which conveys approximately 24 acres comprising 
+the radar bomb scoring site, Powell, WY, to the northwest board of 
+trustees, Powell, WY.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+       The Senator from Idaho [Mr. Kempthorne], for Mr. McCain, 
+     for himself and Mr. Glenn, proposes an amendment numbered 
+     2261.
+  Mr. KEMPTHORNE. Mr. President, I ask unanimous consent that the 
+reading of the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       On page 487, below line 24, add the following:
+     SEC. 2838. LAND CONVEYANCE, RADAR BOMB SCORING SITE, POWELL, 
+                   WYOMING.
+       (a) Authority to Convey.--The Secretary of the Air Force 
+     may convey, without consideration to the Northwest College 
+     Board of Trustees (in this section referred to as the 
+     ``Board''), all right, title, and interest of the United 
+     States in and to a parcel of real property (including any 
+     improvements thereon) consisting of approximately 24 acres 
+     located 
+     in Powell, Wyoming, which has served as the location of a support 
+     complex, recreational facilities, and housing facilities for 
+     the Radar Bomb Scoring Site, Powell, Wyoming.
+       (b) Condition of Conveyance.--The conveyance authorized 
+     under subsection (a) shall be subject to the condition that 
+     the Board use the property conveyed under that subsection for 
+     housing and recreation purposes and for such other purposes 
+     as the Secretary and the Board jointly determine appropriate.
+       (c) Reversionary Interest.--During the 5-year period 
+     beginning on the date that the Secretary makes the conveyance 
+     authorized under subsection (a), if the Secretary determines 
+     that the conveyed property is not being used in accordance 
+     with subsection (b), all right, title, and interest in and to 
+     the conveyed property, including any improvements thereon, 
+     shall revert to the United States and the United States shall 
+     have the right of immediate entry onto the property.
+       (d) Description of Property.--The exact acreage and legal 
+     description of the property conveyed under this section shall 
+     be determined by a survey satisfactory to the Secretary. The 
+     cost of the survey shall be borne by the Board.
+       (e) Additional Terms and Conditions.--The Secretary may 
+     require such additional terms and conditions in connection 
+     with the conveyance under this section as the Secretary 
+     considers appropriate to protect the interests of the United 
+     States.
+  Mr. McCAIN. Mr. President, Senator Glenn and I are offering an 
+amendment to convey approximately 24 acres comprising the radar bomb 
+scoring site, Powell, WY, to the Northwest College Board of Trustees. 
+This conveyance like the one in the previous amendment has been 
+screened by the GSA for other Federal use and declared to be excess to 
+the Government.
+  I recommend the adoption of the amendment.
+  Mr. GLENN. Mr. President, the amendment offered by Senator McCain and 
+myself concerns a land issue which the Readiness Subcommittee 
+considered during its markup proceedings.
+  The amendment authorizes the Secretary of the Air Force to convey 24 
+acres of property located at the radar bomb scoring site, Powell, WY, 
+to the Northwest College in Powell, WY. The Air Force plans to vacate 
+the facilities as early as August 1995. In receiving the property, the 
+college must continue to use the facilities for housing purposes and 
+recreational purposes. The college has a justified need for these 
+facilities to house and support students at the college. The Northwest 
+College Task Force, which includes several members of the Wyoming 
+Legislature and the Powell Chamber of Commerce, and the Air Force 
+support this proposal.
+  The subcommittee recognized the college's needs and the Air Force's 
+desire to vacate and dispose of the property. However, the members of 
+the Readiness Subcommittee Chairman agreed to defer action on the 
+proposal until the General Services Administration [GSA] completed an 
+expedited screening of the property to determine if any Federal 
+agencies had an interest in the property.
+  Requiring GSA to screen the property is in keeping with my concern 
+that we should not give away property without protecting the interests 
+of the Federal Government.
+  On July 11, GSA reported back to the subcommittee that no Federal 
+interests in the property were expressed. In keeping with the 
+subcommittee's agreement, Senator McCain and I urge the adoption of the 
+amendment.
+  Mr. THURMOND. I want to compliment Senator McCain and Senator Glenn, 
+the chairman and ranking member of the Readiness Subcommittee, for 
+their work on this amendment and their continuing efforts to ensure 
+that Federal property is properly screened for use by other Federal 
+agencies before it is conveyed to the private sector.
+  Mr. President, I understand that both these bomb scoring sites at 
+Powell, WY, and Forsyth, MT, have been screened by the General Services 
+Administration for potential use by other Federal agencies and that 
+there is no interest. Therefore, I support the amendment and the 
+transfer to the local government entities for use to improve housing, 
+education, and recreation.
+  Mr. SIMPSON. Mr. President, I would simply like to add my strong 
+support for this bill and in particular, for the provision relating to 
+the land conveyance of the former Air Force radar bomb scoring site 
+near Powell, WY.
+  This provision properly authorizes the Secretary of the Air Force to 
+convey, without consideration, to the Northwest College Board of 
+Trustees, all right, title, and interest of the United States--in and 
+to--the parcel of real property consisting of approximately 24 acres 
+located in Powell, WY.
+  This parcel also includes facilities such as a commissary and post 
+exchange, as well as housing facilities that the Northwest College will 
+most surely put to good use almost immediately.
+  The Northwest College Task Force, several members of the Wyoming 
+Legislature and the Powell Chamber of Commerce have all endorsed the 
+re-use proposal submitted by the Northwest College. Northwest College 
+will use the facilities to help to alleviate their acute student 
+housing shortage and for other educational and classroom purposes.
+  Mr. President, I sat on the Northwest College Board for 8 years and I 
+can certainly attest to the fact that this is a great community 
+college. One of the best.
+  This transfer of Air Force property will be well noted and greatly 
+appreciated by the community of Powell, WY and the college, as they 
+face continued growth into the 21st century.
+  I would like to offer my deepest thanks to Senator Thurmond, Senator 
+Burns, and Senator Nunn for their efforts--as well as their fine staff 
+representatives--in this endeavor. They have all been so supportive of 
+the Wyoming delegation's efforts regarding this provision, and I do 
+greatly appreciate that. Thank you, Mr. President.
+  Mr. KEMPTHORNE. Mr. President, this has been cleared by the other 
+side.
+  Mr. FORD. We have no objection.
+  The PRESIDING OFFICER. Without objection, the amendment is agreed to.
+  So the amendment (No. 2261) was agreed to.
+  Mr. KEMPTHORNE. Mr. President, I move to reconsider the vote by which 
+the amendment was agreed to.
+  Mr. FORD. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+
+
+                           Amendment No. 2262
+ (Purpose: To express the sense of Congress regarding establishment of 
+  Junior Reserve Officers' Training Corps units in schools on Indian 
+                             reservations)
+  Mr. KEMPTHORNE. Mr. President, on behalf of Senator Pressler, I offer 
+an amendment which expresses the sense of the <strong>Senate</strong> that Indian 
+reservations receive full consideration in selection of future JROTC 
+sites.
+  The PRESIDING OFFICER. The clerk will report the amendment.
+  The legislative clerk read as follows:
+       The Senator from Idaho [Mr. Kempthorne], for Mr. Pressler, 
+     proposes an amendment numbered 2262.
+  Mr. KEMPTHORNE. Mr. President, I ask unanimous consent that the 
+reading of the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       On page 343, after line 24, insert the following:
+     SEC. 1036. ESTABLISHMENT OF JUNIOR R.O.T.C. UNITS IN INDIAN 
+                   RESERVATION SCHOOLS.
+       It is the sense of Congress that the Secretary of Defense 
+     should ensure that secondary educational institutions on 
+     Indian reservations are afforded a full opportunity along 
+     with other secondary educational institutions to be selected 
+     as locations for establishment of new Junior Reserve 
+     Officers' Training Corps units.
+  Mr. PRESSLER. Mr. President, I rise to offer a sense-of-the-<strong>Senate</strong> 
+amendment which states that as the Junior Reserve Officers Training 
+Corps [JROTC] programs expands in the future, the Department of Defense 
+will seek to expand JROTC opportunities in schools on Indian 
+reservations that seek to participate in the JROTC program. 
+Unfortunately, only six of the Nation's 3,500 schools currently 
+participating in the JROTC program are located on Indian reservations.
+  The JROTC program helps our young people acquire the skills that will 
+serve them the remainder of their lives. To achieve this goal, the 
+JROTC curriculum includes such topics as American citizenship, history, 
+self-discipline, goal-setting, ethics, responsibility, and integrity. 
+In short, the JROTC program helps motivate young men and women to 
+become better American citizens. I believe the JROTC program is a 
+valuable addition to any high school's educational curriculum.
+  Many challenges face native American youth today. Too many Indian 
+children grow up without having the opportunities or options available 
+to help them achieve their full potential. Native American youth too 
+often enter adulthood without the necessary skills to contribute to 
+their local communities. As a result, they are unable to reap the 
+benefits or meet all the responsibilities of parenthood, citizenship, 
+and employment.
+  Today's native American youth hold within them the key to the future 
+of native American communities. In their heads, hands, and hearts are 
+the tools to a better life for them, their family, and their community. 
+As their elected representatives, we can help prepare these young 
+people for more productive lives by expanding the learning 
+opportunities available to them. The JROTC program is one option that 
+if made more available on native American reservations, could make a 
+big contribution to young people seeking to make a difference for 
+themselves. I thank the chairman and ranking member of the Armed 
+Services Committee for their cooperation with this amendment. I intend 
+to work with Secretary Perry and the other leaders of our Armed Forces 
+in determining how we can achieve the goal of a greater JROTC presence 
+on native American reservations. I urge my colleagues to join me in 
+supporting this amendment.
+  Mr. McCAIN. Mr. President, I support this amendment expressing the 
+sense of the <strong>Senate</strong> that secondary educational institutions on Indian 
+reservations be afforded full and equal opportunity to be selected as 
+locations for establishment of new Junior Reserve Officers' Training 
+Corps units.
+  Mr. KEMPTHORNE. Mr. President, I believe this amendment has been 
+cleared with the other side.
+  Mr. FORD. We have no objection.
+  The PRESIDING OFFICER. Without objection, the amendment is agreed to.
+  So the amendment (No. 2262) was agreed to.
+  Mr. KEMPTHORNE. Mr. President, I move to reconsider the vote by which 
+the amendment was agreed to.
+  Mr. FORD. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+
+
+                           Amendment No. 2263
+   (Purpose: To make certain that the Committee on Foreign Relations 
+        receives certain reports from the Department of Defense)
+  Mr. KEMPTHORNE. Mr. President, on behalf of Senator Helms, I offer an 
+amendment which would make certain that the Foreign Relations Committee 
+receives certain reports from the Department of Defense.
+  The PRESIDING OFFICER. The clerk will report the amendment.
+  The legislative clerk read as follows:
+       The Senator from Idaho [Mr. Kempthorne], for Mr. Helms, 
+     proposes an amendment numbered 2263.
+  Mr. KEMPTHORNE. Mr. President, I ask unanimous consent that the 
+reading of the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       On page 348, beginning on line 23, strike out ``to 
+     Congress'' and insert in lieu thereof the following: ``to the 
+     Committee on Armed Services and on Foreign Relations of the 
+     <strong>Senate</strong> and the Committees on National Security and on 
+     International Relations of the House of Representatives''.
+       On page 368, line 7, after ``defense committees'' insert 
+     the following: ``, the Committee on Foreign Relations of the 
+     <strong>Senate</strong>, and the Committee on International Relations of the 
+     House of Representatives''.
+  Mr. KEMPTHORNE. Mr. President, I believe this amendment has been 
+cleared with the other side.
+  Mr. FORD. Mr. President, we have no objection.
+  The PRESIDING OFFICER. Without objection, the amendment is agreed to.
+  So the amendment (No. 2263) was agreed to.
+  Mr. KEMPTHORNE. Mr. President, I move to reconsider the vote by which 
+the amendment was agreed to.
+  Mr. FORD. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+
+
+                           Amendment No. 2264
+(Purpose: To amend section 1012 to strike out a waiver of congressional 
+ notification requirements for transfers of certain vessels to certain 
+                           foreign countries)
+  Mr. KEMPTHORNE. Mr. President, on behalf of Senator Cohen, I offer an 
+amendment that would amend section 1012 of the bill. Section 1012 
+authorized the transfer of several ships to certain foreign countries 
+under the authority of 10 USC 7307(b)(1). It contained a waiver of the 
+requirements contained in the Arms Export Control Act and the Foreign 
+Assistance Act to formally notify certain congressional committees of 
+the terms of transfer. While inclusion of this waiver reflected an 
+established practice of several years duration, these committees have 
+now reaffirmed their preference for formal notification. This amendment 
+would acknowledge their request and delete the waiver of reporting 
+requirements from section 1012.
+  The PRESIDING OFFICER. The clerk will report the amendment.
+  The legislative clerk read as follows:
+       The Senator from Idaho [Mr. Kempthorne], for Mr. Cohen, 
+     proposes an amendment numbered 2264.
+  Mr. KEMPTHORNE. Mr. President, I ask unanimous consent that the 
+reading of the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       On page 334, strike out lines 6 through 15.
+       On page 334, line 16, strike out ``(d)'' and insert in lieu 
+     thereof ``(c)''.
+       On page 334, line 19, strike out ``(e)'' and insert in lieu 
+     thereof ``(d)''.
+  Mr. KEMPTHORNE. Mr. President, I believe this has been cleared with 
+the other side.
+  Mr. FORD. Mr. President, we have no objection.
+  The PRESIDING OFFICER. Without objection, the amendment is agreed to.
+  So the amendment (No. 2264) was agreed to.
+  Mr. KEMPTHORNE. Mr. President, I move to reconsider the vote by which 
+the amendment was agreed to.
+  Mr. FORD. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+
+
+                           Amendment No. 2265
+   (Purpose: To require reports on arms export control and military 
+                              assistance)
+  Mr. FORD. Mr. President, I send an amendment to the desk and ask for 
+its immediate consideration.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+       The Senator from Kentucky [Mr. Ford], for Mr. Pryor, 
+     proposes an amendment numbered 2265.
+  Mr. FORD. Mr. President, I ask unanimous consent that the reading of 
+the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       On page 371, below line 21, add the following:
+     SEC. 1062. REPORTS ON ARMS EXPORT CONTROL AND MILITARY 
+                   ASSISTANCE.
+       (a) Reports by Secretary of State.--Not later than 180 days 
+     after the date of the enactment of this Act and every year 
+     thereafter until 1998, the Secretary of State shall submit to 
+     Congress a report setting forth--
+       (1) an organizational plan to include those firms on the 
+     Department of State licensing watch-lists that--
+       (A) engage in the exportation of potentially sensitive or 
+     dual-use technologies; and
+       (B) have been identified or tracked by similar systems 
+     maintained by the Department of Defense, Department of 
+     Commerce, or the United States Customs Service; and
+       (2) further measures to be taken to strengthen United 
+     States export-control mechanisms.
+       (b) Reports by Inspector General.--(1) Not later than 180 
+     days after the date of the enactment of this Act and 1 year 
+     thereafter, the Inspector General of the Department of State 
+     and the Foreign Service shall submit to Congress a report on 
+     the evaluation by the Inspector General of the effectiveness 
+     of the watch-list screening process at the Department of 
+     State during the preceding year. The report shall be 
+     submitted in both a classified and unclassified version.
+       (2) Each report under paragraph (1) shall--
+       (A) set forth the number of licenses granted to parties on 
+     the watch-list;
+       (B) set forth the number of end-use checks performed by the 
+     Department;
+       (C) assess the screening process used by the Department in 
+     granting a license when applicant is on a watch-list; and
+       (D) assess the extent to which the watch-list contains all 
+     relevant information and parties required by statute or 
+     regulation.
+       (c) Annual Military Assistance Report.--The Foreign 
+     Assistance Act of 1961 (22 U.S.C. 2151 et seq.) is amended by 
+     inserting after section 654 the following new section:
+     ``SEC. 655 ANNUAL MILITARY ASSISTANCE REPORT.
+       ``(a) In General.--Not later than February 1 of 1996 and 
+     1997, the President shall transmit to Congress an annual 
+     report for the fiscal year ending the previous September 30, 
+     showing the aggregate dollar value and quantity of defense articles 
+     (including excess defense articles) and defense services, and 
+     of military education and training, furnished by the United 
+     States to each foreign country and international 
+     organization, by category, specifying whether they were 
+     furnished by grant under chapter 2 or chapter 5 of part II of 
+     this Act or by sale under chapter 2 of the Arms Control 
+     Export Control Act or authorized by commercial sale license 
+     under section 38 of that Act.
+       ``(b) Additional Contents of Reports.--Each report shall 
+     also include the total amount of military items of non-United 
+     States manufacture being imported into the United States. The 
+     report should contain the country of origin, the type of item 
+     being imported, and the total amount of items.''.
+  Mr. FORD. Mr. President, this requires the Secretary of State and the 
+State Department IG to make various reports on weapons exports. I 
+believe it has been cleared on the other side.
+  Mr. KEMPTHORNE. Mr. President, this has been cleared.
+  The PRESIDING OFFICER. Without objection, the amendment is agreed to.
+  So the amendment (No. 2266) was agreed to.
+  Mr. FORD. Mr. President, I move to reconsider the vote by which the 
+amendment was agreed to.
+  Mr. KEMPTHORNE. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+
+
+                           Amendment No. 2266
+(Purpose: To make miscellaneous amendments to provisions of law enacted 
+          in the Federal Acquisition Streamlining Act of 1994)
+  Mr. KEMPTHORNE. Mr. President, I send an amendment to the desk on 
+behalf of Senator Thurmond which makes clarifying changes in the 
+Federal Acquisition Streamlining Act and ask for its immediate 
+consideration.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+       The Senator from Idaho [Mr. Kempthorne], for Mr. Thurmond, 
+     proposes an amendment numbered 2266.
+  Mr. KEMPTHORNE. Mr. President, I ask unanimous consent that reading 
+of the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       On page 313, between lines 8 and 9, insert the following:
+     SEC. 815. COST AND PRICING DATA.
+       (a) Armed Services Procurements--Section 2306a(d)(2)(A)(i) 
+     of title 10, United States Code, is amended by striking out 
+     ``and the procurement is not covered by an exception in 
+     subsection (b),'' and inserting in lieu thereof ``and the 
+     offeror or contractor requests to be exempted from the 
+     requirement for submission of cost or pricing data pursuant 
+     to this subsection,''.
+       (b) Civilian Agency Procurements.--Section 304a(d)(2)(A)(i) 
+     of the Federal Property and Administration Services Act of 
+     1949 (41 U.S.C. 254b(d)(2)(A)(i)) is amended by striking out 
+     ``and procurement is not covered by an exception in 
+     subsection (b),'' and inserting in lieu thereof ``and the 
+     offeror or contractor requests to be exempted from the 
+     requirement for submission of cost or pricing data pursuant 
+     to this subsection,''.
+     SEC. 816. PROCUREMENT NOTICE TECHNICAL AMENDMENTS.
+       Section 18(c)(1)(E) of the Office of Federal Procurement 
+     Policy Act (41 U.S.C. 416(c)(1)(E)) is amended by inserting 
+     after ``requirements contract'' the following: ``, a task 
+     order contract, or a delivery order contract''.
+     SEC. 817. REPEAL OF DUPLICATIVE AUTHORITY FOR SIMPLIFIED 
+                   ACQUISITION PURCHASES.
+       Section 31 of the Office of Federal Procurement Policy Act 
+     (41 U.S.C. 427) is amended--
+       (1) by striking out subsections (a), (b), and (c);
+       (2) by redesignating subsections (d), (e), and (f) as (a), 
+     (b), and (c), respectively;
+       (3) in subsection (b), as so redesignated, by striking out 
+     ``provided in the Federal Acquisition Regulation pursuant to 
+     this section'' each place it appears and inserting in lieu 
+     thereof ``contained in the Federal Acquisition Regulation''; 
+     and
+       (4) by adding at the end the following:
+       ``(d) Procedures Defined.--The simplified acquisition 
+     procedures referred to in this section are the simplified 
+     acquisition procedures that are provided in the Federal 
+     Acquisition Regulation pursuant to section 2304(g) of title 
+     10, United States Code, and section 303(g) of the Federal 
+     Property and Administrative Services Act of 1949 (41 U.S.C. 
+     253(g)).''.
+     SEC. 818. MICRO-PURCHASES WITHOUT COMPETITIVE QUOTATIONS.
+       Section 32(d) of the Office of Federal Procurement Policy 
+     Act (41 U.S.C. 428) is amended by striking out ``the 
+     contracting officer'' and inserting in lieu thereof ``an 
+     employee of an executive agency or a member of the Armed 
+     Forces of the United States authorized to do so''.
+  Mr. THURMOND. Mr. President, this is an amendment containing a series 
+of clarifying changes to the Federal Acquisition Streamlining Act of 
+1994. These are part of a number of changes that the administration has 
+asked us to make to the legislation in light of experience with 
+implementation of the new law. The Members of the <strong>Senate</strong> will note that 
+title 8 of the defense authorization bill contains a number of these 
+relatively minor changes to title 10 of the United States Code to 
+advance the streamlining of the acquisition process. The changes in my 
+amendment would affect other parts of the United States Code that are 
+not solely within our committee's jurisdiction. This amendment has been 
+coordinated with the Committees on Governmental Affairs and Small 
+Business. It has been cleared on both sides. I ask that the amendment 
+be agreed to.
+  Mr. KEMPTHORNE. I believe this has been cleared by the other side.
+  Mr. FORD. We have no objection.
+  The PRESIDING OFFICER. Without objection, the amendment is agreed to.
+  So the amendment (No. 2266) was agreed to.
+  Mr. KEMPTHORNE. Mr. President, I move to reconsider the vote.
+  Mr. FORD. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+
+
+                           Amendment No. 2267
+ (Purpose: To strike out provisions that amend title 38, United States 
+                 Code, relating to veterans' benefits)
+  Mr. KEMPTHORNE. Mr. President, I send an amendment to the desk and 
+ask for its immediate consideration.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+       The Senator from Idaho [Mr. Kempthorne], for Mr. Thurmond, 
+     proposes an amendment numbered 2267.
+  Mr. KEMPTHORNE. Mr. President, I ask unanimous consent that reading 
+of the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       On page 381, beginning on line 5, strike out ``(a)'' and 
+     all that follows through ``Activities.--'' on line 6.
+       On page 381, strike out lines 13 through 16.
+       On page 403, strike out lines 5 through 16.
+  Mr. THURMOND. Mr. President, this amendment clarifies how we will 
+deal with three issues with which the Armed Services Committee shares 
+an interest with the Veterans' Affairs Committee.
+  Our bill includes three provisions which are of interest to the 
+Department of Defense and the Department of Veterans' Affairs. I am 
+pleased that Senator Simpson, chairman of the Veterans' Affairs 
+Committee, and I have been able to agree on how our two Committees will 
+work together to ensure the needs of both Departments are accommodated.
+  This amendment strikes section 1094, ``Extension of the Vietnam 
+Era,'' and section 1075(b) which would eliminate a joint DOD-DVA report 
+which the Veterans' Affairs Committee would like to retain. I have been 
+assured that the Veterans Affairs' will work in their legislation to 
+extend the Vietnam era as requested by the Army.
+  As for the joint DOD-DVA report, the Armed Services Committee 
+eliminated a large number of unneeded or outdated reporting 
+requirements. It was not our intention to eliminate any report for 
+which there is a valid requirement. I agree to retain this DOD-DVA 
+health care sharing report.
+  The Veterans Affairs' Committee also has an interest in section 644 
+which makes the maximum coverage under the servicemen's group life 
+insurance plan automatic. The change in the amount of coverage 
+automatically available to those who elect to participate in the 
+servicemen's group life insurance plan is important to the Department 
+of Defense and contributes to improved quality of life for service 
+members and their families. I have worked closely with the 
+distinguished chairman of the Veterans' Affairs Committee to develop 
+this legislation. I am pleased that we have been able to make this 
+change in a cooperative manner.
+  I thank Senator Simpson, the chairman, and Senator Rockefeller, the 
+ranking member, of the Veterans' Affairs Committee for their assistance 
+as 
+we addressed these issues of mutual interest. Together we have been 
+able to move forward with legislation which is beneficial to active and 
+reserve military personnel and veterans.
+  I understand this amendment has been agreed to on both sides and I 
+urge its adoption.
+  Mr. KEMPTHORNE. Mr. President, I believe this has been cleared.
+  Mr. FORD. We have no objection.
+  The PRESIDING OFFICER. Without objection, the amendment is agreed to.
+  So the amendment (No. 2267) was agreed to.
+  Mr. KEMPTHORNE. Mr. President, I move to reconsider the vote.
+  Mr. FORD. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+
+
+                           Amendment No. 2268
+ (Purpose: To establish and maintain a Battlefield Integration Center 
+      for the integration of missile defense warfighting pillars)
+  Mr. KEMPTHORNE. Mr. President, I send an amendment to the desk on 
+behalf of Senators Shelby and Heflin and ask for its immediate 
+consideration.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+       The Senator from Idaho [Mr. Kempthorne], for Mr. Shelby and 
+     Mr. Heflin, proposes an amendment numbered 2268.
+  Mr. KEMPTHORNE. Mr. President, I ask unanimous consent that reading 
+of the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       (a) On page 32, before line 20, section 201(4) is amended 
+     by adding the following new subsection:
+       (c) 475,470,000 is authorized for Other Theater Missile 
+     Defense, of which up to $25,000,000 may be made available for 
+     the operation of the Battlefield Integration Center.
+  Mr. SHELBY. Mr. President, the Army's Space and Strategic Defense 
+Command has created a promising concept for the integration of the 
+pillars of missile defense. Currently, there are no integrated 
+warfighting scenario simulations available for a comprehensive 
+integration of active defense, passive defense, attack operations and 
+battlefield management. SSDC proposes to make fully operational a 
+battlefield integration center to provide this virtually needed 
+service. Certainly, the gulf war demonstrated that missile defense is 
+not simply missile intercept.
+  Instead, comprehensive missile defense involves a myriad of 
+activities ranging from the preparation of civilian populations for 
+attack to the active suppression of an enemy's missile capabilities. 
+Without coordination between these elements, we cannot maximize our 
+missile defense capabilities. Increased coordination and integrated 
+battlefield simulations will allow us to fully utilize these 
+capabilities and create far more effective and comprehensive missile 
+defense plans.
+  In addition, the integration and coordination offered by the BIC is 
+not a distant technology. The computing and communications hardware is 
+already in place that will allow the BIC to create missile defense 
+plans for actual theater and regional conflicts involving U.S. forces. 
+The BIC will instantaneously allow U.S. commanders to download and 
+receive comprehensive missile defense battle plans based upon the 
+existing ground conditions.
+  The BIC is a cost-effective, immediately available resource that will 
+fill a large void in our missile defense system and I thank the <strong>Senate</strong> 
+for its support.
+  Mr. KEMPTHORNE. Mr. President, this would authorize funds for the 
+Battlefield Integration Center, which is very important for our theater 
+defense program.
+  This has been cleared on both sides.
+  Mr. FORD. We have no objection.
+  The PRESIDING OFFICER. Without objection, the amendment is agreed to.
+  So the amendment (No. 2268) was agreed to.
+  Mr. KEMPTHORNE. Mr. President, I move to reconsider the vote.
+  Mr. FORD. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+
+
+                           Amendment No. 2269
+    (Purpose: To clarify the use of existing technologies under the 
+ requirements relating to national missile defense system architecture)
+  Mr. FORD. Mr. President, I send an amendment to the desk and ask for 
+its immediate consideration.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+       The Senator from Kentucky [Mr. Ford], for Mr. Heflin and 
+     Mr. Shelby, proposes an amendment numbered 2269.
+  Mr. FORD. Mr. President, I ask unanimous consent that reading of the 
+amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       On page 58, line 13, insert ``, except that Minuteman 
+     boosters may not be used as part of a National Missile 
+     Defense architecture'' before the period at the end.
+  Mr. HEFLIN. Mr. President, this is an amendment which would prevent 
+the use of Minuteman missile boosters as part of an NMD architecture. 
+The reason for this amendment is the clear fact that using these 
+boosters in this fashion would be a clear violation of the START I 
+Treaty.
+  The START I Treaty is the true centerpiece of modern arms control. I 
+am confident that no member of this body supports abandoning this 
+treaty, so I hope this amendment will enjoy the full support of the 
+<strong>Senate</strong>.
+  Mr. FORD. Mr. President, this amendment would prevent the use of 
+Minuteman missile boosters as part of the NMD architecture.
+  I understand it has been cleared.
+  Mr. KEMPTHORNE. This amendment has been cleared.
+  The PRESIDING OFFICER. Without objection, the amendment is agreed to.
+  So the amendment (No. 2269) was agreed to.
+  Mr. FORD. Mr. President, I move to reconsider the vote.
+  Mr. KEMPTHORNE. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+
+
+                           Amendment No. 2270
+  (Purpose: To require the Director of the Ballistic Missile Defense 
+Organization to establish a Ballistic Missile Defense Technology Center 
+      within the Space and Strategic Defense Command of the Army)
+  Mr. FORD. Mr. President, I send an amendment to the desk and ask for 
+its immediate consideration.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+       The Senator from Kentucky [Mr. Ford], for Mr. Shelby and 
+     Mr. Heflin, proposes an amendment numbered 2270.
+  Mr. FORD. Mr. President, I ask unanimous consent that reading of the 
+amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       On page 69, between lines 9 and 10, insert the following:
+     SEC. 242. BALLISTIC MISSILE DEFENSE TECHNOLOGY CENTER.
+       (a) Establishment.--The Director of the Ballistic Missile 
+     Defense Organization shall establish a Ballistic Missile 
+     Defense Technology Center within the Space and Strategic 
+     Defense Command of the Army.
+       (b) Mission.--The missions of the Center are as follows:
+       (1) To maximize common application of ballistic missile 
+     defense component technology programs, target test programs, 
+     functional analysis and phenomenology investigations.
+       (2) To store data from the missile defense technology 
+     programs of the Armed Forces using computer facilities of the 
+     Missile Defense Data Center.
+       (c) Technology Program Coordination With Center.--The 
+     Secretary of Defense, acting through the Director of the 
+     Ballistic Missile Defense Organization, shall require the 
+     head of each element or activity of the Department of Defense 
+     beginning a new missile defense program referred to in 
+     subsection (b)(1) to first coordinate the program with the 
+     Ballistic Missile Defense Technology Center in order to 
+     prevent duplication of effort.
+  Mr. HEFLIN. Mr. President, the purpose of this amendment, creating a 
+Ballistic Missile Defense Technology Center, is to improve the 
+efficiency of the BMD technology program, in the face of a shrinking 
+technology budget. With the increased emphasis on acquisition of 
+theater missile defense systems, clearly justified by the imminent and 
+expanding theater missile threat, the BMD technology budget has been 
+squeezed to the point that built-in technical obsolescence of emerging 
+BMD systems is a serious possibility. In effect, we are eating our seed 
+corn.
+  This amendment recognizes that because the BMD technology budget is 
+dangerously close to an inadequate level, it is critically important 
+that the dollars that are available are spent wisely. We must be 
+vigilant to avoid 
+duplication of effort and waste of funds on technologies of 
+questionable priority. With all three services, and other agencies, 
+spending BMD technology dollars on related areas of technology, the 
+opportunities for duplication are clearly evident. Further screening 
+and coordination of candidate technology tasks is urgently needed to 
+assure that scarce technology funds are properly allocated.
+  The U.S. Army Space and Strategic Command, an organization that has 
+been at the forefront of BMD research and development for 40 years, is 
+the ideal center for carrying out the necessary screening and 
+coordination of BMD technology. Acting as executive agent to the BMD 
+office, this organization can bring an unparalleled record of technical 
+experience and performance excellence to this challenging coordination 
+function. In the current BMD technology program, this organization is 
+immersed in all of the critical BMD technologies and it has a core of 
+engineers and scientists that can immediately assume a coordination 
+role. It constitutes a ``smart buyer'' of BMD technology, proven over 
+time, and it can contribute immensely to a more efficient utilization 
+of the technology budget.
+  Mr. FORD. Mr. President, this amendment establishes a ballistic 
+missile defense technology center within the strategic defense command 
+of the army.
+  This has been cleared.
+  Mr. KEMPTHORNE. It has been cleared.
+  The PRESIDING OFFICER. Without objection, the amendment is agreed to.
+  So the amendment (No. 2270) was agreed to.
+  Mr. FORD. I move to reconsider the vote.
+  Mr. KEMPTHORNE. I move to lay that on the table.
+  The motion to lay on the table was agreed to.
+
+
+                           Amendment No. 2271
+(Purpose: To revise Section 1055 concerning military cooperation from a 
+            United States Policy to a sense of the Congress)
+  Mr. KEMPTHORNE. Mr. President, I send an amendment to the desk and 
+ask for its immediate consideration.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+       The Senator from Idaho [Mr. Kempthorne], for Mr. Helms, 
+     proposes an amendment numbered 2271.
+  Mr. KEMPTHORNE. Mr. President, I ask unanimous consent that reading 
+of the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       Beginning on page 359, strike out lines 20 and 21, and 
+     insert in lieu thereof the following:
+       (b) Sense of Congress.--It is the sense of Congress that--
+  Mr. KEMPTHORNE. I believe this has been cleared with the other side.
+  Mr. FORD. It has been cleared.
+  The PRESIDING OFFICER. Without objection, the amendment is agreed to.
+  So the amendment (No. 2271) was agreed to.
+  Mr. KEMPTHORNE. Mr. President, I move to reconsider the vote.
+  Mr. FORD. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+
+
+                           Amendment No. 2272
+   (Purpose: To revise and improve the base closure and realignment 
+                                process)
+  Mr. KEMPTHORNE. Mr. President, I send an amendment to the desk and 
+ask for its immediate consideration.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+       The Senator from Idaho [Mr. Kempthorne], for Mr. McCain and 
+     Mrs. Feinstein, proposes an amendment numbered 2272.
+  Mr. KEMPTHORNE. Mr. President, I ask unanimous consent that reading 
+of the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       On page 468, below line 24, add the following:
+     SEC. 2825. IMPROVEMENT OF BASE CLOSURE AND REALIGNMENT 
+                   PROCESS.
+       (a) Applicability.--Subparagraph (A) of section 2905(b)(7) 
+     of the Defense Base Closure and Realignment Act of 1990 (part 
+     A of title XXIX of Public Law 101-510; 10 U.S.C. 2687 note) 
+     is amended by striking out ``Determinations of the use to 
+     assist the homeless of buildings and property located at 
+     installations approved for closure under this part'' and 
+     inserting in lieu thereof ``Procedures for the disposal of 
+     buildings and property located at installations approved for 
+     closure or realignment under this part''.
+       (b) Redevelopment Authorities.--Subparagraph (B) of such 
+     section is amended by adding at the end the following:
+       ``(iii) The chief executive officer of the State in which 
+     an installation covered by this paragraph is located may 
+     assist in resolving any disputes among citizens or groups of 
+     citizens as to the individuals and groups constituting the 
+     redevelopment authority for the installation.''.
+       (c) Agreements Under Redevelopment Plans.--Subparagraph 
+     (F)(ii)(I) of such section is amended in the second sentence 
+     by striking out ``the approval of the redevelopment plan by 
+     the Secretary of Housing and Urban Development under 
+     subparagraph (H) or (J)'' and inserting in lieu thereof ``the 
+     decision regarding the disposal of the buildings and property 
+     covered by the agreements by the Secretary of Defense under 
+     subparagraph (K) or (L)''.
+       (d) Revision of Redevelopment Plans.--Subparagraph (I) of 
+     such section is amended by inserting ``the Secretary of 
+     Defense and'' before ``the Secretary of Housing and Urban 
+     Development'' each place it appears.
+       (e) Disposal of Buildings and Property.--(1) Subparagraph 
+     (K) of such section is amended to read as follows:
+       ``(K)(i) Upon receipt of a notice under subparagraph 
+     (H)(iv) or (J)(ii) of the determination of the Secretary of 
+     Housing and Urban Development that a redevelopment plan for 
+     an installation meets the requirements set forth in 
+     subparagraph (H)(i), the Secretary of Defense shall dispose 
+     of the buildings and property at the installation.
+       ``(ii) For purposes of carrying out an environmental 
+     assessment of the closure or realignment of an installation, 
+     the Secretary shall treat the redevelopment plan for the 
+     installation (including the aspects of the plan providing for 
+     disposal to State or local governments, representatives of 
+     the homeless, and other interested parties) as part of the 
+     proposed Federal action for the installation.
+       ``(iii) The Secretary shall dispose of buildings and 
+     property under clause (i) in accordance with the record of 
+     decision or other decision document prepared by the Secretary 
+     in accordance with the National Environmental Policy Act of 
+     1969 (42 U.S.C. 4331 et seq.) In preparing the record of 
+     decision or other decision document, the Secretary shall give 
+     substantial deference to the redevelopment plan concerned.
+       ``(iv) The disposal under clause (i) of buildings and 
+     property to assist the homeless shall be without 
+     consideration.
+       ``(v) In the case of a request for a conveyance under 
+     clause (i) of buildings and property for public benefit under 
+     section 203(k) of the Federal Property and Administrative 
+     Services Act of 1949 (40 U.S.C. 484(k)) and subchapter II of 
+     chapter 471 of title 49, United States Code, the applicant 
+     and use proposed in the request shall be determined to be 
+     eligible for the public benefit conveyance under the 
+     eligibility criteria set forth in such section or such 
+     subchapter. The determination of such eligibility should be 
+     made before the redevelopment plan concerned under 
+     subparagraph (G) ''.
+       (2) Subparagraph (L) of such section is amended by striking 
+     out clauses (iii) and (iv) and inserting in lieu thereof the 
+     following new clauses (iii) and (iv):
+       ``(iii) Not later than 90 days after the date of the 
+     receipt of a revised plan for an installation under 
+     subparagraph (J), the Secretary of Housing and Urban 
+     Development shall--
+       ``(I) notify the Secretary of Defense and the redevelopment 
+     authority concerned of the buildings and property at an 
+     installation under clause (i)(IV) that the Secretary of 
+     Housing and Urban Development determines are suitable for use 
+     to assist the homeless; and
+       ``(II) notify the Secretary of Defense of the extent to 
+     which the revised plan meets the criteria set forth in 
+     subparagraph (H)(i).
+       ``(iv)(I) Upon notice from the Secretary of Housing and 
+     Urban Development with respect to an installation under 
+     clause (iii), the Secretary of Defense shall, after 
+     consultation with the Secretary of Housing and Urban 
+     Development and redevelopment authority concerned, dispose of 
+     buildings and property at the installation.
+       ``(II) For purposes of carrying out an environmental 
+     assessment of the closure or realignment of an installation, 
+     the Secretary shall treat the redevelopment plan for the 
+     installation (including the aspects of the plan providing for 
+     disposal to State or local governments, representatives of 
+     the homeless, and other interested parties) as part of the 
+     proposed Federal action for the installation.
+       ``(III) The Secretary shall dispose of buildings and 
+     property under subclause (I) in accordance with the record of 
+     decision or other decision document prepared by the Secretary 
+     in accordance with the National Environmental Policy Act of 
+     1969 (42 U.S.C. 4331 et seq.) In preparing the record of 
+     decision or other decision document, the Secretary shall give 
+     deference to the redevelopment plan concerned.
+       ``(IV) The disposal under subclause (I) of buildings and 
+     property to assist the homeless shall be without 
+     consideration.
+       ``(V) In the case of a request for a conveyance under 
+     clause (i) of buildings and property for public benefit under 
+     section 203(k) of the Federal Property and Administrative 
+     Services Act of 1949 (40 U.S.C. 484(k)) and subchapter II of chapter 
+     471 of title 49, United States Code, the applicant and use 
+     proposed in the request shall be determined to be eligible 
+     for the public benefit conveyance under the eligibility 
+     criteria set forth in such section or such subchapter. The 
+     determination of such eligibility should be made before the 
+     redevelopment plan concerned under subparagraph (G) ''.
+       (f) Conforming Amendment.--Subparagraph (M)(i) of such 
+     section is amended by inserting ``or (L)'' after 
+     ``subparagraph (K)''.
+       (g) Clarification of Participants In Process.--Such section 
+     is further amended by adding at the end the following:
+       ``(P) For purposes of this paragraph, the term `other 
+     interested parties', in the case of an installation, includes 
+     any parties eligible for the conveyance of property of the 
+     installation under section 203(k) of the Federal Property and 
+     Administrative Services Act of 1949 (40 U.S.C. 484(k)) or 
+     subchapter II of chapter 471 of title 49, United States Code, 
+     whether or not the parties assist the homeless.''.
+       (h) Technical Amendments.--Section 2910 of such Act is 
+     amended--
+       (1) by designating the paragraph (10) added by section 2(b) 
+     of the Base Closure Community Redevelopment and Homeless 
+     Assistance Act of 1994 (Public Law 103-421; 108 Stat. 4352) 
+     as paragraph (11); and
+       (2) in such paragraph, as so designated, by striking out 
+     ``section 501(h)(4) of the Stewart B. McKinney Homeless 
+     Assistance Act (42 U.S.C. 11411(h)(4))'' and inserting in 
+     lieu thereof ``section 501(i)(4) of the Stewart B. McKinney 
+     Homeless Assistance Act (42 U.S.C. 11411(i)(4))''.
+     SEC. 2826. EXERCISE OF AUTHORITY DELEGATED BY THE 
+                   ADMINISTRATOR OF GENERAL SERVICES.
+       Section 2905(b)(2) of the Defense Base Closure and 
+     Realignment Act of 1990 (part A of title XXIX of Public Law 
+     101-510; 10 U.S.C. 2687 note) is amended--
+       (1) in subparagraph (A)--
+       (A) by striking out ``Subject to subparagraph (C)'' in the 
+     matter preceding clause (i) and inserting in lieu thereof 
+     ``Subject to subparagraph (B)''; and
+       (B) by striking out ``in effect on the date of the 
+     enactment of this Act'' each place it appears in clauses (i) 
+     and (ii);
+       (2) by striking out subparagraphs (B) and (C) and inserting 
+     in lieu thereof the following new subparagraph (B):
+       ``(B) The Secretary may, with the concurrence of the 
+     Administrator of General Services--
+       ``(i) prescribe general policies and methods for utilizing 
+     excess property and disposing of surplus property pursuant to 
+     the authority delegated under paragraph (1); and
+       ``(ii) issue regulations relating to such policies and 
+     methods which regulations supersede the regulations referred 
+     to in subparagraph (A) with respect to that authority.''; and
+       (3) by redesignating subparagraphs (D) and (E) as 
+     subparagraphs (C) and (D), respectively.
+     SEC. 2827. LEASE BACK OF PROPERTY DISPOSED FROM INSTALLATIONS 
+                   APPROVED FOR CLOSURE OR REALIGNMENT.
+       (a) Authority.--Section 2905(b)(4) of the Defense Base 
+     Closure and Realignment Act of 1990 (part A of title XXIX of 
+     Public Law 101-510; 10 U.S.C. 2687 note) is amended--
+       (1) by redesignating subparagraphs (C), (D), and (E) as 
+     subparagraphs (D), (E), and (F), respectively; and
+       (2) by inserting after subparagraph (B) the following new 
+     subparagraph (C):
+       ``(C)(i) The Secretary may transfer real property at an 
+     installation approved for closure or realignment under this 
+     part (including property at an installation approved for 
+     realignment which property will be retained by the Department 
+     of Defense or another Federal agency after realignment) to 
+     the redevelopment authority for the installation if the 
+     redevelopment authority agrees to lease, directly upon 
+     transfer, all or a significant portion of the property 
+     transferred under this subparagraph to the Secretary or to 
+     the head of another department or agency of the Federal 
+     Government. Subparagraph (B) shall apply to a transfer under 
+     this subparagraph.
+       ``(ii) A lease under clause (i) shall be for a term of not 
+     to exceed 50 years, but may provide for options for renewal 
+     or extension of the term by the department or agency 
+     concerned.
+       ``(iii) A lease under clause (i) may not require rental 
+     payments by the United States.
+       ``(iv) A lease under clause (i) shall include a provision 
+     specifying that if the department or agency concerned ceases 
+     requiring the use of the leased property before the 
+     expiration of the term of the lease, the remainder of the 
+     lease term may, upon approval by the redevelopment authority 
+     concerned, be satisfied by the same or another department or 
+     agency of the Federal Government using the property for a use 
+     similar to the use under the lease.''.
+       (b) Use of Funds To Improve Leased Property.--
+     Notwithstanding any other provision of law, a department or 
+     agency of the Federal Government that enters into a lease of 
+     property under section 2905(b)(4)(C) of the such Act, as 
+     amended by subsection (a), may use funds appropriated or 
+     otherwise available to the department or agency for such 
+     purpose to improve the leased property.
+     SEC. 2828. PROCEEDS OF LEASES AT INSTALLATIONS APPROVED FOR 
+                   CLOSURE OR REALIGNMENT.
+       (a) Interim Leases.--Section 2667(d) of title 10, United 
+     States Code, is amended--
+       (1) in paragraph (1)(A)--
+       (A) by striking out ``and'' at the end of clause (i);
+       (B) by striking out the period at the end of clause (ii) 
+     and inserting in lieu thereof ``; and''; and
+       (C) by adding at the end the following:
+       ``(iii) money rentals referred to in paragraph (5).''; and
+       (2) by adding at the end the following:
+       ``(5) Money rentals received by the United States under 
+     subsection (f) shall be deposited in the Department of 
+     Defense Base Closure Account 1990 established under section 
+     2906(a) of the Defense Base Closure and Realignment Act of 
+     1990 (part A of title XXIX of Public Law 101-510; 10 U.S.C. 
+     2687 note).''.
+       (b) Deposit in 1990 Account.--Section 2906(a)(2) of the 
+     Defense Base Closure and Realignment Act of 1990 (part A of 
+     title XXIX of Public Law 101-510; 10 U.S.C. 2687 note) is 
+     amended--
+       (1) in subparagraph (C)--
+       (A) by striking out ``transfer or disposal'' and inserting 
+     in lieu thereof ``transfer, lease, or other disposal''; and
+       (B) by striking out ``and'' at the end;
+       (2) in subparagraph (D)--
+       (A) by striking out ``transfer or disposal'' and inserting 
+     in lieu thereof ``transfer, lease, or other disposal''; and
+       (B) by striking out the period at the end and inserting in 
+     lieu thereof ``; and''; and
+       (3) by adding at the end the following:
+       ``(E) money rentals received by the United States under 
+     section 2667(f) of title 10, United States Code.''.
+  Mr. McCAIN. Mr. President, the base realignment and closure process 
+has been a necessary evil we have all had to endure in order to reduce 
+military infrastructure to a size appropriate for our smaller, post-
+cold war military. While most of us have supported the spirit of this 
+measure, few would insist that improvements to the process are 
+unnecessary.
+  Earlier this year I offered S. 803 in hopes of dramatically 
+streamlining the process and accelerating the economic recovery time of 
+affected communities. I withdrew this amendment at the urging of the 
+Department of Defense, in order to allow the Department time to 
+complete and promulgate regulations they were in the process of 
+designing to accomplish similar goals. I am pleased to say that their 
+work had been fruitful.
+  The amendment we now offer seeks to address those issues that remain 
+problematic; some for the Department of Defense and others for 
+communities directly affected by base closures.
+  The most common complaints arising from communities participating in, 
+and affected by, surplus military base disposal include: lack of equity 
+for all parties participating in the process, and, extensive lapses of 
+time between closure decision and ultimate reuse.
+  The latter of these two issues seems to be adequately addressed by 
+the Department of Defense's new regulations, as we had hoped for. It 
+appears that DOD's plan offers a realistic approach to the process that 
+allows for flexibility where the process requires it and strict time-
+lines where they are appropriate. The former issue, equity among 
+parties interested in reusing former military property, is dealt with 
+in the amendment we now offer.
+  Through the first three rounds of base closure, be have witnessed how 
+difficult it is to dispose of excess military real estate. While the 
+BRAC process was not created to provide disproportionate benefits to 
+specific groups of individuals, it became apparent quite early that 
+this was in fact an unintended consequence.
+  Our amendment would put an end to these practices. This legislation 
+levels the playing field by limiting opportunities to acquire property 
+to those that exist by working with the recognized Local Redevelopment 
+Authority.
+  We have the opportunity to alleviate many significant concerns held 
+by communities that will undergo change as a result of the 1995 BRAC 
+round. This amendment is simple. This amendment improves a process that 
+is greatly in need of improvement. This amendment provides a 
+desperately needed solution; we cannot fail to act.
+  Mrs. FEINSTEIN. Mr. President, I rise to support the amendment 
+offered by the Senator from Arizona [Mr. McCain] which would improve 
+the base closure process by giving more control to the local community 
+in reuse and redevelopment decisions. I am happy to be an original 
+cosponsor of this amendment.
+  Last year I helped draft legislation that exempts military bases from 
+the McKinney Homeless Assistance Act. This legislation, the Base 
+Closure Community Redevelopment and Homeless 
+Assistance Act of 1994, passed Congress and was signed into law by the 
+President last October.
+  Under the new legislation, instead of being given the right of first 
+refusal to base property, homeless assistance providers were given a 
+seat at the reuse table with the local redevelopment authority. After a 
+reuse plan is developed on the local level, the Secretary of Housing 
+and Urban Development would review the plan to ensure that the needs of 
+the homeless were met. After the HUD Secretary's approval, the 
+Secretary of Defense would dispose of the buildings and property at the 
+closing base.
+  While the new law is a substantial improvement over the old base 
+closure and reuse law as well as the McKinney Act provisions, I think 
+more should be done to empower communities, put base reuse decisions in 
+the hands of local officials, and remove a Federal mandate.
+  The McCain/Feinstein amendment amends the new law by requiring the 
+Secretary of Defense to simply consult with the Secretary of HUD over 
+the reuse plan that is development by the redeveloped authority; it 
+removes HUD's veto power over the reuse plan.
+  Homeless assistance providers would still be guaranteed a seat at the 
+reuse table, and redevelopment authorities would still be required to 
+accept expressions of interest for base property by homeless assistance 
+groups and other interested parties. In addition, the Secretary of HUD 
+would still review the final reuse plan to ascertain if the needs of 
+the homeless have been met, and have the ability to consult with the 
+redevelopment authority.
+  However, instead of the Secretary of HUD approving or disapproving 
+the reuse plan, the Secretary of Defense would make the final decision. 
+The Secretary of Defense would simply consult with the Secretary of HUD 
+before making any property disposal decisions. Furthermore, the local 
+redevelopment plan--developed by the local community and local elected 
+officials--would be given deference by the Secretary of Defense.
+  I believe this amendment would substantially improve last year's Base 
+Closure Community Redevelopment and Homeless Assistance Act. Yet, this 
+amendment does not go as far as the House of Representative's version 
+of the Defense Authorization Act, which contains an amendment offered 
+by Representatives Bilbray and Molinari.
+  The Bilbray-Molinari amendment would completely repeal the Base 
+Closure Community Redevelopment and Homeless Assistance Act and exempt 
+all military bases from the McKinney Act.
+  In addition to disrupting the base reuse process, the Bilbray-
+Molinari amendment would prevent homeless assistance providers from 
+acquiring base property at no cost--even when communities want to 
+transfer property for homeless use--and would not guarantee that they 
+have a seat at the reuse table.
+  The McCain-Feinstein amendment still guarantees that homeless 
+assistance providers will have an opportunity to acquire base property, 
+but it puts base reuse decisions in the hands of local officials who 
+know what is best for their communities.
+  This amendment also contains some other provisions that will assist 
+in the base closure and reuse process. These include:
+  Base realignments: This provision would make a technical amendment to 
+the Base Closure Community Redevelopment and Homeless Assistance Act of 
+1994 by including base realignments, in addition to base closures. 
+Current law requires the Secretary of Defense to dispose of base 
+property in accordance with the sometimes outdated Federal Property and 
+Administrative Services Act regulations. This provision allows the 
+Secretary, in consultation with GSA, to prescribe general policies and 
+methods for utilizing excess property and disposing of surplus property 
+which are unique to base closure situations.
+  Lease back of base closure property: This provision would allow base 
+closure property, that is still needed by the Department of Defense or 
+another Federal agency, to be transferred to a local redevelopment 
+authority provided that the LRA leases back the property to DOD or the 
+Federal agency on favorable terms, that is: long term lease, nominal 
+rent. This provision is needed to improve the planning and 
+redevelopment of base closure property by providing local communities 
+with certainty over the future use and availability of the property 
+should the DOD or Federal occupant vacate.
+  Leasing proceeds: This provision would require that leasing proceeds 
+for property at closing or realigning bases be deposited into the BRAC 
+account, rather than a special Treasury account. This would treat 
+leasing proceeds in the same fashion as sale proceeds from BRAC 
+property. It would make additional funds available to base closure and 
+environmental clean-up activities, thus speeding transfer of property 
+to the local community and, thus, economic redevelopment of a closing 
+base.
+  The McCain-Feinstein amendment makes various changes to existing law 
+to improve the base closure and reuse process, and speed economic 
+redevelopment of closing military bases. I urge my colleagues support 
+of this amendment.
+  I ask unanimous consent that a letter from the U.S. Conference of 
+Mayors in support of this amendment be placed in the Record.
+  There being no objection, the letter was ordered to be printed in the 
+Record, as follows:
+                                                 The United States
+
+
+                                         Conference of Mayors,
+                                   Washington, DC, August 3, 1995.
+     Hon. Dianne Feinstein,
+     U.S. <strong>Senate</strong>, Hart <strong>Senate</strong> Office Building, Washington, DC.
+       Dear Senator Feinstein: At our June 1995 meeting, The U.S. 
+     Conference of Mayors adopted the attached resolution on ``A 
+     National Action Plan on Military Base Closings.'' I would 
+     draw your attention to item 6. This was adopted in response 
+     to the House passed Molinari amendment to the 1996 Defense 
+     Authorization Bill which would repeal the 1994 BRAC and 
+     Homeless Assistance Act.
+       The U.S. Conference of Mayors believes that local 
+     governments which do not desire transfer for homeless 
+     services should not be subject to HUD approval of their reuse 
+     plans. However, we support the ability of the federal 
+     government to transfer property under existing law 
+     provisions, at no cost to the local community or the homeless 
+     provider, if so desired by the local government.
+       As the mayor of a city with a naval facility on the 1991 
+     BRAC closure list, I am concerned about the House amendment 
+     which would deny us the ability to implement the homeless 
+     provisions of our local reuse plan.
+       In Seattle, our adopted reuse plan has a substantial 
+     homeless component of which we are proud and anxious to 
+     implement, as it will greatly add to our services to assist 
+     homeless people in becoming self-sufficient. Without the 
+     property transfer positions nullified in the Molinari 
+     amendment, our critical homeless component is seriously 
+     jeopardized.
+       Therefore, I urge you to provide for local flexibility and 
+     control while not eliminating the homeless property transfer 
+     provisions for local governments desiring such transfer.
+           Sincerely,
+                                                   Norman B. Rice,
+                                    Mayor of Seattle, President.  
+  Mr. GLENN. Mr. President, we have agreed to accept the amendment by 
+Senators McCain and Feinstein which aims to revise and improve the base 
+closure and realignment process. This is certainly not the first time 
+that we have tried to improve this process. In 1993, under President 
+Clinton's leadership, we passed significant revisions to the BRAC 
+process which were aimed to give local, impacted communities a greater 
+say in their own future. Those provisions were aimed to help speed up 
+the process by which communities can initiate economic development 
+efforts to move forward. Again last year another effort was made to 
+revise the BRAC property disposal process. This effort resulted in 
+legislation which quickened the property disposal process, with 
+particular regard to addressing the needs of the homeless.
+  While I believe that the amendment before us addresses some 
+legitimate problems in the current BRAC process, for example it gives 
+DOD the authority to utilize recent regulations promulgated by GSA, I 
+am concerned about some particular areas. Overall, my greatest concern 
+is that we have not given the existing process a chance to work. Only 
+last month did DOD issue its regulations, developed after extensive 
+interagency and public comment, which implement the 1993 and 1994 BRAC 
+legislation I just mentioned. Communities are having a difficult enough 
+time coping with the closure of 
+their particular base without trying to determine which set of 
+regulations, or which property disposal process, they need to operate 
+under. Should this legislation result in another rewrite of the 
+implementing regulation, it will translate directly into further delays 
+for the communities.
+  I am also concerned about the lease-back provisions of this 
+legislation. I am concerned that the Federal Government's interest be 
+fully protected in the cases where it retains a presence at a closing 
+base. I recognize the need for communities to have assurances that 
+future Federal use of these facilities is compatible with their own 
+reuse plan. However, we must protect all taxpayers' interest as well. 
+With regard to this provision as we proceed to conference with the 
+House, I intend to seek the comments of the General Services 
+Administration to ensure that appropriate controls are in place for 
+future leasing.
+  Another concern is whether the Secretary of Housing and Urban 
+Development has the necessary authority to provide their comments to 
+the local redevelopment plan--and ensure that these comments are 
+addressed. This provision is particularly important with regards to the 
+concerns of the homeless.
+  Mr. President, as we proceed to conference, I look forward to 
+obtaining additional comments of the relevant officials in the 
+Department of Defense, the Department of Housing and Urban Development, 
+as well as the General Services Administration regarding these 
+provisions.
+  Mr. THURMOND. Mr. President, as a Member representing a State that is 
+experiencing the realities of base closure, I welcome any effort to 
+expedite the closure process and protect the redevelopment plan 
+developed by the communities. This is a good step in that direction. It 
+strengthens the Secretary of Defense's authority to review the base 
+reuse plan and whether or not it has given appropriate consideration to 
+the needs of the homeless or other interested party.
+  Mr. President, I especially support the provision of this amendment 
+which allows the military departments to convey base closure property 
+to local redevelopment authorities, if the property is still required 
+by the department or another Federal agency, as long as the needed 
+property will be leased back for a 50-year renewable lease at no cost. 
+The change satisfies both the Department of Defense or other Federal 
+need for available property, while at the same time providing the local 
+community with certainty over future use of the property should the 
+Federal agency leave. It also provides the local community with the 
+ownership it often needs to redevelop the base to make needed 
+infrastructure improvements. The permissive authority of this 
+legislation is designed to be used infrequently and primarily for small 
+parcels or individual buildings which are surrounded by property which 
+will be conveyed to the local community.
+  Mr. President, this legislation will be of great benefit to 
+Charleston, SC, and other communities throughout the Nation. I support 
+the amendment and urge its adoption.
+  Mr. FORD. This has been cleared on both sides.
+  Mr. KEMPTHORNE. Yes, this has been cleared.
+  The PRESIDING OFFICER. Without objection, the amendment is agreed to.
+  So the amendment (No. 2272) was agreed to.
+  Mr. KEMPTHORNE. Mr. President, I move to reconsider the vote.
+  Mr. FORD. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+
+
+                           Amendment No. 2273
+  (Purpose: To improve the provision relating to restoration advisory 
+                                boards)
+  Mr. FORD. Mr. President, I send an amendment to the desk ask for its 
+immediate consideration.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+       The Senator from Kentucky [Mr. Ford], for Mr. Kohl, 
+     proposes an amendment numbered 2273.
+  Mr. FORD. Mr. President, I ask unanimous consent that reading of the 
+amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       On page 89, strike out lines 13 through 22 and insert in 
+     lieu thereof the following:
+       ``(2) The commander of an installation may obtain technical 
+     assistance under paragraph (1) for a technical review 
+     committee or restoration advisory board only if--
+       ``(A) the technical review committee or restoration 
+     advisory board demonstrates that the Federal, State, and 
+     local agencies responsible for overseeing environmental 
+     restoration at the installation, and available Department of 
+     Defense personnel, do not have the technical expertise 
+     necessary for achieving the objective for which the technical 
+     assistance is to be obtained;
+       ``(B) the technical assistance is likely to contribute to 
+     the efficiency, effectiveness, or timeliness of environmental 
+     restoration activities at the installation; and
+       ``(C) the technical assistance is likely to contribute to 
+     community acceptance of environmental restoration activities 
+     at the installation.''.
+       On page 90, line 20, strike out ``until'' and insert in 
+     lieu thereof ``after March 1, 1996, unless''.
+  Mr. KOHL. Mr. President, my amendment seeks to improve the provisions 
+relating to restoration advisory boards by helping them to acquire 
+independent technical assistance. These boards are a crucial way of 
+getting the community around a Defense Department cleanup site involved 
+in the process. For these local groups to feel confident that the 
+Department of Defense is adequately cleaning up these sites, they may 
+need to rely on outside sources of information and analysis. Many times 
+communities are unwilling to accept the Government's claim that they 
+have done the job adequately, and want an external source to help them 
+consider the data. The provisions in this amendment will make sure that 
+they have access to the administrative and independent technical 
+support they seek.
+  I ask unanimous consent that a letter I received from Gary Vest, 
+Acting Deputy Under Secretary of Defense for Environmental Security be 
+printed in the Record.
+  There being no objection, the letter was ordered to be printed in the 
+Record, as follows:
+                                                     Office of the
+
+
+                                   Under Secretary of Defense,
+                                   Washington, DC, August 3, 1995.
+     Hon. Herbert Kohl,
+     United States <strong>Senate</strong>, Washington, DC.
+       Dear Senator Kohl: The purpose of this letter is to respond 
+     to your July 27, 1995, letter to the Deputy Under Secretary 
+     of Defense (Environmental Security) concerning Section 323 of 
+     S. 1026, the FY 1996 Department of Defense Authorization 
+     Bill. Responses to the five questions in your letter are 
+     provided in the Enclosure.
+       Your continued support and commitment to community 
+     participation and the Defense Department's restoration 
+     advisory board effort is deeply appreciated. If you need 
+     additional information, my staff point of contact for this 
+     matter is Ms. Marcia Read at (703) 697-9793.
+           Sincerely,
+                                                 Gary D. Vest,
+                                     Acting Deputy Under Secretary
+                              of Defense (Environmental Security).
+       Enclosure.
+  Questions of Senator Herbert Kohl Concerning Section 323 of S. 1026
+       Question 1. Will the language in Section 323 in any way 
+     obstruct the creation or continued operation of any 
+     restoration advisory boards? Do you have any legal opinions 
+     on this question?
+       Answer 1. Our legal opinion is that Section 323 would cause 
+     the Department of Defense (DoD) to suspend operation of 
+     existing restoration advisory boards (RABs) until regulations 
+     are promulgated, as there would be no available funding 
+     source to meet RAB administrative expenses.
+       Question 2. Is the language consistent with the regulatory 
+     promulgation the Defense Department has initiated to provide 
+     technical assistance to RABs?
+       Answer 2. The Department has not yet promulgated any 
+     regulations to provide technical assistance to RABs. The 
+     Department did publish a notice in the Federal Register 
+     requesting public comments on various options for providing 
+     technical assistance funding to RABs. The closing date to 
+     submit written comments was July 24, 1995, and we are 
+     currently evaluating the comments we received. We will 
+     propose a draft regulation later this year.
+       Question 3. Would this language preclude any RAB from 
+     receiving technical assistance if the RAB wants to receive 
+     technical assistance independent of the installation 
+     commander or the environmental contractor providing services 
+     to the installation?
+       Answer 3. We believe that the precondition outlined in 
+     subsection (e)(2) would effectively eliminate independent 
+     technical assistance for RABs. It appears that installation 
+     commanders would be unable to make the requisite finding 
+     regarding the absence of technical expertise without 
+     undermining the credibility of the installation's own 
+     technical expertise. We understand the existing authority to 
+     provide technical assistance was intended to provide RAB 
+     members the 
+     means to procure independent, technical advice from a source outside of 
+     the Department, and that this authority was not predicated on 
+     a finding that the Department's technical experts were in any 
+     way deficient.
+       Question 4. Does the Defense Department support Section 323 
+     as currently drafted?
+       Answer 4. The Department is reviewing Section 323 and is 
+     considering appealing the language.
+       Question 5. After taking into account administrative costs, 
+     would there be funds available for technical assistance for 
+     RABs under this provision?
+       Answer 5. It is difficult to estimate precisely how much of 
+     the $4 million would be strictly designated for technical 
+     assistance. However, with 200 RABs already in existence, $4 
+     million may not be enough to meet even the administrative 
+     expenses that may be needed to effectively operate these 
+     RABs.
+  Mr. FORD. Mr. President, this clarifies language in the bill 
+concerning environmental restoration advisory boards.
+  This has been cleared.
+  Mr. KEMPTHORNE. It has been cleared.
+  The PRESIDING OFFICER. Without objection, the amendment is agreed to.
+  So the amendment (No. 2273) was agreed to.
+  Mr. FORD. Mr. President, I move to reconsider the vote.
+  Mr. KEMPTHORNE. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+
+
+                           Amendment No. 2274
+  Mr. NUNN. Mr. President, I send an amendment to the desk and ask for 
+its immediate consideration.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+       The Senator from Georgia [Mr. Nunn], for Mr. Glenn, 
+     proposes an amendment numbered 2274.
+  Mr. NUNN. Mr. President, I ask unanimous consent that reading of the 
+amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       On page 110, after line 19, insert the following:
+     SEC. 365 OVERSEAS HUMANITARIAN, DISASTER, AND CIVIC AID 
+                   PROGRAMS
+       (a) GAO Report.--Not later than December 15, 1995, the 
+     Comptroller General of the United States shall provide to the 
+     Congressional defense Committees a report on--
+       (1) Existing funding mechanisms available to cover the 
+     costs associated with the Overseas Humanitarian, Disaster, 
+     and Civic Assistance activities through funds provided to the 
+     Department of State or the Agency for International 
+     Development, and
+       (2) if such mechanisms do not exist, actions necessary to 
+     institute such mechanisms, including any changes in existing 
+     law or regulations.
+       On page 70, in line 25, strike out ``$20,000,000'' and 
+     insert in lieu thereof ``$60,000,000''.
+       On page 70, after line 25, insert the following: The amount 
+     authorized to be appropriated by section 301(5) is hereby 
+     reduced by $40,000,000.
+  Mr. McCAIN. Mr. President, I support this amendment to provide an 
+additional $40 million for overseas humanitarian, disaster, and civic 
+aid programs. Although I am concerned with any defense funds being 
+earmarked for this non-defense mission, I note with approval that this 
+is a significant reduction from the administration's requested level.
+  I further support the provision requiring the Comptroller General of 
+the United States to report to the congressional defense committees any 
+actions necessary to ensure that future funding for these activities is 
+provided through the Department of State, the U.S. Agency for 
+International Development or any successor agency. I think that it is 
+important that the Federal Government provide funds for activities 
+through appropriate sources. In this case, future international 
+humanitarian and disaster assistance activities should be funded 
+through those agencies which have primary responsibility for these 
+operations. This amendment moves us toward this goal which will allow 
+the American people better insight into how their tax dollars are 
+spent.
+  I will continue to strive to eliminate nondefense spending from the 
+DOD budget. I urge the administration to assist in these efforts by 
+refraining from including such programs in the DOD budget request. The 
+Department of Defense is a military organization and should dedicate 
+its resources to those programs which make the greatest contribution to 
+national security.
+  Mr. NUNN. Mr. President, I urge adoption of the amendment.
+  Mr. KEMPTHORNE. Mr. President, this amendment has been cleared.
+  The PRESIDING OFFICER. Without objection, the amendment is agreed to.
+  So the amendment (No. 2274) was agreed to.
+  Mr. NUNN. I move to reconsider the vote.
+  Mr. KEMPTHORNE. I move to lay that on the table.
+  The motion to lay on the table was agreed to.
+  Mr. NUNN. I thank the Senator from Kentucky for handling these 
+amendments while I was upstairs doing some negotiation with Senators 
+Cohen, Warner, Levin, and others on the ABM matter. We will continue 
+that negotiation. We will be discussing with the leaders and our 
+colleagues some of the concepts we talked about. We will talk more 
+about that on Monday.
+  I thank the Senator from Kentucky.
+
+
+                           Amendment No. 2275
+   (Purpose: To state the sense of the <strong>Senate</strong> on the Midway Islands)
+  Mr. KEMPTHORNE. Mr. President, I send an amendment to the desk and 
+ask for its immediate consideration.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+       The Senator from Idaho [Mr. Kempthorne], for Mr. Helms, 
+     proposes an amendment numbered 2275.
+  Mr. KEMPTHORNE. Mr. President, I ask unanimous consent that reading 
+of the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       On page 403, after line 16, add the following:
+     SEC. 1095. SENSE OF <strong>SENATE</strong> ON MIDWAY ISLANDS.
+       (a) Findings.--The <strong>Senate</strong> makes the following findings:
+       (1) September 2, 1995, marks the 50th anniversary of the 
+     United States victory over Japan in World War II.
+       (2) The Battle of Midway proved to be the turning point in 
+     the war in the Pacific, as United States Navy forces 
+     inflicted such severe losses on the Imperial Japanese Navy 
+     during the battle that the Imperial Japanese Navy never again 
+     took the offensive against United States or allied forces.
+       (3) During the Battle of Midway, an outnumbered force of 
+     the United States Navy, consisting of 29 ships and other 
+     units of the Armed Forces under the command of Admiral Nimitz 
+     and Admiral Spruance, out-maneuvered and out-fought 250 ships 
+     of the Imperial Japanese Navy.
+       (4) It is in the public interest to erect a memorial to the 
+     Battle of Midway that is suitable to express the enduring 
+     gratitude of the American people for victory in the battle 
+     and to inspire future generations of Americans with the 
+     heroism and sacrifice of the members of the Armed Forces who 
+     achieved that victory.
+       (b) Sense of <strong>Senate</strong>.--It is the sense of the <strong>Senate</strong> that--
+       (1) the Midway Islands and the surrounding seas deserve to 
+     be memorialized;
+       (2) the historic structures related to the Battle of Midway 
+     should be maintained, in accordance with the National 
+     Historic Preservation Act, and subject to the availability of 
+     appropriations for that purpose.
+       (3) appropriate access to the Midway Islands by survivors 
+     of the Battle of Midway, their families, and other visitors 
+     should be provided in a manner that ensures the public health 
+     and safety on the Midway Islands and the conservation and 
+     natural resources of those islands in accordance with 
+     existing Federal law.
+  Mr. HELMS. Mr. President, historic victories such as Midway and 
+Gettysburg and Yorktown and Normandy are remembered by memorializing 
+the hallowed ground upon which American blood was shed. Historians rank 
+the Battle of Midway as one of the most decisive naval battles of all 
+time. The Midway Islands, and the surrounding seas where so many 
+American lives were sacrificed, deserve to be memorialized as well, and 
+that is what this amendment suggests.
+  Mr. President, victory at Midway was the turning point in the Pacific 
+Theater. During the month of June 1942, a badly outnumbered American 
+naval force, consisting of 29 ships and other units of the armed 
+forces, under the overall command of Adm. Chester W. Nimitz, out-
+maneuvered and out-fought 350 ships of the combined Japanese Imperial 
+Fleet. The objectives of the Japanese high command were to occupy the 
+Midway Islands and destroy the United States Pacific Fleet, but the 
+forces under the command of Admiral Nimitz completely thwarted Japanese 
+strategy.
+  The outcome of the conflict, Mr. President, was remarkable given the 
+fact that U.S. forces were so badly outnumbered. The United 
+States lost 163 
+aircraft compared to 286 Japanese aircraft. One American aircraft 
+carrier, the U.S.S. Yorktown, and one Destroyer, the U.S.S. Hamman, 
+were destroyed. On the other hand, the Japanese Imperial Navy lost five 
+ships, four of the ships being the Imperial Navy's main aircraft 
+carriers. Almost as devastating was the loss of most of the experienced 
+Japanese pilots. At the end of the day, 307 Americans had lost their 
+lives. The Japanese navy lost 2,500 men.
+  The heroism of many of the American servicemen at Midway often 
+required the ultimate sacrifice. Many of the Marine pilots, flying worn 
+out and inferior planes, did not live to celebrate the victory at 
+Midway. All but five torpedo-plane pilots who attacked the Japanese 
+aircraft carrier task force--without protective air cover--were shot 
+down. These pilots undoubtedly knew they were flying to an all but 
+certain death.
+  So severe was the damage inflicted on the Imperial Japanese Navy by 
+American airmen and sailors, that Japan never again was able to take 
+the offensive against the United States or Allied forces, and the rest, 
+as they say, is history.
+  Mr. President, victory over the Japanese achieved, of course, by men 
+and women from all the U.S. Armed Forces. Certainly at Midway, elements 
+of each of the services--Navy, Marines, and U.S. Army Air Corps--were 
+heavily engaged, closely coordinated, and paid a high price for their 
+bravery. The Midway Islands should be memorialized to honor the 
+courageous efforts of all the services when they were called upon to 
+defend our Nation and its interests.
+  The sacrifice and heroism of these men should never be forgotten--it 
+is vital that our sons and daughters never forget what their fathers 
+and grandfathers sacrificed for freedom. The Battle of Midway should be 
+memorialized for all time, on the Midway Islands, on behalf of a 
+grateful Nation.
+  Mr. KEMPTHORNE. This has been cleared.
+  Mr. NUNN. Mr. President, I urge adoption of the amendment.
+  The PRESIDING OFFICER. Without objection, the amendment is agreed to.
+  So the amendment (No. 2275) was agreed to.
+  Mr. KEMPTHORNE. Mr. President, I move to reconsider the vote.
+  Mr. NUNN. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+  Mr. KEMPTHORNE. Mr. President, I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. DOLE. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The PRESIDING OFFICER (Mr. Burns). Without objection, it is so 
+ordered.
+
+
+                           Amendment No. 2276
+ (Purpose: To authorize the Secretary of the Navy to establish a crash 
+                 attenuating seats acquisition program)
+  Mr. KEMPTHORNE. Mr. President, on behalf of Senators Thurmond, Lott, 
+and Inhofe, I offer an amendment to provide for crash attenuating seats 
+in H-53E helicopters, a program which would make use of commercially 
+developed seats to provide crash protection for passengers.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+       The Senator from Idaho [Mr. Kempthorne] for Mr. Thurmond, 
+     Mr. Lott, and Mr. Inhofe, proposes an amendment numbered 
+     2276.
+  Mr. KEMPTHORNE. I ask unanimous consent further reading of the 
+amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       On page 30, after the matter following line 24, insert the 
+     following:
+     SEC. 125. CRASH ATTENUATING SEATS ACQUISITION PROGRAM.
+       (a) Program Authorized.--The Secretary of the Navy may 
+     establish a program to procure for, and install in, H-53E 
+     military transport helicopters commercially developed, energy 
+     absorbing, crash attenuating seats that the Secretary 
+     determines are consistent with military specifications for 
+     seats for such helicopters.
+       (b) Funding.--To the extent provided in appropriations 
+     Acts, of the unobligated balance of amounts appropriated for 
+     the Legacy Resource Management Program pursuant to the 
+     authorization of appropriations in section 301(5) of the 
+     National Defense Authorization Act for Fiscal Year 1995 
+     (Public Law 103-337; 108 Stat. 2706), not more than 
+     $10,000,000 shall be available to the Secretary of the Navy, 
+     by transfer to the appropriate accounts, for carrying out the 
+     program authorized in subsection (a)
+  Mr. KEMPTHORNE. I believe this has been cleared.
+  Mr. NUNN. I urge adoption.
+  The PRESIDING OFFICER. The question is on agreeing to the amendment.
+  The amendment (No. 2276) was agreed to.
+  Mr. KEMPTHORNE. I move to reconsider the vote.
+  Mr. NUNN. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+
+
+                           Amendment No. 2277
+  Mr. KEMPTHORNE. On behalf of Senator Smith, I offer an amendment that 
+would express the sense of the <strong>Senate</strong> that the Secretary of Navy should 
+name the LHD-7 the U.S.S. Iwo Jima, and name the LPD-17 and all future 
+ships of the LPD-17 class after famous Marine Corps battles of famous 
+Marine Corps heroes.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+       The Senator from Idaho [Mr. Kempthorne] for Mr. Smith, 
+     proposes an amendment numbered 2277.
+  Mr. KEMPTHORNE. Mr. President, I ask unanimous consent that further 
+reading of the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       At the appropriate point in the bill, insert the following:
+     SEC.    . NAMING AMPHIBIOUS SHIPS.
+       (a) Findings.--The <strong>Senate</strong> finds that--
+       (1) This year is the fiftieth anniversary of the battle of 
+     Iwo Jima, one of the great victories in all of the Marine 
+     Corps' illustrious history.
+       (2) The Navy has recently retired the ship that honored 
+     that battle, the U.S.S. Iwo Jima (LPB-2), the first ship in a 
+     class of amphibious assault ships.
+       (3) This Act authorizes the LHD-7, the final ship of the 
+     Wasp class of amphibious assault ships that will replace the 
+     Iwo Jima class of ships.
+       (4) The Navy is planning to start building a new class of 
+     amphibious transport docks, now called the LPD-17 class. This 
+     Act also authorizes funds that will lead to procurement of 
+     these vessels.
+       (5) There has been some confusion in the rationale behind 
+     naming new naval vessels with traditional naming conventions 
+     frequently violated.
+       (6) Although there have been good and sufficient reasons to 
+     depart from naming conventions in the past, the rationale for 
+     such departures has not always been clear.
+       (b) Sense of the <strong>Senate</strong>.--In light of these findings, 
+     expressed in subsection (a), it is the sense of the <strong>Senate</strong> 
+     that the Secretary of the Navy should:
+       (1) Name the LHD-7 the U.S.S. Iwo Jima.
+       (2) Name the LPD-17 and all future ships of the LPD-17 
+     class after famous Marine Corps battles or famous Marine 
+     Corps heros.
+  Mr. KEMPTHORNE. This amendment has been cleared.
+  Mr. NUNN. That is correct.
+  The PRESIDING OFFICER. The question is on agreeing to the amendment.
+  The amendment (No. 2277) was agreed to.
+  Mr. KEMPTHORNE. I move to reconsider the vote, and I move to lay that 
+motion on the table.
+  The motion to lay on the table was agreed to.
+
+
+                           Amendment No. 2278
+    (Purpose: To strike the limitation on contracting with the same 
+      contractor for construction of additional new sealift ships)
+  Mr. KEMPTHORNE. On behalf of Senators Lott, Cohen, Johnston, and 
+Breaux, I offer an amendment by Senator Lott that would strike the 
+provision of the bill that would impose certain limitations on the 
+Secretary of the Navy on contracting with the same contractor for 
+construction of additional new sealift ships.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+       The Senator from Idaho [Mr. Kempthorne] for Mr. Lott, Mr. 
+     Cohen, Mr. Johnston, and Mr. Breaux, proposes an amendment 
+     numbered 2278.
+  Mr. KEMPTHORNE. Mr. President, I ask unanimous consent that further 
+reading of the amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered. 
+  The amendment is as follows:
+       On page 115, strike out line 4 and all that follows through 
+     page 116, line 13.
+  Mr. KEMPTHORNE. I believe this has been cleared.
+  Mr. NUNN. This has been cleared with this side. I urge adoption.
+  The PRESIDING OFFICER. The question is on agreeing to the amendment.
+  The amendment (No. 2278) was agreed to.
+  Mr. KEMPTHORNE. I move to reconsider the vote.
+  Mr. NUNN. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+  Mr. NUNN. Mr. President, I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk proceeded to call the roll.
+  Mr. NUNN. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                           Amendment No. 2279
+ (Purpose: To revise section 1003, relating the Defense Modernization 
+                                Account)
+  Mr. NUNN. Mr. President, on behalf of Senator Glenn, I send an 
+amendment to the desk and ask for its immediate consideration.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+       The Senator from Georgia [Mr. Nunn], for Mr. Glenn, 
+     proposes an amendment numbered 2279.
+  Mr. NUNN. Mr. President, I ask unanimous consent that reading of the 
+amendment be dispensed with.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       Beginning on page 321, strike out line 15 and all that 
+     follows through page 325, line 18, and insert in lieu thereof 
+     the following:
+       ``(b) Credits to Account.--(1) Under regulations prescribed 
+     by the Secretary of Defense, and upon a determination by the 
+     Secretary concerned of the availability and source of excess 
+     funds as described in subparagraph (A) or (B), the Secretary 
+     may transfer to the Defense Modernization Account during any 
+     fiscal year--
+       ``(A) any amount of unexpired funds available to the 
+     Secretary for procurements that, as a result of economies, 
+     efficiencies, and other savings achieved in the procurements, 
+     are excess to the funding requirements of the procurements; 
+     and
+       ``(B) any amount of unexpired funds available to the 
+     Secretary for support of installations and facilities that, 
+     as a result of economies, efficiencies, and other savings, 
+     are excess to the funding requirements for support of 
+     installations and facilities.
+       ``(2) Funds referred to in paragraph (1) may not be 
+     transferred to the Defense Modernization Account by a 
+     Secretary concerned if--
+       ``(A) the funds are necessary for programs, projects, and 
+     activities that, as determined by the Secretary, have a 
+     higher priority than the purposes for which the funds would 
+     be available if transferred to that account; or
+       ``(B) the balance of funds in the account, after transfer 
+     of funds to the account would exceed $1,000,000,000.
+       ``(3) Amounts credited to the Defense Modernization Account 
+     shall remain available for transfer until the end of the 
+     third fiscal year that follows the fiscal year in which the 
+     amounts are credited to the account.
+       ``(4) The period of availability of funds for expenditure 
+     provided for in sections 1551 and 1552 of title 31 shall not 
+     be extended by transfer into the Defense Modernization 
+     Account.
+       ``(c) Attribution of Funds.--The funds transferred to the 
+     Defense Modernization Account by a military department, 
+     Defense Agency, or other element of the Department of Defense 
+     shall be available in accordance with subsections (f) and (g) 
+     only for that military department, Defense Agency, or 
+     element.
+       ``(d) Use of Funds.--Funds available from the Defense 
+     Modernization Account pursuant to subsection (f) or (g) may 
+     be used only for the following purposes:
+       ``(1) For increasing, subject to subsection (e), the 
+     quantity of items and services procured under a procurement 
+     program in order to achieve a more efficient production or 
+     delivery rate.
+       ``(2) For research, development, test and evaluation and 
+     procurement necessary for modernization of an existing system 
+     or of a system being procured under an ongoing procurement 
+     program.
+       ``(e) Limitations.--(1) Funds from the Defense 
+     Modernization Account may not be used to increase the 
+     quantity of an item or services procured under a particular 
+     procurement program to the extent that doing so would--
+       ``(A) result in procurement of a total quantity of items or 
+     services in excess of--
+       ``(i) a specific limitation provided in law on the quantity 
+     of the items or services that may be procured; or
+       ``(ii) the requirement for the items or services as 
+     approved by the Joint Requirements Oversight Council and 
+     reported to Congress by the Secretary of Defense; or
+       ``(B) result in an obligation or expenditure of funds in 
+     excess of a specific limitation provided in law on the amount 
+     that may be obligated or expended, respectively, for the 
+     procurement program.
+       ``(2) Funds from the Defense Modernization Account may not 
+     be used for a purpose or program for which Congress has not 
+     authorized appropriations.
+       ``(3) Funds may not be transferred from the Defense 
+     Modernization Account in any year for the purpose of--
+       ``(A) making any expenditure for which there is no 
+     corresponding obligation; or
+       ``(B) making any expenditure that would satisfy an 
+     unliquidated or unrecorded obligation arising in a prior 
+     fiscal year.
+       ``(f) Transfer of Funds.--(1) Funds in the Defense 
+     Modernization Account may be transferred in any fiscal year 
+     to appropriations available for use for purposes set forth in 
+     subsection (d).
+       ``(2) Before funds in the Defense Modernization Account are 
+     transferred under paragraph (1), the Secretary concerned 
+     shall transmit to the congressional defense committees a 
+     notification of the amount and purpose of the proposed 
+     transfer.
+       ``(3) The total amount of the transfers from the Defense 
+     Modernization Account may not exceed $500,000,000 in any 
+     fiscal year.
+       ``(g) Availability of Funds for Appropriation.--Funds in 
+     the Defense Modernization Account may be appropriated for 
+     purposes set forth in subsection (d) to the extent provided 
+     in Acts authorizing appropriations for the Department of the 
+     Defense.
+       ``(h) Secretary To Act Through Comptroller.--In exercising 
+     authority under this section, the Secretary of Defense shall 
+     act through the Under Secretary of Defense (Comptroller), who 
+     shall be authorized to implement this section through the 
+     issuance of any necessary regulations, policies, and 
+     procedures after consultation with the General Counsel and 
+     Inspector General of the Department of Defense.
+       ``(i) Quarterly Report.--Not later than 15 days after the 
+     end of each calendar quarter, the Secretary of Defense shall 
+     submit to the appropriate committees of Congress a report 
+     setting forth the amount and source of each credit to the 
+     Defense Modernization Account during the quarter and the 
+     amount and purpose of each transfer from the account during 
+     the quarter.
+       ``(j) Definitions.--In this section:
+       ``(1) The term `Secretary concerned' includes the Secretary 
+     of Defense.
+       ``(2) The term `unexpired funds' means funds appropriated 
+     for a definite period that remain available for obligation.
+       ``(3) The term `congressional defense committees' means--
+       ``(A) the Committees on Armed Services and Appropriations 
+     of the <strong>Senate</strong>; and
+       ``(B) the Committees on National Security and 
+     Appropriations of the House of Representatives.
+       ``(4) The term `appropriate committees of Congress' means--
+       ``(A) the congressional defense committees;
+       ``(B) the Committee on Governmental Affairs of the <strong>Senate</strong>; 
+     and
+       ``(C) the Committee on Government Reform and Oversight of 
+     the House of Representatives.
+       ``(k) Inapplicability to Coast Guard.--This section does 
+     not apply to the Coast Guard when it is not operating as a 
+     service in the Navy.''.
+       (2) The table of sections at the beginning of chapter 131 
+     of such title is amended by adding at the end the following:
+``2221. Defense Modernization Account.''.
+       (b) Effective Date.--Section 2221 of title 10, United 
+     States Code (as added by subsection (a)), shall take effect 
+     on October 1, 1995, and shall apply only to funds 
+     appropriated for fiscal years beginning on or after that 
+     date.
+       (c) Expiration of Authority and Account.--(1) The authority 
+     under section 2221(b) of title 10, United States Code (as 
+     added by subsection (a)), to transfer funds into the Defense 
+     Modernization Account shall terminate on October 1, 2003.
+       (2) Three years after the termination of transfer authority 
+     under paragraph (1), the Defense Modernization Account shall 
+     be closed and the remaining balance in the account shall be 
+     canceled and thereafter shall not be available for any 
+     purpose.
+       (3)(A) The Comptroller General of the United States shall 
+     conduct two reviews of the administration of the Defense 
+     Modernization Account. In each review, the Comptroller 
+     General shall assess the operations and benefits of the 
+     account.
+       (B) Not later than March 1, 2000, the Comptroller General 
+     shall--
+       (i) complete the first review; and
+       (ii) submit to the appropriate committees of Congress an 
+     initial report on the administration and benefits of the 
+     Defense Modernization Account.
+       (C) Not later than March 1, 2003, the Comptroller General 
+     shall--
+       (i) complete the second review; and
+       (ii) submit to the appropriate committees of Congress a 
+     final report on the administration and benefits of the 
+     Defense Modernization Account.
+       (D) Each report shall include any recommended legislation 
+     regarding the account that the Comptroller General considers 
+     appropriate.
+       (E) In this paragraph, the term ``appropriate committees of 
+     Congress'' has the 
+     meaning given such term in section 2221(j)(4) of title 10, United 
+     States Code, as added by subsection (a).
+  Mr. NUNN. Mr. President, in the bill there is a provision, which I 
+authored and the committee accepted, which would establish a defense 
+modernization account for, really, the first time in my knowledge. That 
+says to the various departments of the military--Army, Navy, Air Force, 
+Marine Corps--that they can have a defense modernization account for 
+any savings, including money they might otherwise feel compelled to 
+spend at the end of the year to make sure they had fulfilled their 
+budget expectations. That is where a lot of waste goes on in budgeting, 
+and in the Government, is the urge and incentive we inadvertently 
+create in Government to have all Government agencies, not just the 
+Army, Navy, Air Force, and Marine Corps, to spend money at the end of 
+the year so they look like they needed all the money they originally 
+budgeted.
+  Much waste comes from that. So the provision in the bill I offered 
+will establish a defense modernization account and say to each one of 
+the services that they will be able to take any savings that they are 
+able to accumulate during the year and put it in this modernization 
+account. They will be able to use it, subject to the approval of the 
+Congress. It has to come back through the Congress, either through 
+direct appropriation or through an approval process that we go through 
+here. It has to come back. But subject to that, this money will be able 
+to be used where we need it most and that is in long-term 
+modernization.
+  Senator Glenn has been for this proposal, but he had some concerns 
+about it. This amendment would modify the defense modernization account 
+to limit the total balance of the account, to limit the number of years 
+the funds may remain in the account, to provide for additional 
+oversight, and to sunset the account.
+  I agree to all of these proposed changes and I urge the adoption of 
+the amendment.
+  Mr. KEMPTHORNE. Mr. President, this amendment has been cleared with 
+our side.
+  The PRESIDING OFFICER. If there be no further debate, the question is 
+on agreeing to the amendment.
+  The amendment (No. 2279) was agreed to.
+  Mr. KEMPTHORNE. Mr. President, I move to reconsider the vote.
+  Mr. NUNN. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+  Mr. NUNN. On this amendment I thank Senator Glenn, Senator Grassley, 
+and Senator Roth. They were very helpful in developing these amendments 
+and they will be having statements on this amendment on Monday.
+  The PRESIDING OFFICER. The majority leader.
+  Mr. DOLE. Mr. President, I understand that concludes the action, is 
+that correct, tonight? It concludes action on the amendments that have 
+been cleared. We cleared about 25 amendments. We appreciate that very 
+much. We hope to return to the DOD authorization bill on Monday. I know 
+there are some negotiations going on with reference to a couple of 
+areas.
+  If that is negotiated successfully, we hope to be back on the DOD 
+bill late Monday afternoon, and wrap it up. I think in a couple of 
+hours we can complete action on this bill. I know there are a few 
+amendments out there that might require rollcall votes. If we reach the 
+negotiation agreement, there could be at least one amendment that will 
+require a vote, plus the others we did not complete last night. But I 
+understand there will be very few amendments that we would have to deal 
+with.
+  So, hopefully we can complete action on the DOD authorization bill on 
+Monday. It is a very important bill. It takes a long time. Last year I 
+think it was 6 days. It always takes a great deal of time because it is 
+so involved and so complex. It involves the defense of our Nation, so 
+it deserves a great deal of consideration and debate.
+  I thank the managers.
+  Mr. SMITH. Mr. President, yesterday during consideration of S. 1026, 
+a statement by Senator Roth was inadvertently left out of the 
+statements that were made at the time Senator Cohen introduced his 
+amendment entitled the Information Technology Management Reform Act of 
+1995. Mr. President, I ask unanimous consent that Senator Roth's 
+statement be printed in today's Record and that it be printed in the 
+permanent Record for Friday, August 4, 1995, immediately following 
+Senator Cohen's statement on the information technology amendment.
+  The PRESIDING OFFICER. Without objection it is so ordered.
+                          ____________________
+
+
+</pre>
+</body>
+</html>

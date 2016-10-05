@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>WAIS Document Retrieval</title>
+</head>
+<body>
+<pre>
+[Congressional Record: March 15, 1995 (<strong>House</strong>)]
+[Page H3161]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+[DOCID:cr15mr95-52]                         
+
+
+
+
+                RECENT ACTIONS BY THE FRENCH GOVERNMENT
+  (Mr. TORRICELLI asked and was given permission to address the <strong>House</strong> 
+for 1 minute.)
+  Mr. TORRICELLI. Mr. Speaker, several weeks ago the French Government 
+was complaining about the activities of American Government officials. 
+This came as an enormous surprise. The Japanese, the Germans, and 
+Americans did not know there was any technology in France that anybody 
+needed.
+  Yesterday the French President hosts Fidel Castro.
+  Mr. Speaker, we are entitled to doubt whether if there were an island 
+in the Mediterranean with a 30-year dictatorship, with no human rights 
+for any of its people that the French Government would be so 
+understanding.
+  In the coming years France will have its difficulties in North 
+Africa. Europe has not seen its last internal political problems. I 
+trust that all of the people of the Americas will be similarly 
+understanding and give the same difference to the French Government 
+when it faces its own next crisis.
+                          ____________________
+
+
+</pre>
+</body>
+</html>

@@ -1,0 +1,3094 @@
+<html>
+<head>
+<title>WAIS Document Retrieval</title>
+</head>
+<body>
+<pre>
+[Congressional Record: June 15, 1995 (<strong>Senate</strong>)]
+[Page S8460-S8480]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+[DOCID:cr15jn95-150]                         
+
+
+
+
+          TELECOMMUNICATIONS COMPETITION AND DEREGULATION ACT
+  The <strong>Senate</strong> continued with the consideration of the bill.
+                 AMENDMENT NO. 1283, TELEVISION CONTENT
+  Mr. DODD. Mr. President, I rise to address the issue of television 
+violence, which we debated earlier this week in the context of this 
+telecommunications bill. I opposed the Lieberman-Conrad amendment on 
+this subject, but I strongly supported the Simon-Dole sense of the 
+<strong>Senate</strong> amendment. I want to take this occasion to briefly sketch out my 
+thinking on this subject.
+  I completely agree with my colleagues about the terrible effects of 
+television violence on our children. The average American child 
+witnesses 8,000 murders and 100,000 other acts of violence on 
+television by the time he or she finishes elementary school. That is 
+simply unacceptable. The American Medical Association, the National 
+Commission on Children and other interested groups and individuals have 
+spoken persuasively about the effect of this incessant violence on our 
+children.
+  I believe that something must be done about this terrible problem, 
+but I also believe that it should be up to parents and the industry 
+itself to accomplish that end. This is an area where I do not believe 
+Congress should be mandating a solution. Especially in the context of 
+this deregulatory bill, we should not be creating federal commissions 
+to promulgate highly prescriptive new rules in areas we should stay out 
+of.
+  I was also concerned about some of the vague language in the Conrad-
+Lieberman amendment. It refers, for instance, to ``the level of 
+violence or objectionable content.'' We might--might--be able to come 
+to agreement on a definition of ``violence,'' but I do not see how we 
+could reach a consensus on the meaning of ``objectionable content.'' 
+Everyone would have a different view.
+  As consumers and parents, we must all do a better job of turning the 
+dial when programming to which we object comes across our television 
+set. If that were to happen in large numbers, the market would dictate 
+a dramatic improvement in television programming.
+  I supported the Simon-Dole sense of the <strong>Senate</strong> amendment, which calls 
+on the industry to police itself but does not establish an 
+unprecedented set of onerous government rules. I think this represented 
+a more sensible approach to this problem.
+                           Amendment No. 1325
+  Mr. DODD. Mr. President, I rise in support of Senator Warner's 
+amendment requiring Bell operating companies to fully disclose their 
+protocols and technical requirements for connection with their 
+facilities. This is a complex, technical issue, but it is a critical 
+safeguard as the Bell companies move into manufacturing.
+  Section 222 of the bill before us applies the same competitive check 
+list to Bell entry into manufacturing as it does to entry into long 
+distance services. I have been concerned, however, by the fact that the 
+legislation carves out a major exception for manufacturing research and 
+design activities. This exception would allow Bell companies to 
+commence these activities almost immediately.
+  Research and design is one of the most expensive phases of the 
+manufacturing process, and it often holds the key to the end success of 
+the product. But under S. 652's provisions, Bell companies would be 
+able to engage in such activities before they face competition. This 
+could open the door to cross-subsidization, unfair use of privileged 
+information about RBOC network interfaces and other monopoly abuses 
+that could decrease competition in the already competitive 
+telecommunications manufacturing industry.
+  I have argued that the simplest solution to this problem was to 
+delete the bill's exception for research and design activities. But 
+this solution proved unacceptable to the bill's managers, so instead I 
+supported Senator Warner's efforts to add important safeguards.
+  Senator Warner's amendment would ensure that the public network 
+remain open and accessible to independent manufacturers. By requiring 
+disclosure of technical specifications and planned changes in those 
+specifications, the amendment would prevent Bell companies' 
+manufacturing subsidiaries from gaining exclusive or early access to 
+the kind of information that is the lifeblood of telecommunications 
+manufacturing.
+  Independent manufacturers do not fear competition from Bell 
+companies, so long as that competition is fair. Senator Warner's 
+amendment makes a great deal of progress in the effort to ensure 
+fairness, and I hope we can build on this progress to make further 
+improvements as this bill moves to conference.
+  I thank Senator Warner for his leadership on this important issue, 
+and I also thank Senators Hollings and Pressler for agreeing to accept 
+this modest amendment.
+  Mr. BINGAMAN. Mr. President, today we have had an historic 
+opportunity to vote on a sweeping revision of the 1934 Communications 
+Act, an act which is now, over 60 years after its original passage, 
+woefully out of date. We tried last Congress to revisit this 
+legislation but we were unable to bring the matter to the floor. I am 
+glad that we have had a chance to consider this legislation on the 
+floor this year. I hoped to be able to vote for it. We owe it to the 
+people of this country to modernize the laws which govern 
+telecommunications services and to do so in a way that promotes 
+competition among the companies attempting to provide those services, 
+and thus provide American families with more and better services at 
+lower prices.
+  This legislation serves the first purpose--that of modernizing the 
+law to reflect the many changes in technology since 1934.
+  However, there is a real question as to whether the end result will 
+be more competition. On the contrary, I believe that the result of this 
+bill may be more concentration of power in the market. I do not believe 
+American families will benefit from this concentration.
+  I would like to believe what I have heard on the floor over the last 
+week: that true competition will ensue from this bill, and the result 
+of that competition will be a new world of innovative products at 
+affordable prices. Nevertheless, I fear that the flaws in this bill 
+will likely defeat those hopes. Accordingly, while I would like to be 
+able to vote for this bill, I cannot.
+  I am a longtime student of technology and of telecommunications. I 
+know what benefits they can bring. I have promoted State and Federal 
+support for technology in the classroom and I have sponsored 
+legislation to provide that support. I am proud to have 
+[[Page S8461]] been an early and eager supporter of the Snowe-
+Rockefeller-Exon-Kerry language in this bill which will, for the first 
+time, make access to telecommunications services by schools, libraries, 
+and rural health care providers affordable. I am especially proud that 
+the <strong>Senate</strong> approved this aspect of the bill.
+  But there are a series of amendments to this bill which I had hoped 
+would pass and which would have made this bill what I had hoped it 
+could be and what I think the American consumer deserves.
+  First, and foremost, I was disappointed that the efforts of my 
+colleagues from North Dakota, Senator Dorgan and Senator Thurmond of 
+South Carolina, to bring the Department of Justice into the process, 
+were defeated. I fear that this bill--without the amendment to give the 
+Department of Justice a more active role--may lead to abuses and more 
+concentration in the long distance market. There are serious issues 
+competition issues raised by the entry of the Bells into long distance, 
+yet we have given the Nation's expert competition agency, the 
+Department of Justice, a toothless role. The Department of Justice has 
+long and deep experience with this market and with these competitors. 
+It is the best positioned entity to evaluate the many issues which are 
+going to arise as new entrants seek access to the local exchange 
+networks controlled by these companies. In my view, only the Department 
+of Justice can assure that what is billed as competition does not 
+become concentration to the detriment of the American consumer.
+  I also have concerns about the potential for concentration in the 
+cable market which this bill presents and the potential for greatly 
+increased cable rates for consumers in rural areas where competition is 
+unlikely to exist in any meaningful way. The marketplace will very 
+likely bring lower prices and greater choice to consumers in urban and 
+affluent areas. But in many parts of the country, and in much of my 
+State of New Mexico, the marketplace will do little. We have seen in 
+airline deregulation how rural consumers are treated. I hope that that 
+does not happen in the cable marketplace as well. If it does, and we 
+shall see in the next few years, Congress should revisit this issue to 
+provide the protections which I would have liked to see this bill 
+today.
+  Other amendments, such as the ones offered by the Senator from 
+Nebraska, [Mr. Kerrey], to put a consumer representative on the 
+universal service board and to restrict cross subsidization by public 
+utility of services, were defeated. Other amendments designed to keep 
+some reasonable limits on broadcast ownership were also defeated.
+  Taken as a whole, this bill, while up-to-date, seems to be to 
+anticonsumer and anticompetitive. I foresee an increasing concentration 
+in the telecommunications industry with increasing prices for consumers 
+with little increase in choice or innovation for those living in rural 
+America. I hope that I am wrong. I hope that this bill can be improved 
+in the conference. If it is, I will be happy to vote for it when it 
+returns to the floor. In its present form, however, I must vote no.
+  Mr. LEVIN. Mr. President, I will vote for S. 652, the 
+Telecommunications Competition and Deregulation Act of 1995, because a 
+myriad of technological innovations over the past few years have made 
+the current regulatory system obsolete.
+  New rules are needed to acknowledge and encourage competitive 
+innovative technological developments which will enliven the 
+marketplace and offer the consumer greater choice and new technologies. 
+However, these regulatory changes should be done in a way that 
+maintains adequate protections of the public interest.
+  There are several issues that concern me regarding S. 652.
+  My first concern is with the lack of a Department of Justice role in 
+determining when the Baby Bells should be allowed into the long 
+distance market. I believe a specific Department of Justice role is 
+needed to ensure that existing monopoly powers are not used to take 
+advantage of the new markets being entered.
+  It's reasonable that such broad and unprecedented telecommunications 
+deregulation should include reasonable oversight of potentially 
+anticompetitive behavior in an industry where a few giants could 
+control large segments of the various markets.
+  Without a specific Department of Justice role, there is a greater 
+risk that the monopolistic and concentrated businesses will increase 
+and we will not achieve the competition that this bill promises. If 
+this happens, American consumers will be the losers.
+  I supported the Thurmond-Dorgan compromise amendment which would have 
+provided the Attorney General a simultaneous role with the FCC in 
+approving a request by a Bell company to provide long distance service 
+providing that action would not substantially lessen competition, or 
+tend to create a monopoly. Unfortunately, that amendment was not 
+adopted.
+  I hope, therefore, that the House will move to adopt a Department of 
+Justice role so that this issue can be revisited in conference.
+  My second concern regards the cable rate deregulation provisions of 
+the bill. In 1992 Congress passed a comprehensive cable act in response 
+to a strong public outcry about skyrocketing cable rates. This bill 
+undoes much of the good that bill accomplished in slowing down cable 
+rate increases and in many cases reducing cable rates for Americans. 
+This bill deregulates all but the basic tier of cable television and in 
+so doing runs the very real risk of resulting in increased cable rates 
+for Americans which is contrary to what Congress attempted to do just 3 
+years ago in the 1992 Cable Act.
+  I am also concerned that the bill allows for the preemption of local 
+rules and regulations relating to the management of local rights-of-
+way. I supported the Feinstein amendment to remove the provision in S. 
+652 which would preempt local control of the public rights-of-way. 
+Unfortunately, that amendment was defeated. A weaker alternative was 
+accepted which modified but did not eliminate language in the bill 
+allowing for the preemption of local regulations. The Feinstein 
+amendment would have eliminated the preemption capability of the FCC 
+altogether.
+  I believe it is important that we in Congress pay proper recognition 
+to the rights of local government and I am disappointed this bill does 
+not adequate do that.
+  The telecommunications bill before the <strong>Senate</strong> today will have a huge 
+impact on our economy and on the lives of every single American. I 
+believe the telecommunications reform is both necessary and important. 
+But equally important in that process are the necessary checks and 
+balances to protect consumers and discourage monopolies. While I will 
+vote for this bill because I recognize that telecommunications reform 
+is long overdue and must move forward, I am not convinced this bill 
+contains adequate checks and balances. I hope the House will be able to 
+add those back into the bill and I reserve judgment on whether I will 
+support a final conference report.
+  Mr. BAUCUS. Mr. President, I rise today in support of the 
+Telecommunications Competition and Deregulation Act of 1995.
+  Over the last week I have heard many of my colleagues address this 
+legislation. One statement is common to their remarks. This legislation 
+will touch, indeed will impact, a significant portion of our economy. 
+It will be felt in one way or another in each of our lives.
+  Of the many advances in our society of the past century, 
+telecommunications is among the most pervasive. Our movement into this 
+information age has yielded tremendous changes in our lives. The 
+ability to communicate around the globe instantaneously has helped us 
+become part of a global marketplace. It is an advance from which there 
+can be no retreat.
+  I believe that we all benefit when competition is enhanced. Retaining 
+a competitive edge has been quite difficult as we have forced 
+technology of today to fit the restrictions of yesterday's regulations. 
+The potential for continued improvement in these industries is 
+tremendous. This bill should usher in new products, better prices, and 
+more choices in the services which consumers demand in Montana and 
+across the country.
+  Mr. President, the development in the personal computer, and even the 
+[[Page S8462]] hand-held calculator before it, is a tangible example of 
+what I expect in telecommunications. In the past 30 years, these 
+technologies have become commonplace. In fact I can't imagine life 
+without them.
+  The development of telecommunications technology has been no less 
+dramatic. And with this legislation, we advance the ball. While this 
+bill fails to satisfy my entire wish list, I believe it leaves us 
+better than before. But we still have work to do and as legislation 
+moves through the House and into conference, I am confident we can 
+improve this bill.
+  In recent days we have voted on changes designed to improve the 
+measure. The amendment offered by Senator Conrad will encourage 
+television manufacturers to include computer technology allowing 
+parents to prevent objectional material from entering their home. I 
+supported that measure and I believe it is important in this bill.
+  An amendment offered by Senator Exon protects against harassment, 
+obscenity, and indecency to minors via telecommunications devices. 
+Together, these two amendments will go a long way toward protecting our 
+youth from harmful material. There has been some public comment on this 
+topic recently and I believe these amendments are what Montanans want 
+in this kind of legislation.
+  Finally, I want to go on the record in stating my belief that passage 
+of this measure does not finish our work in this area. Granted, this 
+legislation has been a long time coming. But we now have a serious 
+responsibility to conduct congressional oversight over this 
+legislation. As we work to construct the information superhighway, we 
+must make certain that the system works.
+  I don't want a system which is a restrictive entry highway. And I 
+don't want a toll road where nobody can afford the fare. And I want to 
+make certain that in Montana, my constituents have access to the 
+benefits of this technology. I will be watching to see that this effort 
+succeeds and I stand ready to step in if intervention is needed.
+  But Mr. President, this bill has strong support. I have heard from 
+broadcasters, small business owners, and those in the 
+telecommunications industry in Montana. And all these groups want this 
+legislation to pass. I share their desire to help the best 
+telecommunications system in the world leap forward into the next 
+century and I will cast my vote in favor of this measure.
+  Thank you, Mr. President. I yield the floor.
+  Mr. MOYNIHAN. Mr. President, I rise to state my reasons for opposing 
+the Telecommunications Competition and Deregulation Act of 1995.
+  Yesterday the <strong>Senate</strong> adopted amendment No. 1362 by a vote of 84-16. 
+The amendment purports to prohibit computer transmission of obscenity 
+and indecency. I voted ``no'' out of concern that we were taking this 
+action improvidently and without adequate consideration for its 
+significant constitutional and practical implications.
+  In 1973, the Supreme Court in Miller versus California, and in 
+several subsequent decisions, held that the Constitution does not 
+protect obscenity, which the Court defined as material that appeals to 
+``prurient interests'' or is ``patently offensive.'' The government 
+accordingly has the authority to regulate obscenity, and properly so. 
+But we must do so with care.
+  The amendment attempts to apply existing laws against obscene and 
+harassing telephone calls to computer transmissions. Regrettably, the 
+language of the amendment is too broad, raising serious questions of 
+constitutionally under the first amendment. For example, the amendment 
+could reasonably be interpreted to prohibit an individual from sending 
+an annoying e-mail message. The penalty for such a transgression: a 
+fine of up to $100,000 or up to 2 years in prison--or both. And, as was 
+noted by Senator Leahy and others during the debate yesterday, the 
+amendment likely makes unlawful on computers materials that are 
+perfectly lawful in books or letters. I suspect the courts will take a 
+dim view of this provision when it is challenged, which it surely will 
+be.
+  Similarly problematic is the failure of the amendment to recognize 
+the difference between telephones and the unique characteristics of 
+computers. In order to view the kinds of lewd and lascivious material 
+complained of by the proponents of the amendment, an individual must 
+take numerous affirmative steps to gain access to it via the on-line 
+services where it can be found. I grant that this is not terribly 
+difficult for one who is computer literate, but the fact remains that 
+in order to look at this material on the computer, you have to actively 
+seek it out. It does not just pop up on the screen when you turn it on. 
+One who looks for and then views such material on his or her computer 
+is in a very different position than a victim of obscene telephone 
+calls. Yet the amendment fails to recognize this distinction.
+  I am also troubled by the <strong>Senate</strong>'s action on another amendment to 
+this bill. This afternoon, by a vote of 67-31, the <strong>Senate</strong> tabled the 
+Lieberman amendment to retain cable television rate regulation. Senator 
+Lieberman knows the subject of cable rate regulation as well as anyone, 
+having fought cable rate increases in Connecticut in the 1980's when he 
+was State attorney general. He predicts that, without the reasonable 
+rate restrictions in his amendment, cable TV rates will surely rise as 
+a result of this bill. I am afraid he is right. Cable rates rose 
+sharply after Congress lifted rate regulations in 1984, and they are 
+likely to do again if we pass this legislation. This is why I supported 
+the Lieberman amendment, and why I believe it was a mistake for the 
+<strong>Senate</strong> to defeat it.
+  For this and for the other reasons I have given, I will vote against 
+the Telecommunications Competition and Deregulation Act of 1995.
+              the dole amendment on cable volume discounts
+  Mr. KERRY. Mr. President, we are faced here with a very unfortunate 
+situation. Senator Dole has offered an amendment to address a 
+significant public policy matter raised by S. 652 as reported by the 
+Commerce Committee, and that amendment has become entangled in a 
+dispute that goes to the way the <strong>Senate</strong> deals with those who do 
+business in areas affected by legislation upon which the <strong>Senate</strong> acts.
+  I must say that I am distressed by the appearances of what has 
+occurred regarding the interactions of two cable programming providers 
+with the chairman of the Commerce Committee. While I have not been 
+involved at all in--or even knowledgeable about--these interactions, 
+and believe according to what I have been told that there may be more 
+inadvertence and clumsiness in evidence here than anything else, it is 
+unfortunate for all involved that some evidently see this as a case 
+where inappropriate pressure has been brought to bear in such an 
+interaction.
+  Regardless, and without in any way acting as judge and jury and 
+attributing blame, I will say unequivocally that I do not believe that 
+the proper way for elected officials and business executives to 
+interact is for elected officials to threaten businesspeople with 
+injurious legislation if they do not comport their business activities 
+with the policy desires of those elected officials, nor for 
+businesspeople to threaten elected officials with business actions 
+deemed undesirable by the officials if those officials fail to take 
+legislative actions favored by the businesspeople. Further, the way I 
+have always understood the concept of honor, a deal's a deal, and 
+starting with the assumption that honorable elected officials should 
+make only deals that are in the public's interest, both those officials 
+and businesspeople who enter into agreements ought to honor those 
+agreements.
+  Having said these things, when the day is over here, what really 
+counts in my judgment is the public policy that the <strong>Senate</strong> makes, and 
+the effect it has on our Nation and its people. I think it is important 
+that we keep our eye on the ball here, and by that I mean I think we 
+should cast our votes on this amendment based on the public policy 
+impact of the policies those votes will determine. It is on that basis, 
+rather than with reference to the regrettable dispute that has emerged 
+concerning what has preceded the offering of and voting on this 
+amendment, that I cast my vote on the amendment.
+  Many of the decisions with which this body must grapple are not 
+simple, where two courses, one black and the other white, present 
+themselves and all [[Page S8463]] we have to do is choose the easily 
+discernible right course. Many decisions we make have multiple and 
+varying implications, and we are forced into the position of playing 
+Solomon to mediate disputed interests and needs.
+  Such is the case here, Mr. President. On the one hand none of us to 
+my knowledge wants to act in a way that will deprive persons in rural 
+areas or other areas served by small cable systems of programming that 
+those who live in areas served by large cable systems can enjoy. On the 
+other hand, we should approach extremely seriously any decision that 
+could result in the government imposing controls on the free 
+marketplace, especially a decision that leads to price controls. There 
+have been situations in our history that have warranted such actions, 
+but they are the exception, not the rule.
+  Mr. President, I do not believe that the circumstances of the cable 
+industry warrant imposing what amount to price controls on those who 
+provide programming. Yes, I do believe that those programming companies 
+should deal responsibly with all cable operators who wish to purchase 
+their products. But no, I do not believe that in this industry the 
+Government should prohibit practices of volume discounting or other 
+methods of pricing that are employed in virtually every industry in our 
+Nation, whether it be selling shoes or cabbages or long distance phone 
+service.
+  So, Mr. President, before I had heard anything about the dispute 
+concerning the agreement that did or did not exist between Time-Warner 
+and Viacom and the chairman of the Commerce Committee, I had concluded 
+that I should vote for the Dole amendment. Now that the dispute has 
+surfaced, I continue to believe that the correct public policy is 
+reflected in the Dole amendment, and I will vote for that amendment for 
+that reason.
+  Mr. DORGAN. Mr. President, the <strong>Senate</strong> votes today on a very important 
+piece of legislation, the Telecommunications Competition and 
+Deregulation Act of 1995. There is no question in my mind that 
+telecommunications reform legislation is needed. The communications 
+laws in this country are without a doubt antiquated and the Congress 
+must take action and pass telecommunications legislation.
+  I am sad to say, however, that I cannot support the legislation the 
+<strong>Senate</strong> is voting on today. This bill, in my judgment, could be more 
+accurately described as the ``telecommunications concentration act'' 
+rather than the ``telecommunications competition act.'' Unfortunately, 
+this legislation, in its present form, is going to lead to greater 
+concentration in the telecommunications and media industries--which is 
+antithetical to competition.
+  Robust competition is the driving force of our free market economy. 
+Competition offers consumers lower prices and wide ranging services. 
+True marketplace competition also eliminates the need for regulation. 
+If our goals are to ensure that consumers receive advanced 
+telecommunications and media services at competitive prices and to free 
+the industry from government regulation, competition is our means to 
+that end. But it must be true and fair competition.
+  This is where this legislation misses the mark. There are two key 
+areas of this legislation that lead me to the conclusion that existing 
+competition in telecommunications is in jeopardy: First, the conditions 
+under which regional Bell operating companies [RBOC's] may offer long 
+distance services; and second, the liberalization of broadcast 
+ownership rules.
+  This legislation, mistakenly in my judgment, deregulates both the 
+television and radio broadcast industries at the risk of promoting 
+greater concentration at the expense of competition. The bill raises 
+the national audience cap from 25 to 35 percent and eliminates the 12 
+station limit on TV broadcast ownership. It also eliminates ownership 
+rules on radio ownership. Liberalization of these limits runs 
+absolutely contrary to the goal of promoting competition. I am 
+convinced that if these changes are enacted, the media industry in this 
+country will be controlled by a handful of conglomerates in future. The 
+long-held principles of localism and diversity will suffer.
+  I offered an amendment, unsuccessfully, to strike the provisions 
+liberalizing the ownership limits in the bill. Under my amendment, the 
+FCC would have been instructed to review and modify its broadcast 
+ownership rules to ``ensure that broadcasters are able to compete 
+fairly with other media providers'' while ensuring that diversity and 
+localism are protected. The amendment would have maintained the current 
+limits while directing the FCC to review and modify the ownership rules 
+on a case-by-case basis.
+  At the heart of this issue is the relationship between the networks 
+and the local affiliate stations. Raising the national ownership limits 
+would represent a drastic shift in power from the local affiliate 
+stations to the national networks. The provisions in the bill; 
+including the Dole amendment, threaten local media control--both in 
+terms of programming and in terms of news content--in favor of national 
+control. The change will remove the ability of local stations to make 
+local programming and news decisions--such as preempting network 
+programming in favor of local news, public interest, and local sports 
+programming.
+  The change would also mean that station managers will not be able to 
+stop network programs he or she believes is inappropriate for the local 
+market. When the networks buy up the affiliates, the networks will be 
+able to dictate the terms of the affiliate/network relationship. The 
+networks will leverage their power over affiliate preemption of network 
+programming, conduct of news divisions, and the moral tone of network 
+entertainment. The change proposed in broadcast ownership rules under 
+S. 652 will turn locally owned stations into extensions of large 
+multimedia companies and will result in the nationalization of 
+television programming and the demise of localism and local program 
+decisions.
+  The bill's changes to broadcast ownership rules will lead to greater 
+concentration of the media--a concentration towards the national 
+networks. The fact is that the present limits help preserve 
+competition. Fox television would not be the fourth network today if it 
+were not for the existing limits on ownership. The current limits are 
+what made it possible for Fox Broadcasting to develop so quickly 
+because there were affiliates available in media markets that were not 
+owned by the established networks with whom Fox had to compete with to 
+build a market for itself.
+  Proponents of removing the ownership limits have a single purpose--to 
+reduce the number of people participating in broadcasting ownership. 
+The current limits permit small companies to own stations in large 
+markets. Because the existing limits ensure that concentration is 
+limited and entrepreneurial efforts in broadcasting are possible. 
+Elimination of ownership limits will make it more difficult for 
+minority participation in broadcast ownership--something the FCC has 
+been trying to promote for years is more minority ownership. This bill 
+would send a blow to that effort.
+  Will the local television landscape be better off if the local 
+television stations are controlled by the national networks in New York 
+and Hollywood instead of by stations in Bismarck or Wichita?
+ Will there be less violence on TV if there is more national control? I 
+do not think so. In fact, I expect that these problems will get worse.
+  This bill will rob local stations of the opportunity to say no to 
+network programming that local station managers think is inappropriate 
+for their local communities--where they themselves live. If the 
+national networks are permitted to own a substantial portion of the 
+local stations in the country, then all programming decisions will be 
+made in Hollywood and New York, without regard for the concerns of 
+local communities. Make no mistake about it. The bill's provisions 
+represent nothing short of a power grab on the part of the national 
+networks under the guise of deregulation. The proposed changes to the 
+ownership rules would concentrate power in the hands of the networks 
+and would be anticompetitive.
+  Another unsuccessful amendment I offered with the senior Senator from 
+South Carolina relates to what is perhaps the most contentious battle 
+in the development of this legislation: the conditions under which the 
+RBOC's [[Page S8464]] would be permitted to offer long distance 
+services. One of the major reasons why I cannot support this bill is 
+because it does not provide for an adequate role for the Department of 
+Justice to ensure that competition in the long distance market is 
+protected when an RBOC that controls the local loop is permitted to 
+enter what is already a competitive market.
+  Under the bill in its present form, an RBOC need only apply to the 
+FCC to enter long distance services. The FCC would utilize a public 
+interest standard and determine that the RBOC has completed the 
+competitive checklist. The bill provides only for a consulting role by 
+the Justice Department.
+  Mr. President, it seems to me that the debate over this legislation 
+has been turned upside down. The fact is that the fundamental policy 
+goal confronting the Congress as we develop telecommunications reform 
+legislation is how do we employ competition in markets which are 
+currently controlled by regulated monopolies, such as the local 
+exchange. The fact is that the long distance market is a truly 
+competitive market. We risk damaging that competitive market if the 
+RBOC's are permitted to enter the long distance market prematurely. Our 
+goal should be to promote the same level of competition in the local 
+exchange that currently exists in long distance. Unfortunately, this 
+bill is weak on incentives that would promote local competition and it 
+also threatens to damage the competitive long distance market.
+  It was the Justice Department that investigated and sued to breakup 
+the Bell system monopoly--which resulted in making the long distance 
+and manufacturing markets competitive. If the local exchange networks 
+are going to be vertically reintegrated with long distance service, 
+there is a danger that entry by RBOC's could impede competition and 
+unravel the progress made over the past decade in promoting competition 
+since the breakup of the Bell system. DOJ has a unique role to assess 
+whether the conditions for meaningful competition are present.
+  The experience of airline deregulation shows that the protection and 
+promotion of competition is not accorded enough
+ weight when DOJ has only an advisory role. In the case of airlines, 
+mergers that were approved by the Department of Transportation over the 
+objection of DOJ, the result was monopolization of certain hubs and 
+higher ticket prices for consumers.
+  A DOJ role would avoid expensive AT&amp;T-type antitrust suits in the 
+future by making sure that competition is safeguarded in the first 
+instance. RBOC enter that occurs without assurances that it will not 
+impede completion will invites complex litigation, which will consume 
+resources better spent on competing. Having DOJ apply a marketplace 
+test as a condition to entry will help avoid wasted litigation.
+  Since the breakup of the Bell system, long distance rates have 
+dropped 66 percent and the long distance competitors have constructed 
+four nationwide fiber optic networks--the backbone of the information 
+superhighway.
+  It cannot be assumed that a series of specified steps will result 
+automatically and inevitably in the development of local exchange 
+competition. Potential barriers to competition are sometimes subtle and 
+overcoming these barriers is a very complex task. Congress cannot hope 
+to successfully specify in advance a set of conditions that will 
+provide answers to all issues before meaningful competition is a 
+reality. The only way to ensure true competition is to look at actual 
+marketplace facts and DOJ must provide this role.
+  A series of specified steps--for example, the competitive check list 
+in Section 255--is not by itself sufficient to bring real competition 
+to local markets. The RBOC's must have a positive incentive to 
+cooperate with the development of competition.
+  Monopolists have proven themselves adept at erecting new barriers 
+faster than old ones can be identified and dismantled. Complete 
+elimination of barriers to competition will occur only if the 
+monopolists have positive incentives to cooperate with the introduction 
+of meaningful competition. The RBOC's will have such incentives when 
+the check list is supplemented by a process that ensures application of 
+real competitive analysis to actual marketplace facts.
+  I still hope that these areas can be perfected in the conference 
+committee. Unless these two areas are addressed, this legislation will 
+do more to harm competition than to promote it. That would not be in 
+the public interest and I hope that the Congress will not make that 
+mistake.
+  Although there are serious problems with this legislation, I do 
+believe that some provisions in this bill I strongly support. This bill 
+contains some very important provisions that would preserve universal 
+service and ensure that rural areas will have access to advanced 
+telecommunications services. I have worked long and hard with many of 
+my colleagues on the <strong>Senate</strong> Commerce Committee to ensure that universal 
+service will be preserved as competition is introduced into local 
+exchange service. The provisions in the <strong>Senate</strong> bill with respect to 
+universal service are vitally important to rural areas and it is my 
+hope that if these provisions will be retained in the conference 
+committee.
+  In conclusion Mr. President, I would ultimately like to vote for this 
+legislation. Unfortunately, I cannot in its present form. As I said 
+earlier, this legislation will not adequately promote competition. 
+Rather, it will have the opposite affect: concentration. I urge the 
+managers of the bill and all those Senators who have spoken with such 
+passion about promoting competition to work to improve this measure so 
+that we can truly call it the Telecommunications Competition and 
+Deregulation Act.
+               restricting cable-telco in-region buy-outs
+  Mr. LEAHY. Mr. President, I want to note an important amendment that 
+has been made to the telecommunications bill.
+  As introduced, the telecommunications bill modified our outdated law 
+that bans cable companies and telephone companies from offering the 
+service of the other. With digital and other new technologies being 
+developed, the demarcations between the businesses of telephone and 
+cable service is blurring.
+  It is about time for Congress to update the law to catch up with the 
+new convergence in video, computer, and telephone technologies.
+  But by repealing the telco-cable cross-ownership ban altogether, the 
+telecommunications bill, as reported, failed to impose any limits on 
+the ability of telephone companies to buy out cable companies--their 
+most likely competitor--in the telephone companies' local service 
+areas. Allowing such mergers would destroy the best hope for developing 
+competition in both local telephone service and cable television 
+markets.
+  Without the protection of an antibuyout provision, consumers would be 
+deprived of the lower cable and telephone prices that would result from 
+two-wire competition.
+  Because of these concerns, the distinguished chairman of the 
+Antitrust Subcommittee, Senator Thurmond, and I sent a letter to our 
+colleagues a few weeks ago detailing the reasons why standard antitrust 
+scrutiny would not be enough to preserve the potential competition 
+between telephone and cable companies.
+  The leadership package of amendments adopted last Friday took 
+seriously the concerns that we expressed, and provided some antibuyout 
+restrictions to prevent telephone companies from merely substituting 
+one video service monopoly for another.
+  The amendment restricting in-region buyouts improves this bill and 
+promises to benefit consumers by promoting greater competition in the 
+delivery of video services, increasing the diversity of video 
+programming, and advancing the national communications infrastructure.
+  In particular, the amendment eliminates ambiguity and makes clear 
+that the antitrust enforcement authorities will maintain their 
+authority to challenge anticompetitive buyouts under the antitrust 
+laws.
+  Even when the FCC has decided that from its perspective that the 
+telco/cable buyout is acceptable, or when the buyout comes within the 
+rural exception, standard antitrust scrutiny may still be applied.
+   [[Page S8465]] The amendment maintains the specialization and 
+expertise of the antitrust authorities--the Justice Department and the 
+Federal Trade Commission, as well as State antitrust authorities--in 
+determining whether a buyout would violate the antitrust laws and harm 
+consumers.
+  This amendment is necessary to help promote the competition we want 
+to develop between cable and phone companies, with the hope that prices 
+for both services will be lowered for consumers, while their options 
+and choices increase.
+
+
+                              choice chip
+  Mr. CONRAD. I am very pleased my amendment was accepted by such a 
+wide margin on the <strong>Senate</strong> floor. The choice chip could be a very 
+important tool for parents to help protect their children from the 
+violence that is all-too available on television. I am hopeful that the 
+<strong>Senate</strong>-House conferees will see the value in this approach and retain 
+my amendment. However, I deeply regret that I will have to vote against 
+S. 652, even though it contains an amendment I sponsored.
+  I have deep concerns about the approach this bill takes, in the name 
+of competition, by removing protections that currently safeguard 
+against media concentration. Diversity of opinions and voices is at the 
+very heart of our democracy. I believe this bill creates the potential 
+to stifle many of those voices in our media by greatly consolidating 
+broadcast ownership in this country.
+  My colleague, Senator Dorgan, offered an amendment earlier this week 
+that would have prevented a single television owner from concentrating 
+ownership above the current, reasonable limit of 25 percent of the 
+national audience. This bill raises that limit, and initially the 
+<strong>Senate</strong> agreed that was a dangerous precedent. Then politics took over 
+and the Dorgan amendment was defeated.
+  Today, an amendment by Senator Simon which would have restricted 
+radio station ownership to a very reasonable limit of 50 AM and 50 FM 
+stations was tabled. The bill, as it stands, eliminates virtually all 
+ownership restrictions. That simply does not safeguard the diversity of 
+voices that democracy requires.
+  I am also concerned that cable television rates for consumers will 
+rise under this bill. An amendment by Senator Lieberman to keep rates 
+in check before real competition is in place was also tabled today. I 
+believe it is a mistake to pass a bill that includes the word 
+``competition'' in the title but does not safeguard consumers in the 
+absence of competition.
+  Finally, I have concerns about rebuilding the telephone monopoly that 
+the Department of Justice and the Federal courts rightly ended. Now, 
+the Department of Justice, the very agency which protects Americans 
+from antitrust practices, will not have a role beyond consultation in 
+preventing a potential monopoly from being reestablished. I supported 
+what I believed was a very reasonable amendment from Senator Dorgan and 
+Thurmond to apply a time-honored antitrust standard to any application 
+to enter long distance. That amendment was defeated.
+  I hope that the final report from the <strong>Senate</strong>-House conference is a 
+bill that truly promotes competition, while also safeguarding the 
+interests of the consumers before competition arrives. I do not believe 
+this bill meets that goal, and I regret that I cannot support it.
+
+
+                           Amendment No. 1421
+  Mr. LEAHY. Mr. President, I seek to clarify a part of the Leahy-
+Breaux amendment (No. 1421) on intraLATA toll dialing parity that was 
+adopted yesterday. As the amendment states, the joint marketing 
+provision in subparagraph (iii) of the amendment applies only in those 
+States that have implemented intraLATA toll dialing parity during the 
+relevant period and to telecommunications carriers in those States 
+offering intraLATA services using ``1+'' dialing parity. The 
+prohibition on joint marketing however, was not intended to apply to 
+telecommunications carriers offering intraLATA services that do not 
+make use of ``1+'' dialing parity. That is my understanding of the 
+Breaux-Leahy amendment. Is this consistent with your understanding?
+  Mr. BREAUX. Yes.
+                           amendment no. 1367
+  Mr. HEFLIN. Mr. President, I rise to make a comment relative to the 
+amendment I successfully offered earlier today to the provision of the 
+bill addressing cable-telephone company mergers and alliances. I 
+understand that some concern has been expressed that the effect of the 
+amendment may be broader than intended. I do not intent that this 
+amendment have broad effect or undo the carefully crafted buyout 
+limitations agreed to previously. I look forward to working with the 
+managers and conferees as we move forward to make any language changes 
+necessary to ensure that the amendment has only the narrow effects 
+intended.
+
+
+                     fees in lieu of franchise fees
+  Mr. PRESSLER. In part, section 203 of the bill adds a new subsection 
+to the 1934 Communications Act that would permit the collection of fees 
+from providers of video programming in lieu of franchise fees. It is my 
+understanding that this requirement does not permit local or State 
+governments to impose such fees on direct-to-home satellite services. 
+Is this correct?
+  Mrs. HUTCHISON. Yes, the intent of the subsection to which you refer, 
+which authorizes fees in lieu of franchise fees, does not apply to the 
+direct-to-home satellite industry. However, nothing in section 203 is 
+intended to affect whether direct-to-home satellite services are 
+otherwise subject to other taxes or fees under current law.
+  Mr. DODD. Mr. President, I rise in support of S. 652, the 
+Telecommunications Competition and Deregulation Act. This bill is far 
+from perfect, but on balance I believe it will be a plus for American 
+consumers and the American economy.
+  We now find ourselves in a highly competitive, global economy, and 
+telecommunications is an increasingly important part of it. In order to 
+keep up in this booming sector, it is imperative that the United States 
+replace a regulatory structure crafted in the 1930s with one suitable 
+for the 21st century. This bill represents an important step in that 
+direction.
+  The communications industry is a $1 trillion segment of our economy, 
+and it is among the fastest growing sectors. This boom is not widely 
+understood, but it has tremendous implications for consumers and 
+business.
+  This trend is being driven by a variety of factors, foremost among 
+them technology. Old copper phone wires can only carry a handful of 
+conversations at once. But one fiber optic cable can carry 32,000 
+conversations at once. New services can be sent to the home or office 
+over fiber optic cable at virtually zero marginal costs to the 
+producer.
+  An incredible array of companies has a stake in the emerging 
+communications marketplace--both obvious and surprising players. 
+Consumers can only benefit from the stepped up competition if we break 
+down the walls that now separate cable companies, local phone 
+companies, long distance firms, electric utilities, satellite firms, 
+radio and television broadcasters, cellular companies, computer 
+companies, and Hollywood studios.
+  With passage of this bill, we hope that companies in all these areas 
+will eventually invade each others' territory, providing consumers with 
+a multiplicity of new choices and creating jobs along the way. Some 
+reports estimate that true competition in all sectors of the 
+telecommunications industry could create 3.6 million jobs by 2003.
+  We cannot even imagine much of what will eventually be available to 
+consumers in this area. Among the possibilities are movies on demand, 
+interactive home shopping, home banking, interactive entertainment and 
+the ability to take classes and talk with the teacher from home.
+  The break-up of the old AT&amp;T monopoly in 1984 is the best case study 
+in the benefits of competition in communications. We all remember the 
+time when there was no choice in long distance--no price competition, 
+no incentive to improve quality, no innovative new services in long 
+distance.
+  But since the break-up of AT&amp;T, 30 million Americans switch long 
+distance carriers a year, and long distance rates have fallen 60 
+percent. Five hundred companies now offer long distance service.
+  There is now a wide consensus about the need to further unleash these 
+technological and market forces for the [[Page S8466]] benefit of 
+consumers. It is imperative that we update Federal communications 
+policy to allow this to happen. We are still operating under the 
+Communications Act of 1934. That should speak for itself.
+  And since 1984, much of the communications industry has been 
+regulated by one man--Judge Harold Greene, who oversaw the AT&amp;T break-
+up and who continues to oversee the consent decree that governs the 
+behavior of the Bell operating companies. He has done an admirable job, 
+but it is time for Congress to reenter the game.
+  That is what this bill represents. As I mentioned before, I supported 
+a number of important amendments that did not pass. I believe the 
+Justice Department should have a formal role in deciding whether Bell 
+Companies should be allowed to offer long distance. The Antitrust 
+Division at Justice has the expertise to assess a market and to prevent 
+monopoly abuse.
+  I also supported my colleague from Connecticut, Senator Lieberman, in 
+his effort to strengthen the cable rate regulations in this bill. The 
+leadership package of amendments we passed last week included some 
+additional protections for cable consumers. They represent a 
+considerable improvement over the cable provisions in the bill as 
+reported out of committee. Like Senator Lieberman, however, I wish we 
+could have gone further.
+  I hope that the remaining problems with this bill can be corrected as 
+the House considers its version and the two chambers meet in 
+conference. Furthermore, if problems develop on cable rates or other 
+matters down the road, Congress can revisit the issue and make 
+improvements at that time.
+  I commend Senators Pressler and Hollings on all of their hard work on 
+this bill, which I think will provide a shot in the arm for our 
+economy.
+  Mr. KERRY. Mr. President, the United States and, indeed, the world 
+have embarked upon a new technological revolution. Like previous 
+revolutions sparked by technological innovation, this one has the 
+potential to change dramatically our daily lives. It will certainly 
+transform the way we as humans communicate with each other.
+  What we are witnessing is the development of a fully interactive 
+nationwide communications network. It has the potential to bring our 
+Nation and our world enormous good; without appropriate ground rules to 
+assure fair competition, however, this revolution could create giant 
+monopolies. The communications policy framework we create in this 
+legislation will determine whether many voices and views flourish, or 
+few voices dominate our society.
+  The impact of this new age communications revolution on the way we 
+send and receive information, and the way we will view ourselves and 
+the world, is profound. Even more staggering is its potential impact on 
+our economy. We could be seeing the largest market opportunity in 
+history. Some forecasters, including the WEFA Group in Burlington, MA, 
+predict a January 1996 opening of the telecommunications market to full 
+competition would create 3.4 million new jobs, increase GDP by $298 
+billion, save consumers nearly $550 billion in lower communications 
+rates and increase the average household's annual disposable income by 
+$850 over the next 10 years. As the Communications Workers of America 
+have underscored, delaying free and fair competition means fewer new 
+high-wage, high-skill jobs.
+  New technologies and industries seem to be emerging and merging 
+almost daily. They range from such sectors as entertainment and 
+education to broadcasting, advertising, home shopping and publishing. 
+One key player in this revolution is the Internet--the global computer 
+cooperative with a current subscriber base of approximately 20 million 
+and a 10 to 15 percent monthly growth rate. One billion people are 
+expected to have access to the net by the end of the decade. While some 
+may consider the net to be the revolution, it is only one of many 
+players in the new communications network game.
+  We see examples of this new era almost daily, such as someone driving 
+a car while talking on a cellphone. The pace of change is so rapid that 
+words like ``cellphone'' and ``Internet'' and ``telemessaging'' are not 
+in my office computer's spellcheck system. In the weeks and months 
+ahead, more and more Americans will gain access to video dialtone, 
+choosing their television programs through their telephone service. 
+Likewise, cable franchises will enter the local telephone service 
+market. Residents of Springfield, MA, will be able to watch their State 
+legislators in Boston debate an education bill and instantaneously 
+communicate with their legislators about how to vote on an amendment. 
+We will hear more talk about the players in this new game: content 
+providers, transporters, and technology enablers.
+  As we consider this brave new age of communications, it is clear the 
+current law, the 1934 Communications Act, is a wholly adequate 
+foundation upon which to build a communications system for the 21st 
+century. Moreover, although the courts on occasion properly have 
+intervened to halt monopoly abuse--most notably a little over a decade 
+ago in the telephone industry--we should no longer leave the 
+fundamentals of telecommunications policy to the courts.
+  S. 652, the telecommunications bill reported by the Commerce 
+Committee on March 23, 1995, by a vote of 17-2 and which I am confident 
+will be passed momentarily by the <strong>Senate</strong>, is not perfect. In some 
+respects, I would have preferred S. 1822, the bill crafted so ably by 
+Senator Hollings and reported by the committee last year. However, the 
+legislation before the <strong>Senate</strong> now is preferable to the status quo. It 
+will establish fair and balanced ground rules
+ for competition in the communications sector as we enter the next 
+century. It will foster competition, assuring a needed balance among 
+existing competitors and new entrants in this rapidly evolving field.
+  This legislation provides us with a national policy framework to 
+promote the private sector's deployment of new and advanced 
+telecommunications and information technologies and services to all 
+Americans by opening all telecommunications markets to competition. 
+Free and fair competition and maintaining universal service are the 
+twin pillars of this new framework.
+  The bill assures that no competitor, no business and no technology 
+may use its existing market strength to gain a head start on the 
+competition. The legislation requires that a company or group of 
+companies satisfy certain competitive tests before being able to offer 
+a new service or enter a new market. Entry into new services and new 
+areas is contingent upon a demonstration that competition exists in the 
+market in which the business currently competes. But once competition 
+has been achieved, most Federal and State regulation is replaced by 
+consumer demand to regulate the market.
+  These fundamental features of S. 652 are designed to create a level 
+playing field where every player will be able to compete on the basis 
+of price, quality, and service, rather than on the basis of monopoly 
+control of the market.
+  The bill also maintains universal service as a cornerstone of our 
+Nation's communications system. With many new entrants in the 
+communications market, S. 652 assures every player pays his fair share 
+to continue universal service throughout our Nation. As the committee 
+report states:
+       The requirement to contribute to universal service is based 
+     on the long history of the public interest, convenience and 
+     necessity that is inherent in the privilege granted by the 
+     government to use public rights of way or spectrum to provide 
+     telecommunications services.
+  The present system, where certain parts of the country indirectly 
+subsidize low-cost service in other areas, will be phased-out.
+  I am also pleased the legislation includes two amendments which I 
+sponsored in committee and one I sponsored on the floor. The two 
+amendments adopted in committee seek to restore a level playing field 
+in two areas: broadcast rates for public, educational and governmental 
+entities--known as PEG access groups; and competition in the pay phone 
+markets. I am disappointed that efforts to refine the payphone 
+amendment were unsuccessful, but I hope that further progress can be 
+made on the subject in conference.
+  As I noted earlier in my statement, there are several provisions in 
+the bill that continue to trouble me. On the floor, I offered and the 
+<strong>Senate</strong> passed an amendment to ensure low income and rural areas are not 
+bypassed as 
+[[Page S8467]] communications companies implement new technologies and 
+services.
+  As the bill moves to conference, I will continue to do what I can to 
+make further improvements and defend against efforts to weaken its 
+provisions protecting consumer interests and assuring free and fair 
+competition.
+  Through this legislation and this debate, we have a unique 
+opportunity to craft a telecommunications policy framework for the next 
+century. Today, Mr. President, each of us is in a sense a pioneer 
+heading out on the new information highway. Each of us is not only a 
+witness to, but a participant in, one of the most amazing technological 
+revolutions in history. We, as legislators, bear a special 
+responsibility to assure that competition in this new era is fair and 
+that every American in this and future generations may enjoy the fruits 
+of this competition. This is truly one of the greatest challenges we 
+face as we enter the 21st century.
+              radio spectrum for law enforcement purposes
+  Mr. HATCH. Mr. President, I share the concerns that have been 
+expressed by others regarding the availability of radio spectrum for 
+law enforcement purposes. I have been contacted by law enforcement 
+organizations across the country, including those in my State of Utah, 
+expressing these concerns.
+  A critical element in the effort to battle crime and to respond to 
+emergencies of all types is the existence of reliable and secure radio 
+communications facilities, which in turn depends on adequate spectrum 
+availability. Yet, current allocations may well be inadequate to meet 
+present needs. Many metropolitan police departments are unable to add 
+new channels to alleviate congestion.
+  Moreover, spectrum space is also needed to bring new technologies 
+online. Just last week, we passed a counterterrorism bill, which 
+included important provisions to increase information sharing between 
+law enforcement. Yet these provisions will be for naught if spectrum 
+space is not available for the deployment of these technologies.
+  I appreciate the commitment expressed by the managers of this bill to 
+address this issue. I know that the Senator from South Dakota, the 
+Distinguished Chairman of the Commerce Committee, shares my concerns. 
+As a former member of the Judiciary Committee, he understands the needs 
+of law enforcement. I understand that he is committed to attempting to 
+resolve these concerns as this legislation moves forward. I look 
+forward to working with him and the Senator from South Carolina on this 
+vital issue as the legislation moves through conference.
+  Mr. BIDEN. I am very concerned that Federal, State, and local law 
+enforcement have adequate spectrum availability, and would like to work 
+with the chairman of the Judiciary Committee and the managers of this 
+bill to ensure that this vital issue is addressed in the conference on 
+this legislation.
+  The reason this is so important is twofold. First, in this era where 
+Federal, State, and local law enforcement often work together we need 
+to maintain spectrum space so that these, and other public service 
+agencies, can communicate with ease and with the most advanced 
+technology available. If we develop better technology to allow the 
+police to talk to each other without the bad guys listening in, we must 
+have the spectrum available to use this technology.
+  Second, we must work to ensure sufficient spectrum space for the 
+myriad technological advances being made in the area of secured 
+communications. I have heard several of the law enforcement leaders in 
+my home State of Delaware raise these key points. So, I believe this is 
+a practical problem that we face in Delaware and around the Nation.
+  We do a disservice to law enforcement and to the American people if 
+we do not provide these public servants with the many benefits of our 
+rapidly advancing telecommunications industry. I look forward to 
+working with my friend from Utah on this important effort.
+  Mr. HATCH. I thank my friend and colleague from Delaware for his 
+support on this issue. As the former chairman of the Judiciary 
+Committee, his strong support of law enforcement is wellknown, and I 
+look forward to working with him in this.
+  Mr. BIDEN. I want to acknowledge and thank my colleagues for their 
+efforts on this issue. In particular, Senator Hatch and the managers of 
+this important legislation, Senator Pressler and Senator Hollings not 
+only for their support of this effort, but also their support of law 
+enforcement.
+  Mr. PRESSLER. I do share my colleagues' concerns, and appreciate the 
+interest of the chairman and ranking member of the Judiciary Committee 
+in this issue. I look forward to working with them on it.
+  Mr. HOLLINGS. I, too, understand these concerns and look forward to 
+addressing them.
+                              CABLE ISSUES
+  Mr. PRESSLER. Mr. President, I would like to engage my colleague from 
+South Carolina in a colloquy on several cable issues. First, it is my 
+understanding that neither section 204(a) of the bill nor the relevant 
+provisions in the Dole-Daschle-Hollings amendment is intended to 
+prevent the FCC and cable operators from entering into ``social 
+contracts'' or other similar arrangements to settle rate complaints, 
+under which the operator agrees to offer a low priced basic tier to 
+offset an increase in the rate for cable programming services.
+  Mr. HOLLINGS. The Senator from South Dakota is correct.
+  Mr. PRESSLER. I thank the Senator. Second, it is my understanding 
+that the reference to comparable video programming, added by the Dole-
+Daschle-Hollings amendment to new section 623(l)(1)(D) of the 
+Communications Act, has the same meaning as it does elsewhere in 
+section 632(l)(1) of the Communications Act and the FCC's regulations 
+defining comparable.
+  Mr. HOLLINGS. The Senator's understanding is correct.
+  Mr. PRESSLER. Finally, I call the Senator's attention to the 
+managers' amendment to S. 652. As amended by the managers' amendment, 
+new section 613(b)(2)(B) of the Communications Act clarifies that a 
+Bell operating company providing cable service as a cable operator 
+utilizing its own telephone exchange facilities is not required to 
+establish a video platform. However, a Bell operating company that 
+provides cable service as a cable operator, whether through its own 
+telephone exchange facilities or otherwise, would be subject to the PEG 
+and commercial leased access requirements of the Communications Act--
+sections 611 and 612--applicable to all cable operators.
+  Mr. HOLLINGS. The Senator accurately states the intent of the bill as 
+amended by the managers' amendment.
+  Mr. PRESSLER. I thank the Senator from South Carolina.
+                            Pole Attachment
+  Mr. MURKOWSKI. Mr. President, I have reviewed the provisions of S. 
+652, as reported, that seek to amend section 224 of the Pole Attachment 
+Act of 1978. As a result of that review, I am deeply concerned that 
+these provisions would have a significantly adverse impact on electric 
+utility ratepayers throughout the Nation. I am particularly concerned 
+that these provisions would require electric ratepayers to shoulder the 
+burden of subsidizing not only cable operators but also telephone 
+companies and telecommunications providers. The amount of money 
+foregone by the bill as reported is not trivial. It amounts to tens of 
+millions of dollars annually, if not hundreds of millions of dollars. 
+Put simply, it is not fair to ask consumers of electricity to subsidize 
+cable operators and telephone companies. In this connection, it is 
+important to point out that this subsidy does not even necessarily go 
+the customers of these companies.
+  From a consumer protection standpoint, I believe the legislation 
+should be amended to ensure that all entities that attach to poles are 
+required to pay a fair and proportionate rate that provides for 
+recovery of the cost of installing and maintaining the entire pole, 
+including the common space. I ask the chairman of the Committee, 
+Senator Pressler, and the ranking minority member, Senator Hollings, 
+whether they have any concerns on this matter and what their plans are 
+to remedy the situation.
+  Mr. PRESSLER. I agree with the Senator from Alaska [Mr. Murkowski], 
+that this is a real concern that needs to be addressed. I believe that 
+many of these concerns are being addressed in the Manager's amendment, 
+but to the 
+[[Page S8468]] extent that they are not fully addressed I will work 
+with you to address them.
+  Mr. HOLLINGS. I concur in the comments of the Senator from Alaska 
+[Mr. Murkowski] and the comments of the Chairman of the Committee, Mr. 
+Pressler.
+                      submitted amendment no. 1320
+  Mr. BROWN. Mr. President, I filed an amendment No. 1320, that 
+addresses the part of the bill which amends existing law regarding pole 
+attachments. Under the bill, all utilities are required to open up 
+their poles, ducts, conduits or rights-of-way to other 
+telecommunications carriers on a cost basis. Of course, there are 
+exceptions to this. I filed an amendment which would have removed that 
+obligation for nondominant telecommunications carriers. In other words, 
+no nondominant telecommunications carrier would have to provide access 
+on a cost basis. Instead, they would offer access on a free-market 
+basis.
+  The reason this amendment was filed is straightforward. I can 
+understand requiring the incumbent monopoly to provide access on a cost 
+basis, since the captured rate payers funded the construction. But, I 
+cannot understand requiring other, competitive providers to provide 
+access on a cost basis--particularly if their business is largely in 
+providing access to those very same conduits on a market basis.
+  There are competitive telecommunications businesses that have laid 
+lines and built a long distance service through hard work and purely 
+private capital. There are telecommunications businesses that have 
+focused on laying conduit or lines for purposes of leasing or selling 
+that capacity. The obvious problem would arise if these businesses that 
+focus on selling capacity lose any chance of profit because they must 
+provide access on a cost basis. I do not think the bill should apply to 
+them, but I am not sure that it does not.
+  I am sure that the intent of this section was not to burden 
+competitive carriers that are in the business of providing capacity. I 
+ask the managers if they agree with me that this was not the intent of 
+the section?
+  Mr. PRESSLER. That is right.
+  Mr. HOLLINGS. I agree with the Senator.
+  Mr. BROWN. The amendment I filed would have exempted nondominant 
+carriers from application. At this time, we will not offer the 
+amendment.
+  The difficulty in this area is that it is unclear whether the bill 
+actually causes an inequitable result and thus whether anything needs 
+to be done. We will take a second look at drafting a solution to this 
+potential problem between passage in the <strong>Senate</strong> and the conference with 
+the House.
+  At this time, I ask the managers of the bill if they will support our 
+effort to solve this potential problem in conference?
+  Mr. PRESSLER. I agree with the Senator from Colorado that there may 
+be a unwanted inequitable result from this section, and I will work to 
+solve this potential problem in conference.
+  Mr. HOLLINGS. I, too, believe there may be a potential problem and 
+will work to solve this problem in conference with the House.
+  Mr. BROWN. I thank the managers for their help on this important 
+issue and commend them for their work on the bill. I yield the floor.
+                           single lata states
+  Mr. PRESSLER. This amendment refers to ``single-LATA states.'' I 
+understand this to cover only states where the LATA and the state are 
+the same--where the state constitutes the entire LATA.
+  Mr. ROTH. That is my understanding as well. The amendment would not 
+exempt those states, like Delaware, that are part of a LATA that 
+includes part of another state.
+  Mr. PRESSLER. I agree with that interpretation of the amendment.
+  Mr. DASCHLE. Mr. President, this debate on S. 652 has clearly 
+demonstrated the potential of emerging telecommunications technologies. 
+It is truly exciting to contemplate what this legislation could mean 
+for American society.
+  A particularly intriguing new development in the telecommunications 
+field is the creation of Personal Communications Services (PCS). These 
+devices will revolutionize the way Americans talk, work and play.
+  While this new technology opens new vistas for personal 
+communications services, its emergence also highlights the potential 
+downside of entering untested areas. Specifically, concerns have been 
+raised about the potential side-effects of some new PCS technology on 
+other devices such as hearing aids.
+  Recently, the government completed an auction that netted $7 billion 
+for the right to provide advanced digital portable telephone service. 
+It is my understanding that some of the companies that obtained these 
+PCS licenses have considered utilizing a technology known as GSM--
+Global System for Mobile Communications. I am informed that people who 
+wear hearing aids cannot operate GSM PCS devices, and some even report 
+physical discomfort and pain if they are near other people using GSM 
+technology.
+  It should not be our intent to cause problems for the hearing 
+impaired in promoting the Personal Communications Services market. It 
+is my view that the Federal Communications Commission (FCC) should 
+carefully consider the impact new technologies have on existing ones, 
+especially as they relate to public safety and potential signal 
+interference problems. An FCC review is in keeping with the intent of 
+S. 652, which includes criteria for accessibility and usability by 
+people with disabilities for all providers and manufacturers of 
+telecommunications services and equipment.
+  Mr. HOLLINGS. Will the Senator yield?
+  Mr. DASCHLE. I would be glad to yield to the honorable ranking member 
+of the Commerce Committee.
+  Mr. HOLLINGS. I thank the Senator for yielding and support his 
+suggestion that the FCC investigate technologies that may cause 
+problems for significant segments of our population before they are 
+introduced into the United States market. Such review is prudent for 
+consumers, and it will help all companies by answering questions of 
+safety interference before money is spent deploying this technology 
+here in the United States.
+  Four million Americans wear hearing aids, and the Senator from South 
+Dakota has raised an important issue. GSM has been introduced in other 
+countries, and problems have been reported. It is reasonable that these 
+problems be investigated before the growth of this technology 
+effectively shuts out a large sector of our population.
+  Mr. DASCHLE. I thank the Senator for his remarks, and would also like 
+to commend his role in bringing telecommunications reform to the floor. 
+His leadership and patience throughout this three-year exercise that 
+has spanned two Congresses is well known and widely appreciated.
+  Mr. President, the public record indicates that if companies are 
+allowed to introduce GSM in its present form, serious consequences 
+could face individuals wearing hearing aids. I would urge the FCC to 
+investigate the safety, interference and economic issues raised by this 
+technology. I also would urge the appropriate congressional committees 
+to consider scheduling hearings on this issue.
+  Mr. PACKWOOD. Mr. President, S. 652 contains what appears to be two 
+checklists--the first is in section 251(b)--and it deals with such 
+issues as interconnection, access, unbundling, resale, number 
+portability and local dialing parity. Section 255, which deals with the 
+removal of the long distance restriction imposed upon the Bell 
+operating companies by the modification of final judgment, has the 
+second checklist in section 255(b)(2). Section 251(b) deals with the 
+very same issues as section 255(b)(2) does, but its requirements are 
+stated in a broader and less specific manner. Is a Bell operating 
+company required to have ``fully implemented'' both the section 251 and 
+the section 255 checklist before the Communications Commission can 
+authorize a Bell operating company to provide interLATA service 
+pursuant to section 251(c)?
+  Mr. PRESSLER. No.
+  Mr. PACKWOOD. When Section 255 makes reference to section 251, is 
+that reference intended to incorporate the minimum standards of section 
+251?
+  Mr. PRESSLER. No.
+  Mr. CRAIG. What is the intended relationship between the section 
+251(b) ``minimum standards'' and the section 255(b)(2) ``competitive 
+checklist'' given that both the ``minimum standards'' and the 
+``competitive checklist'' address many of the same issues?
+[[Page S8469]]
+  Mr. PRESSLER. The competitive checklist is found in section 255(b)(2) 
+and is intended to be a current reflection of those things that a 
+telecommunications carrier would need from a Bell operating company in 
+order to provide a service such as telephone exchange service or 
+exchange access service in competition with the Bell operating company. 
+This competitive checklist could best be described as a snapshot of 
+what is required for these competitive services now and in the 
+reasonably foreseeable future. In other words, these provisions open up 
+the local loop from a technological standpoint as section 254 opens the 
+local loop from a legal barrier to entry standpoint. Section 251's 
+``minimum standards'' permit regulatory flexibility and are not limited 
+to a ``snapshot'' of today's technology or requirements.
+
+
+                      nondiscriminatory treatment
+  Mr. HELMS. Mr. President, may I direct a question to my distinguished 
+colleague from South Dakota regarding a minor technical matter in the 
+Committee amendment?
+  Specifically, I believe a clarification is in order regarding the 
+<strong>Senate</strong>'s intent in changing the heading on page 101 at lines 15 and 16 
+to read ``(2) Non-Discrimination Standards . . ..'' It is my 
+understanding that this amendment is necessary to express clearly the 
+<strong>Senate</strong>'s intent that the nondiscrimination provisions in this paragraph 
+shall apply to transactions of Bell operating companies with all 
+parties, not just other local exchange carriers as incorrectly 
+suggested in the Committee Report.
+  Such nondiscriminatory treatment in procurement, standards-setting, 
+and equipment certification is particularly important to the 
+telecommunications equipment supplier community. Independent suppliers 
+must have the same opportunity to sell to the Bell operating companies 
+as any of their affiliates. This is good for the consumer, good for the 
+suppliers, and good for the telephone companies.
+  Mr. PRESSLER. The understanding of my colleague from North Carolina 
+is correct.
+  Mr. HELMS. I thank my good friend from South Dakota for making this 
+clarification in the bill.
+                           amendment no. 1256
+  Mr. PRESSLER. Mr. President, I understand there is some concern among 
+those in the transportation industry over an amendment agreed to 
+earlier regarding the use of auctions for the allocation of radio 
+spectrum frequencies. Specifically, the amendment would extend the 
+FCC's authority to use auctions for the allocation of radio spectrum 
+frequencies for commercial use. That amendment, which I supported, also 
+includes a provision to exclude so-called ``public safety radio 
+services'' from competitive bidding requirements.
+  I see the sponsor of the amendment on the floor. Will the Senior 
+Senator from Alaska enter a very short colloquy to help me put to rest 
+the concerns over this amendment?
+  Mr. STEVENS. Certainly.
+  Mr. PRESSLER. For purposes of public safety radio services, there are 
+many circumstances when the transportation industry must rely on radio 
+telecommunications to address safety concerns. For example, the 
+railroad industry uses radio spectrum for voice and data communications 
+that are essential to public safety. Freight and passenger railroads 
+rely upon radio communications to transmit authority for train 
+movements, to broadcast emergency warnings, and to seek emergency 
+response in the event of accidents. Indeed, radio communications can 
+often be critical to addressing the safety concerns of many modes of 
+transportation. Does the Senator from Alaska agree with my views?
+  Mr. STEVENS. Yes. The transportation industry's reliance on radio 
+communications can be critical to public safety. The amendment is not 
+intended to impose economic burdens on the transportation industry or 
+other industries when meeting public safety obligations.
+  For example, public safety radio services also include private, 
+internal non-commercial use radio services used to provide reliable and 
+secure communications in the management and operation of utility and 
+pipeline services, like the Trans-Alaska pipeline and other oil, gas, 
+mining, and resource development activities in my state under federal, 
+state, and local statutes, regulations and standards relating to public 
+health, safety or security.
+  Mr. PRESSLER. I thank the Senator. Now, I will yield to the Senior 
+Senator from Oregon, who I understand would also like to comment on 
+this important subject.
+  Mr. PACKWOOD. I thank the Chairman. I wanted to stress that the 
+availability of radio frequencies is critical to technological 
+advancements which enhance transportation safety. For example, the 
+Department of Transportation is currently working with the Union 
+Pacific Railroad and the Burlington Northern Railroad on an important 
+test program to demonstrate the benefits of a new technology using 
+radio spectrum called Positive Train Control. In fact, a 1994 Federal 
+Railroad Administration report to Congress specifically emphasized the 
+importance of radio technology in the development of positive train 
+control.
+  This is just one example of how the radio spectrum can be important 
+to the development of new transportation safety technologies. Since the 
+availability of radio frequencies will be critical to these efforts in 
+the future, I strongly agree with my colleagues the term ``public 
+safety radio services'' includes safety-related communications of 
+railroads and other modes of transportation.
+  Mr. PRESSLER. I concur with the Senator and thank him for his 
+comments.
+  Mr. HOLLINGS. Mr. President, I am concerned that the language in S. 
+652 is unclear concerning the requirements that the regional Bell 
+operating companies [RBOC's] must fulfill before they are permitted to 
+provide interLATA, or long distance service. The entry provisions of 
+section 255(b)(1) require that the RBOC must reach an interconnection 
+agreement and must fully implement the checklist under section 
+255(b)(2). The language is unclear, however, whether the RBOC actually 
+must simply reach an agreement to provide interconnection or whether it 
+must also actually provide such interconnection to a carrier. I would 
+simply clarify that, as one of the principal authors of this 
+legislation, it is my understanding that the legislation requires the 
+RBOC not only to reach an agreement but it must also actually provide 
+such interconnection to a carrier fulfilling the checklist under 
+section 255.
+  I understand that the legislation does not require that the RBOC's 
+comply with both the minimum standards under section 251(b) and the 
+section 255 checklist before being authorized to provide interLATA 
+service. I would clarify one additional point, however, concerning the 
+charges of providing interconnection under section 255. While there is 
+no explicit reference to the charges that the RBOC's may assess for 
+interconnection under section 255, it is my interpretation of the 
+language in section 255 that the RBOC's must provide interconnection 
+under section 255 at charges that are consistent with section 
+251(d)(6). Indeed, while the reference to section 251 in section 
+255(b)(1) is not intended to refer to the minimum standards under 
+section 251, it is intended to include reference to subsection (d)(6) 
+in section 251 concerning the charges for each unbundled element under 
+section 255. I appreciate the opportunity to share this interpretation 
+with colleagues.
+  Mr. FEINGOLD. Mr. President, I rise in opposition to the 
+Telecommunications Competition and Deregulation Act of 1995. Mr. 
+President, I had hoped that, following the adoption of several 
+proconsumer amendments on the floor, that I would be able to support 
+this legislation.
+  I favor increased competition and deregulation of telecommunications 
+markets because true competition benefits consumers by providing them 
+with more choices, lower prices, and improved service. However, Mr. 
+President, S. 652, as it was reported by the Commerce Committee, did 
+not contain adequate assurances that the deregulation of 
+telecommunications markets will result in true competition. And 
+unfortunately, Mr. President, virtually all of the amendments offered 
+on the floor to ensure that this bill would benefit users of 
+telecommunications services were rejected by the <strong>Senate</strong>.
+  Mr. President, I am disappointed about that turn of events because I 
+think there was ample opportunity to [[Page S8470]] make this bill a 
+good bill for consumers, local communities, State governments, and 
+private businesses alike. I regret that the <strong>Senate</strong> took what should 
+have been an opportunity to better serve consumers, and turned it into 
+an obstacle to greater true competition in telecommunications.
+  The amendment offered by the Senator from North Dakota, Senator 
+Dorgan, and the Senator from South Carolina, Senator Thurmond, was 
+among the most critical amendments offered to improve this bill. That 
+amendment would have included in the legislation a strong 
+decisionmaking role for the Antitrust Division of the Department of 
+Justice in the approval of the regional Bell operating companies 
+[RBOC's] entry into long distance telecommunications markets. It was an 
+attempt to rectify the inadequate long distance entry provisions 
+contained in the bill.
+  Mr. President, while the bill did attempt to provide protections for 
+consumers, such as the competitive checklist and the public interest 
+test, there was still a distinct need for review by the Antitrust 
+Division of the Department of Justice. The competitive checklist in S. 
+652 only ensures that certain technical and legal barriers to 
+competition in the areas served by the Bell monopoly have been 
+eliminated prior to the RBOC entry. This checklist does not require 
+that competition actually exist in local markets dominated by the 
+RBOC's before they are able to use their substantial market power to 
+enter long distance markets.
+  The power of the local monopoly is without equal in 
+telecommunications markets. The advantages provided to them over
+ those with lesser market power, fewer resources, and limited 
+opportunities to control entry by their competitors are without bounds. 
+We must keep in mind that competition in both local and long distance 
+markets cannot exist when one player has substantially greater market 
+power than his/her rivals.
+  S. 652 also prohibits the Federal Communications Commission, the 
+agency required to enforce the competitive checklist, from expanding on 
+the criteria contained in the checklist. If Congress has overlooked 
+crucial criteria with respect to barriers to entry, FCC would be unable 
+to consider it. At the same time the bill limits FCC's role, it 
+provides absolutely no role for the Department of Justice which is the 
+agency responsible for the competition that exists today in long 
+distance markets. Senators Dorgan and Thurmond worked hard to rectify 
+that inadequacy by offering an amendment giving the Department the 
+authority to approve individual RBOC applications to enter long 
+distance markets. Mr. President, that crucial amendment failed.
+  The absence of a sound antitrust review of RBOC applications to offer 
+long distance service means there is little assurance that the benefits 
+consumers have realized in a competitive long distance markets will not 
+evaporate if this bill becomes law.
+  And Mr. President, if the absence of a DOJ role did not provide 
+adequate reason to oppose this bill, the rejection of a substantial 
+number of basic proconsumer amendments only added to my opposition.
+  Mr. President, this bill repealed much of the cable rate regulation 
+established in the 1992 Cable Act, a law enacted in response to 
+consumer outcries about skyrocketing cable rates. The Senator from 
+Connecticut [Mr. Lieberman] offered an amendment which would have 
+merely provided an accurate yardstick to measure whether a cable 
+company's cable rates were out of line and should be subject to 
+regulation. That amendment was tabled.
+  An amendment offered by the Senator from California [Mrs. Boxer] 
+would have provided some assurance that channels currently included as 
+part of a consumers' basic tier cable service, which remain under 
+Government regulation, would not be moved into more costly upper tier 
+packages, which will be deregulated under this bill. S. 652, in its 
+current form actually provides an incentive to move channels offered as 
+part of a basic package into the unregulated upper tier packages for 
+which cable companies can now charge higher rates. Senator Boxer's 
+amendment was tabled.
+  The Senator from Nebraska [Mr. Kerrey] offered several very good 
+amendments on this bill. One very simple amendment would have merely 
+required that a consumer representative sit on Federal-State Joint 
+Board on Universal Service, the board which will study existing 
+universal service support mechanisms and make recommendations about how 
+to preserve and advance universal telecommunications service. It seems 
+entirely appropriate that rural consumers be guaranteed representation 
+on this board. Senator Kerrey's amendment was tabled.
+  The package of leadership amendments that was approved earlier this 
+week by the <strong>Senate</strong> eliminated virtually all restrictions on the number 
+of radio stations one entity might own raised a number of concerns 
+about undue market concentration in broadcasting. While I voted for 
+that package of amendments because it contained a prohibition on cable/
+telephone company cross ownership, I remained concerned about the radio 
+ownership provisions in the package. The Senator from Illinois [Mr. 
+Simon] attempted to increase the number of stations one entity might 
+own by 150 percent from current law rather than lifting the 
+restrictions entirely. His effort was designed to ensure that this bill 
+did not actually result in less competition in radio broadcasting. His 
+amendment was rejected.
+  Mr. President, the list of defeated proconsumer amendments goes on. I 
+was astonished by the rejection of some of these amendments which were 
+intended to benefit consumers and protect them from potentially 
+anticompetitive practices of some within the telecommunications 
+industry. I have wondered if my colleagues have forgotten that the 
+reason we are attempting to encourage grater competition through 
+deregulation is to benefit consumers, not the competitors themselves. 
+This bill might be very good for telecommunications business interests, 
+but it is not good for consumers.
+  In addition, Mr. President, I am very disturbed by the passage of an 
+amendment yesterday, offered by the Senator from Nebraska [Mr. Exon] 
+which I believe contains an unconstitutional provision. I spoke at 
+great length yesterday about my specific concerns with that amendment.
+  Mr. President, it is with disappointment that I must oppose S. 652. 
+However, the outcome of the floor action on this bill, leaves me very 
+little choice.
+
+
+       legislative history language on ownership cap/attribution
+  Mr. PRESSLER. Mr. President, In raising the ownership cap to 35 
+percent of the Nation's TV households immediately, with a biennial 
+regulatory reform review, it is our intent to permit broadcast 
+companies to achieve greater operational efficiencies through expanded 
+group ownership of television stations. There is a danger, however, 
+that future changes to the FCC's attribution rules--for example, 
+prospectively or retroactively restricting the availability of the 
+single majority shareholder exemption or attributing nonvoting stock--
+could cause some ownership interests not now covered by the cap to fall 
+within the scope of this regulation. Such a result could seriously 
+undermine the goal that we are seeking to advance through adoption of 
+this legislation. Accordingly, the committee expects the FCC to avoid 
+the adoption of more onerous or restrictive attribution policies that 
+would reduce the national station ownership potential of individual 
+companies below the level that would be permitted under a 35-percent 
+cap utilizing the attribution rules that are currently in effect.
+                   promoting the use of telecommuting
+  Mr. SPECTER. Mr. President, I have sought recognition to speak more 
+fully about my amendment on telecommuting, which passed the <strong>Senate</strong> 
+yesterday by voice vote. My amendment directs the Secretary of 
+Transportation to research successful telecommuting programs and to 
+inform the general public as to the types of telecommuting programs 
+that are succeeding and the benefits and costs of such programs. This 
+amendment is appropriate in the context of the pending bill, which 
+accelerate the deployment of advanced telecommunications and 
+information technologies.
+  As my colleagues are aware, telecommuting is the practice of allowing 
+people to work either at home or in nearby centers located closer to 
+their home during their normal working [[Page S8471]] hours, 
+substituting telecommunications services, either partially or fully, 
+for transportation to the traditional workplace. I believe that it is 
+in the national interest to encourage the use of telecommuting because 
+it can enable flexible family-friendly employment, reduce air 
+pollution, and conserve energy. Further, as a Senator from a State 
+which has major urban areas like Pittsburgh and Philadelphia, I 
+recognize there is a real need to improve the qualify of life in and 
+around America's cities.
+  According to a July, 1994, Office of Technology Assessment report, 
+between 2 to 8 million American workers already telecommute at least 
+part time. A 1994 survey by the conference board found, however, that 
+in 155 businesses nationwide, only 1 percent of employees telecommute, 
+although 72 percent of the businesses had such an option.
+  According to the Office of Technology Assessment, the most 
+significant barriers to telecommuting are business and worker 
+acceptance and costs. This legislation responds to the need to broaden 
+public awareness of the benefits and costs of telecommuting, and to 
+identify and highlight successful programs that can be duplicated.
+  I believe telecommuting is profamily. I have seen several news 
+articles which featured working mothers and other parents who endorse 
+telecommuting as benefiting child care and flexibility generally. One 
+General Services Administration employee who now telecommutes was 
+interviewed for a June 11, 1995, Washington Post article remarked, ``I 
+just wish they had this much sooner, when my kids were little.''
+  Telecommuting should also appeal to computer-literate younger 
+Americans, such as those described as Generation X, for whom a balance 
+between work and lifestyle is very important. This new generation of 
+American workers is the most adept at utilizing computers and should 
+welcome the opportunity to spend less time commuting and more time 
+pursuing other interests.
+  It is also important to note that some physically impaired 
+individuals are able to obtain jobs thanks to their ability to 
+telecommute. An April 23, 1995, Boston Globe article detailed a pilot 
+project in Massachusetts, where physically impaired individuals such as 
+the legally blind and quadriplegics do transcription work for doctors 
+and hospitals. One women who suffered
+ crippling injuries in an automobile accident noted that she never 
+thought she'd work again, but that this new telecommuting program ``is 
+like a gift sent from heaven.''
+  Telecommuting should be of interest because of its potential 
+implications for transportation, particularly the mitigation of traffic 
+congestion. The Energy Department issued a report in June, 1994, in 
+which it stated that telecommuting and its benefits will be 
+concentrated in the largest, most congested urban areas, with 90 
+percent of the benefits accruing to the 75 largest American cities. 
+Thus, the greatest benefits will occur where they are most needed. 
+Reflecting the direct effects of telecommuting on transportation, the 
+Department of Transportation has reported that in 1992, telecommuting 
+saved 2 million Americans an estimated 3.7 billion vehicle miles, 178 
+million gallons of gasoline, and 77 hours of commuting time each. The 
+Department also estimated that telecommuting would lead to reductions 
+of hydrocarbons and nitrogen oxides on the order of 100,000 tons in the 
+year 2002 and 1 million tons of carbon monoxide. Rural areas should 
+also benefit from a broader use of telecommuting because more 
+employment opportunities would be available through the information 
+superhighway.
+  My amendment is simple and straightforward. It directs the Secretary 
+of Transportation to identify successful telecommuting programs used by 
+Government agencies and companies and publicize information about such 
+programs in order to broaden public awareness of the benefits of 
+telecommuting. The Secretary would carry out this directive in 
+consultation with the Secretary of Labor and the Administrator of the 
+Environmental Protection Agency, so that work force and environmental 
+concerns will be taken into account. The Secretary of Transportation 
+would also be required to report to Congress on his findings, 
+conclusions, and recommendations with respect to telecommuting within 1 
+year of enactment. Using such information, Congress may consider 
+whether additional legislation to promote telecommuting is warranted or 
+desirable.
+  I ask unanimous consent that the texts of the Washington Post and 
+Boston Globe articles I have mentioned be printed in the Record.
+  There being no objection, the articles were ordered to be printed in 
+the Record, as follows:
+               [From the Washington Post, June 11, 1995]
+                Federal Workers Test Drive Telecommuting
+                           (By Todd Shields)
+       In a federal office in Waldorf, Julie Jones occupies 
+     workstation 13. Chrissie Edelen sits right beside her, in 
+     mirror-image No. 14.
+       Their cubicles are bereft of humanizing touches, bare of 
+     the snapshots or photocopied cartoons that might proclaim 
+     that a person is in the bureaucrat's seat.
+       They'll go all day without walking down the hall to a 
+     meeting.
+       They'll not be visited by a boss, and no colleague will 
+     drop in for a chat.
+       Office grumps? Strange ascetics?
+       Certainly not. They are happy telecommuters, using their 
+     cubicles in Southern Maryland once a week, on the blessed day 
+     when they don't devote two or three hours to the simple act 
+     of getting to and from work. And that, they certainly love.
+       ``The morale is excellent,'' said Edelen, a graphic artist. 
+     ``I feel more relaxed. You're not fighting traffic. . . . You 
+     just feel better.''
+       Edelen and Jones, a paralegal, are early beneficiaries of a 
+     pilot program that may spare tens of thousands of federal 
+     workers enervating commutes while boosting productivity and 
+     cutting air pollution.
+       The women are among 56 workers who spend one or two days a 
+     week at the InTeleWorkNet Center, a 14-station office suite 
+     replete with computers, faxes, printers and other equipment. 
+     The center, set up with money from the General Services 
+     Administration, is one of five on the fringes of the 
+     Washington area, where federal commuters face particularly 
+     grueling trips.
+       Proponents see the centers as forerunners of scores of 
+     similar stations that would dot the area, in essence bringing 
+     many workplaces within a short drive or even a bicycle ride 
+     of workers' homes. The GSA, which is using the Washington 
+     area as its prototype, expects to expand the program 
+     nationwide, fostering ``telework'' centers for 60,000 federal 
+     employees by 1998.
+       The federal pilot, funded by a $6 million appropriation 
+     through late 1996, is one of several initiatives to bring 
+     telecommuting--working at a distance from the usual office--
+     to government workers in the Washington area.
+       Fairfax, Arlington and Montgomery county governments all 
+     have begun small pilot programs for their staffs to work from 
+     home. The Metropolitan Washington Council of Governments, a 
+     regional planning agency, envisions four work centers in 
+     Virginia an done in the District for private and public 
+     workers. And this year, Maryland is to launch a three-year 
+     pilot program for state employees, who would work at home.
+       The programs are initial steps toward a transformation 
+     already well begun in the private sector. Estimates of the 
+     number of telecommuters in the United States begin at 5 
+     million, yet the federal government, with its 2.8 million 
+     employees, has only 3,000 workers enrolled in telecommuting 
+     programs. By comparison, one regional telephone company 
+     alone, Bell Atlantic Corp., has 2,000 telecommuting 
+     employees. Public or private, the programs' impetus is the 
+     same. Planners and executives look around and see the same 
+     things workers by the legion experience--bad air, traffic 
+     jams and stress-filled schedules that commonly have workers 
+     leaving home before dawn and placing their children in the 
+     care of others in eerily empty suburbs.
+       ``You wonder: My God? Isn't there a better way to do 
+     this?'' said Warren Master, head of the GSA pilot project.
+       Master speaks with the zeal of the converted, sketching 
+     aloud plans for work centers that play host to both 
+     government and private employees and that attract the broader 
+     public with copying shops, Internet access and services such 
+     as Veterans Affairs counselors or Internal Revenue Service 
+     advisers.
+       For the time being, though, the benefits go primarily to 
+     people such as Jones, the paralegal. A resident of Clinton, 
+     in southern Prince George's County, she usually commutes more 
+     than an hour to Defense Mapping Agency offices in Merrifield 
+     or Bethesda. On Wednesdays, she travels a few miles south 
+     against traffic to reach the Waldorf center in 15 minutes or 
+     less.
+       The hours saved leave more time with her husband and 22-
+     month-old son. But Jones was surprised to find an added plus: 
+     She can accomplish far more at the Waldorf center, where she 
+     has all the equipment she
+      needs without the countless distractions of big-office life, 
+     she said.
+       ``It makes things easier,'' Jones said. ``It's just the 
+     same as if I'm working at my desk in Merrifield or Bethesda, 
+     except I don't have as many interruptions.'' [[Page S8472]] 
+       Jones and Edelen, who works for the Federal Highway 
+     Administration, said they save large, complex tasks for their 
+     telecommuting days. Being able to work without interruption 
+     is a relief. ``It's off my brain,'' Jones said, ``and I'm on 
+     to something else.''
+       The Waldorf workers have experienced what telecommuting 
+     consultants and advocates long have contended: that 
+     teleworkers are more productive. Studies document increases 
+     of 15 percent to 25 percent, said Master, of the GSA.
+       But telecommuting still can be a tough sell, said Jennifer 
+     Thomas, program director at the GSA's telecommuting center in 
+     Fredericksburg, VA., which opened its second branch last 
+     month.
+       ``Some kind of grumpy middle manager will say, `How do I 
+     know this person's not goofing off?''' Thomas said. Her 
+     center advises the managers to judge by results. So far, she 
+     said, the center has received only positive feedback from 
+     workers and their managers.
+       Despite the good reviews and the affected workers' 
+     adulation--virtually all Waldorf teleworkers surveyed by the 
+     University of Baltimore's Schaefer Center for Public Policy 
+     thought the arrangement improved morale and their quality of 
+     life--the centers' future is by no means assured.
+       ``Once the funding runs out on these pilots, they, of 
+     course, have to be self-sufficient,'' Master said. When 
+     subsidies drop away, the charge to agencies that rent the 
+     computer workstations will increase. Master said agencies 
+     still could save money if they reduce the number of desks in 
+     central offices, to take account of telecommuters.
+       One person who hopes the centers will succeed is Ruth Ann 
+     Campbell, a GSA budget analyst who for 28 years has endured 
+     commutes of as far as 42 miles from her home in La Plata. Now 
+     she revels in the opportunity to drive just 10 miles north of 
+     the Waldorf center.
+       ``My family and friends think I'm much nicer,'' she said 
+     during a break in the work center's small video-conferencing 
+     room. ``I'm not only happier on Wednesdays, I'm happier 
+     because I'm looking forward to next Wednesday. . . .
+       ``I just wish they had this much sooner, when my kids were 
+     little.''
+                                                                    ____
+                 [From the Boston Globe, Apr. 23, 1995]
+             Quadriplegics Get Help in Work-at-Home Program
+                           (By Andrew Blake)
+       When Mary M. Palermo suffered crippling back injuries after 
+     an automobile accident in Revere in the summer of 1992, she 
+     thought she would never be able to work again--certainly not 
+     as a waitress or in an office.
+       In some respects she was right. She says she can't commute 
+     to work because of back pain. But under a program just 
+     gearing up at Melrose-Wakefield Hospital, Palermo will 
+     ``tele-commute'' as she and several others work for doctors 
+     at the hospital via computer, without leaving their homes.
+       ``For me this is like a gift sent from heaven,'' said 
+     Palermo, 42, of Revere.
+       ``I started getting assignments for transcriptions on April 
+     4 and the best part is I can work at home at my own pace,'' 
+     she added.
+       One doctor at the hospital has been using the new service 
+     since February. Several more physicians employed by the 
+     hospital or affiliated with it are expected to start using 
+     the service within a week or two.
+       Doctors dictate their patient medical notes, progress notes 
+     or surgical notes into a Dictaphone. The notes are then heard 
+     by a transcriptionist at his or her home, typed into a home 
+     computer and sent back to the hospital or doctor.
+       The program, which allows physically impaired people 
+     including the blind, to do transcription work for doctors and 
+     hospitals, originated at Boston University's Helping Hands 
+     project, best known for its work in training monkeys to help 
+     quadriplegics. It is funded in large part by a $50,000 grant 
+     from the State Department of Employment and Training.
+       M.J. Willard, executive director of Helping Hands, 
+     affiliated with Boston University's Medical School, described 
+     this pilot project ``as diversification of the original 
+     program.''
+       The idea came about, she said, after talks with the 
+     Massachusetts Rehabilitation Commission, the Massachusetts 
+     Commission for the Blind and Gov. Weld's Telecommuting 
+     Initiative. A variation on the program is working in 
+     California, she said.
+       ``Over the summer, working with people referred by state 
+     agencies and scored for compatibility with home transcription 
+     work, a dozen trainees learned medical terminology, learned 
+     how to use computers and communication modems and software 
+     programs for writing and communication by computer.
+       ``Not surprisingly, we discovered the very reasons that we 
+     set up the program were causing problems for the students--
+     commuting,'' she explained.
+       The classes at BU were scaled back to once a week and then 
+     the students could learn by communicating with their 
+     computers. While BU provided the class space and 
+     administrative help, Willard said IBM donated computers and 
+     modems, the Dictaphone company donated some Dictaphones and 
+     deeply discounted others, Willard explained. And the state 
+     paid the salary for the instructor.
+       ``We had contacted 82 hospitals and transcription companies 
+     to gauge their interest. Thirteen expressed interest but 
+     Melrose-Wakefield Hospital expressed deep commitment in 
+     making this happen, so we went with them,'' said Willard.
+       At the hospital, Jackie Valente, director of medical 
+     management, said the Helping Hands project could not have 
+     come at a better time. An increasing number of physicians 
+     need faster and more efficient transcription services.
+       ``We see this expanding to 50 or so physicians with about 
+     one transcriptionist for every three doctors,'' said Valente.
+       Right now, she added, Dr. Khaleet Beeb is working with a 
+     transcriptionist to establish formats and to work out kinks 
+     in the system. For the moment, the transcriptionist first 
+     sends the transcribed reports to a proofreader working at 
+     home in Quincy, who checks for correct medical terminology 
+     and then sends it to Beeb at the hospital.
+       Three more transcriptionists she said, including Palermo, 
+     are about to start possibly as early as this week. One is in 
+     Dorchester and the other lives in Watertown.
+       One of the physicians about to use the program is Dr. 
+     Joseph L. Pennacchio, a Revere native who is president of the 
+     medical staff at Melrose-Wakefield Hospital.
+       ``This sounds like a good program. I can definitely see 
+     advantages. With this service we can better document our 
+     notes, communicate faster for the benefit of patients and get 
+     more detailed information to us more efficiently,'' said 
+     Pennacchio.
+       The system currently used by doctors to have their notes 
+     transcribed relies heavily on commercial transcription 
+     services and free-lance transcriptionists who stop by the 
+     hospital or doctor's office to pick up tapes. The person then 
+     listens to the tapes, transcribes the information on a 
+     typewriter and then carries the material back to the 
+     hospital. That can take days or weeks, according to Valente.
+       Under the telecommuting system she expects the turnaround 
+     time to be greatly reduced.
+       ``People can work at their homes at midnight or 3 a.m. if 
+     they feel like it or they can tend to their children and 
+     start work any time they like. The more they work, the more 
+     they earn,'' she added.
+       The homebound computer transcriptionists will be paid 7 
+     cents a line. They can work as much as or little as they 
+     like, and much will depend on how extensive a doctor's notes 
+     are on any given assignment, she explained.
+       Palermo, originally from Watertown, N.Y., and with a degree 
+     in English, came to the North Weekly region about 19 years 
+     ago on assignment from the Social Security Administration to 
+     the Lynn office.
+       Later she worked as a waitress at Durgin Park in Boston, 
+     ``where I was entertaining people for 12 hours a day. So I 
+     decided to be a stand-up comic, where I only had to be funny 
+     for 5 minutes.''
+       ``When the accident happened I was in the process of 
+     thinking about a work change. I never imagined I'd be working 
+     at home with a computer,'' she said.
+   restriction on in-region mergers of telephone and cable companies
+  Mr. THURMOND. Mr. President, I rise to commend the leadership and the 
+managers of the telecommunications bill, S. 652, for the amendment 
+which was made to ensure that potential competition between telephone 
+companies and cable companies will be maintained for the benefit of 
+consumers. Until this amendment was made, I had serious concerns about 
+S. 652 removing the current prohibition on mergers between local 
+telephone exchange carriers and cable companies in their service 
+regions, subject only to standard antitrust scrutiny. I was prepared to 
+offer an amendment to the original language in the bill because it 
+lessened the likelihood of vigorous competition developing between 
+telephone and cable companies, with each offering the services of the 
+other.
+  As the chairman of the Judiciary Committee's Antitrust, Business 
+Rights, and Competition Subcommittee, I am particularly pleased that 
+the amendment adopted to restrict telephone-cable mergers contains a 
+savings clause which makes absolutely clear that the antitrust laws are 
+maintained and will be applied by the antitrust enforcement agencies. 
+Thus, even if the FCC grants a waiver as permitted in the amendment or 
+a merger comes within the rural exception, the Department of Justice 
+and the Federal Trade Commission still have the authority and the 
+obligation under the law to consider whether any telephone-cable 
+merger, acquisition, or joint venture violates the antitrust laws.
+  Mr. President, antitrust analysis by the antitrust authorities is 
+critical to promote competition between the two wires--cable and 
+telephone--that already run to the home, and avoid a single monopoly 
+provider of both cable and telephone services, which would result in 
+higher cable and telephone prices for consumers.
+  I am pleased that an agreement was reached in this area and that this 
+amendment is now part of the bill.
+                         rural health providers
+  Mr. ROCKEFELLER. Mr. President, I want to take a few moments to talk 
+about how the Snowe-Rockefeller provision in the bill before us today 
+will assure rural residents that when it comes to their health care 
+they will have the same advantages as urban residents.
+  A shortage of family doctors, pediatricians, nurse practitioners, and 
+other primary care providers has been a chronic problem in rural areas. 
+Access to a medical specialist has been practically nonexistent unless 
+a rural citizen was willing and able to travel, sometimes a very long 
+distance, to be treated.
+  Telemedicine is a telecommunications technology that can address both 
+these problems, and at the same time, save money for both patients and 
+health care facilities. Patients save because they can be treated in 
+their own hometown rather than being referred to an out-of-town 
+specialist. This saves them transportation and overnight accommodation 
+costs.
+  Patient cost-sharing payments will also be less if a patient can be 
+treated locally rather than transported to a referral or specialty 
+center. The costs of a local, rural hospital are generally lower than a 
+teaching or specialty hospital. In those cases when a patient must be 
+transferred for specialty care, the availability of telemedicine 
+consultations can speed up when a patient can be transferred safely 
+back home.
+  Mr. President, a major difficulty in recruiting doctors and other 
+health care providers to rural areas is the professional isolation, the 
+heavy workload, and little or no back-up medical support. Telemedicine 
+can provide lifesaving back-up support for medical emergencies which 
+eases the minds of patients and their families and the doctor taking 
+care of the patient. Telecommunication hookups can reduce the sense of 
+professional isolation and provide for continuing education 
+opportunities. And, over the long run telemedicine can increase 
+training opportunities for health care professionals at rural sites, 
+increasing the chances a doctor or nurse will return to practice in a 
+rural community.
+  Mr. President, in West Virginia and all across the country, rural 
+hospitals are finding it increasingly difficult to retain patients in 
+the community because specialty physicians have a hard time diagnosing 
+a patient's condition over the phone based only on a verbal description 
+of the problem by the rural physician. Now with telemedicine, many of 
+those rural hospitals can safely and effectively care for
+ their patients instead of referring them elsewhere.
+  For example in West Virginia, a medical student and a primary care 
+doctor consulted with the chief of neurology at West Virginia 
+University about an elderly Medicare patient. The chief neurologist was 
+able to diagnose the patient's medical condition through telemedicine 
+technology. This saved the patient a 138-mile trip over mountainous 
+terrain to West Virginia University Hospital. The patient instead was 
+able to be treated at the rural hospital and ended up saving the 
+Medicare Program $2,500.
+  And, of course, when minutes, even seconds, count, having the instant 
+availability of emergency consultations can literally mean the 
+difference between life and death. Just last week in West Virginia, an 
+emergency medical resident staffing a rural hospital emergency room had 
+to treat a patient with a broken neck. The medical resident had never 
+treated a broken neck before, but because the rural hospital had 
+telemedicine capabilities, Dr. John Prescott, the chief of emergency 
+medicine at West Virginia University was able to immediately consult 
+with the doctor on the appropriate treatment protocol. The patient was 
+stabilized and later transferred to a referral hospital.
+  Our amendment will help bring down a significant financial barrier to 
+the development of telecommunications technology in rural areas: the 
+costs of transmission. While the basic start-up costs for acquiring 
+telemedicine technologies are coming down, transmission costs remain 
+unaffordable. A small, rural hospital in West Virginia reported that 
+the estimated charge for a T1 line to allow them to hook up with a 
+larger hospital for administrative and quality assurance support was an 
+unaffordable $4,300 a month.
+  The West Virginia University which started a pilot telemedicine 
+project 5 years ago, recently solicited bids for carrier services; 
+three companies bid for the service. The winning bid's monthly charges 
+ranged from $475 a month to $2,200 a month. The highest monthly charge 
+of $2,200 was for a telecommunications hookup with a small rural health 
+center in Greenbrier County, WV with the closest teaching hospital in 
+the area.
+  The cost of transmission must be lowered if telemedicine is to become 
+economically feasible for many rural communities. Right now the West 
+Virginia telemedicine project is funded by Federal grant dollars. This 
+is true for hundreds of telemedicine projects all across the country. 
+Congress with enthusiastic bipartisan support has encouraged the 
+development of telemedicine technologies all across the country. The 
+Government has provided seed money for telemedicine, but unless we make 
+sure that telecommunication transmission costs are affordable over the 
+long run, many rural health care
+ providers won't be able to continue with these very important 
+projects.
+  Tommy Mullins, a hospital administrator for a small rural hospital in 
+West Virginia, recently told my staff that ``the $2,000 per month 
+service charge for the T1 is more than I spend for educational programs 
+for my entire staff of 150 employees. If we did not have the grant 
+money to pay for the monthly charge we could not maintain the hookup.''
+  Mr. President, our amendment is carefully targeted to health care 
+facilities that are providing health care services in rural areas. We 
+have also specifically included academic health centers, teaching 
+hospitals, and medical schools in our amendment. These institutions 
+have been essential partners with rural health providers in planning 
+and creating rural health telemedicine networks and have been leaders 
+in initiating rural health networks. Rural health care providers are 
+generally so overloaded with patient care demands that it is difficult 
+for them to spend the time planning and coming up with the resources to 
+implement a telemedicine program.
+  In addition, academic health centers bring health professions 
+training programs and continuing education programs to the rural health 
+network which reduce professional isolation for the rural health care 
+providers. Finally, it promotes an increased understanding and 
+sensitivity on the part of the academic health center to many aspects 
+of rural health care.
+  Mr. President, I am extremely pleased and relieved that the amendment 
+I sponsored with the Senator from Maine, Senator Snowe, was not 
+stricken from the telecommunications bill. I believe that our provision 
+will have a tremendous positive effect on rural health care. We are 
+already seeing amazing results in terms of quality of care and in 
+improving access to primary and specialty care in rural areas as a 
+result of telemedicine. This amendment will make sure that the 
+important progress we have made in rural health care will continue and 
+expand.
+ limiting access by children to inappropriate materials on the internet
+  Mr. ROBB. Mr. President, as you know, the Internet is a remarkable 
+development that has transformed the way people communicate. On the 
+Internet, you can converse on-line with family, friends, and associates 
+across the globe, search untold numbers of data bases on every 
+imaginable subject, and share ideas with millions with the push of a 
+button. The Internet is an enormous highway with few rules. Its 
+simplicity is part of its appeal. But its lack of rules is also a 
+source of considerable concern, because of the widespread availability 
+of materials on the Internet that are entirely inappropriate for 
+children.
+  Certainly one option is to impose stricter legal penalties for 
+putting offensive materials on the net, and the provisions in the bill 
+accomplish this. I am concerned about these provisions, however, 
+because they challenge first amendment rights and undermine one of the 
+freest, most spontaneous communications media ever devised.
+  Another approach is to pursue a technological solution. Parents can 
+block [[Page S8474]] cable TV channels they deem inappropriate for 
+children. We need similar controls for the Internet and other 
+electronic communications media.
+  Some Internet providers are offering schools a service that denies 
+access to unsuitable Internet sites. One software vendor is now 
+offering a service which identifies and, if a parent desires, filters 
+out inappropriate materials on the Internet. These are encouraging 
+steps, and I hope industry will continue to develop and market such 
+services. These services must be purchased, however, and will not come 
+cheap for all Internet users. Hence a more ubiquitous fix is needed.
+  Another option, addressed in this amendment, is to include a ``tag'' 
+or ``marker'' in the filename of Internet text or graphics of a mature 
+nature. For example, if an Internet user is preparing to post a file 
+that is of a mature nature, he or she can include a tag such as 
+``adult'' or ``mature'' in the file name. Similarly, he or she can put 
+this tag in an address--essentially this would mark all files under 
+that address as inappropriate for children. It is then a simple matter 
+for programmers who develop the software that connects users to the 
+Internet to include an optional parental block to filter out all such 
+files. Teachers could use the filter as well.
+  This amendment simply encourages the Internet community to self-
+regulate its behavior by adding tags to files that are inappropriate 
+for children. It does not mandate such tags, Mr. President. The 
+amendment encourages vendors of software that links users to the 
+Internet to include a parental block to filter out the tagged files. 
+Finally, it requires the Department of Commerce to promote the program 
+and GAO to study whether the voluntary tags are effective after one 
+year. This amendment does not conflict in any way with the indecency 
+provisions in the bill.
+  I should note that one industry initiative, announced Monday, 
+involves putting a ``stamp of approval'' on materials judged 
+appropriate for children, where parents can then choose to let their 
+children see only those approved materials. Since the vast majority of 
+material on the Internet is entirely appropriate for children, it is 
+unclear how this idea can be implemented practically. It is nonetheless 
+a useful initiative and complements the approach of this amendment.
+  This amendment offers only a partial fix, but in concert with 
+appropriate legal penalties and other technical approaches, it will 
+help address a very serious problem.
+                                bellcore
+  Mr. LAUTENBERG. Mr. President, it is my understanding that the 
+interested parties to the Bellcore issue raised during the debate on 
+the manager's amendment have come to an agreement on a statement of 
+goals that outline a mutually agreeable solution to the issue. The 
+parties intend to negotiate legislative language to be included in the 
+final bill.
+  I ask unanimous consent that the statement of goals be printed in the 
+Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+ Statement of Goals for Amendment on Standards-Making and Certification
+       In addition to the provisions in S. 652 regarding Bellcore 
+     manufacturing, the parties agree to negotiate an amendment 
+     for adoption in the final act that will:
+       Ensure that entities engaged in industry-wide 
+     telecommunications equipment standards-making use open and 
+     non-discriminatory procedures.
+       Ensure that any entity that is an affiliate of more than 
+     one Bell operating company will engage in open, fair, and 
+     non-discriminatory establishment of generic network 
+     requirements intended to be a significant reference point for 
+     more than one Bell operating company in their product 
+     specifications, standards-making, and product certification 
+     for hardware, software, and related products when such 
+     company undertakes an activity for more than one company.
+       Ensure that Bellcore, if no longer an affiliate of any Bell 
+     operating company, will not be considered a Bell operating 
+     company, or a successor or assign of a Bell operating 
+     company.
+       Ensure that the Bell operating companies have choices in 
+     awarding contracts for the purpose of establishing product 
+     and service standards and requirements.
+       Ensure that vendors selling telecommunications equipment to 
+     Bell operating companies have opportunities to have their 
+     equipment certified under circumstances that are open, fair, 
+     and non-discriminatory.
+       Ensure that proprietary information submitted in the 
+     standards-making and certification processes is not released 
+     for any purpose other than that authorized by the owner of 
+     such information.
+  Mr. LAUTENBERG. It is my desire that the parties conclude these 
+negotiations in a timely manner. I will support the product of the 
+negotiations and urge that the <strong>Senate</strong> accept that product in the final 
+version of this bill. Finally, I would like to thank the Senator from 
+North Carolina for helping to bring the parties back to the negotiating 
+table.
+  Mr. FAIRCLOTH. I concur with the Senator's statement. It is in 
+everyone's best interest to seek a negotiated settlement. I thank the 
+Senator for his work in getting the parties to agree to the statement 
+of goals. It is an important first step. I understand that the 
+statement of goals is acceptable to all Senators that have expressed an 
+interest in this issue, including Senators Helms, Bradley, Dorgan, 
+Exon, and Kerry. I also understand that the statement of goals is 
+acceptable to the managers of the bill, and that the managers are 
+amendable to including the negotiated legislative language in the final 
+bill.
+  Mr. PRESSLER. Mr. President, I shall stop speaking the minute either 
+the Majority Leader or Minority Leader walk in the door. I wanted to 
+take this time to make my concluding remarks.
+  I think this bill will result in lower telephone rates, lower cable 
+rates, and more services to the American people. I think this is a very 
+exciting era, and this bill an historic opportunity. I hope the House 
+acts quickly, and I hope we have a conference as soon as is 
+practicable. I hope a Conference Report can be adopted by both the 
+House and the <strong>Senate</strong>, and I hope the President will sign the bill.
+  The intention of this bill is to get everybody else into everybody 
+else's business. It is to promote competition and to deregulate. It has 
+been a struggle because almost everybody in the industry says they are 
+for deregulation. Yes, they say they are for deregulation, but they 
+usually mean deregulation of the other guy.
+  This is a balanced, bipartisan bill. I think it is truly the first 
+major bipartisan bill we have moved through the <strong>Senate</strong> this year. We 
+have had our differences, but I believe that this bill will cause an 
+explosion of new jobs. I believe that it will cause a new era, similar 
+to what has occurred in the computer industry.
+
+
+                    Amendment No. 1299, As Modified
+                           Amendment No. 1422
+                           Amendment No. 1423
+                           Amendment No. 1313
+  Mr. PRESSLER. Mr. President, I ask unanimous consent that the 
+remaining Breaux amendment be modified with the modification I send to 
+the desk, that the modified amendment be agreed to and the motion to 
+reconsider be laid upon the table, and that it be in order for me to 
+send to the desk two technical amendments and a modification of 
+amendment No. 1313, that they be considered and agreed to, en bloc, and 
+the motion to reconsider be laid upon the table.
+  The PRESIDING OFFICER. Is there objection?
+  Without objection, it is so ordered.
+  So the amendments (Nos. 1299, as modified; 1422; 1423; 1313) were 
+agreed to, as follows:
+                           Amendment No. 1299
+       On page 123, line 10, add the following new sentence: 
+     ``This section shall take effect for each vessel upon a 
+     determination by the United States Coast Guard that such 
+     vessel has the equipment required to implement the Global 
+     Maritime Distress and Safety System installed and operating 
+     in good working condition.''
+                                                                    ____
+
+
+                           Amendment No. 1422
+       In section 623 of the Communications Act of 1934 (as added 
+     by section 204 of the bill on page 70), strike ``and does 
+     not, directly or through an affiliate, own or control a daily 
+     newspaper or a tier 1 local exchange carrier.'' and insert 
+     ``and is not affiliated with any entity or entities whose 
+     gross annual revenues in the aggregate exceed 
+     $250,000,000.''.
+                                                                    ____
+
+
+                           Amendment No. 1423
+       In section 262 of the Communications Act of 1934, as added 
+     by section 308 of the bill--
+       (1) strike subsection (e) and insert the following:
+       ``(e) Guidelines.--Within 18 months after the date of 
+     enactment of the Telecommunications Act of 1995, the 
+     Architectural and Transportation Barriers Compliance Board 
+     [[Page S8475]] shall develop guidelines for accessibility of 
+     telecommunications equipment and customer premises equipment 
+     in conjunction with the Commission on the National 
+     Telecommunications and Information Administration and the 
+     National Institute of Standards and Technology. The Board 
+     shall review and update the guidelines periodically.
+       (2) strike subsection (g) and insert the following:
+       ``(g) Regulations.--The Commission shall, not later than 24 
+     months after the date of enactment of the Telecommunications 
+     Act of 1995, prescribe regulations to implement this section. 
+     The regulations shall be consistent with the guidelines 
+     developed by the Architectural and Transportation Barriers 
+     Compliance Board in accordance with subsection (e).
+                                                                    ____
+
+
+                           Amendment No. 1313
+       On page 116, between lines 2 and 3 insert the following:
+       (D) Nothing in this section shall prohibit the Commission, 
+     for interstate services, and the States, for intrastate 
+     services, from considering the profitability of 
+     telecommunications carriers when using alternative forms of 
+     regulation other than rate of return regulation (including 
+     price regulation and incentive regulation) to ensure that 
+     regulated rates are just and reasonable.
+  Mr. DOLE. Mr. President, I think the distinguished Democratic leader 
+would like to speak at this time. As I understand, after he speaks, I 
+will have just a few minutes to speak on my amendment. Then we vote on 
+the Dole amendment and then final passage.
+  I hope during the two votes I can determine what we will do the 
+balance of the day and the balance of the week, so my colleagues will 
+have some information before 6 o'clock. We are attempting to take up 
+two bills and we are meeting objections from different sides for 
+different reasons on each. We may be able to work that out during the 
+vote.
+  Mr. President, I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. PRESSLER. Mr. President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. PRESSLER. Mr. President, citizens in my State of South Dakota 
+often ask me, what does this legislation mean to the State of South 
+Dakota? What does it mean to people living in small cities?
+  I say a great deal.
+  First it will mean that a small city will be able to be on the same 
+basis as a big city in terms of getting information. We have CitiBank's 
+credit card operation located in Sioux Falls. We have the Spiegel 
+Catalog telephone mail order facility in Rapid City.
+  Recently, a team from Georgetown University came to Sioux Falls to 
+start a joint research project on telemedicine. Georgetown is planning 
+to work with a Sioux Falls hospital to establish this telemedicine 
+project.
+  Recently, I was talking to some of the major universities in this 
+country about partnering with small South Dakota colleges. Modern 
+telecommunications will make such partnerships not only possible, but 
+productive.
+  I have recently approached one of the largest companies in the United 
+States about doing a project jointly with small companies, using modern 
+telecommunications.
+  The city of Aberdeen, SD, has a new upgrade digital switch. They are 
+now able to use this capability for telemedicine, to have an 
+interaction with some of the big hospitals as operations are being 
+performed. As a result of the upgrade, a major motel chain, Super 8, 
+was able to locate its nationwide reservation system in the city.
+  Someone living in a small city or a small town has the same 
+information available as someone in a great city. You do not have to be 
+in downtown New York, downtown Minneapolis, or in downtown Los Angeles 
+to get information, use it and respond to it.
+  The executive director of the Northeast Council of Governments in my 
+State has sent me a well-prepared report on what new telecommunications 
+will mean in that region of smaller cities in rural areas. She reports 
+that upgrading telecommunications technology has already attracted 
+national companies to Aberdeen, where they have created hundreds of new 
+jobs in the last year.
+  Other communities are clamoring for upgrades to their communications 
+technology. They know this will help improve the quality of life in 
+their communities.
+  Faye Kann's report also describes the potential for telemedicine and 
+long-distance learning with an improved telecommunications 
+infrastructure in northeast South Dakota.
+  I ask unanimous consent to have this report printed in the Record.
+         Telecommunication Technology in Northeast South Dakota
+                             (By Faye Kann)
+       Competition in the telecommunications arena could benefit 
+     rural areas such as northeast South Dakota. The SD Public 
+     Utilities Commission worked very hard to help Aberdeen and 
+     the region upgrade the telecommunications capabilities in 
+     order to effectively compete for business retention and 
+     creation. With the availability of competition, the upgrade 
+     of technology equipment could have occurred earlier.
+       In 1994-5, approximately 400 jobs have been newly created 
+     or retained in Aberdeen due to the upgrade of 
+     telecommunications technology and the ability for rapid data 
+     transmission. Four separate national and local entities saw 
+     the opportunity to utilize upgraded telecommunications 
+     equipment but needed the assistance of the state PUC in order 
+     to obtain the equipment upgrades. Companies such as Super 8 
+     reservation systems, Howard Johnson's Reservation system, 
+     Aman Collection Company, and Student Loan Finance Corporation 
+     are among companies that added employees due to the 
+     technology upgrades. Without the telecommunications upgrade, 
+     one of these companies would have located in another state 
+     instead of South Dakota.
+       Those upgrades include the installation of SwitchNet 56, 
+     ISDN lines, and Signal 7 technology. That more up-to-date 
+     technology has enabled those companies to locate and maintain 
+     their companies in Aberdeen and keep jobs in northeast South 
+     Dakota. The increased payrolls and job opportunities have 
+     added to the number of jobs available to a broad spectrum of 
+     age groups employed in telecommunication agencies. The 
+     general nature of telecommunications jobs allow for flexible 
+     work schedules to accommodate workers from all age groups to 
+     interact both professionally and to maintain their excellent 
+     quality of life in South Dakota.
+       Other communities in northeast South Dakota such as 
+     Britton, Eureka, and Gettysburg are actively seeking job 
+     growth due to upgrades in telecommunications equipment 
+     throughout the region. Manufacturers in Britton such as 
+     Horton Industries and Sheldahl, Inc. with approximately 400 
+     employees are currently using telecommunications equipment to 
+     communicate with their suppliers, markets, potential 
+     contracts and corporate headquarters. Use of the 
+     telecommunications equipment allows for quick, effective two-
+     way interaction in the design stage before production.
+       Another component of the telecommunications industry 
+     focuses on long distance learning. The statewide Rural 
+     Development Telecommunications Network (RDTN) allows higher 
+     education to offer classes for students across the state. 
+     Schools in communities such as Groton, Frederick, and Webster 
+     in northeast South Dakota utilize cost efficiencies and class 
+     offerings that are available with telecommunications through 
+     the North Central Area Interconnect (NCAI) system. Continuing 
+     education for communities and school district staff allow for 
+     future development and curriculum enhancement.
+       Northern State University is moving ahead with expanding 
+     the connections on campus. The campus infrastructure would 
+     allow all video/audio conferences, meetings and instructional 
+     programs to be shown in the individual classrooms. Many 
+     classrooms, one existing microcomputer lab, and a new multi-
+     media based Instructional Classroom will be connected to the 
+     LAN network. This classroom will be equipped with appropriate 
+     printers, scanners, and display equipment as well as a fully 
+     interactive video-conferencing component.
+       In addition, telemedicine is being used in the experimental 
+     stage in the region. The impact of the next phase of the 
+     regional telecommunications upgrade will place the high 
+     resolution telecommunications equipment in outlying clinic 
+     for patient diagnosis and effective utilization of 
+     physician's assistants and nurse practitioners. Those types 
+     of clinics are in communities where doctors are unwilling or 
+     unable to locate. The aging population as shown in the 
+     demographics of South Dakota rate health care as one of the 
+     top concerns.
+       Another community which is a good example of the need for 
+     state-of-the-art technology for a point of presence and fiber 
+     optics is Huron. Several major employers have considered 
+     Huron for economic development expansion but because of the 
+     lack of access and equipment, jobs and economic opportunity 
+     were denied in the northeast region of South Dakota. When 
+     checking with telecommunications companies who provide the 
+     necessary equipment, the cost to benefit ratio is not 
+     attractive in the rural areas and therefore equipment has not 
+     been installed and access is denied.
+       Education, government, and business are supporting the 
+     creation of CityNet in Aberdeen. The local cable company is 
+     upgrading its system with the installation of a large fiber-
+     optic cable network. In addition to the cable company's 
+     normal services, this fiber- [[Page S8476]] optic 
+     infrastructure will be used to connect various entities (K-12 
+     education, higher education, all levels of governments, 
+     health care, and individual homes and businesses). The uses 
+     for the network are virtually limitless and offer a means for 
+     connections not only within the community but to the world as 
+     this network connects with other networks.
+       Competition coupled with universal service is a must for 
+     rural states to have access for all citizens. If major 
+     telecommunications networks such as Internet access are 
+     denied in the rural areas, state-of-the-art technology will 
+     be deployed only in the mass markets with dense population 
+     where the providers are able to obtain cost-benefit ratios 
+     which are attractive to the provider. It is imperative that 
+     Congress understand this issue. Aberdeen hosts an annual 
+     telecommunications conference and was the first demonstration 
+     nationwide with an interactive two-way audio/video link over 
+     the public switched network with the US <strong>Senate</strong> Recording 
+     Studio in 1994. We invite interested parties to northeast 
+     South Dakota to view our projects and partake in 
+     demonstrations of the effect of utilization of the 
+     technology.
+  Mr. PRESSLER. Mr. President, I have received a letter from Laska 
+Schoenfelder, public utilities commissioner of the State of South 
+Dakota. Commissioner Schoenfelder has many years experience working to 
+support South Dakota consumers and to help provide them better 
+telecommunications services. She enthusiastically endorses S. 652.
+  Commissioner Schoenfelder writes, ``This bill will allow Americans 
+greater access to communication services at an affordable price which 
+can only be achieved through a competitive market. The bill also 
+preserves universal service, which is vital to rural states.''
+  I ask unanimous consent that the letter be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+         South Dakota Public Utilities Commission, State Capitol 
+           Building,
+                                         Pierre, SD, June 9, 1995.
+     Memo to: Senator Larry Pressler.
+     From: Laska Schoenfelder, SD Public Utilities Commissioner.
+     Re SD 652.
+       Residential and business consumers of communication 
+     services will be the real winners if Senator Pressler's bill, 
+     the Communication Act of 1995 (SB 652), passes.
+       While South Dakota has promoted telecommunications 
+     competition at the state level this bill will be a boon for 
+     economic development in all states. This bill takes a step 
+     forward in recognizing the essential role of the State in 
+     promoting fair competition.
+       This bill will allow Americans greater access to 
+     communication services at an affordable price which can only 
+     be achieved through a competitive market. The bill also 
+     preserves Universal Service which is vital to rural states.
+  Mr. PRESSLER. Mr. President, competition and deregulation will bring 
+great benefits to South Dakota and other States with small cities.
+  For example, the bill is designed to rapidly accelerate private 
+sector development of advanced telecommunications and information 
+technologies and services to all Americans by opening all 
+telecommunications markets to competition.
+  A recent series of television commercials have shown people sending 
+faxes from the beach, having meetings via computer with people in a 
+foreign country, using their computer to search for theater tickets and 
+a host of other services that soon will be available. My bill would 
+make those services available even sooner by removing restrictive 
+regulations.
+  A person living in Brandon could work at a job in Minneapolis or 
+Chicago, students in Lemmon would be able to take classes from teachers 
+in Omaha, and doctors in Freeman could consult with specialists at the 
+Mayo Clinic. Telecommunications can bring new economic growth, 
+education, health care and other opportunities to South Dakota.
+  Competition in the information and communications industries means 
+more choices for people in South Dakota. It will also mean lower costs 
+and a greater array of services and technologies. For instance, 
+competing for
+ customers will compel companies to offer more advanced services like 
+caller ID or local connections to on-line services such as Prodigy and 
+America On-Line.
+  It hasn't been that long since Ma Bell was everyone's source for 
+local phone service, long distance service and phone equipment. Now 
+there are over 400 long distance companies and people can buy phone 
+equipment at any department or discount store. Under my bill, 
+eventually people would be able to choose from more than one local 
+phone service or cable television operator.
+  This new competition also should lead to economic development 
+opportunities in South Dakota. People will be able to locate businesses 
+in towns like Groton and Humboldt and serve customers in Hong Kong or 
+New York City. We are entering an exciting, historic era. I want to 
+spur growth and bring new opportunities to South Dakota and everywhere 
+in America.
+  Mr. President, we are reaching the close of this debate and a vote on 
+final passage of S. 652. I am confident we are about to approve 
+telecommunications reform by a wide margin.
+  This reform is not a partisan issue. This is the first major 
+bipartisan legislation of the 104th Congress. I want to thank my 
+comanager, the Senator from South Carolina, for his leadership. Today's 
+vote will bring to fruition a project he has been working on for many, 
+many years. I want to thank the majority leader and the minority leader 
+for their indispensable efforts for passage of this bill.
+  The bill we are about to pass will break up monopolies. It will tear 
+down competitive barriers. It will open up communications networks.
+  Mr. President, every American household and every business large and 
+small, uses the services we are about to make more competitive. The 
+bill we are about to pass will give the American people unprecedented 
+freedom to choose.
+  After this bill is signed and implemented, Americans will be free to 
+choose from competing local phone companies. This is unprecedented. It 
+will lower prices. It is pro-consumer.
+  S. 652 will give Americans freedom to choose among more long-distance 
+companies. This will cut prices. This is pro-consumer.
+  This bill will usher in a new era of robust competition in cable TV. 
+It will, in effect, break up all the cable TV monopolies. This will 
+give consumers more freedom to choose. It will cut prices. It will 
+expand services. This, too, is pro-consumer.
+  S. 652 will let electric utility firms get into the phone or cable 
+business if they wish. It will give broadcasters new flexibility to use 
+new digital technology to offer multichannel programming with the same 
+allocated spectrum that formerly could carry only one channel. This, 
+Mr. President, dramatically gives consumers more freedom to choose.,
+  No earlier legislation concerning cable prices--neither the 
+deregulation of 1984 nor the reregulation of 1992--included these 
+powerful procompetitive reforms.
+  This reform bill is historic. It is strongly bipartisan. It deserves 
+the President's support.
+  Some who still oppose our reform bill are trying to get the 
+President's ear. They say this bill will lead to more concentration in 
+the communications business. I say that is a myth.
+  Concentration is what we have had under the old, 1930s-era system of 
+government-created monopolies. Breaking up the monopolies and lifting 
+burdensome regulation will give room for more entrepreneurs to compete.
+  Just consider other segments of the information industry, segments 
+which did not strain under
+ regulation and the monopoly model:
+  Fax machines aren't regulated or organized into a government-
+sanctioned monopoly. Just look at how prices have dropped, quality has 
+improved, and sales have soared.
+  So it is, too, with cellular phones and pagers.
+  The computer market now gives consumers 200 times more value, in 
+terms of lower price and greater power, than it offered just a decade 
+ago.
+  Freedom for consumers and entrepreneurs did not lead to concentration 
+in the computer business. No, quite the contrary. There have been 
+winners and losers, large and small. Hundreds of start-up firms have 
+flourished, including Gateway 2000 in my State of South Dakota. 
+Meanwhile the biggest computer firm of all has seen a huge loss in 
+market share and has been forced into significant restructuring. Free 
+market capitalism breeds a kind of creative destruction of big 
+businesses. This is good for continuing innovation and renewal in 
+business. It is clearly pro-consumer. [[Page S8477]] 
+  Mark my word, in the years after this bill comes into force, it will 
+have helped bring about the rise of exciting new firms which do not 
+exist today. It will have helped usher in industry segments which have 
+no lobbyists in the reception room today--industry segments which do 
+not even exist at this time.
+  This bill will accelerate the digital revolution. Through 
+digitization, the very same data can travel through space from 
+satellites, over the atmospheric spectrum, through coaxial cable, 
+fiber-optic threads or copper wire. The same digitized data can be 
+stored on computer disks or drives, displayed on computer screens, or 
+played on audio or video disk players. The trends of technology are 
+erasing old distinctions between cable TV, telephone service, 
+broadcasting, audio and video recording, and interactive personal 
+computers.
+  But in many instances, the only thing standing in the way of 
+consumers and businesses enjoying cheaper and more flexible 
+telecommuncations services is our outdated law. This reform bill will 
+allow the cable, telephone, computer, broadcasting, and other 
+telecommunications industries more easily to converge and transform 
+themselves.
+  The information industry already constitutes one-seventh of the U.S. 
+economy. Worldwide, the information marketplace is projected to exceed 
+$3 trillion by the close of the decade.
+  Digital convergence, more communicating power, and wide-open 
+competition is what consumers want. It is what American businesses need 
+to stay competitive with the rest of the world. It will come soon if 
+the President signs this reform legislation.
+  Mr. DOLE. Mr. President, I thank the Senator from South Dakota for 
+yielding and congratulate him for the outstanding job he has done, as 
+well as the Senator from South Carolina, for their teamwork, efforts, 
+and partnership that produced a historic bill.
+  No question about it, this is one of the most important pieces of 
+legislation we may have passed so far this year. Others may have 
+different views. But it is near the top of the list.
+  The Senator from South Dakota, Senator Daschle, the Democratic 
+leader, is in a meeting, so I will make my little statement on my 
+amendment, and then we will vote on that. After that vote, he will make 
+a very brief statement and then we will vote on final passage. Is that 
+satisfactory?
+  Mr. HOLLINGS. Yes.
+
+
+                           Amendment No. 1341
+  Mr. DOLE. The vote will occur in a minute on the so-called Dole 
+amendment.
+  It was explained earlier, but I want to make myself perfectly clear, 
+this amendment is about allowing private interests--not big 
+Government--to work out their own problems.
+  I thought that is why we were considering this bill in the first 
+place. The telecommunications industry is currently one of the most 
+regulated industries in the United States. Unfortunately, the 
+provisions in question regulate prices.
+  The point is that business should be allowed to negotiate. As I have 
+pointed out, the provision I have proposed to delete would prohibit 
+such negotiation, and amounts to rate regulation. It is that simple--no 
+more, no less.
+  The language is there. We had negotiations and worked on their 
+differences. I do not know about all the discussion of the Senator from 
+Nebraska. I am not involved with all that.
+  The provision I proposed was supposed to stop some players from 
+taking advantage of small operators. There is no question it would do 
+that, but it would also hurt those in fair deals. It solves the 
+problems and creates a new one.
+  The bill's provision also does not treat all programmers evenly, and 
+only applies to those affiliated with cable TV companies, meaning 
+nonaffiliated programmers not under these pricing restrictions. That 
+means they would have an unfair competitive advantage.
+  Not only does the bill regulate the price of programming, but it is 
+anticompetitive. That is not what this bill is about. I printed in the 
+Record earlier letters from Turner Broadcasting, representing the 
+Discovery Channel, the Black Entertainment Network, and also--I do not 
+have the letter with me now--all the small cable companies, the 
+National Cable Television Cooperative, and they are all in support of 
+the bill.
+  I have heard the comments of the Senator from Nebraska. He is 
+entitled to his own interests, but I assure him, my interest in this 
+amendment is consistent with the intent of this bill--getting 
+Government off the backs of business and benefiting consumers.
+  I hope the amendment I am offering will pass. I think it will have 
+bipartisan support.
+  I yield back my time and I ask for the yeas and nays.
+  The PRESIDING OFFICER. Is there a sufficient second? There is a 
+sufficient second.
+  The yeas and nays were ordered.
+  Mr. DOLE. Following the vote, the Senator from South Dakota, Senator 
+Daschle, will be recognized, and then we will have final passage.
+  The PRESIDING OFFICER. Is there further debate on the Dole amendment?
+  Mr. BREAUX. Mr. President, I would use this opportunity to commend 
+both the ranking member of the committee, the Senator from South 
+Carolina, and the chairman of the committee, for the good work they 
+have done.
+  This has not been an easy process, I say to all of our colleagues. We 
+have worked on this for not just a couple of days on the floor, but we 
+have been working on this legislation for several years.
+  In the last Congress, all Members of the committee spent 2 years on 
+this communications bill, and then again the better part of this year, 
+working on trying to bring this product to the floor.
+  There has been a great deal of compromise. There has been a great 
+deal of trying to balance the very competing interests in order to get 
+a 1995 communications bill.
+  I think it is important that all of our colleagues realize that this 
+country has been run by the 1934 Communications Act. That is hard to 
+believe that we have been operating under an act that is 60 years old. 
+Does anybody think that the communications technology of 1995 is 
+anywhere similar to the communications technology of 1934? The answer 
+is, of course, no.
+  The reason everybody has been in court is because Congress was unable 
+to get an agreement that wrote a modern 20th century bill to govern all 
+the decisions about who does what.
+  This legislation makes some fundamental points. That is that we are 
+going to create more competition. Competition is good for society. It 
+is good for consumers. It is good for the development of new 
+technology. This legislation is a fragile compromise. Almost everyone 
+in the industry would like to have more. Some would like to have 
+guarantees with regard to what they can do and what they cannot do.
+  We were trying to really create a bill that was fair to all of our 
+American industries and fair to the American consumer. I think that 
+while this bill is certainly not perfect--nothing we ever do is--
+certainly, it represents a major milestone in the communications 
+legislation that has been brought before the Congress over all of these 
+last 60 years since the first passage of the 1934 Communications Act.
+  I congratulate all the members of the Commerce Committee for their 
+input, their suggestions. We have had a lot of cooperation on the 
+floor. A lot of very difficult things have been worked out. I think 
+that is good.
+  With regard to the Dole amendment, I happen to agree with it. I think 
+the amendment by Senator Dole really will encourage more competition 
+and will encourage small cable companies to be able to form 
+cooperatives like they are doing in order to be able to get discounts 
+because they purchase cable services in volume just like the larger 
+cable companies will be able to get volume discounts because they buy 
+large amounts of products from the various producers. I think the Dole 
+amendment really does try to promote additional competition. I think in 
+that sense--it does allow cooperatives to be formed--there is nothing 
+wrong with that.
+  There was a lot made about who does this benefit and what-have-you, I 
+think it benefits the consumer. I think the Dole amendment is a good 
+consumer amendment. It encourages small cooperatives and cable 
+companies to be able to deliver services at a better rate. There is 
+nothing wrong with that. It allows large sellers of cable services to 
+[[Page S8478]] get volume discounts. The ultimate benefit of all of 
+this is the American consumer.
+  I think the ultimate benefit of the entire package we have before the 
+Congress is the American consumer and those who bring about the 
+technology for the 21st century. If there is one thing the United 
+States of America excels in--there are so many things, but one thing is 
+the entertainment industry, the telecommunications industry. We can be 
+proud of that. Other countries would love to have what we have in this 
+country. This bill ultimately will make all of that a lot better and we 
+will all benefit from that product.
+  So I support an affirmative vote on the Dole amendment and certainly 
+support the passage of the telecommunications act that is now pending.
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from South Dakota.
+  Mr. PRESSLER. I thank the Senator from Louisiana. He has been at the 
+forefront every step of the way in this bill and we could not have done 
+it without his bipartisan effort. His staffers, Thomas Moore, who has 
+now gone on to an appointment, and Mark Ashby, have been in the night 
+meetings, night after night.
+  I thank the Senator from Louisiana from the bottom of my heart.
+  The PRESIDING OFFICER. Is there further debate on the Dole amendment?
+  If not, the question is on agreeing to the Dole amendment, No. 1341. 
+The yeas and nays have been ordered.
+  The clerk will call the roll.
+  The legislative clerk called the roll.
+  Mr. MACK (when his name was called). Present.
+  Mr. LOTT. I announce that the Senator from Utah [Mr. Hatch] is 
+necessarily absent.
+  I further announce that, if present and voting, the Senator from Utah 
+[Mr. Hatch] would vote ``yea.''
+  The PRESIDING OFFICER (Mr. DeWine). Are there any other Senators in 
+the Chamber who desire to vote?
+  The result was announced--yeas 59, nays 39, as follows:
+                      [Rollcall Vote No. 267 Leg.]
+                                YEAS--59
+     Abraham
+     Ashcroft
+     Baucus
+     Bennett
+     Bond
+     Breaux
+     Brown
+     Bryson
+     Burns
+     Campbell
+     Chafee
+     Coats
+     Cochran
+     Coverdell
+     Craig
+     D'Amato
+     DeWine
+     Dodd
+     Dole
+     Domenici
+     Faircloth
+     Feinstein
+     Frist
+     Grams
+     Grassley
+     Gregg
+     Hatfield
+     Heflin
+     Helms
+     Hutchison
+     Inhofe
+     Jeffords
+     Kassebaum
+     Kempthorne
+     Kennedy
+     Kerry
+     Kyl
+     Lott
+     Lugar
+     McCain
+     McConnell
+     Moseley-Braun
+     Murkowski
+     Nickles
+     Packwood
+     Pressler
+     Reid
+     Roth
+     Santorum
+     Shelby
+     Simpson
+     Smith
+     Snowe
+     Specter
+     Stevens
+     Thomas
+     Thompson
+     Thurmond
+     Warner
+                                NAYS--39
+     Akaka
+     Biden
+     Bingaman
+     Boxer
+     Bradley
+     Bumpers
+     Byrd
+     Cohen
+     Conrad
+     Daschle
+     Dorgan
+     Exon
+     Feingold
+     Ford
+     Glenn
+     Gorton
+     Graham
+     Gramm
+     Harkin
+     Hollings
+     Inouye
+     Johnston
+     Kerrey
+     Kohl
+     Lautenberg
+     Leahy
+     Levin
+     Lieberman
+     Mikulski
+     Moynihan
+     Murray
+     Nunn
+     Pell
+     Pryor
+     Robb
+     Rockefeller
+     Sarbanes
+     Simon
+     Wellstone
+                        ANSWERED ``PRESENT''--1
+
+
+     Mack
+
+
+                             NOT VOTING--1
+
+
+     Hatch
+  So, the amendment (No. 1341) was agreed to.
+  Mr. DOLE. Mr. President, I move to reconsider the vote.
+  Mr. NICKLES. I move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+  Mr. DASCHLE. Mr. President, telecommunications reform legislation was 
+a focus of the last Congress. Unfortunately, election-year politics 
+prevented then-Chairman Hollings from bringing the bill to the floor 
+for a vote.
+  This year, with changes and modifications that are inevitable given 
+the political change in the make-up of the Congress, a new 
+telecommunications was brought to the <strong>Senate</strong> floor.
+  This is complex and potentially far-reaching legislation. It will 
+affect an economic sector that constitutes 20 percent of our economy 
+and whose services reach virtually every American.
+  I want to commend the ranking member of the <strong>Senate</strong> Commerce 
+Committee, Senator Hollings, whose patience and efforts have done a 
+great deal to bring this measure to its present state. Senator 
+Hollings' work in the last Congress, and in this, has been focused on 
+developing a bill that will enhance true competition in the 
+telecommunications field without shortchanging American consumers.
+  From the beginning, our nation has understood the significance of 
+communications and transportation. It is not an accident that the words 
+of the Constitution require the Congress ``To establish Post Offices 
+and post Roads.'' The Founders could not have known that one day the 
+roads would be fiber networks and the post offices would be e-mail. Yet 
+that is where we have arrived.
+  When Congress first confronted the need to legislate for an entirely 
+new technology, it produced the Communications Act of 1934. The 
+regulated monopoly that was legislated into existence by that law was 
+the best outcome then possible. And the old Bell system gave Americans 
+the cheapest, most efficient universal telephone service in the world.
+  In fact, consumer resistance to the breakup of the Bell phone system 
+was widespread in the early 1980's. Americans feared that the courts 
+were breaking up something that worked well and might replace it with 
+something that didn't.
+  We know today that those fears were unfounded. Competition in phone 
+service has been a boon to American consumers. Long-distance rates are 
+the lowest in the world. Equipment is cheaper and better-made. 
+Competition has spurred innovation and improved customer service.
+  At the same time, it's important to remember and learn from our 
+experience. The concept of universal service was at the heart of the 
+old 1934 Communications Act. It is a New Deal era concept that is as 
+valid today as it has proven to be over the decades.
+  When the reach of a technology is limited by cost, innovation and 
+progress remain slow. But as soon as a technology is within reach of a 
+broader sector of the population, an explosion of invention, 
+development and innovation takes place. We have seen that happen in 
+computers, in personal communications services, in wireless cable 
+transmissions and countless other
+ applications. Twenty years ago, calculators were sophisticated and 
+relatively costly devices. Today they're offered as advertising 
+promotions.
+  While legislation focuses on competition and deregulation, the bill 
+before us also contains essential rural safeguards. It would create a 
+Federal-State joint board to oversee the continuing issue of rural 
+service and to monitor and help evolve a definition of Universal 
+Service that makes sense for the present day and for the kinds of 
+services that will be coming on-line. It does not demand unrealistic 
+competition in towns of 50 households.
+  Our own history teaches us that it is good economics for the private 
+sector as well as the public sector to make universal service a reality 
+for all Americans, no matter how small their community. I believe this 
+is still the case, and I believe it is particularly important to 
+preserve the viability of rural communities in this respect.
+  The legislation before us recognizes the need to redefine universal 
+service in terms of developing technology and products. The joint 
+Federal-State board created by the bill is essential to making certain 
+this function is fulfilled.
+  The bill before us also recognizes the important role that must be 
+played by State Public Utilities Commissions. PUCs are the best 
+entities to judge whether a given market within their State can or 
+cannot support competition. That's not a judgment we should make from 
+Washington.
+  Nor is it something we can or should leave to the unbridled, 
+unsupervised judgment of the private sector. Those who have taken the 
+risks and made the investments to extend cable or phone service to 
+smaller rural communities should not now be placed at risk of being 
+overwhelmed by larger, better-financed companies.
+  As Congressman Ed Markey has said, that's not competition, it's 
+``communications cannibalism.'' State PUC's will be able to judge where 
+communities can sustain competition and [[Page S8479]] where they 
+cannot. We should preserve the viability of the Universal Service Fund, 
+for that reason as well.
+  The purpose of the bill before us is to create the competitive, free 
+market environment that will most efficiently bring the Information 
+Superhighway into existence for all Americans. I don't believe anyone 
+disagrees with that key to achieving that goal is competition. The 
+<strong>Senate</strong>'s task is to ensure that the competitive elements in the bill do 
+the job.
+  The best outcome is one that brings on line the new products and 
+services that Americans want at a cost they're willing and able to pay. 
+Not only will consumers benefit, but the process of creating new 
+services and products will be a substantial engine of job creation.
+  The present economic recovery has been a period of exceptionally 
+strong job creation. Under the Clinton administration, 6 million new 
+jobs have been created, more in he first 2\1/4\ years of this 
+administration than in the preceding 8 years of the Reagan-Bush 
+administration.
+  Democrats believe the key to longlasting economic growth and 
+expansion is the creation of more jobs and higher income for working 
+families. When Americans are working and earning good wages, our 
+economy prospers and we can invest for the future well being of our 
+children. The passage of the bill before us will help continue this 
+pattern of job creation as our information-based economy creates 
+significant employment opportunities. That will mean more families can 
+send their kids to college, buy a home, and save for their own future. 
+That is the best economic program and the best social program any 
+nation can have.
+  This technology also means new opportunities for innovative economic 
+development. I am in the process of working with a tribal college now 
+on ways to market native American and agricultural products through the 
+Internet. The technology that is helping do this is breaking down the 
+geographic and technical barriers that have retarded our movement to a 
+more information-based economy.
+  There is little doubt that our urban areas can and will sustain an 
+enormous expansion of telecommunications services in the years ahead. 
+We must make certain that our rural areas are not left behind as 
+services expand and new products come on line. In the long run, 
+universal service at high standards nationwide is in the best interests 
+of the entire country.
+  In addition, we must not neglect the role of the public sector in the 
+new telecommunications world. Schools, public libraries, state 
+universities, all should have the ability to share in and disperse the 
+benefits of the telecommunications revolution.
+  Senators Rockefeller and Snowe offered an amendment in committee to 
+make certain that the public sector's ability to connect with the 
+Internet and other information services is enhanced. That's important, 
+not only to prevent stratification into information-rich and 
+information-poor populations and regions, but to assure that all our 
+children have the tools with which to enter the 21st century work 
+force.
+  While the bill before us is far from perfect, it has been 
+significantly improved over the course of the past 6 days. Senator 
+Hollings and I introduced an amendment that strengthens the bad actor 
+test in the cable provisions.
+  It also places reasonable limitations on the ability of cable and 
+telephone companies to eliminate each other as potential competitors 
+through buyouts and mergers, except in rural areas where competition 
+may not be viable.
+  Finally, our amendment, which was adopted, allows small telephone 
+companies to jointly market local exchange service with long distance 
+service providers that carry less than 5 percent of our nation's long 
+distance business. This will allow consumers to realize the benefits of 
+competition in the local telephone exchange, while preserving the 
+competitive balance between the Bell companies and major long distance 
+carriers.
+  I believe the provisions in our amendment strike a better balance 
+between consumer protections and market deregulation. These safeguards 
+are designed to protect consumers by expanding services and keeping 
+them affordable.
+  This bill is a reasonable and balanced one, and it deserves the 
+<strong>Senate</strong>'s support.
+  Mr. DOLE. Mr. President, gentlemen start your engines, because we are 
+about to pass telecommunications reform that will be the roadmap to our 
+Nation's future.
+  When we started floor consideration of S. 652 more than 1 week ago, I 
+noted that this was just the beginning. A beginning of a new era of 
+leadership for the telecommunications industry and for America. While 
+some see America's power dwindling, I see it growing. I see our 
+renaissance, and its called the information age. America's years of 
+leadership in telecommunications, whether it was inventing the 
+telegraph or the microchip, gives us the right to lay claim to this 
+future. We have earned it. We must now reach out and take it.
+
+
+                recognizing senator pressler's hard work
+  And one person who deserves a good deal of credit for making this new 
+era a reality is Senator Pressler. As all Members know, 
+telecommunications reform is a tough, complex, and often contentious 
+issue. Congress has struggled with it for more than a decade, with no 
+success. And along comes Senator Pressler. He tackled this issue and 
+has moved it through the <strong>Senate</strong> in record time. His tenacity proves 
+that the <strong>Senate</strong> is capable of delivering on the toughest issues.
+  Not only did he have to fight competing interests, but also the White 
+House. Senator Pressler has won, the <strong>Senate</strong> has won, and America has 
+won.
+  The bill also could not have been possible without Senator Hollings. 
+Both Senators Pressler and Hollings have done an outstanding job at 
+bringing the competing interests together, or as close together as 
+possible.
+
+
+                     the real jobs stimulus package
+  No doubt about it, telecommunications reform is the real jobs 
+stimulus package. Except this one relies on the private sector to 
+create those jobs. And it will.
+  Thousands of jobs will be necessary to build new communications 
+networks. And that's just the beginning. Studies indicate that millions 
+of more jobs will be created because information will become more 
+accessible, jobs that will make America more efficient, more 
+productive, and ultimately more powerful.
+  While some may argue that it is not the perfect bill, its message is 
+right--competition, not government, is the best regulator. Competition, 
+not regulation, has the best record for creating new jobs, spurring new 
+innovation, and creating new wealth. It's that simple.
+  Competition and deregulation are also the only ways to accommodate 
+the explosion of new technology.
+
+
+                               conclusion
+  Mr. President, removing the telecommunications industry's shackles is 
+not about politics as usual. It is not about Republicans versus 
+Democrats. It is about providing all Americans, rich or poor, urban or 
+rural, a better future. I believe that a procompetition, deregulatory 
+telecommunications bill can help make that future a reality.
+  Mr. PRESSLER. Mr. President, I ask unanimous consent that S. 652, as 
+amended, be printed in the Record immediately following the final vote.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. PRESSLER. I ask for the yeas and nays.
+  The PRESIDING OFFICER. Is there a sufficient second?
+  There appears to be a sufficient second.
+  The yeas and nays were ordered.
+  The PRESIDING OFFICER. The question is on the engrossment and third 
+reading of the bill.
+  The bill was ordered to be engrossed for a third reading and was read 
+the third time.
+  The PRESIDING OFFICER. The question occurs on the passage of S. 652, 
+as amended. The yeas and nays have been ordered.
+  Mr. PRESSLER. Mr. President, I ask unanimous consent to have Senator 
+Hollings added as a cosponsor.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The question occurs on passage of S. 652, as amended.
+  Mr. DOLE. Mr. President, just let me indicate to my colleagues, as I 
+said earlier before many were here, we hope to determine the balance of 
+the schedule this evening and tomorrow before 6 [[Page S8480]] o'clock 
+this evening, and so we will try to let everybody know by then what the 
+schedule will be. Hopefully, it will not be too heavy. It depends on 
+how this bill comes out.
+  I will let Senators know in a few minutes.
+  The PRESIDING OFFICER. The bill having been read the third time, the 
+question is, Shall it pass? The yeas and nays have been ordered. The 
+clerk will call the roll.
+  The assistant legislative clerk called the roll.
+  Mr. LOTT. I announce that the Senator from Utah [Mr. Hatch] is 
+necessarily absent.
+  I further announce that, if present and voting, the Senator from Utah 
+[Mr. Hatch] would vote ``yea.''
+  The PRESIDING OFFICER. Are there any other Senators in the Chamber 
+who desire to vote?
+  The result was announced--yeas 81, nays 18, as follows:
+                      [Rollcall Vote No. 268 Leg.]
+                                YEAS--81
+     Abraham
+     Akaka
+     Ashcroft
+     Baucus
+     Bennett
+     Biden
+     Bond
+     Bradley
+     Breaux
+     Brown
+     Bryan
+     Burns
+     Campbell
+     Chafee
+     Coats
+     Cochran
+     Cohen
+     Coverdell
+     Craig
+     D'Amato
+     Daschle
+     DeWine
+     Dodd
+     Dole
+     Domenici
+     Exon
+     Faircloth
+     Feinstein
+     Ford
+     Frist
+     Glenn
+     Gorton
+     Gramm
+     Grams
+     Grassley
+     Gregg
+     Harkin
+     Hatfield
+     Heflin
+     Helms
+     Hollings
+     Hutchison
+     Inhofe
+     Inouye
+     Jeffords
+     Johnston
+     Kassebaum
+     Kempthorne
+     Kennedy
+     Kerry
+     Kohl
+     Kyl
+     Lautenberg
+     Levin
+     Lott
+     Lugar
+     Mack
+     McConnell
+     Mikulski
+     Moseley-Braun
+     Murkowski
+     Murray
+     Nickles
+     Nunn
+     Pell
+     Pressler
+     Robb
+     Rockefeller
+     Roth
+     Santorum
+     Sarbanes
+     Shelby
+     Simpson
+     Smith
+     Snowe
+     Specter
+     Stevens
+     Thomas
+     Thompson
+     Thurmond
+     Warner
+                                NAYS--18
+     Bingaman
+     Boxer
+     Bumpers
+     Byrd
+     Conrad
+     Dorgan
+     Feingold
+     Graham
+     Kerrey
+     Leahy
+     Lieberman
+     McCain
+     Moynihan
+     Packwood
+     Pryor
+     Reid
+     Simon
+     Wellstone
+                             NOT VOTING--1
+
+
+     Hatch
+  So the bill (S. 652), as amended, was passed.
+  (The text of S. 652, as passed, will appear in a future edition of 
+the Record.)
+  Mr. PRESSLER. Mr. President, I move to reconsider the vote, and I 
+move to lay that motion on the table.
+  The motion to lay on the table was agreed to.
+  Mr. PRESSLER. Mr. President, I thank everybody involved. I thank the 
+majority leader and minority leader. I have already thanked the staff. 
+I am feeling like this Chamber was almost a funeral parlor this 
+afternoon, we had so many good words said about everybody.
+  I yield the floor.
+  Mr. DOLE. Mr. President, let me indicate, as I did earlier, that this 
+is a tremendous vote--81 to 18. It is a very significant piece of 
+legislation that has passed this Chamber, largely through the efforts 
+of the distinguished Senator from South Dakota [Mr. Pressler].
+  It is not a perfect bill. I understand that almost everybody finds 
+something wrong with it, which probably means it is not that bad; it is 
+probably a very good bill. I think it is a very important piece of 
+legislation. I thank all my colleagues on both sides of the aisle for 
+their cooperation.
+  I do not think we took too much time. On a bill of this magnitude, it 
+takes a little longer on the <strong>Senate</strong> side, and it probably should, as 
+the Senator from Illinois [Mr. Simon] said earlier today.
+  I thank the Democratic leader, Senator Daschle, for his cooperation 
+throughout the debate.
+  Mr. President, I have had a discussion with the Senator from South 
+Dakota, [Mr. Daschle], the Democratic leader, and I outlined to him 
+what I would like to do. First, I will ask unanimous consent that we go 
+to S. 440--I will not ask it now--and I understand there will be an 
+objection. Then I will move to the consideration of S. 440, and I 
+understand the Senator from Massachusetts, [Mr. Kennedy], and others 
+will at that point discuss the motion to proceed.
+  If that would be the case, there would be no votes tonight and no 
+votes tomorrow. Then we would try to work out something to accommodate 
+our colleagues on Monday.
+  So I do not want to make the request until the Senator from South 
+Dakota indicates it is all right to do so.
+  Mr. DASCHLE. If the majority leader will yield. Let me just speak 
+very briefly, because I know there are other Members that need to 
+conduct business. I share the sentiment expressed by the distinguished 
+majority leader about the bill just passed. It may not be everything we 
+all want, but it represents a real achievement.
+  I commend the distinguished Senator from South Dakota and certainly 
+the ranking member, the distinguished Senator from South Carolina, for 
+all of the effort he has put forth in the last seven days to accomplish 
+what we have now. A number of people had a lot to do with bringing us 
+to this point. It represents a balance between providing new 
+opportunities and communications to provide the flexibility and the 
+freedom to go out and do what we must to build the information 
+superhighway. But it also represents a desire on the part of many to 
+protect consumers as we conduct that construction.
+  So I hope very much that we can move this legislation through the 
+remaining parts of the legislative process here and accommodate all 
+Senators as we attempt to pass this very significant piece of 
+legislation.
+
+
+                          ____________________
+
+
+</pre>
+</body>
+</html>

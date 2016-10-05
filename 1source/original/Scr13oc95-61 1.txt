@@ -1,0 +1,1077 @@
+<html>
+<head>
+<title>WAIS Document Retrieval</title>
+</head>
+<body>
+<pre>
+[Congressional Record: October 13, 1995 (<strong>Senate</strong>)]
+[Page S15144-S15152]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+[DOCID:cr13oc95-61]                         
+
+
+
+
+ TELECOMMUNICATIONS COMPETITION AND DEREGULATION ACT OF 1995--MESSAGE 
+                             FROM THE HOUSE
+  Mr. PRESSLER. Mr. President, I ask that the Chair lay before the 
+<strong>Senate</strong> a 
+[[Page S 15145]]
+message from the House of Representatives on S. 652 a bill to provide 
+for a procompetitive, deregulatory national policy framework designed 
+to accelerate rapidly private sector deployment of advanced 
+telecommunications and information technologies and services to all 
+Americans by opening all telecommunications markets to competition, and 
+for other purposes.
+  The PRESIDING OFFICER laid before the <strong>Senate</strong> the following message 
+from the House of Representatives:
+       Resolved, That the House insist upon its amendments to the 
+     bill (S. 652) entitled ``An Act to provide for a pro-
+     competitive, de-regulatory national policy framework designed 
+     to accelerate rapidly private sector deployment of advanced 
+     telecommunications and information technologies and services 
+     to all Americans by opening all telecommunications markets to 
+     competition, and for other purposes'', and ask a conference 
+     with the <strong>Senate</strong> on the disagreeing votes of the two Houses 
+     thereon.
+       Ordered, That the following Members be the managers of the 
+     conference on the part of the House:
+       From the Committee on Commerce: Mr. Bliley, Mr. Fields of 
+     Texas, Mr. Oxley, Mr. White, Mr. Dingell, Mr. Markey, Mr. 
+     Boucher, Ms. Eshoo, and Mr. Rush: Provided, Mr. Pallone is 
+     appointed in lieu of Mr. Boucher solely for consideration of 
+     section 205 of the <strong>Senate</strong> bill.
+       As additional conferees, for consideration of sections 1-6, 
+     101-104, 106-107, 201, 204-205, 221-225, 301-305, 307-311, 
+     401-402, 405-406, 410, 601-606, 703, and 705 of the <strong>Senate</strong> 
+     bill, and title I of the House amendment, and modifications 
+     committed to conference: Mr. Schaefer, Mr. Barton of Texas, 
+     Mr. Hastert, Mr. Paxon, Mr. Klug, Mr. Frisa, Mr. Stearns, Mr. 
+     Brown of Ohio, Mr. Gordon, and Mrs. Lincoln.
+       As additional conferees, for consideration of sections 102, 
+     202-203, 403, 407-409, and 706 of the <strong>Senate</strong> bill, and title 
+     II of the House amendment, and modifications committed to 
+     conference: Mr. Schaefer, Mr. Hastert, and Mr. Frisa.
+       As additional conferees, for consideration of sections 105, 
+     206, 302, 306, 312, 501-505, and 701-702 of the <strong>Senate</strong> bill, 
+     and title III of the House amendment, and modifications 
+     committed to conference: Mr. Stearns, Mr. Paxon and Mr. Klug.
+       As additional conferees, for consideration of sections 7-8, 
+     226, 404, and 704 of the <strong>Senate</strong> bill, and titles IV-V of the 
+     House amendment, and modifications committed to conference: 
+     Mr. Schaefer, Mr. Hastert, and Mr. Klug.
+       As additional conferees, for consideration of title VI of 
+     the House amendment, and modifications committed to 
+     conference: Mr. Schaefer, Mr. Barton, and Mr. Klug.
+       As additional conferees from the Committee on the 
+     Judiciary, for consideration of the <strong>Senate</strong> bill (except 
+     sections 1-6, 101-104, 106-107, 201, 204-205, 221-225, 301-
+     305, 307-311, 401-402, 405-406, 410, 601-606, 703, and 705), 
+     and of the House amendment (except title I), and 
+     modifications committed to conference: Mr. Hyde, Mr. 
+     Moorhead, Mr. Goodlatte, Mr. Buyer, Mr. Flanagan, Mr. 
+     Conyers, Mrs. Schroeder, and Mr. Bryant of Texas.
+       As additional conferees, for consideration of sections 1-6, 
+     101-104, 106-107, 201, 204-205, 221-225, 301-305, 307-311, 
+     401-402, 405-406, 410, 601-606, 703, and 705 of the <strong>Senate</strong> 
+     bill, and title I of the House amendment, and modifications 
+     committed to conference: Mr. Hyde, Mr. Moorhead, Mr. 
+     Goodlatte, Mr. Buyer, Mr. Flanagan, Mr. Gallegly, Mr. Barr, 
+     Mr. Hoke, Mr. Conyers, Mrs. Schroeder, Mr. Berman, Mr. Bryant 
+     of Texas, Mr. Scott, and Ms. Jackson-Lee.
+  The PRESIDING OFFICER. Under the previous order, there will now be 2 
+hours of debate divided in the following manner: 90 minutes under the 
+control of Senators Dorgan and Kerrey of Nebraska, 30 minutes under the 
+control of Senator Pressler.
+  Mr. PRESSLER addressed the Chair.
+  The PRESIDING OFFICER. The Senator from South Dakota is recognized.
+  Mr. PRESSLER. If the <strong>Senate</strong> should agree later today, I believe that 
+the Chair will be appointing the following conferees to the 
+telecommunications bill. If the Chair so appoints and if there is not 
+objection, Senators Pressler, Stevens, McCain, Burns, Gorton, Lott, 
+Hollings, Inouye, Ford, Exon, and Rockefeller will be named as 
+conferees.
+  Mr. President, let me summarize for the <strong>Senate</strong> where we stand on the 
+telecommunications bill.
+  The House and <strong>Senate</strong> have both passed major bills reforming the 
+Telecommunications Act of 1934, bringing it up to date, and also making 
+certain changes in our Nation's telecommunications laws. In addition, 
+there are efforts to make it more procompetitive and deregulatory but 
+also to protect the rights of the consumers in our country and to move 
+the telecommunications bill forward.
+  We are in a situation today that our Nation very much needs to 
+modernize its telecommunications laws. A House-<strong>Senate</strong> conference will 
+soon begin to iron out the differences between the <strong>Senate</strong> and the House 
+versions of telecommunications. We are doing this on a bipartisan 
+basis, and I hope that it will proceed quickly and thoroughly.
+  I look forward to working with those Senators and all Members of this 
+Chamber. Let me say, Mr. President, that although there are certain 
+conferees named, all Senators are invited to have input, as they have 
+had on this bill. I commend Senator Hollings of South Carolina, the 
+ranking Democrat and former chairman of the Commerce Committee, who has 
+provided so much leadership on this bill. Indeed, he has brought to 
+this process a very bipartisan spirit, and I look forward to working 
+with him and the Republicans and Democrats in the <strong>Senate</strong> and the House.
+  Mr. President, I reserve as much time as I may have and I note the 
+absence of a quorum.
+  The PRESIDING OFFICER (Mr. Burns). The clerk will call the roll.
+  The assistant legislative clerk proceeded to call the roll.
+  Mr. DORGAN. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. DORGAN. Mr. President, I wanted to have a discussion this morning 
+prior to the <strong>Senate</strong> appointment of conferees to the telecommunications 
+bill.
+  After the appointment of conferees, there will then be a conference 
+between the House and <strong>Senate</strong> on the telecommunications bill. This bill 
+is very important. The telecommunications bill is the first substantial 
+change in telecommunications law since the 1930's.
+  All of us know what has happened in this country to communication 
+since the 1930's. I mean, it is breathtaking the kinds of changes we 
+have seen in the communications industry and for everybody in this 
+country. So when this Congress sits down and decides to make changes to 
+law--and we should and must--the question is, How will those changes 
+affect our country? Who will they affect? What will they affect?
+  One of the things I have been very concerned about is the issue of 
+universal service for telephone service. You know, it is more costly to 
+have telephone service in a town of 100 people in South Dakota, North 
+Dakota, or Montana, than it is to have telephone service in New York 
+City. Why is that? Well, because the fixed costs of providing telephone 
+service in New York can be spread over millions of phone instruments, 
+but in Grenora, ND, the fixed costs are spread over relatively few 
+telephones.
+  But is the telephone in Grenora, ND, or Regent, ND, any less 
+important than the telephone in New York City? No. One is used to call 
+the other. The absence of one makes the other less valuable. Universal 
+service in telephone service is important. It has been a concept in 
+this country we have understood and protected for a long, long time.
+  We must make sure to protect universal service in the 
+telecommunications legislation. People say, ``Well, this bill is about 
+competition.'' I love the flowery language about opening up the petals 
+of competition, competition in the marketplace; worshiping at that 
+altar is what is going to allow us to flourish and provide vast new 
+opportunities in communications for everyone in our country.
+  I want to talk a little bit about that competition today. One can 
+conceive of competition in a rural area being someone saying, ``I want 
+to come into this rural county''--where you barely have a telephone 
+structure and are able to survive currently--``and I want to pick the 
+only town that exists out in that county and serve that. That is all I 
+want to serve.'' What about the rest of it that cannot stand by itself? 
+``That doesn't matter to me because I only want to compete in that 
+small town.''
+  That is the kind of thing we have to be concerned about. We need 
+legislation that protects us and provides universal service for the 
+long term. We made progress on universal service in the 
+telecommunications bill. Now, we just have to keep universal service 
+intact in the conference. That is critically important.
+  There are two other areas that concern me greatly. 
+[[Page S 15146]]
+  The two areas are this:
+  One is, when should local telephone carriers who essentially have a 
+monopoly be free to compete in long distance? And should the Department 
+of Justice have a role in determining when there is competition in the 
+local exchange so that that carrier then is free to compete in long 
+distance? The bill is set up pretty much like it is for airlines.
+  The airline situation says that if a couple airlines want to merge, 
+the Department of Transportation determines whether it is in the public 
+interest, and they make the decision, and they say to the Department of 
+Justice and the antitrust folks over there, ``We will allow you to 
+advise us on what you think, but we will make the decision at the 
+Department of Transportation.''
+  Guess what? There has not been a merger that these folks have not 
+loved to death. It does not matter which kind of corporations want to 
+marry. Two airlines want to marry each other? Just fine. The Department 
+of Justice might say, ``This is going to be anti-competitive, it is 
+going to increase fares, it is not going to be in the public 
+interest.'' But guess what? The Department of Transportation says, 
+``Well, it's just fine with us. Just get hitched. Merge up. That's 
+fine.''
+  What do we have in this country these days? We see all these big 
+airlines swallow the little airlines, either they crush them or they 
+swallow them, one of the two, whichever they have the opportunity to 
+do.
+  And if they decide to buy them and merge, the Department of Justice 
+might say, ``Well, you know, they are trying to take out their 
+competition here. It will be less competitive if you have this 
+merger.'' The Department of Transportation says, ``It doesn't matter to 
+us. We will allow them to merge anyway.''
+  That is what the experience has been. If you like that and think that 
+is the right approach, then you do what is done in the <strong>Senate</strong> bill on 
+telephones and communications. You say the same thing, prevent the 
+Department of Justice from having a role in determining whether you 
+have anticompetitive practices.
+  That does not make any sense to me. This bill is advertised with neon 
+lights and bells and bands as being a bill for competition. ``It 
+provides America the fruits and flowers of competition.'' Well, if that 
+is the case, why would you not allow the Justice Department and the 
+antitrust people in the Justice Department to weigh in on the question 
+of when are you involved in anticompetitive practices? When is there 
+truly competition in local exchanges so the local telephone carriers 
+can then be free to compete in long distance?
+  The second area I want to talk about is whether there should be 
+limits in this country on the number of television stations you can 
+own. Or, the number of radio stations you can own.
+  Why is that important? We now have in law a limit that you can only 
+own 12 television stations. It says 12 is the limit; and those 12 can 
+reach no more than 25 percent of the American population. Now, why 
+would we have a law like that? Well, because we believe that there 
+ought to be competition in the flow of communications and ideas and in 
+the media.
+  How do you promote competition? By broad-based ownership; that is 
+how. If you get concentration of ownership, if you get half a dozen 
+companies owning everything, you do not have competition. So we said, 
+in the television industry, you can only own 12 television stations 
+that reach no more than 25 percent of the population.
+  Now, we write a bill, the telecommunications bill, that we say 
+promotes this idea of competition, and guess what, the bill says, ``By 
+the way, we are going to change the law. Now you can have as many 
+television stations as you want. You want to own 100? God bless you. 
+You can own 100. It is no problem with us,'' they said. ``And we want 
+to, by the way, allow you to own as many as you want up to 50 percent 
+of the population.'' Then they thought better of it and said, ``OK, we 
+better compromise; 35 percent of the population.'' So you can own as 
+many television stations as you want that reach 35 percent of the 
+population in this country.
+  Well, anybody worth their salt knows what is going to happen as a 
+result of that. We will see a half dozen companies in America owning 
+almost all the television stations in our country. And if you look 
+surprised 10 years from now when we reach that point and stand on the 
+floor of the <strong>Senate</strong> and say, ``Gee,'' scratch our head and say, ``Gee, 
+I never thought that would happen,'' let me just tell you it is going 
+to happen. You know it is going to happen. And it's not good for this 
+country. This is about pressure, politics, and big money; it is not 
+about good economics and good competition. Look what has already been 
+happening in this country. Mega media mergers. This is not a discussion 
+in which I am trying to be pejorative about all these mergers. Some are 
+probably just fine.
+  People say, ``There's all this competition. Why should you worry 
+about somebody owning more than 12 televisions stations? We have 250 
+channels or 500 channels.'' That sounds interesting. One of the major 
+networks owns 19 cable channels, 19. So when you say we have 19 
+channels, is that competition where the same company owns it? I do not 
+think so.
+  Here is a new mega media merger. We witnessed their big grins, 
+smoking their cigars talking about this merger. Time Warner and Turner 
+Broadcasting Co. Both are good companies. People I admire work for 
+these companies. But let us look at the size of these companies. Time 
+Warner decides to merge with Turner, for a total of $18.7 billion in 
+revenue. Look at their cable holdings: CNN, TBS, TNT, Court TV, HBO, 
+Cinemax, Comedy Central, Warner Brothers Television Network, New York 1 
+News Channel, on and on. You see the publications, the cable systems.
+  Mr. KERREY. I wonder if my friend from North Dakota will yield?
+  Mr. DORGAN. I will be happy to.
+  Mr. KERREY. First of all, I ask my friend from North Dakota, Mr. 
+President, is it not the case that one of the arguments we have heard 
+all along for this bill that we are going to get more competition?
+  Are Time Warner and Turner competitive?
+  Mr. DORGAN. Yes.
+  Mr. KERREY. Will we not get less competition as a consequence of 
+bringing these two companies together?
+  Mr. DORGAN. Yes, that is exactly the point. When you have mergers, it 
+means companies that used to be two get married up and now they are 
+one.
+  Mr. KERREY. I wonder if my friend also will talk about something else 
+that I think is terribly important. That is, all of us, when we go home 
+and talk to people who are working, they feel a great deal of 
+insecurity about their jobs today. As I saw that announcement, it seems 
+to me I heard them say that there may be somewhere between 5,000 and 
+10,000 fewer jobs as a consequence of this merger, that they are 
+expected to have some savings, as they call it, as a consequence. I 
+believe I also saw Ted Turner is going to get $20 million a year for 5 
+years and Mike Milken got $50 million for shaking hands, none of which 
+I doubt will benefit those people who will lose their jobs.
+  James Fallows the other morning talked about the fact that a single 
+corporation, Boeing, laid more people off in the last 5 years than 
+every corporation in Japan has over that comparable period of time.
+  What is going on, I ask my friend from North Dakota? We heard all 
+through this debate that this piece of legislation was going to create 
+jobs, that we are going to get more opportunity, that this is going to 
+be good for the American worker? Do you see it that way?
+  Mr. DORGAN. I do not see it that way. I am going to go through a 
+couple of charts and talk about the mergers, the corporate weddings 
+where people get together and say, ``Bigger is better. There used to be 
+two, we are now going to be one, we don't have to compete. We control 
+the markets.''
+  They say, ``This is all about competition. We are going to have 
+competition and competition is good for people.'' Not in this case. 
+This is about concentration, the issue of whether you ought to limit 
+the number of television stations you own to 12, as in current law. 
+Some feel maybe we ought to make an adjustment. It should not be a 
+political adjustment by somebody in Congress who says, ``Gee, let's 
+remove the shackles from the folks who want to buy 100 television 
+stations.'' Maybe that ought to be made by the Federal Communications 
+Commission after an 
+[[Page S 15147]]
+evaluation of what represents effective and good competition, what is 
+in the public interest.
+  ABC and Walt Disney got hitched a couple months ago; ABC and Disney. 
+Let us look at what all this means. Disney, 11 television stations so 
+far: Walt Disney Television, Touchstone, Buena Vista. They have cable: 
+Disney channel, ESPN, Lifetime, they have 10 FM radio stations, 11 AM 
+radio stations, publications, retail, motion pictures.
+  Put all of this together and what do they have? Less competition. Is 
+that bad? Not necessarily. I am not saying every merger is bad. I say 
+when you look at the confluence of mergers in this industry, you cannot 
+conclude at the end of that look that this is good for competition. You 
+cannot at the same time brag about the virtues of competition and then 
+create a bill that gives you a fast slide toward more concentration. 
+That does not fit.
+  CBS and Westinghouse just announced they were fond of each other and 
+decided they would have an arrangement to get together. I do not know 
+much about either of them, but let us look: 15 television stations 
+owned by CBS broadcasting; Westinghouse has 18 AM stations, 21 FM 
+stations; they have cable channels, publications, a whole range of 
+broadcasting properties, $4.5 billion revenue.
+  Another merger, Gannett and Multimedia--15 television stations, $4.5 
+billion revenue.
+  NBC and GE, they are folks looking around to figure out who they can 
+put together. There have been no mergers here, but there is lots of 
+speculation in the press about if this group is able to be out there 
+alone when everybody else is forming new partnerships. Fox, take a look 
+at Fox.
+  Mr. KERREY. I wonder if my friend will yield for an additional 
+question.
+  Mr. DORGAN. I will be happy to.
+  Mr. KERREY. One of the things the public needs to understand, it 
+seems to me, is that these companies have been given public franchises. 
+They made their money not as a consequence of going out and starting a 
+business and trying to get customers to buy their product. Their 
+business began by coming to Washington, DC, and getting a public 
+franchise, in many cases a monopoly franchise.
+  The phone company is a monopoly. It is not a competitive business. It 
+is not a farm in North Dakota or a manufacturer in Nebraska. This is 
+not a person who said, ``Gee, I have an idea. I want to go to my bank, 
+borrow a little bit of money, put a little bit of my money on the line, 
+go into business and get customers to buy my products.''
+  You have 12 stations on that list on the left. These are franchises 
+granted by the people's Government to these businesses. In the case of 
+each of these stations, even if some of them do not make any money, 
+just by holding a contract with the Government, the franchise that they 
+have been given has value. They sometimes sell these stations for 20 
+times earnings simply because people know that there are a limited 
+number of franchises. There are only so many that we can grant to these 
+companies.
+  So they own something that the people have given them, they have made 
+money as a consequence of the Government having granted them a license, 
+and now they come in and object, very often, to us putting rules in 
+place. They say, ``Oh, no, let the market take care of this.''
+  They did not make their money off the market to begin with. 
+Certainly, they are out there selling and certainly there is a 
+competitive environment. It seems to me, however, that it is a 
+different kind of business than most small businesses and most 
+entrepreneurs and most free enterprise capitalists who start off and 
+try and engage in the competitive exercise of producing revenue from 
+customers.
+  Mr. DORGAN. I agree with the Senator. The point is, these are 
+important properties, and the reason we provide them franchises is the 
+communication industry is a very important industry. I am not unmindful 
+of the fact that some of these are very good corporations, very well 
+run. I am not critical of individual corporations. I am critical of a 
+mindset that says it does not matter how big you get, you can combine 
+all you want and earn all you want and the public interest be damned. I 
+am critical of that, because I think there is a public interest in 
+maintaining and fostering competition in this country. The fewer 
+corporations you have in an industry, the greater concentration you 
+have, by definition the less competition you have. And that does not 
+auger well for the American people.
+  The Wall Street Journal has an article. I want to read the headline: 
+``Immediate Consolidation Has Left and Right Worried About Big Firms 
+Getting a Lock on Information.''
+  You talk about an odd couple. A picture of Bill Bennett and Jesse 
+Jackson. That is both ends of the political spectrum, both of them 
+essentially saying the same things: Worried about media concentration, 
+media consolidation, stemming the flow of ideas, the competition that 
+comes from having ideas moving from different centers of energy.
+  We need to reform our telecommunications laws. But this bill is in 
+deep, deep trouble. If you try to push this bill through the White 
+House, I think the President is going to veto it. I think what he said 
+publicly indicates he is going to veto it, and I think he should veto 
+it. He ought not in a million years allow a bill to come to the White 
+House where a bunch of politicians decide, ``Hey, boys, let's take the 
+limit off the number of television stations you can own. Let's say the 
+sky is the limit.'' That is not in the public interest. That may be 
+part of a deal somebody wants to make around here, but that is not in 
+the public interest.
+  That is why when we had a vote on an amendment I offered, with the 
+help of the Senator Bob Kerry from Nebraska, we prevailed, that is why 
+we won. A lot of folks did not feel comfortable voting against an 
+amendment that says, ``Hey, let's have the FCC determine what kind of 
+limits are in the public interest, instead of a bunch of politicians 
+saying we are arbitrarily going to say the sky is the limit on the 
+number of television stations you own.''
+  So we won the vote, and then, politics of course--and somebody 
+changes their vote and we lose.
+  The reason I come to the floor today is to say, if you try to push 
+this kind of bill without a role for the Department of Justice on the 
+issue of antitrust and on the issue of where there is competition with 
+respect to the telephone industry, and when local carriers who have a 
+monopoly are free to go out and compete in the long distance area, if 
+you try to push a bill without the opportunity for the Justice 
+Department to weigh in on this question of public interest and 
+competition, I think the President will veto it.
+  If you try to push a telecommunications bill through conference 
+committee that says the sky is the limit on television ownership, we do 
+not care about concentration--the bigger the better, and the less 
+competition the better, I think this President will veto it.
+  In conference, if we can make changes in this bill dealing with 
+ownership limits on television stations and radio stations and make 
+some changes with respect to the role of the Department of Justice, I 
+think this bill will advance. If it keeps protection for universal 
+service, then this bill can and will advance and should be signed by 
+the President. If not, I hope very much the President says, no, this is 
+radical and extreme and should not pass.
+  I yield the floor to my friend from Nebraska, Senator Kerrey.
+  Mr. KERREY. Mr. President, first of all, I thank my friend from North 
+Dakota for this presentation. I would like to be able to vote for a 
+piece of legislation. I have spent a great deal of time on 
+telecommunications. I am prepared to not only embrace the future but 
+place a bet that there is tremendous opportunity for us in technology. 
+Many of our systems need to rapidly acquire the transmission capacity 
+to use these new technologies, as the computer moves from a calculating 
+device to a communication device--I think, especially, for example, for 
+our university systems.
+  I just had a meeting a couple of weeks ago in Nebraska with an 
+individual with a very large software company who happens to be from a 
+farm not far from Ashland, NE, and who came back to try to help us 
+bring computer technology into our university. It is a tough 
+transition. The university is sitting there with a real problem. They 
+[[Page S 15148]]
+have increased enrollment as people recognize that a college degree is 
+worth an awful lot more than a high school degree. Student enrollment 
+has almost doubled in a 4-year period as that demand goes up. In 
+addition, what a person needs to know coming out of college is that 
+there is a doubling, tripling, quadrupling of the requirements of the 
+universities and they cannot get the professors and instructors to do 
+more for less. The tax base will not allow us to build more buildings 
+rapidly enough to be able to accommodate the demands. Only one thing 
+can do that for us, and that is computer technology.
+  We are trying to figure out how to get these systems into an old 
+system that does not replace the old system but augments it. Well, 
+there are real serious problems trying to make those adjustments. We 
+just got a couple of grants to match local commitments for three 
+schools in the State through the Department of Education, and that will 
+leverage a great deal of the private sector, as well as local money, to 
+get the job done. But those are a couple of schools amongst many who 
+are trying to bring this technology into the educational environment. I 
+was pleased that a majority of this body, the <strong>Senate</strong>--I do not believe 
+it is in the House bill--but in the <strong>Senate</strong> language we included a 
+provision I cosponsored which provides for preferential rates for local 
+K-12 schools. Connectivity may represent only 17 percent of the total 
+cost of bringing information technology into local schools, but it is 
+an awful lot of money. It is a principal barrier for many communities 
+that do not, as I say, have competitive choice; they do not have 
+competitive choice now, and they are not likely to see it for a long 
+period of time.
+  So I do not want anybody to suffer under the illusion that I do not 
+support change. I believe our telecommunications laws need to be 
+changed. I am prepared to embrace the future. I am prepared to put down 
+a bet. I am prepared to help institutions from the K-through-12 
+environment through the postsecondary, and indeed for Congress to bring 
+this technology in so it becomes part of our core competency so that we 
+are able to improve our efficiency.
+  We are going to debate in reconciliation the earned-income tax 
+credit. One of the biggest reasons EITC has had trouble has nothing to 
+do with the merits of being able to help people at the lower end of the 
+economic scale--a woman, for example, that you see at your checkout 
+stand at the grocery store making $7, $8 an hour, $12,000 to $15,000 a 
+year, trying to support a couple of kids. That is better than being on 
+welfare. So we want to refund your taxes and give you a couple thousand 
+dollars so you can buy health insurance. Well, the IRS has a tough time 
+doing it because it does not have a good information system.
+  I am prepared to embrace technology and place a bet because I believe 
+there is tremendous merit in it. However, if we change the law to 
+produce less competition, not more, to concentrate the power into fewer 
+and fewer hands, to concentrate not only the power of economic 
+decisions--but, I point out to Americans, it will concentrate the power 
+of the individuals to be making decisions about what to tell us is 
+going on in the world--these deals being done in anticipation of this 
+law being changed will present Americans in their homes with fewer news 
+choices. Fewer people will be telling us what is going on out there in 
+the world.
+  I would love to be able to stand on this floor and vote for a piece 
+of legislation that changes the law. I believe strongly, first of all, 
+that there needs to be preferential rates for education. I believe 
+strongly what the Senator from North Dakota is saying, that 
+concentration in television stations would be a mistake. I believe 
+strongly, as well, that we are far better off, instead of having a 10-
+part test that the Federal Communications Commission is going to look 
+at to determine whether there is competition, to have the Department of 
+Justice with a role in making the decision regarding entry by the 
+regional Bell operating companies into the long distance market.
+  Mr. President, earlier, before I came to the floor, I was discussing 
+with staff the reconciliation bill, trying to prepare myself for that 
+debate. There is a lot about it that we do not know yet. We have not 
+seen the details on the Medicaid proposal or the Medicare proposal, and 
+there is a lot of discussion on the tax side of it and so forth.
+  One of the things I have said to staff is--and I will say to the 
+people at home when discussing this--before we can talk about what kind 
+of a budget we have here in Washington, we have to have jobs and growth 
+and income out there in the private sector. That is where the money 
+comes from. One of the most remarkable constants in this town over the 
+last 70-80 years, really--is that the percentage of money that we 
+withdraw for Federal expenditures from the economy has stayed, except 
+for World War II and the Vietnam war, roughly 19 percent. It is about 
+$1 out of $5 we bring to Washington for a variety of things. One of the 
+disturbing things I find is that we are transferring more and more of 
+that and investing less of it. Almost 7 cents out of every 10 cents, or 
+70 cents out of every dollar today, is transferred out for retirement, 
+health care, or other sorts of things. That is a real concern.
+  We now know there is a great deal of consensus--and some may not 
+believe this, but I believe that it is important for us to have laws, 
+whether it is the regulations we have or the tax laws we have, and it 
+is important for us to have expenditure patterns that produce economic 
+growth.
+  Without economic growth, without people out there that are willing to 
+invest money and willing to run the risk, whether it is a big or small 
+business, it seems to me that we have serious problems.
+  Indeed, during the week that we took off to be at home last week, the 
+Census Bureau came out with numbers that showed that as a result of the 
+economic growth that we have been enjoying in the last 15-some months, 
+we have seen the rates of poverty drop--not just the rates of poverty, 
+but the number of people who are trapped in poverty has decreased. In 
+almost every State--certainly in Nebraska--as a result of economic 
+growth, we saw a substantial decrease of almost 20 percent in the 
+number of people who are in poverty.
+  Now, the alarming thing in that--we know if we have rules and 
+regulations and tax structure and expenditure patterns that produce 
+economic growth, which we have to constantly watch and make sure that 
+we have, if we have economic growth then we do see the boats of those 
+who are poor begin to lift, a good piece of news.
+  However, the Census Bureau said there is a continuation of the 
+widening between the economic haves--those in the work force, not on 
+welfare, at the lower end of the economic spectrum --and those like 
+Members of Congress that are at the higher end of the economic 
+spectrum. There is a widening gap. The market growth all by itself does 
+not seem to be fixing that problem.
+  One of the downward pressures upon wages in this country is the 
+concentration of power. No question about it. You cannot read whether 
+it is a bank merger or a megamedia deal that the Senator from North 
+Dakota talked about earlier, every single one of the transactions talks 
+about thousands of people being laid off. Every one.
+  You have the Time-Warner-Turner deal up there earlier, that was the 
+most egregious example, because they said 5,000 to 10,000 jobs would be 
+lost. However, the good news is Ted Turner will get $20 million a year 
+for 5 years and a convicted felon will get $50 million--Mike Milken.
+  Workers out there are saying, well, we are doing everything we are 
+supposed to be doing; should the laws of this country be written so 
+that people can come in and merge the deal? And maybe it is a good 
+deal. I am not coming down here proposing we change the law to prohibit 
+this, but it is painfully obvious that inside of this transaction we 
+are creating something that will create significant problems: 5,000 to 
+10,000 people being laid off, and a couple of guys making a heck of a 
+lot of money.
+  It is not like we are talking about somebody starting a chain of 
+restaurants or somebody--a doctor or somebody--that started a business 
+from scratch.
+  These are companies that made their money as a consequence of a 
+Government franchise. They were given the right to broadcast. They were 
+given the 
+[[Page S 15149]]
+right to operate cable companies. They did not go out there and start 
+this business out there in the wild blue yonder.
+  Mr. BURNS. Would the Senator yield?
+  Mr. KERREY. I am happy to yield to the Senator.
+  Mr. BURNS. Would you also relate what you are talking about to the 
+Homestead Act?
+  Were the farms and lands granted to individual ownership by an act of 
+the Homestead Act?
+  Mr. KERREY. If you want to talk of the Homestead Act, it has many 
+specific requirements for the individual to develop, and if they worked 
+the land and developed the land, they owned the land.
+  Mr. BURNS. Would you make the same comparison that spectrum--even 
+though granted by this Government--has no value unless investment is 
+made in equipment to make it valuable in the Government, I suggest to 
+my friend in Nebraska, the Government did not go out there and buy--did 
+not put up the tower, did not pay for the technology.
+  Mr. KERREY. I am pleased to acknowledge that is the case, in fact. No 
+question that it is true that when we give somebody a monopoly 
+franchise, when we give them that and say it is yours, there is no 
+question they have to make an investment.
+  Mr. BURNS. Did we not make the same requirements when we gave the 
+land, probably what your house sets on, and our house and my house, 
+probably the folks up there, did we not make the same demand that we 
+had to make----
+  Mr. KERREY. Mr. President, I ask the Senator from Montana, what is 
+the point? I acknowledge that is the case.
+  Mr. BURNS. The point is that the land was granted and then there was 
+a property right. The point is there was a property right--they could 
+buy and sell that land from that point on without Government intrusion.
+  I just want to make that comparison, and I also ask is there anything 
+in this act----
+  Mr. KERREY. I can answer the question, now I understand what the 
+Senator is saying.
+  You are saying that bandwidth and a piece of real estate are the 
+same? They are not the same. In that regard they are not the same. The 
+people's airwaves are licensed.
+  Mr. BURNS. If it were not for the Homestead Act you could say it is 
+people's land.
+  Mr. KERREY. It is not the same.
+  Mr. President, I ask the Senator from Montana, did the Senator 
+believe we should not pass laws restricting what broadcasters can put 
+over the airwaves? We do not have similar laws for people in their 
+home. I can engage in any kind of discussion I want inside my house.
+  Do you think, I ask the Senator from Montana, should we have 
+pornography laws in place or let the market dictate--they own it, for 
+gosh sakes. Let them put whatever they want over the airwaves. Does the 
+Senator from Montana believe the Government should not write decency 
+laws in place to protect the communities?
+  Mr. BURNS. I imagine if you did that on private land you will have a 
+neighbor holler at you.
+  Mr. KERREY. I ask the Senator from Montana a question: Does he 
+believe that the people of the United States, having granted a 
+franchise to somebody to operate a service using a piece of the 
+frequency bandwidth, should say, ``You own it, do whatever you want? It 
+is yours, have some fun with it. If you want to show pornography on 
+television at 6 o'clock go do it.''
+  I am asking the Senator from Montana, does he believe that the 
+people's laws should be written to protect against pornography, or does 
+he believe we ought to change the laws to say, no, you own that, we get 
+rid of pornography laws, let the market take care of it?
+  Mr. BURNS. I say there are certain rules but there are rules and 
+regulations placed on land ownership.
+  I want to say that the land originally that was purchased by this 
+Government through the Louisiana Purchase was paid for by the taxpayers 
+of this country, taken from the Treasury. And then it was given, 160 
+acres to anybody that wanted it, who could stake it out and build a 
+house and make it produce. After that it becomes--
+  I say what is the difference when you take a grant from a Government 
+on a resource----
+  Mr. DORGAN. Let me reclaim my time, if the Senator would indulge me.
+  Mr. KERREY. I have the floor, Mr. President. I yielded to the 
+distinguished Senator from Montana to ask a question and we have gone 
+beyond that.
+  I am perfectly willing to have a debate about the comparative 
+analysis between the Homestead Act and private property and franchises 
+granted to phone companies to have a monopoly to deliver a local 
+telephone service or to a television station or radio station to 
+broadcast over public airspace.
+  I am perfectly willing to acknowledge certainly there is a similarity 
+in having granted that franchise that people make substantial 
+investments.
+  Mr. DORGAN. If the Senator would yield, the Senator from Montana 
+raises an interesting but irrelevant question.
+  It is always interesting to hear irrelevant questions but this is 
+irrelevant.
+  I guess the proposition you are trying to develop here is that 
+concentration does not matter. If you receive a franchise to send a 
+television signal, you have that and you do what you want. If you want 
+to concentrate and bring them into one ownership pattern in this 
+country that is fine.
+  The issue here we are talking about is concentration--not the 
+television band, but the concentration.
+  I bet the Senator from Montana cares a little bit about concentration 
+in the meatpacking industry. We have not talked about that. But I bet 
+when you have three, four, five companies commanding 85 to 90 percent 
+of the meatpacking industry, creating the neck on top of that bottle 
+that forces down ranchers and holds their prices down, I bet the 
+Senator from Montana cares about that.
+  If he does, and I think he does, and I care not only about that but I 
+care about the big agrifactories that will be the superagrifactories 
+farming America pretty soon, the fewer family farmers we have the more 
+concentration you have and the less advantage you will have for the 
+consumer because it is not in this country's interest to see 
+concentration. It is in this country's interest to see broad-based 
+economic ownership.
+  If it is true that the Senator from Montana believes that 
+concentration in the meatpacking industry is a problem, and I think he 
+does, and God bless him for that, I think that is in the interest of 
+Montana ranchers and North Dakota ranchers to believe that, is there a 
+point at which the Senator from Montana would believe that 
+concentration in this industry is a problem?
+  If there is, then we ought to debate where is that point. He may 
+figure you can have a dozen more of these mergers and there is not a 
+problem but this will be a point, I assume, where he might also think 
+that the concentration in an industry we are moving about ideas and 
+information is as dangerous in this country as the concentration in the 
+meatpacking industry is to his ranchers.
+  If that is the case, then we ought to be debating not whether 
+concentration is good or bad, but how many more of these does one need 
+to see before one understands that saying the sky is the limit on the 
+number of television stations you can own is good for America. That is 
+the point we are making today.
+  Mr. BURNS. I would get very upset. We have already filed an action, 
+as far as IBP is concerned, on meat packing.
+  Mr. DORGAN. So the Senator agrees the concentration of the 
+meatpacking industry is damaging?
+  Mr. BURNS. I would. I would be very concerned about this. But there 
+is nothing in this piece of legislation as passed by this <strong>Senate</strong> that 
+repealed the Sherman Antitrust Act. We did not repeal the Clayton Act, 
+or the Hart-Scott-Rodino Act.
+  In other words, the Justice Department is not cut out of this. 
+Somebody has to bring an action, and I imagine before now--and, 
+remember, this is happening under the present law. This is happening 
+under the present law. Not under one we are going to go to conference 
+on.
+  Mr. DORGAN. But some of this is happening in anticipation of us 
+passing what my colleague and others have supported. In fact, some of 
+these mergers now have more television stations involved than they are 
+permitted to hold. Why would they do that? Because 
+[[Page S 15150]]
+they know some in here have said we want to take the limits off the 
+number of television stations you can own, so, because they are going 
+to do that for us, we are going to start gearing up and have more 
+stations than the current law allows. So they are anticipating what you 
+are going to do for them. I am saying what you are going to do for them 
+is not good for this country, that is the point.
+  Mr. BURNS. This Senator is not going to get into the business of 
+forecasting what might happen. I am saying this is probably the biggest 
+jobs bill we will pass. I just wanted to throw that in there.
+  Do we repeal any of those antitrust acts that are now the law of the 
+land? No. And, on spectrum, has it any value at all until someone makes 
+the investment to make it valuable? And then does it become a property 
+right? That is what we have to see.
+  Those of us who live in the West--I think the Senator from North 
+Dakota is very sound in his thinking, and understands the same values 
+that I understand, because western North Dakota and eastern Montana are 
+awfully a lot alike, on the way they think. But, if we took that case, 
+basically, then maybe we should not have granted all that land to 
+private ownership. Maybe we should have Government control all the way. 
+In other words, I do not know how it is halfway/halfway/halfway.
+  But I ask those questions. I would be concerned about concentration 
+because I think we will finally get to a point where Justice will have 
+to step in on the meatpacking industry. But we have the laws in place 
+for them to do so. The same laws would apply to concentration here.
+  Mr. DORGAN. My point is--and let me restate the point, probably more 
+clearly. My point is on both areas of this bill. One is the trigger of 
+when you have competition in the local telephone exchange so the 
+monopoly carriers there, the Bell systems, are allowed to go out and 
+compete against long-distance carriers. That trigger is a trigger that 
+does not have the active participation of the Justice Department 
+determining when there is competition. So you have, in my judgment, 
+largely eliminated or limited Justice's role. Second, my point is we 
+have affirmatively changed the law in this legislation that says: We 
+used to say you can only own 12 television stations in this country 
+because we thought that was in the public interest, but, guess what, we 
+have folks here generous enough to believe you ought to be able to own 
+as many as you like, the sky is the limit. Both of those changes, both 
+of those actions taken by this Chamber, in my judgment, move against 
+the public interest. That is the point of it.
+  The fact is, there are things in this bill that are good. I agree 
+with that. And we ought to do a bill. I agree with that. But you move 
+this bill with those provisions in it forward and it is going to get 
+vetoed and it ought to get vetoed. That is the point of it.
+  We are about to appoint conferees to sit and have a conference, and 
+there is not much disagreement between the House and <strong>Senate</strong> on these 
+provisions, unfortunately. We have sort of the same mindset. My point 
+is, it is a mindset not good for the people of this country.
+  The Senator from Montana makes some interesting points on the issue 
+of spectrum. ``Is it not true that when spectrum is given someone and 
+that person makes an investment, does that not enhance the value of the 
+spectrum?'' So, of course, the Senator wins a debate we were not 
+having. Of course. That is not the point. The point is concentration.
+  It is the point in both areas we are talking about, the telephone 
+service and competition, the issue of concentration, and the issue of 
+when the Department of Justice has a role and what role. And also the 
+issue of concentration of media ownership.
+  I should put up a couple of other charts. I had a chart of TCI, a 
+very large cable company, and a chart with Viacom, which has 
+substantial holdings in a number of areas.
+  Let me point out, it is not my intention to say many of these 
+companies are bad companies. They are wonderful companies, that have 
+done breathtaking things in communications for which I offer them my 
+heartfelt congratulations. Substantial progress has been made as a 
+result of inventive people who work in these companies.
+  My point is concentration of ownership. I am a Jeffersonian Democrat. 
+I am one of those people who believe broad-based economic ownership and 
+healthy, robust competition is what advances and drives the best 
+interests of this country. Concentration always augers against the 
+interests of the market system in this country, in my judgment.
+  I will be happy to yield again to the Senator from Nebraska.
+  Mr. KERREY. Mr. President, I have said about all I need to say on 
+this subject, having talked on it previously. I just say again, I would 
+love to vote for a piece of legislation. I hope the conference 
+committee comes back with one in a form I am able to vote for it. I am 
+prepared not to just embrace the future but to make a bet, based on my 
+strong belief that there is tremendous opportunity in education, 
+tremendous opportunity for jobs in these new technologies.
+  But there are 100 million households in this country and each one of 
+those individual households has very little economic power. When it 
+comes time for them to make a purchase of cable service or phone 
+service, when they are buying information services they are not buying 
+at $1 million a month. They are buying at $20, $30, $40, $50 a month; 
+very little economic power, very little. And the 16,000 school 
+districts in America that operate individual schools at the local 
+level, they have very little economic power. Both as a consumer of 
+telecommunications services and as somebody who has been working with 
+school districts in Nebraska, trying to get them hooked up to the 
+Internet, trying to get them enhanced information services, I can tell 
+you that when you do not have much economic power you do not have much 
+choice. You do not have much leverage. You do not have much 
+opportunity.
+  These guys who are doing these deals, they have real power. When you 
+have a couple of billion dollars you can leverage an awful lot. But 
+when you do not have much economic power you cannot.
+  The importance of this is not only consumer choice, not only the 
+kinds of decisions that our citizens will be making as a consequence of 
+who tells them what is going on in the world--and they are getting 
+fewer and fewer numbers of people telling them what is going on in the 
+world--not only is it relevant for those individuals in the household, 
+but it is terribly relevant for our economy. Our economy has been 
+robust and develops as a consequence of a competitive environment. The 
+competition that matters the most is that entrepreneur who starts in 
+business, who says, ``I would like to approach that household, I would 
+like to sell packaged information services in the households in Omaha, 
+the households throughout this country, I would like to be able to 
+approach those consumers and try to give them a competitive option and 
+a competitive alternative.''
+  Those are the people that this legislation ignores. This legislation 
+has been put together with far more concern about the national 
+companies, the regional companies--whether it is long distance or 
+local--who come here and say this is what this is going to do for me, 
+this is what it is going to do for the other guy.
+  This has been a balancing act from the beginning, between a range of 
+corporations, long distance and local versus cable versus publishers 
+versus all these big guys and gals who come into Washington and have 
+access and are able to come and talk to us. This has not been put 
+together by the entrepreneurs of America. It has not been put together 
+by the consumers of America. It has not been put together by people who 
+are either going to create the jobs--and most of the new jobs are not 
+going to be created by these megacompanies. They are going to be 
+created by the smaller startup companies. It has not been put together, 
+in my judgment, in a fashion that is going to enable competition to 
+really produce the benefits this Nation, I think, deserves and needs 
+and expects.
+  Mr. DORGAN. Mr. President, I was originally considering, along with 
+the Senator from Nebraska, offering a motion to instruct conferees this 
+morning. But it turned out to be something that we thought was probably 
+not 
+[[Page S 15151]]
+fruitful and not the thing to do. So we, instead, came to the floor to 
+describe a couple of major areas of this bill that tell us, and I think 
+tell a lot of people, this bill is in trouble.
+  I hope after a lot of reflection that conferees will recant or repent 
+or rethink these two issues and address the issue of competition in the 
+right way. You cannot advertise competition when in fact the product 
+you are describing is enhancing concentration. That is mislabeling. 
+There is much to commend this legislation for, but these areas are of 
+great concern to us.
+  I hope very much that we get a different result out of this 
+conference. We decided not to offer a motion to instruct. But there is 
+going to be a lot of attention paid to this conference by us, and by a 
+lot of others in this country. The result of this conference will have 
+a significant impact on what people in this country will experience in 
+the future.
+  Mr. President, how much time is remaining?
+  The PRESIDING OFFICER. Thirty minutes.
+  Mr. DORGAN. Mr. President, I have finished my presentation. The 
+Senator from Nebraska has finished. The Senator from Vermont wanted 3 
+or 4 or 5 minutes. I will allow the Senator from Vermont to take 
+whatever time he wishes and ask that he return the remaining time.
+  It is my understanding that the other side does not intend to use his 
+time. When the Senator from Vermont completes his statement, we are 
+finished with respect to the time agreement.
+  Mr. LEAHY addressed the Chair.
+  The PRESIDING OFFICER. The Senator from Vermont is recognized.
+  Mr. LEAHY. Mr. President, I thank my good friend from North Dakota. I 
+was at another hearing, and I heard this debate was proceeding on the 
+floor. I am concerned that we may end up in a situation with this 
+conference where, among other things, the <strong>Senate</strong> does not even have 
+Members of the Judiciary Committee on the conference.
+  The distinguished senior Senator from South Carolina, Senator 
+Thurmond, who chairs the Antitrust Subcommittee of the Judiciary 
+Committee, and I have written to the majority and minority leaders on 
+this legislation asking that we be named, or people from our 
+subcommittee on antitrust be named to the conference. I believe the 
+House has named a number of Judiciary Committee members to their 
+conference. Yet, we do not have anybody from the Judiciary Committee 
+here.
+  There are significant antitrust issues. There are significant 
+consumer issues. There are significant competitive issues, all of which 
+have been looked at, explored and discussed by the Judiciary Committee. 
+Yet, <strong>Senate</strong> Judiciary members will have no input in the conference, and 
+we all know the bill is going to be written in conference.
+  When we remove competitive incentives, we all know what happens. Take 
+a look at the cable industry. If you are fortunate enough to get cable 
+television in Fairfax County, VA, you are faced with using antiquated 
+equipment in the form of a set-top box that is kept on only because the 
+consumers have to pay a monthly fee to use it even though the stuff 
+would be in the trash bin otherwise. You pay a significant amount of 
+money. But they can do that. They can give you an inferior product. 
+They can give you out-of-date equipment. They can charge you for the 
+use of outdated equipment because the cable company has a monopoly.
+  We are going to see some of the same things happen here without 
+competition and without the consumer being considered in any way, shape 
+or manner.
+  This bothers me a great, great deal, and it should bother all 
+Senators, as it does Senator Thurmond and myself. This is not a 
+conservative issue. Obviously, the two of us join on this question. 
+But, rather, it is a basic, good-sense consumer issue. If you end up 
+getting gouged in your cost, the people gouged will be both Republicans 
+and Democrats and Independents. The people gouged will be in the North, 
+the South, the East, and the West. One thing they will all share in 
+common may not be a political ideology, but it will be the pain they 
+will feel in their pocketbooks.
+  Yesterday, the House appointed 34 conferees to this conference. Of 
+those 34, 14 of them came from the House Judiciary Committee. We do not 
+see--as yet anyway--any <strong>Senate</strong> Judiciary conferees at all. They have 
+14. We do not even see any coming from the <strong>Senate</strong> Judiciary Committee.
+  As I said, earlier, Senator Thurmond and I sent a letter to the 
+chairman and the ranking members of the Commerce Committee making clear 
+our view that you should have <strong>Senate</strong> Judiciary Committee members. We 
+would help with the conference to assure that those issues relating to 
+antitrust and competition are resolved in a principled manner, good 
+both for American business and American consumers.
+  If anyone would look at the hearings that Senator Thurmond and I and 
+other members of our subcommittee have held on telecommunications 
+legislation, they would see stressed the need for telecommunications 
+reform both for business and for consumers.
+  Certainly, it does not take any special knowledge to know how 
+critical telecommunications is to the economic health of our country, 
+or to the education of our children, or to the delivery of health care 
+services to our citizens, or to the overall quality of life in this 
+country. In fact, the explosion of all these new technologies in 
+telecommunications has fueled many of our newest innovations.
+  In the way I run my office--I know the distinguished Presiding 
+Officer does the same--we do virtually everything in telecommunications 
+by our computers. Just as frequently as we see memos or letters on 
+paper, we also see electronic messages sent by computers. I stay 
+connected by computer and telephone at home in the Washington area, in 
+my home in Vermont, and at my office here at the Capitol. It is a 
+given. When I get to Vermont this weekend, I will in effect be able to 
+bring my office and my files, my filing cabinets, my staff, and 
+everything else with me with a laptop computer. More and more of us do 
+that. More and more of us are more efficient doing that.
+  But when we have legislation like this, we want to make sure that it 
+expands those abilities and not contract them. Our challenge is to keep 
+pace with the changes in the marketplace. But, if in keeping pace with 
+them you pass legislation that stifles the growth of the industry, that 
+quashes the opportunity presented by rapidly expanding 
+telecommunications technology, then we have done a disservice to the 
+country. We have done a disservice to consumers. We have done a 
+disservice to business. We have done a disservice to the competitive 
+edge of our Nation as we go into the next century.
+  So we have to make sure that our laws governing our 
+telecommunications industries provide for future growth but to the 
+benefit of consumers. We have to make sure that the promise of this 
+legislation to open up competition in telecommunications is fulfilled 
+because that is the bottom-line purpose of this legislation: to open up 
+competition in telecommunications. If we do it wrong, we will not see 
+new competition. We will see competition stifled. We will not see new 
+innovation. We will see innovation stifled. We will not see consumers 
+benefited. We will see consumers harmed. We will not see a cutting-edge 
+industry having a chance to expand, but rather see the cutting-edge 
+industry facing a dead end.
+  We have to understand that the <strong>Senate</strong> telecommunications bill is 
+significantly different from the one passed by the House. This 
+conference is going to be one of the most complicated, complex and 
+difficult ones we have had in years. The conference is going to have to 
+pick and choose between provisions in the two bills, provisions that 
+are in many cases unreconcilable. They are not provisions like in an 
+appropriations bill where maybe we can just split the difference. It is 
+a case that you are either going to have to craft an entirely new 
+provision or drop one or the other.
+  I think that given that situation it would be helpful to have input 
+of Members with expert knowledge in antitrust issues. In fact, on the 
+modification of final judgment, the MFJ, the House, to their credit, 
+realizes that and has put Judiciary Committee members on the 
+conference. The <strong>Senate</strong> has yet to do it.
+  In fact, the administration now threatens to veto this legislation 
+for a number of reasons, including the need 
+[[Page S 15152]]
+for a stronger test for Bell company entry into the long-distance 
+business and also a more meaningful role for the Justice Department.
+  I also share the administration's concern about the legislation not 
+only taking the lid off but also promoting increased cable rates. I 
+mean, we have already lived through a period of skyrocketing cable 
+rates. Congress took action to address the problem of cable rate 
+increases when we passed the 1992 Cable Act over a Presidential veto. 
+Let us not go backward in time, but go forward with responsible 
+telecommunications reform.
+  Again, I use Fairfax County as an example. Here you see rates go up 
+for antiquated equipment. Rates go up, we are told, for all these 
+channels we get, most of which I doubt if anybody including the cable 
+system ever watch. But if at 3 o'clock in the morning, you are moved 
+with a great desire to buy 10 pounds of zircons, you have at least five 
+channels that you are paying for to know where you can buy those 10 
+pounds of zircons. Or, if you need to have your soul saved there are at 
+least 10 different people at any given time who will tell you that your 
+soul will be saved but only if you send the money to them. I guess they 
+give you a plaque saying you have been saved. None of the 10 says why 
+the other 9 should not get the money and why you get less soul 
+salvation from them.
+  Well, that is fine, but I just wonder whether there might be a little 
+more filtering, a little more selectivity, if there was competition 
+here. Without competition, their rates go up. We see the same thing in 
+local telephone service. Their rates go up because competition is not 
+yet available.
+  Now, we know that there is a need for new legislation. Certainly the 
+legislation from the 1950's, 1960's, 1970's, and early 1980's cannot 
+keep up with the technology of today. But let us make sure we do not 
+turn the clock back both for business and consumers. Rather, give us a 
+chance to use the marketing and technological genius of our great 
+country as we go into the next century.
+  I worry also about issues like criminal penalties for engaging in 
+constitutionally protected speech that occurs over computer networks. 
+Right now a provision in the <strong>Senate</strong> telecommunications bill would 
+penalize you, if you are, for example, a botanist and click onto an 
+online article on wild orchids, but suddenly find something that is not 
+the kind of wild orchid you grow in your planter but reference to an 
+obscene movie. The fact that you even clicked on, downloaded and found 
+out what it was, you could be prosecuted. The distinguished Presiding 
+Officer uses the Internet as I do, uses his computer as I do. Not that 
+this would ever happen, but suppose he sends me a message disagreeing--
+I say it would probably never happen--but disagreeing with a political 
+position I took. And suppose I sent back a message to him and in the 
+heat of the moment was less than senatorial in my courtesy toward him 
+and used terms that neither he nor I would use. I use this, of course, 
+as a hypothetical, Mr. President. I could be prosecuted under this bill 
+for doing it.
+  The interesting thing is he might be prosecuted for receiving it even 
+before he knew what was in there, and certainly should he get incensed 
+by what he received he could be in a real heap of hurt if he sent back, 
+and you're one, too.
+  These are the kinds of silly things that we have crafted in this 
+telecommunications bill that we ought to take a second look at. It 
+might make us all feel good at the moment, but the long-range 
+implications are weird and we ought to look at all of these issues.
+  The distinguished chairman of the Commerce Committee, the 
+distinguished chairman of the Judiciary Committee, the distinguished 
+ranking members of both of those committees and so many other Members 
+in this body, Republicans and Democrats alike, have worked so hard to 
+get a bill out of here. Let us not in almost a sense of final relief of 
+throwing it out the door, throw out something that is going to come 
+back and bite us. It will not just bite the 100 of us, but hundreds of 
+millions of consumers and dozens and dozens of businesses that deserve 
+better.
+  So let us appoint Judiciary Committee members. It does not guarantee 
+that everything that I might want or Senator Thurmond might want would 
+be on that bill by any means. But it might mean that those with 
+expertise in the areas of antitrust, first amendment rights, and so on, 
+would have a choice, and we might have better legislation as a result.
+  Mr. President, I understand that neither the distinguished Senator 
+from North Dakota nor anybody else wishes to speak over here.
+  I might ask the distinguished Senator from South Dakota if it is his 
+same feeling as the distinguished Senator from North Dakota, that upon 
+completion of this we just yield back all the time?
+  I understand it is, Mr. President, and I yield back all time.
+  Mr. PRESSLER. Mr. President, I would just like to make a couple of 
+remarks regarding the distinguished Senator from Nebraska.
+  Mr. LEAHY. In that case I think I will reserve the remainder of the 
+time, Mr. President.
+  The PRESIDING OFFICER. The Senator from South Dakota.
+  Mr. PRESSLER. Mr. President, I would say that through this 
+legislation we are trying to address and correct some of the problems 
+raised, and we will be proceeding with the conferees after they are 
+agreed to. I thank all of my colleagues who have participated in this 
+debate, and I am prepared to yield back the remainder of our time on 
+this side.
+  I am prepared to yield back the remainder of our time.
+  Mr. LEAHY. I yield back the remainder of our time.
+  The PRESIDING OFFICER. Under the previous order, the <strong>Senate</strong> disagrees 
+with the amendments of the House, agrees to a conference requested by 
+the House on the disagreeing votes of the two Houses, and the Chair 
+appoints the following conferees: Senators Pressler, Stevens, McCain, 
+Burns, Gorton, Lott, Hollings, Inouye, Ford, Exon, and Rockefeller.
+  Mr. PRESSLER. Mr. President, I note the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The assistant legislative clerk proceeded to call the roll.
+  Mr. LIEBERMAN. Mr. President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+  The PRESIDING OFFICER (Mr. Grams). Without objection, it is so 
+ordered.
+                          ____________________
+
+
+</pre>
+</body>
+</html>

@@ -1,0 +1,588 @@
+<html>
+<head>
+<title>WAIS Document Retrieval</title>
+</head>
+<body>
+<pre>
+[Congressional Record: February 9, 1995 (<strong>Senate</strong>)]
+[Page S2394-S2398]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+[DOCID:cr09fe95-114]                         
+
+
+             BALANCED BUDGET AMENDMENT TO THE CONSTITUTION
+  The <strong>Senate</strong> continued with the consideration of the joint resolution.
+
+
+                           Amendment No. 236
+  Mr. HEFLIN. Mr. President, I rise in support of the amendment to the 
+resolution offered by Senator Reid which would protect the Social 
+Security system. I am a cosponsor of the amendment to balance the 
+budget and a strong believer in it. But I feel the Social Security 
+program is such that it ought to be off budget and that we ought to 
+have truth in regard to budgeting.
+  I am a cosponsor of the Reid amendment, which is designed to ensure 
+that the budget is not balanced on the backs of hard-working Americans 
+who have contributed toward their retirement with a portion of each 
+paycheck. This is not only a protection for retirees but also a 
+protection for all Americans who pay into the program.
+  The amendment is simple. It protects the Social Security system by 
+excluding the receipts and the outlays of the Social Security program 
+from the budget. The present system of collecting FICA payments from 
+employees' paychecks, as well as a matching contribution from 
+employers, is used to fund a Social Security trust fund. Currently, the 
+payments to the Social Security recipients out of this trust fund are 
+less than the amount taken in through the FICA payments. This surplus 
+in contributions to the fund was created by Congress in the early 
+1980's to account for the increase in the payout which will occur in 
+the future as the baby boomers begin to retire and draw upon Social 
+Security, and was also done for the purpose of making the Social 
+Security system at that particular time stable, and to try to make it 
+actuarially sound for a great number of years.
+  We can liken the Social Security trust fund to the traditional 
+savings account most Americans have in the bank. By putting a little 
+money into a savings account each month, and forgetting it is there, it 
+will eventually build up and become substantial by the time it is 
+needed. We do not include the savings account in our monthly operating 
+budget in our checking account, which is used to pay monthly bills and 
+expenses. As I read it, under the language in the balanced budget 
+resolution now pending here in the <strong>Senate</strong>, this Social Security savings 
+account would no longer be completely safe to build up the surplus 
+which will be needed to pay retiring baby boomers in the 21st century.
+  Next, I will turn to what are potential problems, which may arise 
+under the current language of the balanced budget resolution.
+  If at some time the payments to Social Security beneficiaries should 
+be greater than the receipts from the FICA tax revenues, a deficit 
+would occur. According to figures supplied by the Social Security 
+Administration this should occur starting in the year 2013. At this 
+point it is not clear what effect this deficit would have on Social 
+Security payments. As part of a unified budget, would the deficit which 
+would begin to occur with respect to Social Security tax funds require 
+a drastic cut in other non-Social Security programs to make up the 
+trust fund deficit? Or would Congress change the formula for benefits 
+and thus reduce those benefits?
+  A scenario, which could occur under the balanced budget amendment as 
+currently drafted, concerns the ability of the Government to repay to 
+Social Security trust fund the interest owed from its Government 
+investments. It seems that the intent of section 7 of the amendment is 
+to exempt from total outlays the repayment of debt principal.
+ Those words seem to be carefully chosen of ``debt principal.'' The 
+unintended consequence--I hope it is unintended; it may not be 
+unintended--to Social Security may be that should outlays exceed 
+receipts from the general Treasury funds then, according to section 7, 
+no interest payments would be made to the Social Security trust fund.
+  What happens is that under the Social Security trust fund, we invest 
+in Government securities. Those Government securities are not 
+transferable. Those Government securities are particularly Social 
+Security trust fund investments. They draw interest. That is part of 
+the effort that was made to make the Social Security fund actuarially 
+sound. But pursuant to the definitions under section 7 of outlays and 
+of receipts, the definition of receipts, includes all receipts except 
+those obtained from borrowing.
+  The Social Security funds are in effect invested in Government 
+securities and, therefore, they are borrowed money.
+  Then we find that in the outlays, the definition is that it includes 
+all outlays that the Government is obligated to pay with the exception 
+of the payments to the debt principal. Therefore, it does not include 
+the payments which we classify as interest. Since interest payments 
+will be on budget, that causes a problem relative to whether or not 
+interest payments will be paid back.
+  The result of this nonpayment of interest due on principal debt could 
+substantially affect the stability of the bonds, which secure the debt 
+and the trust fund. If this should happen the bonds would probably go 
+into default and thus have little value. This would cause a 
+destabilization in the funds invested with Social Security trust fund 
+dollars, and a loss of faith by the American people.
+  To show what could happen, we look ahead and see what is the amount 
+of money we are referring to and what could possibly be involved with 
+this amendment. According to the Social Security Administration, they 
+anticipate that by the year 2003 there will be $1,151,300,000,000 in 
+assets of the Social Security fund. And, under the law, those assets, a 
+surplus, will be invested in Government securities. If the interest 
+could not be paid on those because of the operation of on-budget 
+activity, then you would have $1 trillion that is in some bonds in 
+which the Government has invested with no interest paid, and therefore 
+causing serious problems, and certainly this would deprive the Social 
+Security funds of the interest that has been accrued in the event that 
+the on-budget does not pay them back.
+  This could be averted through challenges in courts, but that raises 
+questions of interpretation under the principles of constitutional 
+construction.
+  Generally, constitutional provisions have received a broader and more 
+liberal construction than statutes. The Supreme Court in Kansas v. 
+Colorado, 206 U.S. 46, 88 (1906), upheld this general rule stating 
+``the Constitution is not to be construed technically and narrowly, 
+like an indictment, * * *, but as [a document that creates] a system of 
+government whose provisions are designed to make effective and 
+operative all the governmental powers granted.'' The balanced budget 
+amendment presently contains exceptions which raise issues as to how 
+broadly it should be interpreted.
+  Section 7 of the balanced budget resolution contains language which 
+creates exceptions to what shall be counted as receipts and outlays of 
+the U.S. Government. The provision which pertains to outlays, 
+specifically excepts from the calculation of outlays the repayment of 
+debt principal. How broadly this exception may be interpreted raises 
+great concern. The Supreme Court has addressed the issue of statutory 
+exceptions and has held that ``in construing provisions * * *, in which 
+a general statement of policy is qualified by an exception, we usually 
+read the exception narrowly in order to preserve the primary operation 
+of the provision.'' Commissioner v. Clark, 489 U.S. 726, 739 (1989); 
+``where Congress explicitly enumerates certain exceptions to a general 
+prohibition, additional exceptions are not implied.''
+ The Supreme Court in a 1991 case of United States versus Smith, and 
+then in the case of Citicorp Industrial Credit, Inc. versus Brock, a 
+1987 case--held similarly to the previous courts, although this case 
+dealt particularly with the Fair Labor Standards Act, it follows the 
+statutory interpretation principle for a narrow interpretation of 
+statutory exemptions. This textual principle of construction regarding 
+the narrow construction of exceptions is included in the Canons of 
+Construction, which are now followed by the U.S. Supreme Court, which 
+we generally refer to as the Rehnquist court.
+  We need to make sure that the scenarios that I have described do not 
+happen.
+ To do so will require an amendment to the present balanced budget 
+resolution being offered. We should keep in mind that Social Security 
+is a program self-financed from contributions by employees and 
+employers, which does not contribute 1 penny to the deficit. In fact, 
+Congress, realizing this fact, included in the 1990 Budget Enforcement 
+Act, a provision that declared that the funds were off budget. 
+Unfortunately, the current resolution would clearly put Social Security 
+on budget and thus overturn our recent decision to affirm the off-
+budget status of Social Security.
+  I have supported a balanced budget amendment since my first days in 
+the <strong>Senate</strong>. There have been several times in the past where the passage 
+of an amendment was close but failed for one reason or another. But now 
+that the amendment has passed the House, there is renewed momentum 
+which I believe will carry the amendment successfully through the 
+<strong>Senate</strong>. But as we debate and develop the balanced budget amendment, we 
+need to be sure that we also protect the integrity of the Social 
+Security System and maintain truth in budgeting. The protection of the 
+self-funded system can be maintained by keeping it off budget and out 
+of the balanced budget process.
+  Mr. President, there has been raised the issue of whether or not the 
+Reid amendment is proper in that it contains language which, in effect, 
+refers to existing statutes. Some say this should not be included in 
+the Constitution. However, it has been done before, in the 21st 
+amendment. It was the 21st amendment that repealed the 18th amendment. 
+The 18th amendment, as you remember, dealt with intoxicating liquors, 
+and the 21st amendment repealed it. But in section 2 of the 21st 
+amendment, it has this language:
+       The transportation or importation into any State, 
+     territory, or possession of the United States for delivery or 
+     use therein of intoxicating liquors in violation of the laws 
+     thereof is hereby prohibited.
+  What we were stating in that amendment was a reference to laws of 
+States--not just the United States, but the laws of the States in its 
+reference, and that, in my judgment, is a precedent for including the 
+language that is included in the Reid amendment.
+  Another source for precedent is in the 14th amendment--the 14th 
+amendment, of course, is one of the amendments that was adopted 
+following the War Between the States. In section 4 of that amendment, 
+it makes reference to existing statutes. In that section it states:
+       The validity of the public debt of the United States 
+     authorized by law, including debts incurred for the payment 
+     of pensions and bounties for services in suppressing 
+     insurrection or rebellion shall not be questioned.
+  Again, it is referring to existing debts that were created under laws 
+of the United States for the payment of pensions and bounties for 
+services in suppressing insurrection or rebellion. And then it goes 
+forward in that section,
+       * * * but neither the United States or any State shall 
+     assume or pay any debt or obligation incurred in aid of 
+     insurrection or rebellion against the United States or any 
+     claim for the loss or emancipation of any slave, but all such 
+     debts, obligations, and claims shall be held illegal and 
+     void.
+  So we have seen reference to statutory language in the Constitution 
+on at least two occasions.
+  I think others are seeking the floor. I am glad to yield if the 
+Senator from South Carolina wishes to speak.
+  I yield the floor.
+  Mr. HOLLINGS addressed the Chair.
+  The PRESIDING OFFICER. The Senator from South Carolina [Mr. Hollings] 
+is recognized.
+  Mr. HOLLINGS. Mr. President, I thank my distinguished colleague. It 
+should be noted that the law in the Constitution is being cited not 
+only by the distinguished Senator, but by a former Chief Justice of the 
+Supreme Court of the State of Alabama, Senator Heflin. He has studied 
+the law and legal precedence--particularly constitutional provisions. I 
+compliment him for speaking out on this particular occasion.
+  It is not my intent to belabor the point, but I certainly want to 
+emphasize that there is no alternative other than including the Reid 
+amendment. Why do I say that? Section 13301 of the Budget Enforcement 
+Act, says, thou shalt not use Social Security funds with respect to 
+receipts, outlays, or concerning the deficit.
+  That law passed this particular body on a vote of 98-2, in 1990, and 
+was signed into law by President George Walker Herbert Bush on November 
+5, 1990. It is the law, and it has been reiterated again and again. On 
+Monday of this week, Mr. President, it was cited by the distinguished 
+majority whip--the distinguished Senator from Mississippi. When asked 
+about specific cuts, he said:
+       Nobody--Republican, Democrat, conservative, liberal, 
+     moderate--is even thinking about using Social Security to 
+     balance the budget, to pass the joint resolution for the 
+     balanced budget amendment to the Constitution.
+  They are not thinking about it, they are doing it. You actually 
+repeal section 13301 of the Budget Enforcement Act that says: Thou 
+shalt not use Social Security trust funds for deficit purposes.
+  Why is that, Mr. President? It clearly states in section 7 of the 
+resolution:
+       Total receipts shall include all receipts of the United 
+     States Government, except those derived from borrowing.
+  The Social Security receipts in the Social Security trust fund is 
+included in deficit calculations under this definition. Some on the 
+other side have said, ``Do not worry, we will legislate later.''
+  But I recall that none other than President George Washington, in his 
+Farewell Address, said:
+       If in the opinion of the people the distribution or 
+     modification of the Constitutional powers be in any 
+     particular wrong, let it be corrected by an amendment in the 
+     way which the Constitution designates. But let there be no 
+     change by usurpation; for though this is one instance of 
+     good, it is the customary weapon by which free governments 
+     are destroyed.
+  The Father of this Country knew that you could not change the 
+Constitution by statute.
+  I have been in favor of balancing the budget. I helped the 
+distinguished Senator from Utah [Mr. Hatch] in 1982 when the balanced 
+budget amendment received the two-thirds required, the 67 votes.
+  We tried again with my distinguished senior colleague, Senator 
+Thurmond, in 1986 but we did not get two-thirds required.
+  [[Page S2396]] We tried last year under the distinguished leadership 
+of the Senator from Illinois [Senator Simon] but again failed.
+  We have been in the vineyards working on this particular problem, but 
+part and parcel of the problem is another contract with America--the 
+contract we made with the senior citizens of America back in 1935.
+  We felt so keenly about honoring that contract, that we raised taxes 
+in 1983, under the Greenspan commission, to keep the program fiscally 
+sound and to maintain that solemn trust. To maintain that contract with 
+our senior citizens--not for defense, not for welfare, not for foreign 
+aid, not for other Government programs--but for the Social Security 
+trust fund.
+  If you had said at that time that we were raising taxes for welfare, 
+foreign aid, defense or other spending, I would have voted no and other 
+Senators would have voted no. But instead, we said, ``This is a trust 
+fund and we must continue to keep that trust.''
+  Like the Senator from Mississippi has said, no one is thinking about 
+violating that trust, but yet we are constitutionally dissolving it by 
+including revenues from the Social Security trust in the definition of 
+total receipts. Legislative fixes will not work. As George Washington 
+said, you cannot amend the Constitution except as the Constitution 
+itself designates.
+  I am a reasonable man--as Rex Harrison said in ``My Fair Lady,'' an 
+ordinary man--just trying to get along on the floor of the <strong>Senate</strong>, 
+certainly supporting a balanced budget, but feeling compelled to take 
+issue here having established a record in protecting Social Security.
+  In the Budget Committee in 1990, I proposed the Social Security 
+Preservation Act. It stipulated that Social Security trust funds should 
+not be used in calculating the deficit. It was reported out 20 to 1, 
+and on the <strong>Senate</strong> floor passed by a vote of 98 to 2. And still, I see 
+administrations, Republican and Democrat; I see Congresses, Republican 
+and Democrat, violating the law.
+  Unfortunately, it does not surprise me. Former Senator Harry Byrd 
+shepherded his own statute through the Congress which said, in essence, 
+``Thou budget shall be balanced.'' It was the law, and yet we never 
+adhered to it. I do not know how we get away with this thievery. But I 
+know that something is amiss when honest public servants say that no 
+one is considering using Social Security to balance the budget when, on 
+the face of the legislation, it would require it. At that point, I have 
+to speak out.
+  As a result, I have written a letter to all the Senators to put to 
+rest ideas about changing it by legislation later on. You cannot amend 
+the Constitution by legislation. You have to get a joint resolution, 
+have three readings in the <strong>Senate</strong>, and have an affirmation of 37, or 
+two-thirds, of the sovereign States of America. So even if I wanted to 
+protect Social Security by statute, I could not do what they say can be 
+done.
+  I will read the letter. This is to every one of my colleagues in the 
+<strong>Senate</strong>.
+       In 1983, the Congress made the Social Security fund 
+     fiscally sound by programmed tax increases. Naturally, the 
+     Congress would never have supported these tax increases if 
+     the monies were to be used for foreign aid, defense, welfare 
+     or the deficit costs of government. But violating the truth-
+     in-budgeting principle, the Administrations and Congresses 
+     continued to use the Social Security trust fund to obscure 
+     the size of the deficit. Annoyed with this violation, the 
+     Budget Committee voted nearly unanimously in 1990 and the 
+     United States <strong>Senate</strong> with a vote of 98-2 joined the House in 
+     the now formal statutory law of the United States in section 
+     13301 of the Budget Enforcement Act, forbidding by law the 
+     use of the Social Security fund for the deficit. The 
+     violation continues. Now comes the balanced budget amendment 
+     to the Constitution requiring that, ``Total receipts shall 
+     include all receipts of the United States Government except 
+     those derived from borrowing.'' Left alone, this provision 
+     would repeal Section 13301 and constitutionally endorse the 
+     violation. The Reid amendment presently under consideration 
+     corrects this unintended repeal by stating that the Social 
+     Security trust fund, ``* * * should not be counted as 
+     receipts or outlays for the purpose of this article.''
+       John Mitchell, the former Attorney General was known for 
+     the axiom, ``Watch what we do, not what we say.'' It should 
+     be made crystal clear that we mean what we say. If you want 
+     to continue to use the trust fund and breach the trust, vote 
+     against the Reid amendment. There it is clear and simple, so 
+     everyone understands.
+       If you want to maintain the trust--the Contract with 
+     America made back in 1935--then please support the Reid 
+     amendment.
+  If this Reid amendment is allowed, there is no misunderstanding that 
+we will maintain the trust.
+  If the Reid amendment is defeated, we will be taking $636 billion 
+away from the trust fund in order to obscure the size of the deficit.
+  Mr. BIDEN. Will the Senator yield?
+  Mr. President, is it not true--and I am not being solicitous. No one 
+knows more about the budget process on this floor than the 
+distinguished Senator from South Carolina, and no one has more 
+credentials for making the tough decisions about what we should do to 
+cut the budget than the Senator from South Carolina. He has always put 
+his vote where his mouth is on this issue which, I might say, very few 
+Members of either party have done in the past.
+  The Senator just pointed out that we are talking about the difference 
+between, for this next year, $600-some billion--not this year--$600-
+some billion, between now and the time it comes time to balance the 
+budget, additional, we have to find, if the Reid amendment passes.
+  Is it not true that in addition to that, what is likely to happen is 
+that our friends, who are going to find increasing pressure to balance 
+the budget and who have never been great friends of the trust fund to 
+begin with, are going to, in the next year or 2 or 3, as we move toward 
+the year 2003, since most young people the age of your children and 
+mine believe they are not going to get Social Security, anyway, is it 
+not likely that we will see a movement that we will cut Social Security 
+benefits; that we will either raise the retirement age or cut benefits, 
+further increasing the surplus that Social Security will generate 
+between now and the year 2014, and further making the deficit look 
+smaller, so that it is easier to meet the balanced budget requirement 
+by the year 2003?
+  Does the Senator think that is as likely a scenario as any other we 
+are likely to see?
+  Mr. HOLLINGS. Mr. President, the distinguished Senator from Delaware 
+and former chairman of the Judiciary Committee knows it well. He is a 
+constitutional expert, and is right on target as to the practical 
+result.
+  We see several Senators trying to avoid the problem and not engage in 
+truth in budgeting. We have truth in packaging and truth in lending, 
+but we do not have truth in budgeting. It was not in the Contract With 
+America and it is not in the current version of this balanced budget 
+amendment.
+  Mr. BIDEN. If the Senator will yield for an additional question, as I 
+understand it, the distinguished majority leader is going to come to 
+the floor at some point and offer a legislative fix for this 
+constitutional dilemma, to try to convince all the American people that 
+the Republicans or those who are for the balanced budget do not want to 
+cut Social Security and are not going to be using Social Security trust 
+fund moneys to reduce the deficit.
+  Now, we both know that we cannot alter--the Senator said it more 
+eloquently than anyone thus far--we cannot alter the Constitution other 
+than by the rules the Constitution sets out.
+  We will assume for just a moment the distinguished Senator from 
+Kansas, if that is what he decides to do, comes along and says we will 
+pass a resolution promising we will not do that. Is it the 
+understanding of my friend from South Carolina that means, for 
+calculation purposes of what constitutes the deficit, that between now 
+and the year 2000, we will not count the $60 billion surplus this year 
+and the $100 billion surplus in the year 2000, toward reducing the 
+deficit?
+  Is that what he is going to do?
+  Mr. HOLLINGS. There can be no legislative fix. Constitutionally you 
+are mandating Social Security receipts as part of total receipts. If 
+the distinguished majority leader wants to put in a separate 
+constitutional amendment, that may be different. I am not trying to 
+tear down House Joint Resolution 1, the balanced budget amendment to 
+the Constitution. I voted for it three times. I would like to vote for 
+it a fourth time, but I cannot in good conscience repeal my own 
+statute.
+  Mr. BIDEN. Will the Senator yield for another question?
+  Mr. HOLLINGS. Yes.
+   [[Page S2397]] Mr. BIDEN. When we debated this in the Judiciary 
+Committee, and this legislation came out of the committee, I, along 
+with Senator Feinstein and others, argued for this amendment in the 
+committee. One of our senior Republican colleagues was very blunt about 
+this issue. He said, along with former Senator Tsongas of the Concord 
+Coalition, who came in to testify, the following:
+  That if you take Social Security out of the mix here and set it aside 
+so it is not covered by a constitutional amendment, we are not likely 
+to do anything to fix it.
+  What they mean by ``fix it'' is change Social Security; that is, 
+either raise the retirement age, cut the benefits or increase the 
+taxes, because everybody knows that by the time--I am 52--by the time 
+it comes time for me to collect Social Security, there are not going to 
+be enough of your children and my children to pay for my Social 
+Security benefits. So something is going to have to be done.
+  Unrelated to the balanced budget amendment and the impact of the Reid 
+amendment on the balanced budget amendment or the impact of the 
+balanced budget amendment on Social Security, unrelated to the balanced 
+budget amendment, just Social Security all by itself, does the Senator 
+from South Carolina see any way in which Social Security can be 
+protected from significant change if, in fact, it is included as part 
+of the balanced budget amendment?
+  Mr. HOLLINGS. No, taking it off-budget is the only way to protect it. 
+That is the only way that we can be sure that Social Security funds are 
+not being used to mask the size of the deficit.
+  Mr. BIDEN. Right.
+  Mr. HOLLINGS. You can still go in and change the age if you wanted to 
+or raise the FICA tax. I do not want to.
+  Mr. BIDEN. Absolutely.
+  Mr. HOLLINGS. But I think the Reid amendment is very clear. It states 
+that the receipts, ``including attributable interests and outlays of 
+the Federal Old-Age and Survivors Insurance Trust Fund and the Federal 
+Disability Insurance Trust Fund used to provide old age survivors and 
+disability benefits shall not be counted as receipts or outlays for the 
+purpose of this article.''
+  It does not say that you have to have a trust fund. They can go in 
+and repeal the 1935 Roosevelt Social Security if they wanted to.
+  Mr. BIDEN. Will the Senator yield for 30 seconds more?
+  Mr. HOLLINGS. Yes.
+  Mr. BIDEN. I want to thank the Senator for allowing me to interrupt 
+him with all these questions. It seems pretty clear to me this is about 
+two things: One, they need the Social Security dollars to make the 
+deficit look like it is less than it is, and then the next step is they 
+are going to need to try to deal with changing it to increase the 
+amount of money they get in the trust funds to make the deficit look 
+even less, which means that Social Security is going to get hit.
+  But I will withhold my statement on this until tomorrow. I thank my 
+colleague for letting me interrupt.
+  Mr. HOLLINGS. I thank the distinguished Senator from Delaware. I 
+yield the floor.
+  Mr. HATCH. Mr. President, I cannot emphasize enough, that the surest 
+way to harm Social Security, the surest way to deplete the trust fund, 
+the surest way to open a loophole which will swallow the balanced 
+budget amendment is to pass this exemption.
+  If we open up this loophole it will be big enough to drive a truck 
+through, and it will not be long before the convoy starts rolling.
+  If we keep the balanced budget amendment whole, however, we will 
+protect Social Security. Several of my colleagues appear to 
+misunderstand how the trust fund works. The extra money in the trust 
+fund is borrowed by the Treasury, not stolen but borrowed. And just 
+like any other loan in the country, it must be repaid. The trust fund 
+loses nothing. In fact, it gains the interest which the Treasury has to 
+pay on the loan. That will not change under the balanced budget 
+amendment.
+  The integrity of the trust fund is furthered by the balanced budget 
+amendment. Any money the Treasury may borrow, must be repaid. Just 
+because a balanced budget rule is adopted, there is no reason to think 
+the status of the trust fund will change. It is a complete non 
+sequitur, Mr. President. There is absolutely nothing in the balanced 
+budget amendment which says the funds designated for the Social 
+Security trust fund will not remain so dedicated. They will. So let me 
+say it again, as clearly and concisely as I possibly can--the trust 
+fund is not harmed in any way, shape, or form by the balanced budget 
+amendment.
+  Unfortunately, the trust fund will not fare so well under the Reid 
+exemption. If the loophole goes into effect, all kinds of unrelated 
+spending programs will suddenly be redesignated as Social Security and 
+will soak up the Social Security surplus. That means the Treasury will 
+not have to borrow money from Social Security because the new programs 
+will be Social Security. What an insidious turn of events. Under the 
+proposed exemption, the trust fund will actually be depleted years 
+before it would without the exemption.
+  I want to respond briefly to the notion that we cannot protect Social 
+Security through the implementing legislation. The balanced budget 
+amendment requires that the whole budget be balanced. Surpluses are 
+certainly permitted, and nothing in the balanced budget amendment 
+discourages us saving for a rainy day, as the Social Security system 
+now does. None of the statutory protections that are now enacted will 
+be brushed aside, and nothing keeps us from keeping the accounts 
+segregated and accounting in a way that shows what is dedicated to 
+Social Security. Nothing will change in the way we segregate Social 
+Security if the balanced budget amendment is adopted.
+  It is true that the budget must be balanced. But this will help 
+protect Social Security recipients who rely on those moneys after 2029, 
+when the trust funds are projected to be insolvent. At that point, the 
+balanced budget amendment will require that there be sufficient money 
+to pay those benefits. And a balanced budget rule will help those who 
+rely on Social Security after 2019, when the trust fund will begin to 
+redeem its loan to the Federal Government. To the extent that the 
+Federal Government is in a better position to repay this debt, the 
+Social Security recipients are more strongly protected. And to the 
+extent that the Government continues its profligate ways, it will be 
+less, not more, able to repay the debt to the trust fund.
+  So the best way to protect Social Security recipients in the long run 
+is to adopt a balanced budget amendment so that the Government will be 
+able to pay its debt to retirees.
+  Mr. DOLE. Mr. President, I thank my colleagues.
+  The PRESIDING OFFICER. The majority leader.
+  Mr. DOLE. I will take a moment and then be happy to yield the floor.
+
+
+                            Motion to Refer
+
+
+
+  Mr. President, I send a motion to refer to the desk and ask for its 
+immediate consideration.
+  The PRESIDING OFFICER. The clerk will report the motion.
+  The assistant legislative clerk read as follows:
+       The Senator from Kansas [Mr. Dole] moves to refer H.J. Res. 
+     1 to the Budget Committee with instructions to report back 
+     forthwith H.J. Res. 1 in status quo, and at the earliest date 
+     possible report to the <strong>Senate</strong> how to achieve a balanced 
+     budget without increasing the receipts or reducing the 
+     disbursements of the Federal Old-Age and Survivors Insurance 
+     Trust Fund and the Federal Disability Insurance Trust Fund to 
+     achieve that goal.
+  Mr. DOLE. I ask for the yeas and nays on the motion to refer.
+  The PRESIDING OFFICER. Is there a sufficient second?
+  There is a sufficient second.
+  The yeas and nays were ordered.
+
+
+                           Amendment No. 237
+  Mr. DOLE. Mr. President, I send an amendment to the desk to the 
+motion to refer.
+  The PRESIDING OFFICER. The clerk will report the amendment.
+  The assistant legislative clerk read as follows:
+       The Senator from Kansas [Mr. Dole] proposes an amendment 
+     numbered 237 to the instructions of the motion to refer H.J. 
+     Res. 1 to the Budget Committee.
+  Mr. DOLE. Mr. President, I ask unanimous consent that the reading of 
+the amendment be dispensed with.
+   [[Page S2398]] The PRESIDING OFFICER. Without objection, it is so 
+ordered.
+  The amendment is as follows:
+       In lieu of the instructions, and after the words ``Budget 
+     Committee'' on page 1, lines 1 and 2 insert: ``that for the 
+     purpose of any constitutional amendment requiring a balanced 
+     budget, the Budget Committee shall report back forthwith H.J. 
+     Res. 1 in status quo, and at the earliest date practicable 
+     they shall report to the <strong>Senate</strong> how to achieve a balanced 
+     budget without increasing the receipts or reducing the 
+     disbursements of the Federal Old-Age and Survivors Insurance 
+     Trust Fund and the Federal Disability Insurance Trust Fund to 
+     achieve that goal.''
+  Mr. DOLE. I ask for the yeas and nays.
+  The PRESIDING OFFICER. Is there a sufficient second?
+  There is a sufficient second.
+  The yeas and nays were ordered.
+
+
+                 amendment No. 238 to amendment No. 237
+  Mr. DOLE. Mr. President, I send an amendment to the desk in the 
+second degree to my amendment and ask that it be reported.
+  The PRESIDING OFFICER. The clerk will report.
+  The assistant legislative clerk read as follows:
+       THe Senator from Kansas [Mr. Dole] proposes an amendment 
+     numbered 238 to amendment No. 237.
+  Mr. DOLE. Mr. President, I ask unanimous consent that the reading of 
+the amendment be dispensed with.
+  THe PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment is as follows:
+       Strike all after the first word and insert the following: 
+     ``, for the purpose of any constitutional amendment requiring 
+     a balanced budget, the Budget Committee of the <strong>Senate</strong> shall 
+     report forthwith H.J. Res. 1 in status quo and at the 
+     earliest date practicable after February 8, 1995, they shall 
+     report to the <strong>Senate</strong> how to achieve a balanced budget without 
+     increasing the receipts or reducing the disbursements of the 
+     Federal Old-Age and Survivors Insurance Trust Fund and the 
+     Federal Disability Insurance Trust Fund to achieve that 
+     goal.''
+  Mr. DOLE. I thank my colleague from South Caroline and other 
+colleagues for yielding to me.
+                          ____________________
+
+
+</pre>
+</body>
+</html>

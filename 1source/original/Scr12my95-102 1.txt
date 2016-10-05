@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>WAIS Document Retrieval</title>
+</head>
+<body>
+<pre>
+[Congressional Record: May 12, 1995 (<strong>Senate</strong>)]
+[Page S6589]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+[DOCID:cr12my95-102]                         
+
+
+
+
+                           ORDER OF PROCEDURE
+  Mr. KEMPTHORNE. Mr. President, I ask unanimous consent to be allowed 
+to go forward as though in morning business.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+
+                          ____________________
+
+
+</pre>
+</body>
+</html>

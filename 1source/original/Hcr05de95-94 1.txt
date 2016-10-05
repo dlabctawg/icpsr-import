@@ -1,0 +1,1568 @@
+<html>
+<head>
+<title>WAIS Document Retrieval</title>
+</head>
+<body>
+<pre>
+[Congressional Record: December 5, 1995 (<strong>House</strong>)]
+[Page H13962-H13971]
+From the Congressional Record Online via GPO Access [wais.access.gpo.gov]
+[DOCID:cr05de95-94]                         
+
+
+
+
+               SENIOR CITIZENS' RIGHT TO WORK ACT OF 1995
+  Mr. BUNNING of Kentucky. Mr. Speaker, I move to suspend the rules and 
+pass the bill (H.R. 2684) to amend title II of the Social Security Act 
+to provide for increases in the amounts of allowable earnings under the 
+Social Security earnings limit for individuals who have attained 
+retirement age, and for other purposes, as amended.
+  The Clerk read as follows:
+                               H.R. 2684
+       Be it enacted by the Senate and <strong>House</strong> of Representatives of 
+     the United States of America in Congress assembled,
+     SECTION 1. SHORT TITLE.
+       This Act may be cited as the ``Senior Citizens' Right to 
+     Work Act of 1995''.
+     SEC. 2. INCREASES IN MONTHLY EXEMPT AMOUNT FOR PURPOSES OF 
+                   THE SOCIAL SECURITY EARNINGS LIMIT.
+       (a) Increase in Monthly Exempt Amount for Individuals Who 
+     Have Attained Retirement Age.--Section 203(f)(8)(D) of the 
+     Social Security Act (42 U.S.C. 403(f)(8)(D)) is amended to 
+     read as follows:
+       ``(D) Notwithstanding any other provision of this 
+     subsection, the exempt amount which is applicable to an 
+     individual who has attained retirement age (as defined in 
+     section 216(l)) before the close of the taxable year involved 
+     shall be--
+       ``(i) for each month of any taxable year ending after 1995 
+     and before 1997, $1,166.66\2/3\,
+       ``(ii) for each month of any taxable year ending after 1996 
+     and before 1998, $1,250.00,
+       ``(iii) for each month of any taxable year ending after 
+     1997 and before 1999, $1,333.33\1/3\,
+       ``(iv) for each month of any taxable year ending after 1998 
+     and before 2000, $1,416.66\2/3\,
+       ``(v) for each month of any taxable year ending after 1999 
+     and before 2001, $1,500.00,
+       ``(vi) for each month of any taxable year ending after 2000 
+     and before 2002, $2,083.33\1/3\, and
+       ``(vii) for each month of any taxable year ending after 
+     2001 and before 2003, $2,500.00.''.
+       (b) Conforming Amendments.--
+       (1) Section 203(f)(8)(B)(ii) of such Act (42 U.S.C. 
+     403(f)(8)(B)(ii)) is amended--
+       (A) by striking ``the taxable year ending after 1993 and 
+     before 1995'' and inserting ``the taxable year ending after 
+     2001 and before 2003 (with respect to individuals described 
+     in subparagraph (D)) or the taxable year ending after 1993 
+     and before 1995 (with respect to other individuals)''; and
+       (B) in subclause (II), by striking ``for 1992'' and 
+     inserting ``for 2000 (with respect to individuals described 
+     in subparagraph (D)) or 1992 (with respect to other 
+     individuals)''.
+       (2) The second sentence of section 223(d)(4)(A) of such Act 
+     (42 U.S.C. 423(d)(4)(A)) is amended by striking ``the exempt 
+     amount under section 203(f)(8) which is applicable to 
+     individuals described in subparagraph (D) thereof'' and 
+     inserting the following: ``an amount equal to the exempt 
+     amount which would be applicable under section 203(f)(8), to 
+     individuals described in subparagraph (D) thereof, if section 
+     2 of the Senior Citizens' Right to Work Act of 1995 had not 
+     been enacted''.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply with respect to taxable years ending after 1995.
+     SEC. 3. ESTABLISHMENT OF DISABILITY INSURANCE CONTINUING 
+                   DISABILITY REVIEW ADMINISTRATION REVOLVING 
+                   ACCOUNT.
+       (a) Continuing Disability Review Administration Revolving 
+     Account for Title II Disability Benefits in the Federal 
+     Disability Insurance Trust Fund.--
+       (1) In general.--Section 201 of the Social Security Act (42 
+     U.S.C. 401) is amended by adding at the end the following new 
+     subsection:
+       ``(n)(1) There is hereby created in the Federal Disability 
+     Insurance Trust Fund a Continuing Disability Review 
+     Administration Revolving Account (hereinafter in this 
+     subsection referred to as the `Account'). The Account shall 
+     consist initially of $300,000,000 (which is hereby 
+     transferred to the Account from amounts otherwise available 
+     in such Trust Fund) and shall also consist thereafter of such 
+     other amounts as may be transferred to it under this 
+     subsection. The balance in the Account shall be available 
+     solely for expenditures certified under paragraph (2).
+       ``(2)(A) Before October 1 of each calendar year, the Chief 
+     Actuary of the Social Security Administration shall--
+       ``(i) estimate the present value of savings to the Federal 
+     Old-Age and Survivors Insurance Trust Fund, the Federal 
+     Disability Insurance Trust Fund, the Federal Hospital 
+     Insurance Trust Fund, and the Federal Supplementary Medical 
+     Insurance Trust Fund which will accrue for all years as a 
+     result of cessations of benefit payments resulting from 
+     continuing disability reviews carried out pursuant to the 
+     requirements of section 221(i) during the fiscal year ending 
+     on September 30 of such calendar year (increased or decreased 
+     as appropriate to account for deviations of estimates for 
+     prior fiscal years from the actual amounts for such fiscal 
+     years), and
+       ``(ii) certify the amount of such estimate to the Managing 
+     Trustee.
+       ``(B) Upon receipt of certification by the Chief Actuary 
+     under subparagraph (A), the Managing Trustee shall transfer 
+     to the Account from amounts otherwise in the Trust Fund an 
+     amount equal to the estimated savings so certified.
+       ``(C) To the extent of available funds in the Account, upon 
+     certification by the Chief Actuary that such funds are 
+     currently required to meet expenditures necessary to provide 
+     for continuing disability reviews required under section 
+     221(i), the Managing Trustee shall make available to the 
+     Commissioner of Social Security from the Account the amount 
+     so certified.
+       ``(D) The expenditures referred to in subparagraph (C) 
+     shall include, but not be limited to, the cost of staffing, 
+     training, purchase of medical and other evidence, and 
+     processing related to appeals (including appeal hearings) and 
+     to overpayments and related indirect costs.
+       ``(E) The Commissioner shall use funds made available 
+     pursuant to this paragraph solely for the purposes described 
+     in subparagraph (C).''.
+       (2) Conforming amendment.--Section 201(g)(1)(A) of such Act 
+     (42 U.S.C. 401(g)(1)(A)) is amended in the last sentence by 
+     inserting ``(other than expenditures from available funds in 
+     the Continuing Disability Review Administration Revolving 
+     Account in the Federal Disability Insurance Trust Fund made 
+     pursuant to subsection (n))'' after ``is responsible'' the 
+     first place it appears.
+       (3) Annual report.--Section 221(i)(3) of such Act (42 
+     U.S.C. 421(i)(3)) is amended--
+       (A) by striking ``and the number'' and inserting ``the 
+     number'';
+       (B) by striking the period at the end and inserting a 
+     comma; and
+       (C) by adding at the end the following: ``and a final 
+     accounting of amounts transferred to the Continuing 
+     Disability Review Administration Revolving Account in the 
+     Federal Disability Insurance Trust Fund during the year, the 
+     amount made available from such Account during such year 
+     pursuant to certifications made by the Chief Actuary of the 
+     Social Security Administration under section 201(n)(2)(C), 
+     and expenditures made by the Commissioner of Social Security 
+     for the purposes described in section 201(n)(2)(C) during the 
+     year, including a comparison of the number of continuing 
+     disability reviews conducted during the year with the 
+     estimated number of continuing disability reviews upon which 
+     the estimate of such expenditures was made under section 
+     201(n)(2)(A).''.
+       (b) Effective Date and Sunset.--
+       (1) Effective date.--The amendments made by subsection (a) 
+     shall apply for fiscal years beginning on or after October 1, 
+     1995, and ending on or before September 30, 2002.
+       (2) Sunset.--Effective October 1, 2002, the Continuing 
+     Disability Review Administration 
+[[Page H 13963]]
+     Revolving Account in the Federal Disability Insurance Trust Fund shall 
+     cease to exist, any balance in such Account shall revert to 
+     funds otherwise available in such Trust Fund, and sections 
+     201 and 221 of the Social Security Act shall read as if the 
+     amendments made by subsection (a) had not been enacted.
+       (c) Office of Chief Actuary in the Social Security 
+     Administration.--
+       (1) In general.--Section 702 of such Act (42 U.S.C. 902) is 
+     amended--
+       (A) by redesignating subsections (c) and (d) as subsections 
+     (d) and (e), respectively; and
+       (B) by inserting after subsection (b) the following new 
+     subsection:
+                            ``Chief Actuary
+       ``(c)(1) There shall be in the Administration a Chief 
+     Actuary, who shall be appointed by, and in direct line of 
+     authority to, the Commissioner. The Chief Actuary shall be 
+     appointed from individuals who have demonstrated, by their 
+     education and experience, superior expertise in the actuarial 
+     sciences. The Chief Actuary shall serve as the chief 
+     actuarial officer of the Administration, and shall exercise 
+     such duties as are appropriate for the office of the Chief 
+     Actuary and in accordance with professional standards of 
+     actuarial independence. The Chief Actuary may be removed only 
+     for cause.
+       ``(2) The Chief Actuary shall be compensated at the highest 
+     rate of basic pay for the Senior Executive Service under 
+     section 5382(b) of title 5, United States Code.''.
+       (2) Effective date of subsection.--The amendments made by 
+     this subsection shall take effect on the date of the 
+     enactment of this Act.
+     SEC. 4. ENTITLEMENT OF STEPCHILDREN TO CHILD'S INSURANCE 
+                   BENEFITS BASED ON ACTUAL DEPENDENCY ON 
+                   STEPPARENT SUPPORT.
+       (a) Requirement of Actual Dependency for Future 
+     Entitlements.--
+       (1) In general.--Section 202(d)(4) of the Social Security 
+     Act (42 U.S.C. 402(d)(4)) is amended by striking ``was living 
+     with or''.
+       (2) Effective date.--The amendment made by paragraph (1) 
+     shall apply with respect to benefits of individuals who 
+     become entitled to such benefits for months after the third 
+     month following the month in which this Act is enacted.
+       (b) Termination of Child's Insurance Benefits Based on Work 
+     Record of Stepparent Upon Natural Parent's Divorce From 
+     Stepparent.--
+       (1) In general.--Section 202(d)(1) of the Social Security 
+     Act (42 U.S.C. 402(d)(1)) is amended--
+       (A) by striking ``or'' at the end of subparagraph (F);
+       (B) by striking the period at the end of subparagraph (G) 
+     and inserting ``; or''; and
+       (C) by inserting after subparagraph (G) the following new 
+     subparagraph:
+       ``(H) if the benefits under this subsection are based on 
+     the wages and self-employment income of a stepparent who is 
+     subsequently divorced from such child's natural parent, the 
+     sixth month after the month in which the Commissioner of 
+     Social Security receives formal notification of such 
+     divorce.''.
+       (2) Effective date.--The amendments made by this subsection 
+     shall apply with respect to notifications of divorces 
+     received by the Commissioner of Social Security on or after 
+     the date of the enactment of this Act.
+     SEC. 5. RECOMPUTATION OF BENEFITS AFTER NORMAL RETIREMENT 
+                   AGE.
+       (a) In General.--Section 215(f)(2)(D)(i) of the Social 
+     Security Act (42 U.S.C. 415(f)(2)(D)(i)) is amended to read 
+     as follows:
+       ``(i) in the case of an individual who did not die in the 
+     year with respect to which the recomputation is made, for 
+     monthly benefits beginning with benefits for January of--
+       ``(I) the second year following the year with respect to 
+     which the recomputation is made, in any such case in which 
+     the individual is entitled to old-age insurance benefits, the 
+     individual has attained retirement age (as defined in section 
+     216(l)) as of the end of the year preceding the year with 
+     respect to which the recomputation is made, and the year with 
+     respect to which the recomputation is made would not be 
+     substituted in recomputation under this subsection for a 
+     benefit computation year in which no wages or self-employment 
+     income have been credited previously to such individual, or
+       ``(II) the first year following the year with respect to 
+     which the recomputation is made, in any other such case; 
+     or''.
+       (b) Conforming Amendments.--
+       (1) Section 215(f)(7) of such Act (42 U.S.C. 415(f)(7)) is 
+     amended by inserting ``, and as amended by section 5(b)(2) of 
+     the Senior Citizens' Right to Work Act of 1995,'' after 
+     ``This subsection as in effect in December 1978''.
+       (2) Subparagraph (A) of section 215(f)(2) of the Social 
+     Security Act as in effect in December 1978 and applied in 
+     certain cases under the provisions of such Act as in effect 
+     after December 1978 is amended--
+       (A) by striking ``in the case of an individual who did not 
+     die'' and all that follows and inserting ``in the case of an 
+     individual who did not die in the year with respect to which 
+     the recomputation is made, for monthly benefits beginning 
+     with benefits for January of--''; and
+       (B) by adding at the end the following:
+       ``(i) the second year following the year with respect to 
+     which the recomputation is made, in any such case in which 
+     the individual is entitled to old-age insurance benefits, the 
+     individual has attained age 65 as of the end of the year 
+     preceding the year with respect to which the recomputation is 
+     made, and the year with respect to which the recomputation is 
+     made would not be substituted in recomputation under this 
+     subsection for a benefit computation year in which no wages 
+     or self-employment income have been credited previously to 
+     such individual, or
+       ``(ii) the first year following the year with respect to 
+     which the recomputation is made, in any other such case; 
+     or''.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply with respect to recomputations of primary 
+     insurance amounts based on wages paid and self employment 
+     income derived after 1994 and with respect to benefits 
+     payable after December 31, 1995.
+     SEC. 6. ELIMINATION OF THE ROLE OF THE SOCIAL SECURITY 
+                   ADMINISTRATION IN PROCESSING ATTORNEY FEES.
+       (a) Actions Before the Commissioner.--Section 206(a) of the 
+     Social Security Act (42 U.S.C. 406(a)) is amended--
+       (1) in paragraph (1), by striking the fourth and fifth 
+     sentences;
+       (2) by striking paragraphs (2), (3), and (4);
+       (3) by inserting after paragraph (1) the following new 
+     paragraph:
+       ``(2)(A) No person, agent, or attorney may charge in excess 
+     of $4,000 (or, if higher, the amount set pursuant to 
+     subparagraph (B)) for services performed in connection with 
+     any claim before the Commissioner under this title, or for 
+     services performed in connection with concurrent claims 
+     before the Commissioner under this title and title XVI.
+       ``(B) The Commissioner may increase the dollar amount under 
+     subparagraph (A) whenever the Commissioner determines that 
+     such an increase is warranted. The Commissioner shall publish 
+     any such increased amount in the Federal Register.
+       ``(C) Any agreement in violation of this paragraph shall be 
+     void.
+       ``(D) Whenever the Commissioner makes a favorable 
+     determination in connection with any claim for benefits under 
+     this title by a claimant who is represented by a person, 
+     agent, or attorney, the Commissioner shall provide the 
+     claimant and such person, agent, or attorney a written notice 
+     of--
+       ``(i) the determination,
+       ``(ii) the dollar amount of any benefits payable to the 
+     claimant, and
+       ``(iii) the maximum amount under paragraph (2) that may be 
+     charged for services performed in connection with such 
+     claim.''; and
+       (4) by redesignating paragraph (5) as paragraph (3).
+       (b) Judicial Proceedings.--Section 206(b)(1) of such Act 
+     (42 U.S.C. 406(b)(1)) is amended--
+       (1) in the first sentence of subparagraph (A), by striking 
+     ``representation,'' and all that follows and inserting the 
+     following: ``representation. In determining a reasonable fee, 
+     the court shall take into consideration the amount of the 
+     fee, if any, that such attorney, or any other person, agent, 
+     or attorney, may charge the claimant for services performed 
+     in connection with the claimant's claim when it was pending 
+     before the Commissioner.'';
+       (2) in the second sentence of subparagraph (A), by striking 
+     ``or certified for payment'';
+       (3) by striking subparagraph (B); and
+       (4) by striking ``(b)(1)(A)'' and inserting ``(b)(1)''.
+       (c) Conforming Amendments.--
+       (1) Section 223(h)(3) of such Act (42 U.S.C. 423(h)(3)) is 
+     amended by striking all that follows ``obtained)'' and 
+     inserting a period.
+       (2) Section 1127(a) of such Act (42 U.S.C. 1320a-6(a)) is 
+     amended by striking the last sentence.
+       (3) Section 1631(d)(2)(A) of such Act (42 U.S.C. 
+     1383(d)(2)(A)) is amended--
+       (A) by striking ``(other than paragraph (4) thereof)''; and
+       (B) by striking all that follows ``title II'' and inserting 
+     a period.
+       (d) Effective Date.--The amendments made by this section 
+     shall apply with respect to--
+       (1) any claim for benefits under the old-age, survivors, 
+     and disability insurance program under title II of the Social 
+     Security Act, the supplemental security income program under 
+     title XVI of such Act, or the black lung program under part B 
+     of the Black Lung Benefits Act that is initially filed on or 
+     after the 60th day following the date of the enactment of 
+     this Act, and
+       (2) any claim for such benefits filed before such 60th day 
+     by a claimant who is first represented by any person, agent, 
+     or attorney in connection with such claim on or after such 
+     60th day.
+     SEC. 7. DENIAL OF DISABILITY BENEFITS TO DRUG ADDICTS AND 
+                   ALCOHOLICS.
+       (a) Amendments Relating to Title II Disability Benefits.--
+       (1) In general.--Section 223(d)(2) of the Social Security 
+     Act (42 U.S.C. 423(d)(2)) is amended by adding at the end the 
+     following:
+       ``(C) An individual shall not be considered to be disabled 
+     for purposes of this title if alcoholism or drug addiction 
+     would (but for this subparagraph) be a contributing factor 
+     material to the Commissioner's determination that the 
+     individual is disabled.''.
+       (2) Representative payee requirements.--
+       (A) Section 205(j)(1)(B) of such Act (42 U.S.C. 
+     405(j)(1)(B)) is amended to read as follows:
+       ``(B) In the case of an individual entitled to benefits 
+     based on disability, the payment of such benefits shall be 
+     made to a representative payee if the Commissioner of Social 
+     Security determines that such payment would serve the 
+     interest of the individual because the individual also has an 
+     alcoholism or drug addiction condition (as determined by the 
+     Commissioner) that prevents the individual from managing such 
+     benefits.''.
+       (B) Section 205(j)(2)(C)(v) of such Act (42 U.S.C. 
+     405(j)(2)(C)(v)) is amended by striking ``entitled to 
+     benefits'' and all that follows through ``under a 
+     disability'' and inserting ``described in paragraph (1)(B)''.
+       (C) Section 205(j)(2)(D)(ii)(II) of such Act (42 U.S.C. 
+     405(j)(2)(D)(ii)(II)) is amended by striking all that follows 
+     ``15 years, or'' and inserting ``described in paragraph 
+     (1)(B).''.
+[[Page H 13964]]
+       (D) Section 205(j)(4)(A)(i)(II) (42 U.S.C. 
+     405(j)(4)(A)(ii)(II)) is amended by striking ``entitled to 
+     benefits'' and all that follows through ``under a 
+     disability'' and inserting ``described in paragraph (1)(B)''.
+       (3) Treatment referrals for individuals with an alcoholism 
+     or drug addiction condition.--Section 222 of such Act (42 
+     U.S.C. 422) is amended by adding at the end the following new 
+     subsection:
+   ``Treatment Referrals for Individuals with an Alcoholism or Drug 
+                          Addiction Condition
+       ``(e) In the case of any individual whose benefits under 
+     this title are paid to a representative payee pursuant to 
+     section 205(j)(1)(B), the Commissioner of Social Security 
+     shall refer such individual to the appropriate State agency 
+     administering the State plan for substance abuse treatment 
+     services approved under subpart II of part B of title XIX of 
+     the Public Health Service Act (42 U.S.C. 300x-21 et seq.).''.
+       (4) Conforming amendment.--Subsection (c) of section 225 of 
+     such Act (42 U.S.C. 425(c)) is repealed.
+       (5) Effective dates.--
+       (A) The amendments made by paragraphs (1) and (4) shall 
+     apply with respect to monthly insurance benefits under title 
+     II of the Social Security Act based on disability for months 
+     beginning after the date of the enactment of this Act, except 
+     that, in the case of individuals who are entitled to such 
+     benefits for the month in which this Act is enacted, such 
+     amendments shall apply only with respect to such benefits for 
+     months beginning on or after January 1, 1997.
+       (B) The amendments made by paragraphs (2) and (3) shall 
+     apply with respect to benefits for which applications are 
+     filed on or after the date of the enactment of this Act.
+       (C) If an individual who is entitled to monthly insurance 
+     benefits under title II of the Social Security Act based on 
+     disability for the month in which this Act is enacted and 
+     whose entitlement to such benefits would terminate by reason 
+     of the amendments made by this subsection reapplies for 
+     benefits under title II of such Act (as amended by this Act) 
+     based on disability within 120 days after the date of the 
+     enactment of this Act, the Commissioner of Social Security 
+     shall, not later than January 1, 1997, complete the 
+     entitlement redetermination with respect to such individual 
+     pursuant to the procedures of such title.
+       (b) Amendments Relating to SSI Benefits.--
+       (1) In general.--Section 1614(a)(3) of the Social Security 
+     Act (42 U.S.C. 1382c(a)(3)) is amended by adding at the end 
+     the following:
+       ``(I) Notwithstanding subparagraph (A), an individual shall 
+     not be considered to be disabled for purposes of this title 
+     if alcoholism or drug addiction would (but for this 
+     subparagraph) be a contributing factor material to the 
+     Commissioner's determination that the individual is 
+     disabled.''.
+       (2) Representative payee requirements.--
+       (A) Section 1631(a)(2)(A)(ii)(II) of such Act (42 U.S.C. 
+     1383(a)(2)(A)(ii)(II)) is amended to read as follows:
+       ``(II) In the case of an individual eligible for benefits 
+     under this title by reason of disability, the payment of such 
+     benefits shall be made to a representative payee if the 
+     Commissioner of Social Security determines that such payment 
+     would serve the interest of the individual because the 
+     individual also has an alcoholism or drug addiction condition 
+     (as determined by the Commissioner) that prevents the 
+     individual from managing such benefits.''.
+       (B) Section 1631(a)(2)(B)(vii) of such Act (42 U.S.C. 
+     1383(a)(2)(B)(vii)) is amended by striking ``eligible for 
+     benefits'' and all that follows through ``is disabled'' and 
+     inserting ``described in subparagraph (A)(ii)(II)''.
+       (C) Section 1631(a)(2)(B)(ix)(II) of such Act (42 U.S.C. 
+     1383(a)(2)(B)(ix)(II)) is amended by striking all that 
+     follows ``15 years, or'' and inserting ``described in 
+     subparagraph (A)(ii)(II).''.
+       (D) Section 1631(a)(2)(D)(i)(II) of such Act (42 U.S.C. 
+     1383(a)(2)(D)(i)(II)) is amended by striking ``eligible for 
+     benefits'' and all that follows through ``is disabled'' and 
+     inserting ``described in subparagraph (A)(ii)(II)''.
+       (3) Treatment services for individuals with a substance 
+     abuse condition.--Title XVI of such Act (42 U.S.C. 1381 et 
+     seq.) is amended by adding at the end the following new 
+     section:
+
+
+ ``TREATMENT SERVICES FOR INDIVIDUALS WITH A SUBSTANCE ABUSE CONDITION
+       ``Sec. 1636. In the case of any individual whose benefits 
+     under this title are paid to a representative payee pursuant 
+     to section 1631(a)(2)(A)(ii)(II), the Commissioner of Social 
+     Security shall refer such individual to the appropriate State 
+     agency administering the State plan for substance abuse 
+     treatment services approved under subpart II of part B of 
+     title XIX of the Public Health Service Act (42 U.S.C. 300x-21 
+     et seq.).''.
+       (4) Conforming amendments.--
+       (A) Section 1611(e) of such Act (42 U.S.C. 1382(e)) is 
+     amended by striking paragraph (3).
+       (B) Section 1634 of such Act (42 U.S.C. 1383c) is amended 
+     by striking subsection (e).
+       (5) Effective dates.--
+       (A) The amendments made by paragraphs (1) and (4) shall 
+     apply with respect to supplemental security income benefits 
+     under title XVI of the Social Security Act based on 
+     disability for months beginning after the date of the 
+     enactment of this Act, except that, in the case of 
+     individuals who are eligible for such benefits for the month 
+     in which this Act is enacted, such amendments shall apply 
+     only with respect to such benefits for months beginning on or 
+     after January 1, 1997.
+       (B) The amendments made by paragraphs (2) and (3) shall 
+     apply with respect to supplemental security income benefits 
+     under title XVI of the Social Security Act for which 
+     applications are filed on or after the date of the enactment 
+     of this Act.
+       (C) If an individual who is eligible for supplemental 
+     security income benefits under title XVI of the Social 
+     Security Act for the month in which this Act is enacted and 
+     whose eligibility for such benefits would terminate by reason 
+     of the amendments made by this subsection reapplies for 
+     supplemental security income benefits under title XVI of such 
+     Act (as amended by this Act) within 120 days after the date 
+     of the enactment of this Act, the Commissioner of Social 
+     Security shall, not later than January 1, 1997, complete the 
+     eligibility redetermination with respect to such individual 
+     pursuant to the procedures of such title.
+       (D) For purposes of this paragraph, the phrase 
+     ``supplemental security income benefits under title XVI of 
+     the Social Security Act'' includes supplementary payments 
+     pursuant to an agreement for Federal administration under 
+     section 1616(a) of the Social Security Act and payments 
+     pursuant to an agreement entered into under section 212(b) of 
+     Public Law 93-66.
+       (c) Conforming Amendment.--Section 201(c) of the Social 
+     Security Independence and Program Improvements Act of 1994 
+     (42 U.S.C. 425 note) is repealed.
+       (d) Supplemental Funding for Alcohol and Substance Abuse 
+     Treatment Programs.--
+       (1) In general.--Out of any money in the Treasury not 
+     otherwise appropriated, there are hereby appropriated to 
+     supplement State and Tribal programs funded under section 
+     1933 of the Public Health Service Act (42 U.S.C. 300x-33), 
+     $100,000,000 for each of the fiscal years 1997 and 1998.
+       (2) Additional funds.--Amounts appropriated under paragraph 
+     (1) shall be in addition to any funds otherwise appropriated 
+     for allotments under section 1933 of the Public Health 
+     Service Act (42 U.S.C. 300x-33) and shall be allocated 
+     pursuant to such section 1933.
+       (3) Use of Funds.--A State or Tribal government receiving 
+     an allotment under this subsection shall consider as 
+     priorities, for purposes of expending funds allotted under 
+     this subsection, activities relating to the treatment of the 
+     abuse of alcohol and other drugs.
+     SEC. 8. REVOCATION BY MEMBERS OF THE CLERGY OF EXEMPTION FROM 
+                   SOCIAL SECURITY COVERAGE.
+       (a) In General.--Notwithstanding section 1402(e)(4) of the 
+     Internal Revenue Code of 1986, any exemption which has been 
+     received under section 1402(e)(1) of such Code by a duly 
+     ordained, commissioned, or licensed minister of a church, a 
+     member of a religious order, or a Christian Science 
+     practitioner, and which is effective for the taxable year in 
+     which this Act is enacted, may be revoked by filing an 
+     application therefor (in such form and manner, and with such 
+     official, as may be prescribed in regulations made under 
+     chapter 2 of such Code), if such application is filed no 
+     later than the due date of the Federal income tax return 
+     (including any extension thereof) for the applicant's 
+     second taxable year beginning after December 31, 1995. Any 
+     such revocation shall be effective (for purposes of 
+     chapter 2 of the Internal Revenue Code of 1986 and title 
+     II of the Social Security Act), as specified in the 
+     application, either with respect to the applicant's first 
+     taxable year beginning after December 31, 1995, or with 
+     respect to the applicant's second taxable year beginning 
+     after such date, and for all succeeding taxable years; and 
+     the applicant for any such revocation may not thereafter 
+     again file application for an exemption under such section 
+     1402(e)(1). If the application is filed after the due date 
+     of the applicant's Federal income tax return for a taxable 
+     year and is effective with respect to that taxable year, 
+     it shall include or be accompanied by payment in full of 
+     an amount equal to the total of the taxes that would have 
+     been imposed by section 1401 of the Internal Revenue Code 
+     of 1986 with respect to all of the applicant's income 
+     derived in that taxable year which would have constituted 
+     net earnings from self-employment for purposes of chapter 
+     2 of such Code (notwithstanding section 1402(c)(4) or 
+     (c)(5) of such Code) except for the exemption under 
+     section 1402(e)(1) of such Code.
+       (b) Effective Date.--Subsection (a) shall apply with 
+     respect to service performed (to the extent specified in such 
+     subsection) in taxable years beginning after December 31, 
+     1995, and with respect to monthly insurance benefits payable 
+     under title II of the Social Security Act on the basis of the 
+     wages and self-employment income of any individual for months 
+     in or after the calendar year in which such individual's 
+     application for revocation (as described in such subsection) 
+     is effective (and lump-sum death payments payable under such 
+     title on the basis of such wages and self-employment income 
+     in the case of deaths occurring in or after such calendar 
+     year).
+     SEC. 9. PILOT STUDY OF EFFICACY OF PROVIDING INDIVIDUALIZED 
+                   INFORMATION TO RECIPIENTS OF OLD-AGE AND 
+                   SURVIVORS INSURANCE BENEFITS.
+       (a) In General.--During a 2-year period beginning as soon 
+     as practicable in 1996, the Commissioner of Social Security 
+     shall conduct a pilot study of the efficacy of providing 
+     certain individualized information to recipients of monthly 
+     insurance benefits under section 202 of the Social Security 
+     Act, designed to promote better understanding of their 
+     contributions and benefits under the social security system. 
+     The study shall involve solely beneficiaries whose 
+     entitlement to such benefits first occurred in or after 1984 
+     and who have remained entitled to such benefits for a 
+     continuous period of not less than 5 years. The number of 
+     such recipients involved in the study shall be of sufficient 
+     size to generate a statistically valid sample for purposes of 
+     the study, but shall not exceed 600,000 beneficiaries.
+       (b) Annualized Statements.--During the course of the study, 
+     the Commissioner shall provide to each of the beneficiaries 
+     involved in the 
+[[Page H 13965]]
+     study one annualized statement, setting forth the following 
+     information:
+       (1) an estimate of the aggregate wages and self-employment 
+     income earned by the individual on whose wages and self-
+     employment income the benefit is based, as shown on the 
+     records of the Commissioner as of the end of the last 
+     calendar year ending prior to the beneficiary's first month 
+     of entitlement;
+       (2) an estimate of the aggregate of the employee and self-
+     employment contributions, and the aggregate of the employer 
+     contributions (separately identified), made with respect to 
+     the wages and self-employment income on which the benefit is 
+     based, as shown on the records of the Commissioner as of the 
+     end of the calendar year preceding the beneficiary's first 
+     month of entitlement; and
+       (3) an estimate of the total amount paid as benefits under 
+     section 202 of the Social Security Act based on such wages 
+     and self-employment income, as shown on the records of the 
+     Commissioner as of the end of the last calendar year 
+     preceding the issuance of the statement for which complete 
+     information is available.
+       (b) Inclusion With Matter Otherwise Distributed to 
+     Beneficiaries.--The Commissioner shall ensure that reports 
+     provided pursuant to this subsection are, to the maximum 
+     extent practicable, included with other reports currently 
+     provided to beneficiaries on an annual basis.
+       (c) Report to the Congress.--The Commissioner shall report 
+     to each <strong>House</strong> of the Congress regarding the results of the 
+     pilot study conducted pursuant to this section not later than 
+     60 days after the completion of such study.
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Kentucky [Mr. Bunning] will be recognized for 20 minutes, and the 
+gentleman from Indiana [Mr. Jacobs] will be recognized for 20 minutes.
+  The Chair recognizes the gentleman from Kentucky [Mr. Bunning].
+  Mr. BUNNING of Kentucky. Mr. Speaker, I yield myself such time as I 
+may consume.
+  Mr. Speaker, today, it is my honor to speak on behalf of the Senior 
+Citizens' Right To Work Act of 1995, because I am also speaking on 
+behalf of the 1 million people who are affected by the Social Security 
+earnings limit.
+  Over a year ago, we promised working seniors financial relief from 
+the punitive earnings limit which is imposed on many older Americans 
+who must work to make ends meet.
+  Today we are taking one more step toward fulfilling that promise with 
+the Senior Citizens' Right To Work Act.
+  H.R. 2684 is a fair and balanced bill. It is fair to the working 
+seniors. It is fair to the financial soundness of the Social Security 
+trust fund.
+  This legislation enjoys widespread support among the senior 
+community, because they, too, know it is good policy to do what is 
+right for working seniors.
+  The members of the Ways and Means Committee know it is good policy, 
+too, because it passed the committee unanimously on a vote of 31 to 0.
+  I urge my colleagues to follow the example of the Ways and Means 
+Committee and pass the Senior Citizens' Right To Work Act of 1995.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. JACOBS. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, I, of course, support this legislation as well, and I 
+commend the gentleman from Kentucky as well as the gentleman from Texas 
+who are longstanding supporters of the concept, and I cannot think of a 
+better example of a legislative accommodation to various points of 
+view.
+  There were those of us, and still are, who believe that it is 
+improper to repeal the retirement test altogether, those of us who 
+believe that retirement benefits should, in fact, go to people who are 
+retired. But the compromise this bill represents is a very happy one, 
+as the gentleman from Kentucky has said, for practically any reasonable 
+person who has dealt with this issue over the years. This is a happy 
+moment for the American people. It is a proud moment for the Congress, 
+and it might not be a bad example for the people moving across the hall 
+here to negotiate the whole budget.
+  There has been give and take. There has been friendship. And there 
+has been accomplishment, and we have arrived at that accomplishment 
+today.
+  Mr. Speaker, I yield 2\1/2\ minutes to the gentlewoman from 
+Connecticut [Mrs. Kennelly].
+  Mrs. KENNELLY. Mr. Speaker, I thank the gentleman for yielding me 
+this time.
+  I rise today not in the manner that I would have liked. I support 
+this bill. I support final passage of this bill.
+  But I am truly disappointed that the bill came up under suspension, 
+because it gives us no opportunity to amend the bill, and I had planned 
+to testify today before the Committee on Rules to ask that we could 
+have an amendment to continue equity for the blind people of this 
+Nation. Up to this point, people in America who are blind have the same 
+situation on earnings test limits as those who are 65 and older, and my 
+amendment would have maintained this current link between senior 
+citizens and the blind for the purposes of Social Security earnings.
+  This Social Security earnings test link was put forth originally by 
+our own chairman of the Committee on Ways and Means, the gentleman from 
+Texas [Mr. Archer]. He had this idea that this was a very good thing 
+for the blind to have this same type of situation, and it became law 
+nearly 20 years ago. Unfortunately, the bill before us will break that 
+link, and the blind will no longer have the same work incentive our 
+senior citizens should and will enjoy.
+  Earlier in the year I submitted a similar amendment before the 
+Committee on Rules during consideration of the Contract With America, 
+and the amendment was not permitted on the floor of the <strong>House</strong>. Today, 
+again, I tried to get an amendment before the Committee on Rules, but, 
+unfortunately, the decision was made to have this come under 
+suspension.
+  Mr. Speaker, I feel this is unfortunate for the blind of this country 
+not to be allowed to have the vote, but, more importantly, the link is 
+broken. So I would like to say today, whereas it was not found possible 
+to do this, the blind are very interested in this piece of legislation 
+and would certainly like to reestablish this link. I would hope 
+somewhere down the line this could come up again and we could have 
+something that will work and continue.
+  Mr. BUNNING of Kentucky. Mr. Speaker, it is my pleasure to yield 3 
+minutes to the gentleman from Texas [Mr. Archer] the chairman of the 
+full Committee on Ways and Means.
+  Mr. ARCHER. Mr. Speaker, I thank my friend from Kentucky for yielding 
+me time.
+  Today is truly a banner day for this <strong>House</strong> of Representatives and for 
+the country. As my friend, the gentleman from Indiana, Andy Jacobs, 
+said, we should find more opportunities to work together for the 
+betterment not only of our senior citizens, but for all Americans.
+  Today is particularly a sentimental day for me, because over 20 years 
+ago I initiated the effort to eliminate the retirement test. I felt 
+very strongly that this country was losing tremendous talent available 
+in its senior citizens who, if they did work, were penalized by losing 
+their Social Security benefits and paying the highest effective 
+marginal tax rate as a result of any age group in the country.
+  Today, after all of those years, we are making a move in the right 
+direction, and it is a result of the work of the gentleman from 
+Kentucky, Jim Bunning, our subcommittee chairman, cooperating with the 
+gentleman from Indiana, Andy Jacobs, the ranking Democrat on the 
+committee.
+  But it is also a sentimental day for Barry Goldwater. I hope in some 
+way that he may be watching today, because year after year he was the 
+lead Senate sponsor of this legislation, until he retired from the 
+Senate.
+  This earnings limit brings about the most odious administrative 
+nightmare in every Social Security office across this country. If you 
+talk to people who who are there day by day, having to deal with Social 
+Security problems, you will find that they will tell you that this is 
+the toughest thing they have to deal with, just from a standpoint of 
+administrative redtape.
+  When fully phased in, this will eliminate about 50 percent of the 
+people who have to comply with it and bring about these mountainous 
+files of uncertainty.
+  Seniors who want to work after the passage of this bill will be able 
+to continue to do so up to earning $30,000 a year. That is a giant step 
+forward. It will unlash an awful lot of talent, an awful lot of 
+resources, to help push this country forward in the years ahead.
+  Mr. Speaker, I could not be more gratified with the response on a 
+bipartisan basis, where this bill came out of our committee on a 31-to-
+0 vote, to send it to the Senate, where hopefully 
+[[Page H 13966]]
+they will pass it speedily and put it on the desk of the President so 
+it can be signed soon this year.
+  Mr. BUNNING of Kentucky. Mr. Speaker, I have the good fortune to 
+yield 1 minute to the gentleman from Florida [Mr. Shaw].
+  Mr. SHAW. Mr. Speaker, I rise today in support of this most important 
+piece of legislation. It has been late in coming, but it is certainly 
+an answer to many of our commitments to our senior citizens.
+  For many it is very difficult to live on Social Security and then be 
+limited to $11,000 a year in earnings limits, as existing law provides. 
+By increasing this over 7 years to $30,000, we are recognizing the fact 
+that many of our seniors want to continue to work, can continue to 
+work, and can live a much better and fuller life if they are able to 
+work. It is high time that this legislation pass.
+  I compliment the chairman and the gentleman from Indiana [Mr. Jacobs] 
+for working on this, in a bipartisan way, to bring this most important 
+piece of legislation to the <strong>House</strong> floor.
+  Mr. JACOBS. Mr. Speaker, I yield 4 minutes to the gentleman from 
+Wisconsin [Mr. Kleczka].
+  Mr. KLECZKA. Mr. Speaker, I thank the gentleman for yielding me time.
+  Mr. Speaker, the bill before us is not very controversial. The base 
+bill does provide for an increase in the earnings limit for senior 
+citizens. I guess we could debate, and possibly the Senate will debate, 
+whether or not it should go to $30,000 over a period of 7 years. But 
+the point I want to raise with the body today is, No. 1, the process on 
+how the bill got before us today, and then two of the components which 
+are very troublesome to me.
+  We were notified, I believe last week, that this bill would be coming 
+before the Committee on Rules today at 2:30, at which time Members who 
+were interested could approach the Committee on Rules and ask for 
+various amendments to be made in order.
+  That is the usual process when we are amending bills and debating 
+bills. However, for whatever reason, unbeknownst to this speaker, the 
+Committee on Rules canceled that hearing on this particular bill and it 
+was rushed to the <strong>House</strong> under a procedure we call suspension of the 
+rules. The suspension of the rules procedure does not permit any 
+amendments to be offered to the legislation being debated.
+  So essentially what the Republican majority has done is cut some of 
+us off, some of us who wanted to propose some constructive changes to 
+the legislation we were debating.
+  You ask what are those changes? What do you want to change about the 
+bill? There are two major changes I think that have to be addressed.
+  One was already spoken to by the gentlewoman from Connecticut [Mrs. 
+Kennelly], and it is something we did discuss before the committee and 
+I am sad to say to no avail. But under current law and under an 
+amendment back to 1977 that was proposed by my good friend, the 
+gentleman from Texas [Mr. Archer], the chairman of the committee, there 
+was a linkage formed between the blind and the earnings test for Social 
+Security recipients. However, although that linkage has proved very 
+beneficial to the blind involved and it has been in the law since 1977, 
+for some reason, unbeknownst to me, that linkage is ending with the 
+passage of this bill.
+  If you look at the plight of a blind person who has tried to struggle 
+in a low paying job, to not permit them to earn more as we are doing 
+for retired people I think is absurd. In fact, the example I used 
+before the Committee on Ways and Means during markup was take the 
+situation of a blind person who is not going to get better in his or 
+her lifetime, unless a miracle would occur, a blind person who is 
+trying to increase their stand in this country, and they try to get a 
+job earning more money. But they know full well they are going to lose. 
+A person who is blind who is trying to earn will lose Social Security 
+benefits.
+  However, a retired person who is, say, 66 years old, very, very 
+healthy, not blind, will over a 7-year period be able to earn $30,000, 
+and I think the unlinking of the two is totally unfair. However, 
+because of the Republican procedure today, the blind people will not 
+get a separate vote on their request to my office and many others to 
+keep this linked.
+  The other problem with the bill has nothing to do with the earnings 
+test. However, under current law for attorneys who represent people in 
+Social Security disability cases, they receive their reimbursement for 
+the representation through a separate check from the Social Security 
+Administration. That is being done away with. It does not save any 
+money. We are told it might cost some money, but we are going to save 
+some man-hours. We did want to offer before the Committee on Rules a 
+proposal wherein we take the one disability check going to the 
+beneficiary, have two payees listed on the check, and if in fact that 
+did not cover the cost we would provide for a $20 fee. That was not 
+permitted. That is sad.
+  Mr. BUNNING of Kentucky. Mr. Speaker, I yield 1 minute to the 
+gentleman from Georgia [Mr. Collins].
+  Mr. COLLINS of Georgia. Mr. Speaker, I thank the gentleman for 
+yielding me time.
+  Mr. Speaker, I must say that this is a day that many of us in this 
+body can stand and say promises made, promises kept, because both sides 
+of the aisle have promised our seniors we would give them relief in 
+their earnings ability by allowing them to continue to work and earn 
+extra money and not be penalized for such.
+  It comes from both sides of the aisle. As has been mentioned, both in 
+the subcommittee and the full committee, there was not a dissenting 
+vote. Again, this is how this body can work.
+  I go back to just 10 days ago, on Sunday evening in this same body 
+when on a unanimous consent we sent a continuing resolution down to the 
+White <strong>House</strong> that would do the same thing, promises made, promises kept. 
+That is why we all agreed to a 7-year balanced budget. I look forward 
+to the day we stand here unanimously and say we fulfilled that promise 
+also.
+  Mr. BUNNING of Kentucky. Mr. Speaker, I now have the pleasure of 
+yielding 1 minute to the gentleman from Pennsylvania [Mr. English].
+  Mr. ENGLISH of Pennsylvania. Mr. Speaker, I rise in strong support of 
+H.R. 2684, legislation that will raise the Social Security earnings 
+limit for working seniors who right now face higher real tax rates than 
+millionaires in the current system.
+  While senior citizens are the primary beneficiaries of this 
+legislation, I am pleased to say another important sector of our work 
+force will also benefit, and that is members of the clergy.
+  H.R. 2684 includes a provision that I have advocated that would 
+provide a 2-year open season for members of the clergy to enroll in 
+Social Security. Some members of the clergy elected not to participate 
+in Social Security early in their careers, before they fully understood 
+the ramifications of opting out. Because the election process is 
+irrevocable, there is no way for them to participate in the program 
+under current law. Clergy typically have the most modest earnings 
+throughout their working lives, and would be among those most likely to 
+rely on Social Security. This legislation would give them an 
+opportunity to enroll.
+  Mr. BUNNING of Kentucky. Mr. Speaker, I have the pleasure of yielding 
+1 minute to the gentleman from Texas [Mr. Sam Johnson] a member of the 
+Subcommittee on Social Security and a member of the full committee.
+  Mr. SAM JOHNSON of Texas. Mr. Speaker, I appreciate the gentleman 
+yielding time.
+  Mr. Speaker, the only thing that is more important than repealing the 
+16th amendment and getting rid of the IRS is fixing it so our citizens 
+have the right to work and earn whatever they want to. This bill, 
+believe it or not, allows anyone between 65 and 70, which is what we 
+are talking about, to hit $14,000 as a salary limit this year, this 
+next year, instead of having to wait until the year 2002, which is what 
+current law does.
+  You know what that does? That helps 20 percent of those involved in 
+that category, which is 925,000 people. That means those guys are not 
+going to have to pay any more tax. That means they can work at Wendy's 
+and McDonald's or wherever they want to and earn money without being 
+subject to the Federal Government of this Nation.
+  Mr. Speaker, I think we have to pass it. It is a duty that we have.
+  Mr. BUNNING of Kentucky. Mr. Speaker, I have the pleasure of yielding 
+1 minute to the gentleman from Minnesota [Mr. Ramstad].
+[[Page H 13967]]
+  Mr. RAMSTAD. Mr. Speaker, I thank the distinguished chairman for 
+yield me time.
+  Mr. Speaker, I rise today in strong support of this legislation. One 
+provision of this bill, Mr. Speaker, cuts off benefits for those 
+individuals considered disabled solely based on their addiction to 
+either drugs or alcohol. I strongly support this provision.
+  Mr. Speaker, as a recovering alcoholic who spends a great deal of my 
+time with other alcoholics and addicts who are still suffering the 
+ravages of chemical addiction, I can tell you that paying cash benefits 
+to these people is not the kind of help that they need. In fact, cash 
+benefits only make the problem of addiction worse, only serve to 
+enable, to fuel the addiction.
+  Those addicted to drugs or alcohol do not need cash, they need 
+treatment. This bill, Mr. Speaker, provides $200 million in additional 
+money to the States through an existing block grant program for the 
+prevention and treatment of substance abuse.
+  So I commend my distinguished colleague on the Committee on Ways and 
+Means, the chairman of the Subcommittee on Social Security, for 
+bringing this thoughtful piece of legislation to the floor, and I urge 
+all of my colleagues to give substance abusers the help that they need. 
+Support this legislation.
+  Mr. JACOBS. Mr. Speaker, I yield 2 minutes to my friend, the 
+gentleman from Nebraska [Mr. Christensen].
+  Mr. CHRISTENSEN. Mr. Speaker, I thank my friend from Indianapolis for 
+yielding me time. There is not a man nor woman on that particular side 
+from the gentleman's party whom I respect more, and whom I am going to 
+dearly miss after his retirement this year.
+  Mr. Speaker, today represents another step in our efforts to increase 
+the Social Security earnings limit. Currently senior citizens between 
+the ages of 65 and 69 lose $1 in Social Security benefits for every 
+three they make over $11,280. This important piece of legislation we 
+are considering today will change that. It will raise the earnings 
+limit for those ages 65 to 69 to $30,000 by year 2002, thereby removing 
+this disincentive to work and allowing seniors to keep more of their 
+hard-earned dollars.
+  This bill is especially important to the folks I represent back in 
+Nebraska. The Omaha area is currently experiencing a labor shortage. 
+With unemployment hovering around 2 percent, our efforts to raise the 
+earnings limit will allow more seniors to enter the work force without 
+being punished by the Federal Government, thereby providing Nebraska 
+businesses with experienced employees rich in talent and full of 
+ability.
+  Simply put, lifting the earnings limit for our Nation's seniors is 
+the right thing to do. And as my friend from Georgia earlier said, 
+promises made, promises kept.
+  Mr. BUNNING of Kentucky. Mr. Speaker, I yield 1 minute to the 
+gentleman from Michigan [Mr. Camp].
+  Mr. CAMP. Mr. Speaker, I thank the distinguished gentleman for 
+yielding. I rise in support of the Senior Citizens Right to Work Act 
+which will raise the earnings limit for seniors.
+  This legislation accomplishes two important tasks: First, it ends the 
+policy of subsidizing drug and alcohol abuse with Social Security 
+funds; and, second, and very importantly, it ends the practice of 
+punishing seniors who want to work.
+  Currently, seniors who want to remain a vital part of the work force 
+will lose $1 of their Social Security contributions for every $3 they 
+earn over $11,280. This legislation will remove the disincentive to 
+work placed upon seniors by raising that limit.
+  American seniors have worked hard to pay into the Social Security 
+trust fund. This legislation not only protects their investment and 
+honors our commitment to them, it also encourages seniors to continue 
+their contribution to our Nation's work force.
+  Mr. BUNNING of Kentucky. Mr. Speaker, I yield 1 minute to the 
+gentleman from Texas [Mr. Laughlin].
+  Mr. LAUGHLIN. Mr. Speaker, I thank my chairman for yielding me time. 
+I am proud to stand in support of the Senior Citizens Right to Work 
+Act, and I am proud to have been an original cosponsor of this bill. 
+Not only does it raise the earnings limit for our senior citizens 
+between the ages of 65 and 70, just as importantly as allowing them to 
+have hard-earned money to help them in these years, it gives the added 
+benefit of allowing them to continue working to allow the senior 
+citizens to do the things they want to do in their golden senior years.
+  Mr. Speaker, that is a benefit that is healthy to them beyond the 
+financial earnings. And in that I cite as an example of my own father 
+who today is working at age 76. This law does not apply to them because 
+seniors above the age of 70 are not subjected to earnings limits. But I 
+see senior citizens who find it healthy for their own day-to-day 
+happiness and well-being to be working, and I am proud to support this 
+bill, and I urge my colleagues to support it.
+  Mr. JACOBS. Mr. Speaker, I yield 3 minutes to the gentlewoman from 
+Washington [Ms. Dunn].
+  Ms. DUNN of Washington. Mr. Speaker, I thank the gentleman for 
+yielding me this time. This is a wonderful piece of legislation. It has 
+simply taken too long to come to the floor of the <strong>House</strong>. It is 
+bipartisan. It came out of our Committee on Ways and Means with a vote 
+of 31 to 0, and it is time, in fact, beyond time, that this legislation 
+go into effect.
+  I support this legislation largely because I think it is just plain 
+wrong to penalize our most experienced and dedicated workers for 
+continuing to work and contribute to a better livelihood for themselves 
+and also to a better future for the United States.
+  Seniors across the country want to work beyond age 65 because a fixed 
+Social Security income alone these days often does not provide adequate 
+financial security. I think also the younger people in the workplace 
+gain a lot through the experience of those folks who continue to work. 
+It is good for all of us.
+  Unfortunately, currently the earnings limit discriminates against 
+some of our senior citizens and prevents us from being able to benefit 
+from the talents of millions of experienced professional. The earnings 
+limit punishes seniors after they have earned $11,280 by hitting them 
+with an additional effective tax of 33 percent. It is too long that 
+this has gone on. Now is the time to change it.
+  Mr. Speaker, I do want to make one note about an amendment that was 
+accepted unanimously in the Committee on Ways and Means that is 
+included in this legislation, a provision I offered during our 
+consideration by our committee, that is, in effect, a sunshine 
+amendment. It is designed to help seniors better understand their 
+contributions and benefits under the Social Security system.
+  The lack of information currently provided to seniors simply is 
+unacceptable. My parents and seniors around this country have a desire, 
+a need, and certainly a right to know about the status of their 
+participation in the system, and so the amendment we proposed outlines 
+the total income earned by each senior.
+  Mr. Speaker, the provisions that we have added to this bill that 
+would give further information on Social Security are: The total income 
+earned by the individual receiving benefits, the total Social Security 
+contributions by that individual and separately by that individual's 
+employer, and, finally, the total dollars that have been received back 
+by the beneficiary from Social Security.
+  I think, Mr. Speaker that it will open up a degree of information 
+that has never been available before. It will help people understand 
+what their return is on the current Social Security compared to what 
+they have paid in. Numerous seniors in my district find it ironic that 
+other retirement benefit programs, like mutual funds and IRAs, provide 
+this type of information in writing on a quarterly basis.
+  Our proposal is a study for a period of 2 years with not more than 
+600,000 recipients. We will see how it works, and I hope continue to 
+provide this and further information.
+  Mr. Speaker, I urge my colleagues to vote for this proposal. it is, 
+as I said, way beyond its time. It will be good for seniors and good 
+for all of us.
+  Mr. BUNNING of Kentucky. Mr. Speaker, I yield such time as he may 
+consume to the gentleman from North Carolina [Mr. Heineman].
+[[Page H 13968]]
+  (Mr. HEINEMAN asked and was given permission to revise and extend his 
+remarks.)
+  Mr. HEINEMAN. Mr. Speaker, I thank the gentleman for giving me this 
+time.
+  I rise in strong support of this legislation. I am a cosponsor of the 
+bill and I urge my colleagues to strongly, strongly support the bill.
+  I am proud to be an original cosponsor of this legislation, which 
+helps to fulfill a solemn pledge I made to the senior citizens in the 
+Fourth Congressional District of North Carolina to remove this 
+burdensome tax targeted at our working senior citizens.
+  Mr. Speaker, as a senior citizen myself I know that current law 
+penalizes seniors who want to work by imposing an earnings limit on the 
+amount of outside income they can receive while still obtaining their 
+full Social Security benefits. Seniors between the ages of 65 and 69 
+currently lose $1 in Social Security benefits for every $3 they earn 
+above $11,280. This kind of earnings limit amounts to an additional 33 
+percent tax on top of existing income taxes.
+  I know from first hand experience that many seniors continue to lead 
+active and productive lives and contribute in important ways to our 
+community. We should be supporting seniors who want to work, not 
+penalizing them. H.R. 2684 will raise the current earnings limit from 
+$11,280 to $30,000 by the year 2002. After the year 2002, the earnings 
+limit will be indexed to the growth in average wages.
+  Mr. Speaker, this is a modest, but critical reform, and I am pleased 
+to lend my support to this much needed legislation.
+  Mr. BUNNING of Kentucky. Mr. Speaker, I yield such time as he may 
+consume to the gentleman from Massachusetts [Mr. Torkildsen].
+  (Mr. TORKILDSEN asked and was given permission to revise and extend 
+his remarks.)
+  Mr. TORKILDSEN. Mr. Speaker, I rise in strong support of the increase 
+in the earnings limit for Social Security recipients.
+  Mr. BUNNING of Kentucky. Mr. Speaker, I yield 3 minutes to the 
+gentleman from Illinois [Mr. Hastert], who has worked for the last 8 
+years to make this bill law.
+  (Mr. HASTERT asked and was given permission to revise and extend his 
+remarks.)
+  Mr. HASTERT. Mr. Speaker, this certainly is a red letter day for this 
+Congress, but certainly, even more than that, a red letter day for the 
+seniors of this country. It would not have happened, and I want to 
+thank specifically the gentleman, who, after we passed this bill out of 
+this <strong>House</strong> with over 400 votes on it, and the funding mechanism was 
+rejected by the Senate, the gentleman from Kentucky [Mr. Bunning] came 
+back, worked with the staff diligently and made it work. We need to 
+thank him profusely for that effort to make sure that this bill is on 
+this floor today so that we can pass it and move it on.
+  I also want to thank other Members, the gentleman from Texas, Dick 
+Armey, who carried this bill for years in the <strong>House</strong>; and another 
+gentleman from Texas, Bill Archer, who carried it for 20 years in the 
+<strong>House</strong> as an important piece.
+  What this bill does, ladies and gentleman, it helps working seniors, 
+seniors who do not have pension income or stocks and bonds tacked away; 
+people who have never had the chance to save and invest, and yet when 
+they want to work to bring up their standard of living, to be part of 
+this country, to share in the economy, to help their grandchildren, to 
+take a vacation, to buy a car, when they go to earn those extra 
+dollars, they get hit with a marginal tax rate of 56 percent when they 
+exceed the limit of $11,000. Fifty-six percent, nearly twice the rate 
+that millionaries pay today. Those seniors who live off investment 
+incomes are not impacted by the earnings limit.
+  Mr. Speaker, this is not just a right. America's working seniors 
+should not be punished just because they never had money to tuck away 
+and must now keep working to make ends meet. This tax relief for 
+working seniors is sorely needed.
+  Even though we know working seniors will pay more into our economy 
+and more than offset the cost associated with lifting the earnings 
+limit, the Congressional Budget Office will not allow this dynamic 
+method of scoring. The gentleman from Kentucky [Mr. Bunning] has worked 
+to put together a proposal that meets the CBO budget rules and has also 
+looked at that extra dynamic.
+  Ladies and gentlemen, this is a salute to senior citizens, people who 
+have worked their whole life, people who have yet to give information 
+and education and leadership to people who are younger, that they can 
+be the person that they look up to in a work force in a small store, a 
+candy store, a McDonald's, the Sears area, all of those people who 
+endorse this piece of legislation.
+  I again salute the gentleman from Kentucky for his tremendous 
+leadership and his staff for bringing this piece of legislation 
+together and salute the seniors of this country so that they can make a 
+statement in their behalf as well.
+  Mr. BUNNING of Kentucky. Mr. Speaker, I yield 1 minute to the 
+gentleman from Florida [Mr. Stearns].
+  Mr. STEARNS. Mr. Speaker, I thank my colleague from Kentucky for 
+yielding me this time.
+  Mr. Speaker, the earnings test limit is unfair and unjust. It is, 
+effectively, a mandatory retirement mechanism for a country no longer 
+in need of it. It precludes greater flexibility for the elderly worker, 
+and also prevents America's full use of the eager, experienced, and 
+educated elderly worker. Finally, it deprives the U.S. economy of the 
+additional income which would be generated by the elderly worker.
+  Mr. Speaker, I am an original cosponsor of this bill, and I certainly 
+want to applaud my colleague from Kentucky, Mr. Bunning; and, of 
+course, the gentleman from Illinois, Mr. Dennis Hastert, who has 
+labored in the vineyards for many years. When I came here in 1989, we 
+worked so hard to get this bill forward, and I think now we have an 
+opportunity to pass a great bill, to gain economic equality for those 
+elderly workers who either want to work or must work in order to 
+maintain a decent lifestyle.
+  Mr. JACOBS. Mr. Speaker, I yield 1 minute to the gentleman from 
+Pennsylvania [Mr. Fox].
+  Mr. FOX of Pennsylvania. Mr. Speaker, I appreciate the opportunity to 
+speak on behalf of this legislation which our senior citizens of the 
+United States have been waiting for. The income eligibility raising is 
+certainly an idea whose time has arrived.
+  I have to congratulate all those colleagues who have been working so 
+long and hard to make this legislation a reality. The fact is that 
+seniors should be able, under 70 years of age, to earn more than 
+$11,280. Under this legislation it will raise the income limit up to 
+$30,000 without having the deduction from their Social Security.
+  Anything we can do to help the seniors, who have helped us have the 
+right to be here in Congress and to serve, certainly need our 
+attention, our respect and admiration. I thank the individuals who have 
+brought this legislation forward: the gentleman from Illinois, Dennis 
+Hastert, the gentleman from Kentucky, Mr. Bunning, and others, the 
+gentleman from Indiana, Mr. Jacobs. I appreciate all their help in 
+making this day possible and urge all my colleagues to support the 
+legislation.
+  Mr. BUNNING of Kentucky. Mr. Speaker, I yield 1 minute to the 
+distinguished gentleman from Florida [Mr. Goss], a member of the 
+Committee on Rules.
+  (Mr. GOSS asked and was given permission to revise and extend his 
+remarks.)
+  Mr. GOSS. Mr. Speaker, I am overjoyed to rise today in strong support 
+of the Senior Citizens Right to Work Act. This is very good news for 
+seniors in Florida and all across America.
+  The issue here is very, very simple. Big brother, the Federal 
+Government, is no longer going to punish seniors who choose to remain a 
+productive part of the American work force. The new majority in 
+Congress made a promise to our Nation's seniors that we would fix the 
+unfair earnings test process and that is what is happening.
+  Mr. Speaker, today's action provides one more example of promises 
+made, promises kept, as we have said before. By raising the earnings 
+test threshold from the meager $11,280 to $30,000 over the next 6 years 
+we are sending a clear message to seniors that hard work and self-
+reliance are still valued qualities in the United States of America.
+  Although I feel strongly that we should abolish the earnings test 
+limit altogether, because there should be no 
+[[Page H 13969]]
+additional tax penalty for work just because an individual has reached 
+a certain age, this legislation does move us much further to that 
+ultimate goal.
+  Mr. Speaker, I urge a ``yes'' vote and very much commend the 
+gentleman from Kentucky [Mr. Bunning], the gentleman from Illinois [Mr. 
+Hastert], and the gentleman from Indiana [Mr. Jacobs], for their 
+strong, persistent, smart leadership in this matter.
+  Mr. BUNNING of Kentucky. Mr. Speaker, I yield 1 minute to the 
+gentleman from Florida [Mr. Foley].
+  Mr. FOLEY. Mr. Speaker, I appreciate the work of the gentleman from 
+Kentucky on this issue. My father is 73 and a principal of a school in 
+Palm Beach County, FL, very active. For those between the age of 66 and 
+69, they should have the same opportunities.
+  Mr. Speaker, we have commended people for work in America. Many of 
+our bills talk about work being an honorable occupation. Go out and 
+work. Get a job. But somehow when we hit 66, we are told, ``Sorry, 
+unless you are going to be penalized, you do not need to pursue gainful 
+employment.''
+  So, I think this Congress is on the right track. Restoring dignity. 
+Instead of telling people just because they hit a magic number, this 
+age, that they are no longer wanted, now we are saying they continue to 
+be wanted. They will be productive. They will continue to pay taxes and 
+they will have a benefit to society.
+  Public supermarkets in my district employ many seniors in assisting 
+in grocery checkouts and other items. People are proud to have that 
+opportunity to continue to remain active in their communities and the 
+job market.
+  Mr. Speaker, I commend the chairman for his leadership on this and 
+urge passage.
+  Mr. JACOBS. Mr. Speaker, I yield 2 minutes to the gentleman from 
+Wisconsin [Mr. Kleczka].
+  Mr. KLECZKA. Mr. Speaker, I really hate to be the skunk at the 
+Republican picnic this afternoon, but in my previous remarks I 
+indicated that this bill is basically noncontroversial. But, also, one 
+of the bad things that this bill that we are going to be voting on does 
+is delink the earnings test for the blind.
+  Mr. Speaker, we have 17,000 people, it is not a heck of a lot, but we 
+have 17,000 blind Americans who qualify for this program today and they 
+are being delinked. Yet after I made those comments, not one Republican 
+would stand up and defend that law change. That is sad.
+  The Speaker of this <strong>House</strong>, when he addressed the National Federation 
+of the Blind, back in February of this year, indicated that removing 
+the linkage for the blind was a major mistake and that he would make 
+sure that was taken out. That is all we have heard for the last half 
+hour is this gushing, gushing for our senior citizens. We have heard 
+that through this measure we are going to salute our senior citizens. 
+This is the same party, my friends, that is cutting Medicare for the 
+senior citizens by $270 billion. Doubling their premiums, cutting $185 
+or $182 billion out of Medicaid, which provides nursing home care. 
+Where were the salutes then? Where was the support and all the gushing 
+then?
+  Through this bill, the seniors are going to have to work to pick up 
+what they are losing in their health care program. This is ridiculous.
+  Mr. BUNNING of Kentucky. Mr. Speaker, would the Chair please give us 
+the time remaining on both sides?
+  The SPEAKER pro tempore (Mr. Everett). The gentleman from Kentucky 
+[Mr. Bunning] has 2\1/2\ minutes, the gentleman from Indiana [Mr. 
+Jacobs] has 5 minutes remaining.
+  Mr. JACOBS. Mr. Speaker, I have no further requests, and I yield back 
+the balance of my time.
+  Mr. BUNNING of Kentucky. Mr. Speaker, I yield myself 2\1/2\ minutes.
+  Mr. Speaker, just in response to the gentleman from Wisconsin [Mr. 
+Kleczka], there are over 120 organizations currently trying to get the 
+nonblind disabled to the same level of earnings that are under this 
+bill for the blind disabled. The blind disabled in this bill continue 
+to have the same limit on earnings that are in the current law. In 
+other words, their limit on earnings will rise to $14,400 by the year 
+2002. The nonblind disabled are stuck at $6,000.
+  The cost of raising the nonblind disabled to the blind disabled 
+currently is approximately $10 billion. We do not have the money to do 
+that. To take them to where the gentlewoman from Connecticut [Mrs. 
+Kennelly] would like to take them, the cost would run approximately $20 
+billion over just the next 5 years. We do not have the money to do 
+that.
+  The bill preserves the indexing of the limitation on earnings for 
+blind disabled recipients in the future. So, in answer to the gentleman 
+from Wisconsin, blind disabled recipients lose nothing as the result of 
+this bill.
+  In summary, I would first like to thank everybody that has worked on 
+this bill: the staff, Phil Moseley, Valerie Nixon, Kim Hildred, 
+Katherine Keith, Mary Anne Gee, Ken Morton, Janice Mays, Sandy Wise, 
+and Cathy Noe; but most of all I would like to thank my colleague, the 
+gentleman from Indiana [Mr. Jacobs]. Without his help we could not have 
+gotten this bill together and accomplished on a bipartisan basis, both 
+in the subcommittee and in the full committee.
+  When we get a bill that comes out of our subcommittee almost on a 
+unanimous vote, and a bill that comes out of the full Committee on Ways 
+and Means, this day and age on a unanimous vote, I am certainly very 
+proud of that fact. And it is because of the leadership of the 
+gentleman from Indiana on his side that we were able to accomplish 
+that.
+  We know that the gentleman is going to retire, and maybe we could 
+name this the Andy Jacobs retirement bill. The fact of the matter is I 
+am sorry to see him leave, and I am very proud to have worked with the 
+gentleman over the past 5 years on the Subcommittee on Social Security.
+  Mr. SMITH of New Jersey. Mr. Speaker, I rise in strong support of 
+this legislation to raise the Social Security earnings limit. Under 
+this bill, the annual income senior citizens will be allowed to earn, 
+without penalty, will rise from $11,280 to $30,000 over the next 5 
+years.
+  In this day and age, I cannot believe that there would be anybody in 
+this Chamber who wants to discourage people from working. Yet the 
+earnings limit does precisely that. It is a foolish policy and one 
+which creates perverse economic incentives. H.R. 2684 represents a 
+solid first step and goes a long way toward lifting the burden placed 
+on those seniors who continue to work and make contributions to 
+America's economic activity.
+  Under current law, seniors under the age of 70 who choose to work 
+lose $1 out of every $3 they earn over some arbitrary and bureaucratic 
+limit--currently set at $11,280 a year. To punish these folks, who have 
+racked up years of experience, wisdom, and institutional knowledge 
+makes no sense whatsoever. By raising the limit to $30,000, we begin to 
+ease the penalty and, I hope, make definite strides to eliminating the 
+earnings test altogether.
+  The elections that swept Republicans into the majority were about 
+rearranging our priorities and keeping our promises. We promised to 
+raise the earnings limit in the Contract With America, and this bill, 
+of which I am proud to be an original cosponsor, is symbolic of our 
+efforts to keep our promises and fix a Government which all too often 
+sends hardworking citizens the wrong signals.
+  H.R. 2684, Mr. Speaker, is only a partial fix and only the beginning 
+of corrective action which is long overdue. Last year, I cosponsored 
+legislation--H.R. 300--which would have fully repealed the earnings 
+limit and again this year, I cosponsored legislation--H.R. 201--to 
+fully repeal the earnings test. For years, we have heard people argue 
+that raising the earnings limit or repealing the earnings test would 
+only benefit the wealthy. What these people either forget or ignore is 
+the fact that under current law, income derived from private pensions 
+and investments is not subjected to the limit at all. Therefore the 
+argument that this bill would only benefit the wealthy is completely 
+without merit. In fact, the ultrawealthy can and already do earn as 
+much as they want from their investments, but middle-class hardworking 
+men and women who want to keep a job are penalized for moneys they 
+earn. H.R. 2684 addresses this inequity and restores fairness for those 
+who want to work.
+  For many of our elderly citizens, the additional wages they will be 
+allowed to earn, without penalty, is important. But for many more there 
+is an even greater reward: The dignity of working, earning, and keeping 
+an honest buck. There is a spiritual as well as a health benefit to be 
+derived from keeping active, working and being fairly compensated. Why 
+the Federal Government would punish people for this is beyond me.
+  Mr. Speaker, H.R. 2684 also corrects a number of other injustices as 
+well. Like the 
+[[Page H 13970]]
+fact that under current law, alcoholics and drug abusers can receive 
+Social Security disability cash payments. As I said earlier, 
+Republicans were elected to change our priorities, and here is a clear-
+cut case of mixed up priorities. Punish seniors who decide to work, but 
+give cash benefits to drug and alcohol abusers? These people need 
+treatment and counseling. Under H.R. 2684, people addicted to alcohol 
+or drugs will no longer be eligible to receive benefits due to 
+disability. Instead, the bill redirects some of that funding to various 
+drug and alcohol treatment programs so that people get the type of help 
+they need.
+  Mr. Speaker, in closing I would reiterate that this bill on the whole 
+is a solid piece of legislation that can and should receive bipartisan 
+support. It is unfortunate that during the years that the Democrats 
+controlled the <strong>House</strong> this legislation was never brought to the floor 
+for a vote and thus people continued to pay penalties at a very low 
+threshold. Today, I am proud to be a cosponsor of H.R. 2684, and I look 
+forward to building upon this achievement and eliminating the 
+irrational earnings test altogether.
+  Mr. MARTIN. Mr. Speaker, I am pleased to come before you today to 
+express my support for the Senior Citizens' Right to Work Act of 1995.
+  The time has come to defend the working seniors of America--seniors 
+that have been penalized for their productive contributions to society.
+  The current Social Security earnings limit of $11,280 has 
+demonstrated Government's apathy toward those seniors who continue to 
+work in retirement out of necessity. We must never forget that, for 
+many seniors, work is not a choice.
+  More importantly, the wisdom of our Nation's seniors is needed in 
+today's work force. America benefits from their work ethic and their 
+experience.
+  I urge support for this legislation, and commended those seniors who 
+have continued to offer their ideas and services beyond retirement. 
+These reforms in Social Security reflect our values to allow personal 
+responsibility and opportunity.
+  Mr. POMEROY. Mr. Speaker, it is with great pleasure that I offer my 
+support for H.R. 2684, the Senior Citizens' Right to Work Act.
+  For many senior citizens, their retirement years are not golden and 
+filled with leisure. Many of our elderly who cannot make ends meet with 
+their savings and Social Security benefits have no other choice but to 
+continue working. This legislation will help low-income senior 
+citizens, especially single women, who are at risk of living in poverty 
+during their retirement years.
+  As the safety net for the elderly begins to fray due to cuts in 
+Medicare and other programs, the least we can do is allow those who 
+need to work to keep more of their benefits. I am pleased the Ways and 
+Means Committee was able to forge a bipartisan bill on this important 
+issue.
+  Mr. PORTMAN. Mr. Speaker, I rise today in support of H.R. 2684, the 
+Senior Citizens' Right to Work Act. As you know, in 1935 Congress 
+passed the Social Security Act to provide a stable source of income to 
+older Americans. This program, however, includes an earnings limit that 
+unfairly penalizes those senior citizens who want to work beyond the 
+retirement age. Mr. Chairman, by raising the Social Security earnings 
+limit to $30,000 by the year 2002, H.R. 2684, in part, fulfills our 
+promises made to senior citizens in the Contract With America. Let me 
+explain.
+  First, it is a matter of fairness for seniors. Under current law, a 
+senior citizen loses $1 in benefits for every $3 earned, above the 
+$11,280 limit. This limit hurts low and middle-income senior citizens 
+the most. These are individuals who work out of necessity--and need the 
+income. Raising the earnings limit will enable these individuals to 
+work so that they can make ends meet.
+  Second, the low earnings limit penalizes senior citizens for 
+remaining in our workforce. Our economy suffers from the loss of 
+experience and skills that seniors bring to the work force. I have 
+heard first hand from constituents in my district, that the earnings 
+limit actually inhibits some seniors from working because the lose a 
+portion of their Social Security benefits.
+  Third, raising the earnings limit will help stimulate the economy. 
+Obviously , senior citizens will be paying more taxes if they are 
+working, and at the same time, have more money in their pockets to 
+spend.
+  Significantly, this legislation is paid for by spending cuts that 
+make sense. Among other things, the bill eliminates the current 
+practice of providing disability benefits to individuals that are 
+considered disabled only because they are alcoholics or drug addicts. 
+It also creates a revolving fund to finance continuing disability 
+reviews to determine whether individuals receiving disability benefits 
+are still disabled. Based on government studies, these reviews will 
+result in fewer beneficiaries and substantial savings to the taxpayer.
+  Mr. Speaker, I strongly urge my colleagues to support this 
+legislation. By increasing the Social Security earnings limit, it 
+lessens the penalty for many senior citizens and it does so, in the 
+most fiscally responsible manner.
+  Mr. BUYER. Mr. Speaker, I rise in strong support of this important 
+legislation. The current earnings limit has been a disincentive for 
+seniors to continue to be productively employed. In particular, the 
+present earnings limit imposes a hardship on middle and lower-income 
+retirees, who often rely on earnings from work to supplement their 
+Social Security benefits. The earnings penalty is in reality a huge 
+marginal tax on working seniors. It discourages work and it is 
+discriminatory between earned (wages) and unearned (dividends, 
+interest, etc.) income.
+  I support this legislation which will allow our seniors to continue 
+to work and not be penalized for it. The ``Senior Citizens' Right to 
+Work Act of 1995'' is long overdue and is just one piece of our puzzle 
+as we bring tax fairness back to America's tax code. Again, I am 
+pleased to support this legislation which will allow Indiana seniors 
+the right to work.
+  Mr. FLANAGAN. Mr. Speaker, I rise in strong support of H.R. 2684, the 
+Senior Citizens' Right to Work Act. This bill will help alleviate the 
+uncalled for economic discrimination against senior citizens between 
+the ages of 65 and 69. It is outrageous that seniors in that age 
+bracket are unduly punished by having their Social Security earnings 
+reduced by one dollar for every three dollars they earn above $11,280.
+  This bill will increase the earnings limitation from $11,280 to 
+$30,000 by the year 2002. The first increase will occur in 1996 when 
+the limit will be raised from the current $11,280 to $14,000. Each year 
+thereafter, through 2000, the limit will increase by another $1,000. 
+Thus, in 2000 the limit be up to $18,000. In 2001 the earnings 
+limitation will jump up by some $7,000, going from $18,000 to $25,000. 
+Finally, in 2002 the limit will be increased from $25,000 to $30,000.
+  After 2002, the earnings limit will be indexed to the growth in 
+average wages. In this way, the earnings limitation will be able to 
+keep up with the times.
+  I have long been an advocate and supporter of raising the earnings 
+limitation for seniors. Earlier this year I cosponsored H.R. 8, the 
+Senior Citizens Equity Act, which contained a provision raising the 
+earnings limit to $30,000 by 2002. This provision was incorporated into 
+H.R. 1215, the Tax Fairness and Deficit Reduction Act which passed the 
+<strong>House</strong> on April 5, 1995, by a vote of 246 in favor, 188 against. I voted 
+in favor of H.R. 1215. Since the fate of this legislation is still 
+undetermined, I believe it is wise that the <strong>House</strong> is trying another 
+venue, H.R. 2684, the Senior Citizens' Right to Work Act, in the effort 
+to raise the earnings limitation.
+  The current low earnings limitation is an economic disincentive to 
+work for many of our Nation's seniors. It puts a limit on the full use 
+of their capabilities, as many who want to work more are put off by the 
+reduction in their Social Security benefits. It is an absurd situation. 
+This country should encourage, not discourage, seniors from earning 
+more than $11,280 per year. Seniors who work are contributing mightily 
+to our economy. They earn money and pay taxes on what they earn. They 
+should not be penalized for their initiative and industry.
+  In addition to raising the earning limit for seniors, the legislation 
+contains another much needed reform. It prohibits the consideration of 
+drug addicts and alcoholics as disabled in determining eligibility for 
+entitlements to cash Social Security and Supplemental Security Income 
+[SSI] disability benefits if the addiction is the contributing factor 
+to the disability. This should put an end to having SSI disability 
+being misused by drug and alcohol addicts to support their habits.
+  Mr. Speaker, H.R. 2684, the Senior Citizens' Right to Work Act is a 
+giant stride forward in the direction of helping our senior citizens 
+between the ages of 65 and 69. It will enable them to earn more money 
+without fear of having a substantial reduction in their Social Security 
+benefits. The Senior Citizens' Right to Work Act will give our seniors 
+the opportunity to live better lives because they will be able to have 
+higher incomes and still retain their Social Security benefits without 
+reductions. I urge my colleagues to support this legislation.
+  Ms. DeLAURO. Mr. Speaker, I strongly support the Senior Citizens' 
+Right to Work Act urge the measure's unanimous passage today. This 
+essential legislation increases the amount that senior citizens under 
+age 70 may earn without having their Social Security benefits reduced.
+  Under current law, Social Security beneficiaries aged 65 through 69 
+who earn too much lose $1 in benefits for every $3 they earn above 
+specified limits. The limit is indexed so that it increases annually to 
+reflect the increase in average wage growth. The current limit is 
+approximately $11,000.
+  Seniors who are able to work should be encouraged to do so. Without 
+this measure, the 
+[[Page H 13971]]
+Federal Government is telling our elderly citizens to stay at home, and 
+not to pursue gainful employment. That is not the message that I want 
+to send to the seniors in the 3d Congressional District of Connecticut.
+  Mr. Speaker, our Nation's seniors have too much to offer for us to 
+simply turn them away. We need their wisdom, their expertise and their 
+zeal.
+  Older Americans have tremendous potential to contribute to our 
+communities, both in terms of professional expertise and productivity. 
+It is a shame to lose those invaluable resources. Furthermore, Seniors 
+who are active live longer and lead happier lives.
+  I strongly support the Senior Citizen's Right to Work Act, and I urge 
+my colleagues to vote in favor of this important legislation.
+  Ms. EDDIE BERNICE JOHNSON of Texas. Mr. Speaker, I rise today to 
+voice some concerns with H.R. 2684, the Senior Citizens' Right to Work 
+Act. Although I will support the bill on final passage, I am concerned 
+about the effect that some of the more obscure provisions in the 
+legislation may have on the rights of senior citizens.
+  Included in this bill are provisions which remove the Social Security 
+Administration from the process of payment of attorneys' fees. 
+Currently, the Social Security Administration [SSA] approves the fees 
+that an attorney may charge to represent a person in administrative 
+proceedings, usually related to a denial of disability benefits. When 
+the applicant is successful, SSA withholds the lesser of $4,000 or 25 
+percent of the benefits to pay the attorney. H.R. 2684 would change the 
+law such that SSA would no longer be involved in the process and 
+attorneys could negotiate fees up to a $4,000 limit.
+  This portion of H.R. 2684, while seeming sublime on the surface, may 
+result in attorneys choosing to stop representing disabled individuals 
+in their administrative proceedings. Since the fee would no longer be 
+withheld, attorneys are fearful that they may not be paid for the 
+service they provide, and thus may choose to avoid this type of 
+representation.
+  While I will support the legislation, I regret that the leadership 
+has chosen to bring this legislation to the floor in such a fashion so 
+as to preclude amendments, and I hope to work with the Senate and the 
+White <strong>House</strong> concerning the availability of competent representation for 
+Social Security claimants.
+  Mr. GILMAN. Mr. Speaker, I rise today in support of H.R. 2684, the 
+Senior Citizens Right to Work Act of 1995, and commend its sponsor, the 
+gentleman from Kentucky [Mr. Bunning] for all of his hard work on this 
+measure.
+  Under current law, this country's senior citizens from age 65 to age 
+69 are limited to earn only $11,280 in additional income before they 
+suffer penalties of $1 in Social Security benefits for every $3 of 
+income earned above that limit. Mr. Bunning's measure will allow 
+seniors by the year 2000, to earn up to $30,000 in outside income 
+without being forced to give up Social Security benefits.
+  While this bill is certainly a step in the right direction, I believe 
+that we should go further and eliminate this anachronistic limitation 
+and thereby allow our seniors to continue to work to the best of their 
+capabilities in order to sustain themselves in a time of an increasing 
+cost of living. We must allow older Americans who choose to work to 
+earn appropriate pay without losing any of their hard-earned Social 
+Security benefits.
+  Mr. BEILENSON. Mr. Speaker, the bill before us obviously enjoys very 
+broad support among our colleagues. However, we ought to pause for a 
+moment and give serious thought to what we are doing by passing this 
+measure.
+  The Congressional Budget Office projects that we will spend more than 
+$350 billion on Social Security benefits in 1996--more than one-fifth 
+of the budget, and more than we are spending on any other single 
+Federal program. Working Americans--no matter how little they make--6.2 
+percent of their paycheck--with their employers paying the same 
+amount--to finance these benefits. Yet not only have we taken this huge 
+program off the budget negotiating table, we are now actually moving to 
+increase it--at a time when we are trying to cut back just about 
+everything else the Government spends money on.
+  We need to give serious thought to whether it makes sense to increase 
+these benefits--when the majority of that increase will go to those who 
+are already relatively well off--at a time when we are moving to cut 
+benefits for people who really need them.
+  We also need to give serious thought to whether it is wise to make 
+what will be a huge move toward turning Social Security into a benefit 
+which one is automatically entitled to receive upon reaching age 65, 
+rather than a program to compensate for lost earnings due to 
+retirement, as was originally intended. We need to ask: Does it make 
+sense to do that when people are living so much longer than they used 
+to, and when our population of older Americans is going to begin 
+growing enormously in just a few years?
+  And, we ought to consider whether we are inviting early retirees--
+ages 62-64--to ask for the same thing we are about to grant retirees 
+aged 65-69. Once we increase the earnings limitation for recipients who 
+are aged 65-69, will early retirees ask for a liberalization of the 
+definition of ``retired'' using the very same arguments that are being 
+made by those aged 65-69?
+  The title of this bill, the Senior Citizens' Right to Work Act, is a 
+misnomer. Senior citizens have every right to work; what this does is 
+give older working Americans the right to collect more Social Security 
+benefits than they are currently entitled to. At a time when we ought 
+to be curbing entitlement spending, not expanding it, passing this 
+legislation seems most unwise.
+  Mr. BUNNING of Kentucky. Mr. Speaker, I yield back the balance of my 
+time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Kentucky [Mr. Bunning] that the <strong>House</strong> suspend the rules 
+and pass the bill, H.R. 2684, as amended.
+  The question was taken.
+  Mr. BUNNING of Kentucky. Mr. Speaker, on that I demand the yeas and 
+nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 5 of rule I and the 
+Chair's prior announcement, further proceedings on this motion will be 
+postponed.
+                          ____________________
+
+
+</pre>
+</body>
+</html>
