@@ -23,15 +23,15 @@ c<-0
 
 This notebook teaches you about data importing using the example of the *Congressional Record for 104th-110th Congresses* provided by the [ICPSR 33501][icpsr] repository. The objective is to import data from the original source and convert it into a full text research database that can be easily queried to answer different questions and apply different methods.
 
-"Garbage in garbage out" implies that even very well-behaved sources will likely require plenty of preparation before they can be used for analysis. Building a library of functions helps you keep the "original" data intact in the form that it was downloaded or acquired and lets you reproduce the cleaning process. This is especially important when working with collaborators or when trying to share your work, but even if you are working along it is a good idea to leave a paper trail in the form of a function or set of functions designed to process the original into a useful database.
+"Garbage in garbage out" implies that even very well-behaved sources will likely require plenty of preparation before they can be used for analysis. Building a library of functions helps you keep the "original" data intact in the form that it was downloaded or acquired and lets you reproduce the cleaning process. This is especially important when working with collaborators or when trying to share your work, but even if you are working alone it is a good idea to leave a paper trail in the form of a function or set of functions designed to process the original into a useful database.
 
 #GIGO: garbage in gold out
 
-When we say "source" we often mean where our data came from, and whatever the format is you'll likely have to come back to it again and again. Let's call this a datadump, because it's messy and we need to clean it up before we can use it for research.
+When we say "source" we often mean where our data came from, and whatever the format is you'll likely have to come back to it again and again. Let's call this a **datadump**, because it's messy and we need to clean it up before we can use it for research.
 
-A software source, similarly, is a place where you keep pieces of code that you use over and over again. If we think of our pipeline or workflow, we can think of the software source as the pipe that we'll use to turn our datadump into a database.
+A software source, similarly, is a place where you keep pieces of code that you use over and over again. If we think of our pipeline or workflow, we can think of the software source as the **pipe** that we'll use to turn our datadump into a database.
 
-A database, unlike a datadump, is conveniently formatted, structured, and cleaned so that it is a breeze to work with it for research purposes. A database should be easily queriable, letting the researcher pull arbitrary samples for a variety of analytical goals. This is our gold standard and what we're shooting for in this vignette: garbage in, gold out, or *gigo*!
+A **database**, unlike a datadump, is conveniently formatted, structured, and cleaned so that it is a breeze to work with for research purposes. A database should be easily queriable, letting the researcher pull arbitrary samples for a variety of analytical goals. This is our gold standard and what we're shooting for in this vignette: garbage in, gold out, or **gigo!**
 
 ![*Figure `r {c<-c+1;c}`. GIGO!*](documentation/figures/gigo.png)
 
@@ -46,13 +46,15 @@ Let's navigate to the [ICPSR website][icpsr] we mentioned and aqcuire our datadu
 3. **DS19**: Metadata about the congresspeople and other speakers giving the speeches.
 2. **DS20**: Metadata about the source of the speeches, a document called the Congressional Record.
 
-If you've cloned this repo, you'll have an empty folder called "datadump". You'll need about 0.5 GB (500 MB) of space for this step. Save the zip archives there, and it won't matter what you call them, though note that they all have the same name so check that you haven't overwritten anything.
+Optionally **DS1-14** are the digital primary source files available for download. A sample of these is included in the `1source/original` folder.
 
-The DS15 file is about a decade of speeches and weighs in at about 430 MB compressed, and almost triple that uncompressed. Unfortunately there is no way to get to the subsamples without downloading the whole thing at least once. If you'd like to see the digital original sources, use take a look at any of the "Original" download options containing speeches in xml format.
+If you've cloned this repo, you'll have an empty folder called "datadump". To download the data from ICPSR you'll need about 0.5 GB (500 MB) of space free. Save the zip archives there, and it won't matter what you call them, though note that they all have the same name so check that you haven't overwritten anything.
+
+The DS15 file is about a decade worth of speeches and weighs in at about 430 MB compressed, and almost triple that uncompressed. Unfortunately there is no way to get to the subsamples without downloading the whole thing at least once.
 
 It might make sense to unzip the archive you downloaded from ICPSR to see what's inside, but from the standpoint of reproducibility, it would be best if could build our function to accept a file path to the original zip archive that we got from the ICPSR website. This will make it simple to start from a fresh download without any intermediate steps.
 
-Speaking of quirky sources, one annoying feature of the ICPSR datadump poses a challenge for writing a reproducible process. The data are zipped, then they are zipped again along with some bibliographic information from ICPSR. To get all the way to the data then we need to duplicate the datadump, twice! We need to triplicate it! This means that to be able to use our data we could use as much as 2.38 GB of drive space just to get to it: 451.8 MB for the original datadump, 451.9 MB for the unzipped bibliographic data plus zipped data file, and finally 1.48 GB for the uncompressed text data.
+Speaking of quirky sources, one annoying feature of the ICPSR datadump poses a challenge for writing a reproducible process. The data are zipped, then they are zipped again along with some bibliographic information from ICPSR. To get all the way to the data then we need to triplicate the datadump! This means that to be able to use our data we could use as much as 2.38 GB of drive space just to get to it: 451.8 MB for the original datadump, 451.9 MB for the unzipped bibliographic data plus zipped data file, and finally 1.48 GB for the uncompressed text data.
 
 ![*Figure `r {c<-c+1;c}`. Silly Data Hygiene!*](documentation/figures/datadump.png)
 
@@ -100,7 +102,7 @@ Now that we have an R object it is easier to take subsamples. We still aren't qu
 load(dir('2pipe',pattern='0015.+RData',full.names = T)) # the dir() function makes it easy to use regular expressions to find the file you're looking for
 tables() # note that our object is called dt for short
 ```
-Let's load just the speeches table and then take a random sample of 1,000 floor speeches. We can see that our table is pretty big (`r tables(silent=T)$NROW` rows and `r tables(silent=T)$MB` MB), so serving a smaller sample will be helpful for testing.
+Let's load just the speeches table and then take a random sample of 1,000 floor speeches. We can see that our table is pretty big 1,212,589 rows and 818 MB), so serving a smaller sample will be helpful for testing.
 
 When data are this large, some R conventions don't perform well, especially basic indexing and subsetting. That's where `data.table` is a big help. `data.table` basically makes good use of sorting to find things quickly.
 
@@ -115,7 +117,7 @@ tables() # now how big is it?
 
 ### ...as ."C"SV
 
-Great, now our sample is `r tables(silent=T)$NROW[2]` rows and `r tables(silent=T)$MB[2]` MB, which will be a lot easier to work with. Let's save it using the "|" delimiter that the ICPSR source used and the `.txt` extension; there are a lot of commas and quotes in our full text data so a `.csv` could cause problems anyway. Now any workflows based on the original source will also be able to read our subsample.
+Great, now our sample is 1,000 rows and 2 MB, which will be a lot easier to work with. Let's save it using the `|` delimiter that the ICPSR source used and the `.txt` extension; there are a lot of commas and quotes in our full text data so a `.csv` could cause problems anyway. Now any workflows based on the original source will also be able to read our subsample.
 
 ```{r save-tab-delim}
 rm(dt) # let's free up some memory by removing the big table from memory
@@ -129,12 +131,12 @@ rm(tdt)
 Now let's also subset our two sources of metadata.
 ```{r}
 load(dir('2pipe',pattern='20.+RData',full.names = T)) # Search for data set 20 from ICPSR and load it. This is information about the document, including speaker id.
-tables() # as expected it is as long as our speech table, though a lot smaller.
+#tables() # as expected it is as long as our speech table, though a lot smaller.
 setkey(dt,speechID)
 smdt<-dt[sdt$speechID]
-tables() #our small meta data table
+#tables() #our small meta data table
 load(dir('2pipe',pattern='19.+RData',full.names = T)) # Search for and load data set 19 from ICPSR. This is the much shorter speaker table. Note that each of these objects is called "dt" so they will write over each other. That's what we want since we don't need the long document description file any more.
-tables() # there are 3,819 different speakers listed here
+#tables() # there are 3,819 different speakers listed here
 setkey(dt,id) # why they changed the convention and called it "id" instead of "speakerID" we can only guess.
 ssdt<-dt[unique(smdt$speakerID)] # since speakers may have spoken multiple times, let's search for only unique speaker ids.
 rm(dt)
@@ -207,12 +209,21 @@ invisible(allsdt[,`:=`(	clust=factor(kmeans(allsdt[,list(kcd,kwd)],centers = 3)$
 qplot(x=cdiff,y=wdiff,data=allsdt,size=I(1),alpha=I(.75),color=clust)
 ```
 
-Yup it still looks pretty bad! There are a lot of points far away from zero, so clearly something is up with our ability to match metadata. Did we make an error, or was it in the original data? Thankfully the ICPSR database includes the original documents that were parse, and these are what the speech description file refers to. These files are saved in our `1source/original` folder. Let's view the last set of cases above that failed both of our tests.
+Yup it still looks pretty bad! There are a lot of points far away from zero, so clearly something is up with our ability to match metadata. Did we make an error, or was it in the original data? Thankfully the ICPSR database includes the original documents that were parsed, and these are what the speech description file refers to. These files are saved in our `1source/original` folder. Let's view the last set of cases above that failed both of our tests.
 
 ```{r inspect}
-
+for(i in 1:nrow(bb)) {
+	cat('\nSpeechID:',bb[i,speechID],'\n')
+	print(cbind(
+		dump=substr(bb$speech[i],0,100)
+		,orig=substr(paste(readLines(dir(pattern=bb$file[i],full.names = T,recursive = T))[bb[i,line_start:line_end]],collapse=' '),0,100)
+		))
+}
 ```
 
+These are clearly wrong; the last thing to do is manually inspect the original data and see if these SpeechID's point to incommensurable records. If they do, the source data are corrupted. If they don't, then we need to debug our importing code.
+
+Not the story we wanted to tell, but not an uncommon one either!
 
 #Sink
 
